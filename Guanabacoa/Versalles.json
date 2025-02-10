@@ -1,0 +1,220 @@
+{
+    "Name": "Cafe Versalles",
+    "Zone": "Guanabacoa",
+    "Location": "Marti",
+    "Place Type": "bar-restaurante",
+    "Food Type": "Criolla",
+    "Schedule": [
+        {"day": "monday", "open": "0900", "close": "2400"},
+        {"day": "tuesday", "open": "0900", "close": "2400"},
+        {"day": "wednesday", "open": "0900", "close": "2400"},
+        {"day": "thursday", "open": "0900", "close": "2400"},
+        {"day": "friday", "open": "0900", "close": "2400"},
+        {"day": "saturday", "open": "0900", "close": "2400"},
+        {"day": "sunday", "open": "0900", "close": "2400"}
+    ],
+    "Menu": [
+        {
+            "Category": "Entrants(tapas)",
+            "Products": [
+                {"Name": "ensalada fria de jamon", "Price": 500},
+                {"Name": "ensalada fria de atun", "Price": 700},
+                {"Name": "croquetas de la casa", "Price": 500},
+                {"Name": "eperlan de pescado", "Price": 1600},
+                {"Name": "fajitas de pollo empanado", "Price": 1500},
+                {"Name": "maripositas chinas", "Price": 700},
+                {"Name": "ceviche pescado", "Price": 1000},
+                {"Name": "cesta bananera", "Price": 850},
+                {"Name": "coctel de camaron", "Price": 1200}
+            ]
+        },
+        {
+            "Category": "Chef's Recommendation",
+            "Products": [null]
+        },
+        {
+            "Category": "Main courses",
+            "Products": [
+                {
+                    "Meat, Poultry and Game": [
+                        {"Name": "pollo grille", "Price": 1400},
+                        {"Name": "pollo cantones", "Price": 2200},
+                        {"Name": "gordon bleu", "Price": 2500},
+                        {"Name": "medio pollo al carbon con bbq", "Price": 2500},
+                        {"Name": "chuleta de cerdo al carbon con bbq 1 libra", "Price": 3600},
+                        {"Name": "solomillo de cerdo al carbon con bbq 1 libra", "Price": 3000},
+                        {"Name": "uruguayo de cerdo", "Price": 2500},
+                        {"Name": "masa de cerdo frita 300 gr", "Price": 2800},
+                        {"Name": "bistec de cerdo encebollado", "Price": 1600}
+                    ]
+                },
+                {
+                    "Fish and Seafood": [
+                        {"Name": "pescado versalles", "Price": 2800},
+                        {"Name": "canciller", "Price": 2800},
+                        {"Name": "montetoro", "Price": 2200},
+                        {"Name": "filete grille", "Price": 1600},
+                        {"Name": "camaron al gusto", "Price": 2500}
+                    ]
+                },
+                {
+                    "Tacos": [null]
+                }
+            ]
+        },
+        {
+            "Category": "For Your Diet",
+            "Products": [null]
+        },
+        {
+            "Category": "Pasta",
+            "Products": [
+                {"Name": "spaghettis", "Price": 800},
+                {"Name": "lazanna de jamon", "Price": 1200}
+            ]
+        },
+        {
+            "Category": "Pizzas",
+            "Products": [
+                {"Name": "pizza napoles", "Price": 900},
+                {"Name": "pizza queso gouda", "Price": 1260},
+                {"Name": "pizza jamon", "Price": 1150},
+                {"Name": "pizza chorizo", "Price": 1250},
+                {"Name": "pizza camarones", "Price": 1700},
+                {"Name": "pizza cebolla", "Price": 1150},
+                {"Name": "pizza aceituna", "Price": 1200},
+                {"Name": "pizza pinna", "Price": 1150},
+                {"Name": "pizza atun", "Price": 1250},
+                {"Name": "pizza lomo ahumado", "Price": 1250},
+                {"Name": "pizza beicon", "Price": 1300},
+                {"Name": "pizza pimiento", "Price": 1200}
+            ]
+        },
+        {
+            "Category": "Sandwich",
+            "Products": [null]
+        },
+        {
+            "Category": "Additions",
+            "Products": [null]
+        },
+        {
+            "Category": "Fittings(guarniciones)",
+            "Products": [null]
+        },
+        {
+            "Category": "Soups and Creams",
+            "Products": [null]
+        },
+        {
+            "Category": "Desserts",
+            "Products": [null]
+        },
+        {
+            "Category": "Coffees & Infusions",
+            "Products": [
+                {"Name": "cafe expreso", "Price": 100},
+                {"Name": "cafe bombon", "Price": 250},
+                {"Name": "cafe cortado", "Price": 200}
+            ]
+        },
+        {
+            "Category": "Alcoholic Beverages",
+            "Products": [
+                {"Name": "ron seleccion de maestros", "Price": 900},
+                {"Name": "ron annejo especial", "Price": 350},
+                {"Name": "ron santiago", "Price": 500},
+                {"Name": "ron cubay", "Price": 350},
+                {"Name": "ron 3 annos", "Price": 350},
+                {"Name": "ron reserva", "Price": 350},
+                {"Name": "ron 7 annos", "Price": 350},
+                {"Name": "tequila reposado", "Price": 600},
+                {"Name": "tequila olmega silver", "Price": 500},
+                {"Name": "whisky chivas regal", "Price": 1000},
+                {"Name": "whisky white label", "Price": 350},
+                {"Name": "whisky ballantines", "Price": 450},
+                {"Name": "whisky jack daniels", "Price": 450},
+                {"Name": "whisky jameson", "Price": 450},
+                {"Name": "vodka absolut", "Price": 500},
+                {"Name": "daiquiri", "Price": 500},
+                {"Name": "tinto verano", "Price": 500},
+                {"Name": "jack in black", "Price": 600},
+                {"Name": "bandera", "Price": 600},
+                {"Name": "margarita", "Price": 600},
+                {"Name": "margarita blue", "Price": 700},
+                {"Name": "daiquiri frutas", "Price": 600},
+                {"Name": "daiquiri rebelde", "Price": 500},
+                {"Name": "cubanito", "Price": 500},
+                {"Name": "bloody mary", "Price": 600},
+                {"Name": "limonada frappe", "Price": 250},
+                {"Name": "limonada clarete", "Price": 400},
+                {"Name": "sangria", "Price": 500},
+                {"Name": "pinna colada", "Price": 550},
+                {"Name": "limonada frescura", "Price": 350},
+                {"Name": "cubata", "Price": 700},
+                {"Name": "cuba libre", "Price": 500},
+                {"Name": "mojito", "Price": 500},
+                {"Name": "ron collins", "Price": 500},
+                {"Name": "caipirissima", "Price": 500},
+                {"Name": "caipiroska", "Price": 500},
+                {"Name": "caipiroska vip", "Price": 850},
+                {"Name": "vodka tonic", "Price": 850},
+                {"Name": "gin tonic", "Price": 700},
+                {"Name": "cerveza cristal", "Price": 350},
+                {"Name": "cerveza importada (heineken)", "Price": 400},
+                {"Name": "jarra de cerveza", "Price": 550},
+                {"Name": "tarro de cerveza", "Price": 2500},
+                {"Name": "cafe rocio de gallo", "Price": 250}
+            ]
+        },
+        {
+            "Category": "Non-Alcoholic Beverages",
+            "Products": [
+                {"Name": "agua natural", "Price": 200},
+                {"Name": "refresco importado", "Price": 250},
+                {"Name": "refresco nacional", "Price": 250},
+                {"Name": "malta", "Price": 320},
+                {"Name": "jugos naturales", "Price": 350}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": true,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": null,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": [null],
+    "Payment Options": {
+        "Online payments": true,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+        }
+    },
+    "Social Media": {
+        "Facebook": true,
+        "Instagram": true
+    }
+}

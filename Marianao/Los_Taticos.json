@@ -1,0 +1,149 @@
+{
+    "Name": "Los taticos",
+    "Zone": "Marianao",
+    "Location": "27 y 27A",
+    "Place Type": "Restaurante",
+    "Food Type": "Internacional",
+    "Schedule":[
+        {"day": "monday", "open": "0800", "close": "0000"},
+        {"day": "tuesday", "open": "0800", "close": "0000"},
+        {"day": "wednesday", "open": "0800", "close": "0000"},
+        {"day": "thursday", "open": "0800", "close": "0000"},
+        {"day": "friday", "open": "0800", "close": "0000"},
+        {"day": "saturday", "open": "0800", "close": "0000"},
+        {"day": "sunday", "open": "0800", "close": "0000"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"picadera tatico","Price": 2800},
+                {"Name":"entremes surtido","Price": 800},
+                {"Name":"tostones rellenos","Price": 800},
+                {"Name":"bolitas de queso","Price": 800},
+                {"Name":"bolitas de carne","Price": 800},
+                {"Name":"croquetas caseras","Price": 800}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"pollo al carbon","Price": 1200}
+                    ]
+                },
+                {
+                    "Fish and Seafood":[null]
+                },
+                {
+                    "Tacos":[
+                        {"Name":"taco de cerdo","Price": 650},
+                        {"Name":"taco de carne","Price": 800},
+                        {"Name":"taco de atun", "Price": 800}
+                    ]
+                }
+            ]
+        },
+        {
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta ",
+            "Products":[
+                {"Name":"lasagnna","Price": 1250}
+            ]
+        },
+        {
+            "Category":"Pizzas ",
+            "Products":[
+                {"Name":"pizza tatico","Price": 1200},
+                {"Name":"pizza mixta","Price": 680},
+                {"Name":"pizza hawaiana","Price": 680},
+                {"Name":"pizza jamon","Price": 680},
+                {"Name":"pizza de queso","Price": 680}
+            ]
+        },
+        {
+            "Category":"Sandwich",
+            "Products":[
+                {"Name":"sandwich tatico","Price": 650},
+                {"Name":"bocadito de atun","Price": 600},
+                {"Name":"pan con lechon","Price": 650},
+                {"Name":"pan con croqueta","Price": 240}
+            ]
+        },
+        {
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[null]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[null]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[null]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[null]
+        },
+        {
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[null]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "estatal",
+    "Phone": [null],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": true,
+            "USD": true
+        }
+    },
+    "Social Media":{
+        "Facebook": false,
+        "Instagram": false
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "Name": "Ranchon de 41",
+    "Zone": "Marianao",
+    "Location": "Avenida 41 y 84",
+    "Place Type": "Restaurante",
+    "Food Type": "Internacional",
+    "Schedule":[
+        {"day": "monday", "open": "2400", "close": "2400"},
+        {"day": "tuesday", "open": "2400", "close": "2400"},
+        {"day": "wednesday", "open": "2400", "close": "2400"},
+        {"day": "thursday", "open": "2400", "close": "2400"},
+        {"day": "friday", "open": "2400", "close": "2400"},
+        {"day": "saturday", "open": "2400", "close": "2400"},
+        {"day": "sunday", "open": "2400", "close": "2400"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"croquetas de la casa", "Price": 400},
+                {"Name":"coctel de camaron", "Price": 650},
+                {"Name":"picadera el toro bravo", "Price": 1700}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {"Name":"pollo chiflado", "Price": 1200},
+                {"Name":"fajitas de pollo", "Price": 750}
+            ]
+        },{
+            "Category":"Tacos",
+            "Products":[null]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta",
+            "Products":[
+                {"Name":"espaguetis", "Price": 700}
+            ]
+        },{
+            "Category":"Pizzas",
+            "Products":[
+                {"Name":"pizza de queso blanco", "Price": 400},
+                {"Name":"pizza de queso gouda", "Price": 680}
+            ]
+        },{
+            "Category":"Sandwich",
+            "Products":[null]
+        },{
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                {"Name":"queso", "Price": 200},
+                {"Name":"jamon", "Price": 150},
+                {"Name":"chorizo", "Price": 150},
+                {"Name":"cebolla", "Price": 150},
+                {"Name":"pinna", "Price": 150},
+                {"Name":"aceituna", "Price": 200},
+                {"Name":"queso gouda", "Price": 500},
+                {"Name":"atun", "Price": 300}
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"suero de helado", "Price": 400}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[null]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[null]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[null]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Estatal",
+    "Phone": [null],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": true,
+            "USD": true
+        }
+    },
+    "Social Media":{
+        "Facebook": false,
+        "Instagram": false
+    }
+}

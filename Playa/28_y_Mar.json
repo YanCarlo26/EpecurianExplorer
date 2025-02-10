@@ -1,0 +1,213 @@
+{
+    "Name": "28 y Mar",
+    "Zone": "Playa",
+    "Location": "23.12361712886297, -82.4271050650417",
+    "Place Type": "Restaurante",
+    "Food Type": "internacional, cubana",
+    "Schedule": [
+        {"day": "monday", "open": "08:30", "close": "24:00"},
+        {"day": "tuesday", "open": "08:30", "close": "24:00"},
+        {"day": "wednesday", "open": "08:30", "close": "24:00"},
+        {"day": "thursday", "open": "08:30", "close": "24:00"},
+        {"day": "friday", "open": "08:30", "close": "24:00"},
+        {"day": "saturday", "open": "08:30", "close": "24:00"},
+        {"day": "sunday", "open": "08:30", "close": "24:00"}
+    ],
+    "Menu": [
+            {
+                "Category": "Entrants(tapas)",
+                "Products": [
+                    {"Name": "tapas variadas", "Price": 1100},
+                    {"Name": "tapas de croquetas", "Price": 1250},
+                    {"Name": "tostones rellenos", "Price": 950},
+                    {"Name": "brusquetas", "Price": 950},
+                    {"Name": "bolitas de queso", "Price": 950},
+                    {"Name": "empanadas de queso azul", "Price": 1050},
+                    {"Name": "empanadas de bolonesa", "Price": 1050},
+                    {"Name": "fajitas de pollo", "Price": 1450}
+                ]
+            },
+            {
+                "Category": "Chef's Recommendation",
+                "Products": [null]
+            },
+            {
+                "Category": "Main courses",
+                "Products": [
+                    {
+                        "Meat, Poultry and Game": [
+                            {"Name": "pechuga de pollo", "Price": 3500},
+                            {"Name": "solomillo de res", "Price": 6500},
+                            {"Name": "solomillo de cerdo", "Price": 4500},
+                            {"Name": "pollo y cerdo", "Price": 4000},
+                            {"Name": "pollo y res", "Price": 5000},
+                            {"Name": "res y cerdo", "Price": 5500},
+                            {"Name": "trio de fantasia", "Price": 7250}
+                        ]
+                    },
+                    {
+                        "Fish and Seafood": [null]
+                    },
+                    {
+                        "Tacos": [null]
+                    }
+                ]
+            },
+            {
+                "Category": "For Your Diet",
+                "Products": [null]
+            },
+            {
+                "Category": "Pasta",
+                "Products": [
+                    {"Name": "spaghetti", "Price": 1150},
+                    {"Name": "lasagna de jamon", "Price": 1750},
+                    {"Name": "lasagna de bolonesa", "Price": 2150}
+                ]
+            },
+            {
+                "Category": "Pizzas",
+                "Products": [null]
+            },
+            {
+                "Category": "Sandwich",
+                "Products": [
+                    {"Name": "sandwich de pepito", "Price": 3150},
+                    {"Name": "sandwich de paquito", "Price": 2150},
+                    {"Name": "sandwich de elena ruz", "Price": 1850},
+                    {"Name": "sandwich de bocadito de atun", "Price": 1450},
+                    {"Name": "sandwich de pollo", "Price": 1650},
+                    {"Name": "sandwich de jamon serrano", "Price": 2150},
+                    {"Name": "sandwich de atun", "Price": 1750},
+                    {"Name": "sandwich de bolonesa", "Price": 2050},
+                    {"Name": "sandwich de jamon pierna barra y chorizo", "Price": 2050},
+                    {"Name": "sandwich vegetariano", "Price": 1350},
+                    {"Name": "sandwich de pollo y bacon", "Price": 2050},
+                    {"Name": "sandwich de jamon y queso", "Price": 1750}
+                ]
+            },
+            {
+                "Category": "Additions",
+                "Products": [
+                    {"Name": "jamon serrano", "Price": 850},
+                    {"Name": "jamon barra", "Price": 400},
+                    {"Name": "jamon pierna", "Price": 450},
+                    {"Name": "chorizo", "Price": 450},
+                    {"Name": "bacon", "Price": 450},
+                    {"Name": "salsa bolonesa", "Price": 550},
+                    {"Name": "pechuga de pollo", "Price": 650},
+                    {"Name": "atun", "Price": 450},
+                    {"Name": "champinon", "Price": 350},
+                    {"Name": "aceitunas", "Price": 350},
+                    {"Name": "vegetal de estacion", "Price": 350},
+                    {"Name": "vianda frita", "Price": 350},
+                    {"Name": "papas fritas", "Price": 550},
+                    {"Name": "pina glaseada", "Price": 350},
+                    {"Name": "queso gouda", "Price": 450},
+                    {"Name": "queso mozzarella", "Price": 450},
+                    {"Name": "queso parmesano", "Price": 550},
+                    {"Name": "queso azul", "Price": 550},
+                    {"Name": "nutella", "Price": 450}
+                ]
+            },
+            {
+                "Category": "Fittings(guarniciones)",
+                "Products": [null]
+            },
+            {
+                "Category": "Soups and Creams",
+                "Products": [
+                    {"Name": "crema aurora", "Price": 7500},
+                    {"Name": "crema de queso", "Price": 750},
+                    {"Name": "crema virginia", "Price": 750}
+                ]
+            },
+            {
+                "Category": "Desserts",
+                "Products": [null]
+            },
+            {
+                "Category": "Coffees & Infusions",
+                "Products": [
+                    {"Name": "cafe expresso", "Price": 350},
+                    {"Name": "cafe americano", "Price": 350},
+                    {"Name": "cafe nespresso", "Price": 700},
+                    {"Name": "cafe bombon", "Price": 550},
+                    {"Name": "cafe capuchino", "Price": 700},
+                    {"Name": "cafe capuchino nespresso", "Price": 950},
+                    {"Name": "cafe cortado", "Price": 400},
+                    {"Name": "cafe con leche", "Price": 600},
+                    {"Name": "cafe irlandes", "Price": 700},
+                    {"Name": "frapuccino", "Price": 750},
+                    {"Name": "chocolate a la espanola", "Price": 600},
+                    {"Name": "te caliente o frio", "Price": 350}
+                ]
+            },
+            {
+                "Category": "Alcoholic Beverages",
+                "Products": [
+                    {"Name": "cerveza", "Price": 650}
+                ]
+            },
+            {
+                "Category": "Non-Alcoholic Beverages",
+                "Products": [
+                    {"Name": "agua natural", "Price": 300},
+                    {"Name": "agua natural importada", "Price": 350},
+                    {"Name": "agua carbonatada", "Price": 300},
+                    {"Name": "agua carbonatada importada", "Price": 850},
+                    {"Name": "agua tonica MG", "Price": 600},
+                    {"Name": "agua tonica Schweppes", "Price": 900},
+                    {"Name": "refresco nacional", "Price": 350},
+                    {"Name": "refresco importado", "Price": 450},
+                    {"Name": "malta", "Price": 450},
+                    {"Name": "malteada", "Price": 650},
+                    {"Name": "red bull", "Price": 650},
+                    {"Name": "jugo de fruta natural", "Price": 350},
+                    {"Name": "jugo de caja importado", "Price": 300},
+                    {"Name": "kermato", "Price": 750},
+                    {"Name": "batido de fruta", "Price": 600},
+                    {"Name": "suero de helado", "Price": 850}
+                ]
+            }
+        ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": "alta",
+    "Place Options": {
+        "Accessible": true,
+        "Executive Lunch": true,
+        "Smoking Area": false,
+        "Bar": true,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": false,
+    "Phone": ["72125013"],
+    "Payment Options": {
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": true,
+            "USD": true
+        }
+    },
+    "Social Media": {
+        "Facebook": "28 y Mar Restaurante",
+        "Instagram": "@28_y_mar_restaurante"
+    }
+}

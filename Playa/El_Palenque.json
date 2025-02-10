@@ -1,0 +1,162 @@
+{
+    "Name": "El Palenque",
+    "Zone": "Playa",
+    "Location": "Calle 17 e/ 174 y 180 Reparto Siboney, Havana, Havana 11600 · 09 km",
+    "Place Type": "Restaurante",
+    "Food Type": "Internacional",
+    "Schedule":[
+        {"day": "monday", "open": "1100", "close": "2100"},
+        {"day": "tuesday", "open": "1100", "close": "2100"},
+        {"day": "wednesday", "open": "1100", "close": "2100"},
+        {"day": "thursday", "open": "1100", "close": "2100"},
+        {"day": "friday", "open": "1100", "close": "2100"},
+        {"day": "saturday", "open": "1100", "close": "2100"},
+        {"day": "sunday", "open": "1100", "close": "2100"}
+    ],
+    "Menu": [
+            {
+                "Category": "Entrants(tapas)",
+                "Products": [
+                    {"Name": "cesta de pan", "Price": 100},
+                    {"Name": "croquetas", "Price": 150},
+                    {"Name": "chicharrones", "Price": 400},
+                    {"Name": "entremes surtido", "Price": 100},
+                    {"Name": "entremes de jamon y chorizo", "Price": 150},
+                    {"Name": "variado de queso", "Price": 200}
+                ]
+            },
+            {
+                "Category": "Chef's Recommendation",
+                "Products": [null]
+            },
+            {
+                "Category": "Main courses",
+                "Products": [
+                    {
+                        " Meat, Poultry and Game ": [
+                            {"Name": "arroz con pollo", "Price": 250},
+                            {"Name": "pechuga con papas fritas", "Price": 700},
+                            {"Name": "fajitas de pollo salteadas", "Price": 400},
+                            {"Name": "picadillo de res", "Price": 350},
+                            {"Name": "bistec de res", "Price": 300},
+                            {"Name": "res de campesina", "Price": 400},
+                            {"Name": "masas de cerdo fritas", "Price": 1000},
+                            {"Name": "bistec de cerdo", "Price": 300},
+                            {"Name": "pollo asado 1kg", "Price": 630},
+                            {"Name": "cerdo asado 400gr", "Price": 800}
+                        ]
+                    },
+                    {
+                        "Fish and Seafood": [null]
+                    },
+                    {
+                        "Tacos": [null]
+                    }
+                ]
+            },
+            {
+                "Category": "For Your Diet",
+                "Products": [null]
+            },
+            {
+                "Category": "Pasta",
+                "Products": [
+                    {"Name": "pasta napolitana", "Price": 250},
+                    {"Name": "lasagna de carne", "Price": 200}
+                ]
+            },
+            {
+                "Category": "Pizzas",
+                "Products": [null]
+            },
+            {
+                "Category": "Sandwich",
+                "Products": [null]
+            },
+            {
+                "Category": "Additions",
+                "Products": [null]
+            },
+            {
+                "Category": "Fittings(guarniciones)",
+                "Products": [
+                    {"Name": "papas fritas", "Price": 215},
+                    {"Name": "ensalada de vegetales", "Price": 300}
+                ]
+            },
+            {
+                "Category": "Soups and Creams",
+                "Products": [null]
+            },
+            {
+                "Category": "Desserts",
+                "Products": [
+                    {"Name": "mermelada con queso", "Price": 60},
+                    {"Name": "arroz con leche", "Price": 60},
+                    {"Name": "dulce de frutabomba", "Price": 120}
+                ]
+            },
+            {
+                "Category": "Coffees & Infusions",
+                "Products": [
+                    {"Name": "cafe palenque", "Price": null},
+                    {"Name": "cortadito", "Price": 60},
+                    {"Name": "café con leche", "Price": 80},
+                    {"Name": "te", "Price": 30}
+                ]
+            },
+            {
+                "Category": "Alcoholic Beverages",
+                "Products": [
+                    {"Name": "cerveza", "Price": 120},
+                    {"Name": "licores nacionales", "Price": 20},
+                    {"Name": "ron havana club reserva", "Price": 40},
+                    {"Name": "tequila blanco", "Price": 150}
+                ]
+            },
+            {
+                "Category": "Non-Alcoholic Beverages",
+                "Products": [
+                    {"Name": "jugos naturales", "Price": 100}
+                ]
+            }
+        ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": true,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": true,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": ["72038222"],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+        "CUP": true,
+        "EUR": false,
+        "USD": false
+    }} , 
+    "Social Media":{
+        "Facebook": "Restaurante El Palenque",
+        "Instagram": false
+    }
+}

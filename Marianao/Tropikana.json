@@ -1,0 +1,161 @@
+{
+    "Name": "Tropikana",
+    "Zone": "Marianao",
+    "Location": "Avenida 41, calle 72",
+    "Place Type": "Restaurante",
+    "Food Type": "Internacional",
+    "Schedule":[
+        {"day": "monday", "open": "1100", "close": "2200"},
+        {"day": "tuesday", "open": "1100", "close": "2200"},
+        {"day": "wednesday", "open": "1100", "close": "2200"},
+        {"day": "thursday", "open": "1100", "close": "2200"},
+        {"day": "friday", "open": "1100", "close": "2200"},
+        {"day": "saturday", "open": "1100", "close": "2200"},
+        {"day": "sunday", "open": "1100", "close": "2200"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"tostones","Price": 350},
+                {"Name":"tostones rellenos","Price": 450},
+                {"Name":"eperlan","Price": 500},
+                {"Name":"croquetas","Price": 500},
+                {"Name":"picadera de la casa","Price": 100}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"bistec de cerdo","Price": 1300},
+                        {"Name":"bistec de cerdo a la milanesa","Price": 1800},
+                        {"Name":"bistec de pollo","Price": 1000},
+                        {"Name":"pollo frito","Price": 1000},
+                        {"Name":"pollo a la milanesa","Price": 1500},
+                        {"Name":"ropa vieja","Price": 1550}
+                    ]
+                },
+                {
+                    "Fish and Seafood":[
+                        {"Name":"canciller","Price": 2500},
+                        {"Name":"pescado entero","Price": 2000},
+                        {"Name":"rueda de atun","Price": 1700},
+                        {"Name":"camarones","Price": 1700},
+                        {"Name":"filete de pescado","Price": 1500}
+                    ]
+                },
+                {
+                    "Tacos":[null]
+                }
+            ]
+        },
+        {
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta ",
+            "Products":[
+                {"Name":"espaguettis a la carbonara","Price": 750},
+                {"Name":"espaguettis queso gouda","Price": 650}
+            ]
+        },
+        {
+            "Category":"Pizzas ",
+            "Products":[
+                {"Name":"pizza de queso gouda","Price": 750},
+                {"Name":"pizza hawaiana","Price": 800},
+                {"Name":"pizza tropicana","Price": 950}
+            ]
+        },
+        {
+            "Category":"Sandwich",
+            "Products":[
+                {"Name":"pan con jamon y queso","Price": 280}
+            ]
+        },
+        {
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                {"Name":"arroz frito","Price": 700}
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[
+                {"Name":"crema de queso","Price": 450},
+                {"Name":"crema aurora","Price": 450},
+                {"Name":"crema de jamon","Price": 450},
+                {"Name":"consome","Price": 450}
+            ]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"helado gusto 1l","Price": 1000}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[null]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[null]
+        },
+        {
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[null]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Estatal",
+    "Phone": [null],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+        }
+    },
+    "Social Media":{
+        "Facebook": false,
+        "Instagram":false
+    }
+}
+

@@ -1,0 +1,146 @@
+{
+    "Name": "El Faro",
+    "Zone": "Guanabacoa",
+    "Location": "Maximo Gomez",
+    "Place Type": "Bar-Restaurante",
+    "Food Type": "Criolla, Pizzas",
+    "Schedule":[
+        {"day": "monday", "open": "0900", "close": "2300"},
+        {"day": "tuesday", "open": "0900", "close": "2300"},
+        {"day": "wednesday", "open": "0900", "close": "2300"},
+        {"day": "thursday", "open": "0900", "close": "2300"},
+        {"day": "friday", "open": "0900", "close": "2300"},
+        {"day": "saturday", "open": "0900", "close": "2300"},
+        {"day": "sunday", "open": "0900", "close": "2300"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"enchilado de cangrejo","Price": 750},
+                {"Name":"croqueta de la casa","Price": 180},
+                {"Name":"ensalada fria de jamon","Price": 700},
+                {"Name":"ensalada fria de atun","Price": 1200},
+                {"Name":"picadera tropical","Price": 850},
+                {"Name":"plato a lo cubano","Price": 800}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"costillas de cerdo","Price": 1200},
+                        {"Name":"pollo grille","Price": 950}
+                    ]
+                },
+                {
+                    "Fish and Seafood":[
+                        {"Name":"ruedas de pescado grille","Price": 1400}
+                    ]
+                },
+                {
+                    "Tacos":[null]
+                }
+            ]
+        },
+        {
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta ",
+            "Products":[
+                {"Name":"spaghetti napolitano","Price": 750},
+                {"Name":"spaghetti de jamon","Price": 850}
+            ]
+        },
+        {
+            "Category":"Pizzas ",
+            "Products":[
+                {"Name":"pizza el faro","Price": 900},
+                {"Name":"pizza combinada","Price": 900},
+                {"Name":"pizza hawaiana","Price": 900},
+                {"Name":"pizza de cebolla","Price": 900},
+                {"Name":"pizza de pimiento","Price": 900},
+                {"Name":"pizza gustazo (doble queso)","Price": 900},
+                {"Name":"pizza jamon","Price": 900}
+            ]
+        },
+        {
+            "Category":"Sandwich",
+            "Products":[null]
+        },
+        {
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[null]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[null]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[null]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[null]
+        },
+        {
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[null]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": [""],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+        }
+    },
+    "Social Media":{
+        "Facebook": false,
+        "Instagram": false
+    }
+}

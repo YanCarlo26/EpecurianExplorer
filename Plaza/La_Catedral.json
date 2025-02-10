@@ -1,0 +1,186 @@
+{
+    "Name": "La Catedral",
+    "Zone": "Plaza de la Revolución",
+    "Location": "Calle 8 e/ Calzada 5ta, Vedado. Plaza de la Revolución, La Habana 10400 Cuba",
+    "Place Type": "Restaurant-Bar",
+    "Food Type": "Internacional",
+    "Schedule":[
+        {"day": "monday", "open": "0800", "close": "2300"},
+        {"day": "tuesday", "open": "0800", "close": "2300"},
+        {"day": "wednesday", "open": "0800", "close": "2300"},
+        {"day": "thursday", "open": "0800", "close": "2300"},
+        {"day": "friday", "open": "0800", "close": "2300"},
+        {"day": "saturday", "open": "0800", "close": "2300"},
+        {"day": "sunday", "open": "0800", "close": "2300"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"bombones de queso y pescado","Price": 499},
+                {"Name":"mariquitas de yuca","Price": 350},
+                {"Name":"brusquetas","Price": 350},
+                {"Name":"garbanzos fritos","Price": 700},
+                {"Name":"entremeses surtido","Price": 799},
+                {"Name":"picadera obispo","Price": 1350},
+                {"Name":"fuente de eperlan","Price": 1400},
+                {"Name":"tabla de embutidos","Price": 1500},
+                {"Name":"tacos de cerdo y pollo","Price": 1500},
+                {"Name":"fajitas de pollo frito","Price": 1500},
+                {"Name":"tabla de jamón serrano, chorizo y queso","Price": 1900}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"lasaña de res","Price": 1600},
+                        {"Name":"ropa vieja","Price": 1800},
+                        {"Name":"bistec de cerdo al mojo criollo","Price": 1500},
+                        {"Name":"fajita de cerdo al grill","Price": 1500},
+                        {"Name":"lonjas de pierna ahumado salsa agridulce","Price": 1700},
+                        {"Name":"lonjas de pierna ahumado con queso y piña","Price": 1800},
+                        {"Name":"milanesa de cerdo con espaguettis","Price": 1500},
+                        {"Name":"pollo deshuesado a la plancha","Price": 1400},
+                        {"Name":"fajitas de pollo salteadas","Price": 1400},
+                        {"Name":"milanesa de pollo con espaguettis","Price": 1400},
+                        {"Name":"arroz con pollo a la chorrera","Price": 1500}
+                    ]
+                },
+                {
+                    "Fish and Seafood":[
+                        {"Name":"filete de pescado maitre de hotel", "Price": 1700},
+                        {"Name":"filete de pescado frito", "Price": 1800}
+                    ]
+                },
+                {
+                    "Tacos":[
+                        null
+                    ]
+                }
+            ]
+        },
+        {
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta ",
+            "Products":[
+                {"Name":"lasaña de res","Price": 1600},
+                {"Name":"arroz frito","Price": 1500},
+                {"Name":"arroz frito especial con camarones","Price": 1700}
+            ]
+        },
+        {
+            "Category":"Pizzas ",
+            "Products":[null]
+        },
+        {
+            "Category":"Sandwich",
+            "Products":[null]
+        },
+        {
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[null]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[null]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[null]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"cristal (barril) 500ml","Price": 350},
+                {"Name":"cristal (botella)","Price": 350},
+                {"Name":"bucanero (barril) 500ml","Price": 350},
+                {"Name":"bucanero (botella)","Price": 350},
+                {"Name":"cubetazo 4+1","Price": 1500},
+                {"Name":"michelada clásica","Price": 425},
+                {"Name":"michelada al mojito","Price": 425},
+                {"Name":"michelada vampira","Price": 425},
+                {"Name":"michelada salsanera","Price": 425},
+                {"Name":"mojito","Price": 340},
+                {"Name":"daiquirí","Price": 340},
+                {"Name":"daiquirí de fresas","Price": 499},
+                {"Name":"cubalibre","Price": 340},
+                {"Name":"cubanito","Price": 399},
+                {"Name":"blody mary","Price": 499},
+                {"Name":"sangria","Price": 499},
+                {"Name":"screw driver","Price": 599},
+                {"Name":"caipiriña","Price": 599},
+                {"Name":"piña colada","Price": 599},
+                {"Name":"martini","Price": 599},
+                {"Name":"old fashioned","Price": 599},
+                {"Name":"whiskey sour","Price": 599},
+                {"Name":"manhatan","Price": 599},
+                {"Name":"negroni","Price": 599}
+            ]
+        },
+        {
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"refrescos","Price": 199},
+                {"Name":"limonada de fresas","Price": 250},
+                {"Name":"jugos de frutas","Price": 199},
+                {"Name":"agua natural","Price": 199},
+                {"Name":"malta perla negra","Price": 350}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": true,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": true,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": false,
+    "Phone": ["078300793"],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": true,
+        "Cash":{
+        "CUP": true,
+        "EUR": false,
+        "USD": false
+    }} , 
+    "Social Media":{
+        "Facebook": "https://www.facebook.com/mirestaurantencuba",
+        "Instagram":"https://www.instagram.com/lacatedralcuba"
+    }
+}

@@ -1,0 +1,204 @@
+{
+    "Name": "El Gabán",
+    "Zone": "Playa",
+    "Location": "https://www.google.com/maps?q=23.11556412986255,-82.43678182320103",
+    "Place Type": "Bar - Restaurante",
+    "Food Type": "Internacional",
+    "Schedule":[
+        {"day": "monday", "open": "1200", "close": "0030"},
+        {"day": "tuesday", "open": "1200", "close": "0030"},
+        {"day": "wednesday", "open": "1200", "close": "0030"},
+        {"day": "thursday", "open": "1200", "close": "0030"},
+        {"day": "friday", "open": "1200", "close": "0030"},
+        {"day": "saturday", "open": "1200", "close": "0030"},
+        {"day": "sunday", "open": "1200", "close": "0030"}
+    ],
+    "Menu": [
+            {
+                "Category": "Entrants(tapas)",
+                "Products": [
+                    
+                    {"Name": "croquetones a la amatriciana", "Price": 3000},
+                    {"Name": "croquetones de iberico", "Price": 3600},
+                    {"Name": "tartar de res con maracuya", "Price": 4500},
+                    {"Name": "tabla mixta", "Price": 5400},
+                    {"Name": "carpaccio de res", "Price": 6000},
+                    {"Name": "tartar de langosta", "Price": 6000}
+                ]
+            },
+            {
+                "Category": "Chef's Recommendation",
+                "Products": [null]
+            },
+            {
+                "Category": "Main courses",
+                "Products": [
+                    {
+                        " Meat, Poultry and Game ": [
+                            {"Name": "mignon", "Price": 8400},
+                            {"Name": "ribeye", "Price": 8400}
+                        ]
+                    },
+                    {
+                        "Fish and Seafood": [
+                            {"Name": "pesca blanca", "Price": 7500},
+                            {"Name": "pesca azul", "Price": 7500}
+                        ]
+                    },
+                    {
+                        "Tacos": [null]
+                    }
+                ]
+            },
+            {
+                "Category": "For Your Diet",
+                "Products": [null]
+            },
+            {
+                "Category": "Pasta",
+                "Products": [
+                    {"Name": "ñoquis", "Price": 3600},
+                    {"Name": "raviolis mariscos", "Price": 4500},
+                    {"Name": "risotto rosa", "Price": 5400},
+                    {"Name": "risotto al coco", "Price": 6000}
+                ]
+            },
+            {
+                "Category": "Pizzas",
+                "Products": [
+                    {"Name": "pizza new york", "Price": 6000},
+                    {"Name": "pizza de bolonia", "Price": 5400}
+                ]
+            },
+            {
+                "Category": "Sandwich",
+                "Products": [null]
+            },
+            {
+                "Category": "Additions",
+                "Products": [null]
+            },
+            {
+                "Category": "Fittings(guarniciones)",
+                "Products": [
+                    {"Name": "pure de malanga", "Price": 1800},
+                    {"Name": "papas al horno", "Price": 1800},
+                    {"Name": "vegetales salteados", "Price": 1800},
+                    {"Name": "arroz pilaf", "Price": 2400}
+                ]
+            },
+            {
+                "Category": "Soups and Creams",
+                "Products": [{"Name": "crema de vegetales", "Price": 2400}]
+            },
+            {
+                "Category": "Desserts",
+                "Products": [
+                    {"Name": "brownie blanco", "Price": 1800},
+                    {"Name": "paulova", "Price": 1800},
+                    {"Name": "arroz con leche", "Price": 1800},
+                    {"Name": "postre con helado", "Price": 1800}
+                ]
+            },
+            {
+                "Category": "Coffees & Infusions",
+                "Products": [
+                    {"Name": "cafe", "Price": 800},
+                    {"Name": "frapuccino", "Price": 1500},
+                    {"Name": "carajillo", "Price": 1500},
+                    {"Name": "te", "Price": 800},
+                    {"Name": "infusiones", "Price": 800}
+                ]
+            },
+            {
+                "Category": "Alcoholic Beverages",
+                "Products": [
+                    {"Name": "cerveza de botella", "Price": 1600},
+                    {"Name": "copa de vino (espumoso, tinto o blanco)", "Price": 1800},
+                    {"Name": "grinch", "Price": 1600},
+                    {"Name": "mohana", "Price": 1600},
+                    {"Name": "mojito de frutas", "Price": 1600},
+                    {"Name": "piña colada", "Price": 1600},
+                    {"Name": "rossini", "Price": 2500},
+                    {"Name": "negroni chocolate", "Price": 2500},
+                    {"Name": "bellini", "Price": 2500},
+                    {"Name": "garibaldi", "Price": 2500},
+                    {"Name": "mi to", "Price": 2500},
+                    {"Name": "negroni g", "Price": 2500},
+                    {"Name": "aperol spritz", "Price": 2500},
+                    {"Name": "spritz", "Price": 2500},
+                    {"Name": "campari spritz", "Price": 2500},
+                    {"Name": "daiquiri", "Price": 2000},
+                    {"Name": "canchanchara", "Price": 2000},
+                    {"Name": "mojito", "Price": 2000},
+                    {"Name": "cubanito", "Price": 2000},
+                    {"Name": "caipirisima", "Price": 2000},
+                    {"Name": "margarita", "Price": 2500},
+                    {"Name": "sangria", "Price": 2500},
+                    {"Name": "caipiroska", "Price": 2500},
+                    {"Name": "moscow mule", "Price": 2500},
+                    {"Name": "fernet con cola", "Price": 2500},
+                    {"Name": "vodka tonic", "Price": 2500},
+                    {"Name": "caipirinha", "Price": 2500},
+                    {"Name": "bloody mary", "Price": 2500},
+                    {"Name": "amaretto sour", "Price": 2500},
+                    {"Name": "old fashioned", "Price": 2500},
+                    {"Name": "new york whisky sour", "Price": 2500},
+                    {"Name": "expresso martini", "Price": 1500}
+                ]
+            },
+            {
+                "Category": "Non-Alcoholic Beverages",
+                "Products": [
+                    {"Name": "agua tonica", "Price": 1500},
+                    {"Name": "agua san pellegrino", "Price": 1600},
+                    {"Name": "agua natural", "Price": 1600},
+                    {"Name": "agua panna", "Price": 1600},
+                    {"Name": "agua con gas", "Price": 1600},
+                    {"Name": "refresco", "Price": 1000},
+                    {"Name": "malta", "Price": 1000},
+                    {"Name": "energizante", "Price": 1500},
+                    {"Name": "kermato", "Price": 1600},
+                    {"Name": "limonada frappe/natural", "Price": 1600}
+                ]
+            }
+        ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": "Media",
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": false,
+    "Phone": ["393926720865"],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+        "CUP": true,
+        "EUR": false,
+        "USD": false
+    }} , 
+    "Social Media":{
+        "Facebook": "El Gabán la 14 restaurante",
+        "Instagram": "@elgaban_oficial"
+    }
+}

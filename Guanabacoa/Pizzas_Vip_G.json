@@ -1,0 +1,180 @@
+{
+    "Name": "Pizzas Vip",
+    "Zone": "Guanabacoa",
+    "Location": "Guanabacoa",
+    "Place Type": "Restaurante",
+    "Food Type": "Pizzas, Pastas",
+    "Schedule":[
+        {"day": "monday", "open": "1000", "close": "2200"},
+        {"day": "tuesday", "open": "1000", "close": "2200"},
+        {"day": "wednesday", "open": "1000", "close": "2200"},
+        {"day": "thursday", "open": "1000", "close": "2200"},
+        {"day": "friday", "open": "1000", "close": "2200"},
+        {"day": "saturday", "open": "1000", "close": "2200"},
+        {"day": "sunday", "open": "1000", "close": "2200"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"croquetas de la casa","Price": 400},
+                {"Name":"fritura de malanga","Price": 300},
+                {"Name":"bolita de queso","Price": 650},
+                {"Name":"fajita de pechuga","Price": 1100},
+                {"Name":"ensalada fria","Price": 370},
+                {"Name":"papa frita","Price": 580},
+                {"Name":"fajita de cerdo","Price": 1200}
+                
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [null]
+                },
+                {
+                    "Fish and Seafood":[null]
+                },
+                {
+                    "Tacos":[
+                        {"Name":"tacos de jamon","Price": 1030},
+                        {"Name":"tacos de res","Price": 1350},
+                        {"Name":"tacos de cangrejo","Price": 1380}
+                    ]
+                }
+            ]
+        },
+        {
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta ",
+            "Products":[
+                {"Name":"spaghettis napolitano","Price": 720},
+                {"Name":"spaghettis bolonnesa","Price": 1350},
+                {"Name":"spaghettis carbonara","Price": 1350},
+                {"Name":"spaghettis alfredo","Price": 1150},
+                {"Name":"spaghettis de atun","Price": 1270},
+                {"Name":"spaghettis pollo","Price": 1120},
+                {"Name":"spaghettis de camarones","Price": 1400},
+                {"Name":"spaghettis chorizo","Price": 1150},
+                {"Name":"spaghettis negro di mare","Price": 1500}
+            ]
+        },
+        {
+            "Category":"Pizzas ",
+            "Products":[
+                {"Name":"pizza de queso","Price": 800},
+                {"Name":"pizza de cebolla","Price": 1000},
+                {"Name":"pizza de pimiento","Price": 1000},
+                {"Name":"pizza de jamon","Price": 1100},
+                {"Name":"pizza de chorizo","Price": 1050},
+                {"Name":"pizza hawaiana","Price": 1260},
+                {"Name":"pizza de bacon","Price": 1240},
+                {"Name":"pizza doble queso","Price": 1250},
+                {"Name":"pizza de camaron","Price": 1700},
+                {"Name":"pizza de res","Price": 1300},
+                {"Name":"pizza de atun con cebolla","Price": 1450},
+                {"Name":"pizza de jamon serrano","Price": 1570},
+                {"Name":"pizza de aceituna","Price": 1200}
+            ]
+        },
+        {
+            "Category":"Sandwich",
+            "Products":[null]
+        },
+        {
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[null]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[
+                {"Name":"crema de queso","Price": 500},
+                {"Name":"crema virginia","Price": 550},
+                {"Name":"crema aurora","Price": 520},
+                {"Name":"crema mixta","Price": 600}
+            ]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[null]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[null]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"henike","Price": 360},
+                {"Name":"cerveza importada","Price": 250},
+                {"Name":"cerveza de lata cristal","Price": 300},
+                {"Name":"cerveza de botella","Price": 300}
+            ]
+        },
+        {
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"pomitos de agua","Price": 150},
+                {"Name":"refresco de pomito","Price": 180},
+                {"Name":"refresco de lata","Price": 220},
+                {"Name":"malta","Price": 300},
+                {"Name":"jugos de lata","Price": 280},
+                {"Name":"jugos de cajita","Price": 180},
+                {"Name":"tigon","Price": 300},
+                {"Name":"refresco importado","Price": 280},
+                {"Name":"malta importada","Price": 270}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "private",
+    "Phone": [""],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+        }
+    },
+    "Social Media":{
+        "Facebook": false,
+        "Instagram": false
+    }
+}

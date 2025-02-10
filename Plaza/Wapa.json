@@ -1,0 +1,195 @@
+{
+    "Name": "Wapa",
+    "Zone": "Plaza de la Revolución",
+    "Location": "Calle 4 entre 15 y 17, Vedado, Plaza, La Habana, Cuba",
+    "Place Type": "Restaurante",
+    "Food Type": "Internacional",
+    "Schedule":[
+        {"day": "monday", "open": "1130", "close": "2300"},
+        {"day": "tuesday", "open": "0900", "close": "2300"},
+        {"day": "wednesday", "open": "0900", "close": "2300"},
+        {"day": "thursday", "open": "0900", "close": "2300"},
+        {"day": "friday", "open": "0900", "close": "2300"},
+        {"day": "saturday", "open": "0900", "close": "2300"},
+        {"day": "sunday", "open": "0900", "close": "2300"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"croquetas de la abuela","Price": 700},
+                {"Name":"croquetas de jamón serrano","Price": 1000},
+                {"Name":"bolitas de queso","Price": 1000},
+                {"Name":"fritura de malanga","Price": 500},
+                {"Name":"brusquetas","Price": 900},
+                {"Name":"tartaleta de jamón y queso","Price": 900},
+                {"Name":"tartaleta de pollo","Price": 1350},
+                {"Name":"tartaleta de atún","Price": 1100}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        null
+                    ]
+                },
+                {
+                    "Fish and Seafood":[
+                        {"Name":"ceviche de pescado", "Price": 2000},
+                        {"Name":"ceviche mixto tropical", "Price": 2600},
+                        {"Name":"ceviche de camarón", "Price": 2900},
+                        {"Name":"cóctel de camarón", "Price": 2000},
+                        {"Name":"daditos de pescado", "Price": 2100}
+                    ]
+                },
+                {
+                    "Tacos":[
+                        null
+                    ]
+                }
+            ]
+        },
+        {
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta ",
+            "Products":[
+                {"Name":"lasaña","Price": 1300},
+                {"Name":"canelón de jamón","Price": 1200},
+                {"Name":"canelón boloñesa","Price": 1750}
+            ]
+        },
+        {
+            "Category":"Pizzas ",
+            "Products":[
+                {"Name":"pizza","Price": 1200}
+            ]
+        },
+        {
+            "Category":"Sandwich",
+            "Products":[null]
+        },
+        {
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[false]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[
+                {"Name":"crema de queso","Price": 600}
+            ]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"wapetón","Price": 2000},
+                {"Name":"wapetón dinamita","Price": 2000},
+                {"Name":"wapetón volcán","Price": 2000},
+                {"Name":"wapito","Price": 1200},
+                {"Name":"batidos de frutas naturales","Price": 700},
+                {"Name":"batidos de helados","Price": 1200},
+                {"Name":"copa de helado","Price": 1000},
+                {"Name":"tartaleta","Price": 1000},
+                {"Name":"bola de helado","Price": 300}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+                {"Name":"expresso","Price": 220},
+                {"Name":"americano","Price": 360},
+                {"Name":"cortadito","Price": 250},
+                {"Name":"cappuccino","Price": 550},
+                {"Name":"cappuccino wapa","Price": 600},
+                {"Name":"bombon","Price": 600},
+                {"Name":"mocaccino","Price": 550},
+                {"Name":"frappuccino","Price": 950},
+                {"Name":"Q locura","Price": 850},
+                {"Name":"café con leche","Price": 550},
+                {"Name":"chocolate caliente","Price": 350},
+                {"Name":"té","Price": 100}
+            ]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"cerveza importada","Price": 450},
+                {"Name":"cerveza nacional","Price": 550},
+                {"Name":"michelada","Price": 600},
+                {"Name":"sangria","Price": 1000},
+                {"Name":"copa de vino","Price": 800},
+                {"Name":"cuba libre","Price": 800},
+                {"Name":"cubata","Price": 850},
+                {"Name":"mojito","Price": 800},
+                {"Name":"caipiriña","Price": 500},
+                {"Name":"caipiroska","Price": 500},
+                {"Name":"caipirisima","Price": 550},
+                {"Name":"ron collins","Price": 850},
+                {"Name":"piña colada","Price": 850},
+                {"Name":"barbie","Price": 700},
+                {"Name":"canchánchara","Price": 550},
+                {"Name":"daiquirí","Price": 650}
+            ]
+        },
+        {
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"agua natural","Price": 300},
+                {"Name":"refresco importado","Price": 400},
+                {"Name":"malta","Price": 500},
+                {"Name":"malteada","Price": 800}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": true,
+        "Breakfast": true,
+        "Home Delivery": true,
+        "Reserved Space": true,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": ["+5378314553"],
+    "Payment Options":{
+        "Online payments": true,
+        "Credit Card": false,
+        "Gift Card": false,
+        "Cash":{
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+    }} , 
+    "Social Media":{
+        "Facebook": "https://www.facebook.com/Wapa537/?locale=es_LA",
+        "Instagram": "https://www.instagram.com/wapa537/?hl=es"
+    }
+}

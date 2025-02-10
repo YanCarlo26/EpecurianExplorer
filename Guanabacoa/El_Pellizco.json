@@ -1,0 +1,154 @@
+{
+    "Name": "El Pellizco",
+    "Zone": "Guanabacoa",
+    "Location": "Guaanabacoa",
+    "Place Type": "Restaurante",
+    "Food Type": "Criolla",
+    "Schedule":[
+        {"day": "monday", "open": "1100", "close": "2400"},
+        {"day": "tuesday", "open": "1100", "close": "2400"},
+        {"day": "wednesday", "open": "1100", "close": "2400"},
+        {"day": "thursday", "open": "1100", "close": "2400"},
+        {"day": "friday", "open": "1100", "close": "2400"},
+        {"day": "saturday", "open": "1100", "close": "2400"},
+        {"day": "sunday", "open": "1100", "close": "2400"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"caldoza de la casa","Price": 250},
+                {"Name":"platano maduro frito","Price": 80}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"bistec de higado","Price": 400},
+                        {"Name":"higado a la italiana","Price": 450},
+                        {"Name":"bistec de cerdo","Price": 600},
+                        {"Name":"masa de cerdo","Price": 650},
+                        {"Name":"chuleta de cerdo","Price": 650},
+                        {"Name":"lomo ahumado","Price": 650},
+                        {"Name":"lonjas de cerdo asada","Price": 600},
+                        {"Name":"pollo asado","Price": 450},
+                        {"Name":"costilla asada","Price": 650},
+                        {"Name":"ropa vieja de cerdo","Price": 650},
+                        {"Name":"fricase de costilla","Price": 650}
+                    ]
+                },
+                {
+                    "Fish and Seafood":[null]
+                },
+                {
+                    "Tacos":[null]
+                }
+            ]
+        },
+        {
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta ",
+            "Products":[null]
+        },
+        {
+            "Category":"Pizzas ",
+            "Products":[
+                {"Name":"pizza napolitana","Price": 200}
+            ]
+        },
+        {
+            "Category":"Sandwich",
+            "Products":[null]
+        },
+        {
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                {"Name":"racion de chicharron","Price": 150},
+                {"Name":"racion de empella","Price": 100},
+                {"Name":"racion de tostones","Price": 80},
+                {"Name":"racion de mariquitas","Price": 80}
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[null]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[null]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"cerveza nacional","Price": 220},
+                {"Name":"cerveza importada","Price": 220}
+            ]
+        },
+        {
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"jugo de caja","Price": 150},
+                {"Name":"jugo de botella","Price": 120},
+                {"Name":"malta","Price": 150},
+                {"Name":"agua natural","Price": 100},
+                {"Name":"energizante","Price": 220}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible":true,
+        "Executive Lunch": false,
+        "Smoking Area": true,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music":true,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": [""],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+        }
+    },
+    "Social Media":{
+        "Facebook": false,
+        "Instagram": "Instagram"
+    }
+}

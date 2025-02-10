@@ -1,0 +1,181 @@
+{
+    "Name": "Spot Bar",
+    "Zone": "Plaza de la Revolución",
+    "Location": "23 y 12, Vedado, Plaza, La Habana, Cuba",
+    "Place Type": "Bar",
+    "Food Type": "Internacional",
+    "Schedule":[
+        {"day": "monday", "open": "2400", "close": false},
+        {"day": "tuesday", "open": "2400", "close": false},
+        {"day": "wednesday", "open": "2400", "close": false},
+        {"day": "thursday", "open": "2400", "close": false},
+        {"day": "friday", "open": "2400", "close": false},
+        {"day": "saturday", "open": "2400", "close": false},
+        {"day": "sunday", "open": "2400", "close": false}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"brusquetas","Price": 500},
+                {"Name":"croquetas del día","Price": 550},
+                {"Name":"fritura de malanga","Price": 450},
+                {"Name":"papas fritas","Price": 550},
+                {"Name":"picadera 23 y 12","Price": 2500}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"emparedado de atún","Price": 1400},
+                        {"Name":"emparedado de pollo","Price": 1400},
+                        {"Name":"emparedado de lechón","Price": 1600},
+                        {"Name":"emparedado de jamón y queso","Price": 1000},
+                        {"Name":"emparedado de 23 y 12","Price": 2000},
+                        {"Name":"hamburguesa clásica de cerdo","Price": 1450}
+                    ]
+                },{
+                    "Fish and Seafood":[
+                        null
+                    ]
+                },{
+                    "Tacos":[
+                        {"Name":"tacos de pollo, 3 unidades","Price": 2000},
+                        {"Name":"tacos de pollo, 8 unidades","Price": 3000},
+                        {"Name":"tacos de camarón, 3 unidades","Price": 2500},
+                        {"Name":"tacos de cerdo, 3 unidades","Price": 2500}
+                    ]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta ",
+            "Products":[
+                {"Name":"pasta boloñesa","Price": 1800},
+                {"Name":"pasta pesto","Price": 950},
+                {"Name":"pasta napoles","Price": 1200},
+                {"Name":"pasta aljillo","Price": 1000}
+            ]
+        },{
+            "Category":"Pizzas ",
+            "Products":[
+                {"Name":"pizza napoles","Price": 1250}
+            ]
+        },{
+            "Category":"Sandwich",
+            "Products":[null]
+        },{
+            "Category":"Additions",
+            "Products":[]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[null]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"batido de frutas","Price": 500},
+                {"Name":"suero de helado","Price": 650},
+                {"Name":"malteada","Price": 600}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+                {"Name":"café américano","Price": 250},
+                {"Name":"café espresso","Price": 250},
+                {"Name":"café espresso c/ coffemate","Price": 300},
+                {"Name":"café cortadito","Price": 300},
+                {"Name":"café bombom","Price": 400},
+                {"Name":"café cappuccino","Price": 500},
+                {"Name":"café affocato","Price": 500},
+                {"Name":"café frapuccino","Price": 550},
+                {"Name":"café frapuccino 23 y 12","Price": 650}
+            ]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"cerveza cristal","Price": 400},
+                {"Name":"cerveza cristal extra","Price": 500},
+                {"Name":"cerveza bucanero","Price": 400},
+                {"Name":"cerveza bucanero max","Price": 500},
+                {"Name":"CR7","Price": 700},
+                {"Name":"messi","Price": 600},
+                {"Name":"lakers","Price": 600},
+                {"Name":"habana mule","Price": 600},
+                {"Name":"canchancara habana","Price": 600},
+                {"Name":"michelada 23 y 12","Price": 500},
+                {"Name":"zombie","Price": 650},
+                {"Name":"vampiro","Price": 700},
+                {"Name":"cerveza dispensada","Price": 350}
+            ]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"agua nacional","Price": 250},
+                {"Name":"agua importada","Price": 450},
+                {"Name":"refresco nacional","Price": 280},
+                {"Name":"refresco importado","Price": 300},
+                {"Name":"malta","Price": 400},
+                {"Name":"energizante","Price": 600},
+                {"Name":"limonada natural","Price": 400},
+                {"Name":"limonada c/ hierba buena","Price": 425},
+                {"Name":"jugo natural","Price": 350},
+                {"Name":"jugo natural","Price": 350}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": true,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": true,
+        "Home Delivery": false,
+        "Reserved Space": true,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": [null],
+    "Payment Options":{
+        "Online payments": true,
+        "Credit Card": false,
+        "Cash":{
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+    }} , 
+    "Social Media":{
+        "Facebook": false,
+        "Instagram": "https://www.instagram.com/sportbar_23y12/"
+    }
+}

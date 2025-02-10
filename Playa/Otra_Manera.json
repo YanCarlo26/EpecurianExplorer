@@ -1,0 +1,164 @@
+{
+    "Name": "Otra manera",
+    "Zone": "Playa",
+    "Location": "Calle 35 # 1810 e/ 20 y 41, Miramar, Playa, La Habana, Cuba, Playa, Cuba",
+    "Place Type": "Restaurante",
+    "Food Type": "Internacional",
+    "Schedule":[
+        {"day": "monday", "open": null, "close": null},
+        {"day": "tuesday", "open": "1230", "close": "2300"},
+        {"day": "wednesday", "open": "1230", "close": "2300"},
+        {"day": "thursday", "open": "1230", "close": "2300"},
+        {"day": "friday", "open": "1230", "close": "2300"},
+        {"day": "saturday", "open": "1230", "close": "2300"},
+        {"day": "sunday", "open": null, "close": null}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"ceviche del dia","Price": 2400},
+                {"Name":"bniato marinado y frito con ali oli de cachucha","Price": 2050},
+                {"Name":"falafel con salsa tzatziki","Price": 1900},
+                {"Name":"croquetas de chuleton de cerdo al carbon","Price": 2050},
+                {"Name":"nachos mexicanos con picadillo de cerdo picanton","Price": 2400},
+                {"Name":"huevos de codorniz trufados al horno, con papas y chorizo frito","Price": 2050},
+                {"Name":"mini hamburguesas de cordero con queso de cabra","Price": 3200},
+                {"Name":"wok de pulpo","Price": 3200},
+                {"Name":"tartar de mozzarella fresca, aguacate y tomate","Price": 2050},
+                {"Name":"ensalada verde con pollo marinado en nuestra salsa de piña y cilantro","Price": 2050}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"costillar deshuesado de cerdo cocinado en baja temperatura y matajibaro","Price": 3400},
+                        {"Name":"costillas asadas en salsa barbacoa, pastel de yuca y verduritas","Price": 4050},
+                        {"Name":"new york steak con papas asadas y salsa chimichurri","Price": 4000},
+                        {"Name":"albondiga de res rellena de setas y papas asadas","Price": 4500},
+                        {"Name":"cordero en salsa de chocolate con verduras grilladas","Price": 4050},
+                        {"Name":"wok de tallarines con cerdo, vegetales, piña y teriyaki","Price": 2400},
+                        {"Name":"canelon de pollo asado con setas","Price": 3500}
+                    ]
+                },{
+                    "Fish and Seafood":[
+                        {"Name":"pescado del dia a la plancha con mole verde y boniatos asados", "Price": 3400},
+                        {"Name":"dados de pescado blanco, cocinado en salsa de curry amarillo con leche de coco y arroz blanco","Price": 3400},
+                        {"Name":"langosta al horno con mantequilla, limon y mole negro","Price": 5100},
+                        {"Name":"arroz de marisco","Price": 4500},
+                        {"Name":"canelon de cangrejo xl con doble salsa","Price": 3400},
+                        {"Name":"wok de atun, vegetales y salsa teriyaki","Price": 2400}
+                    ]
+                },{
+                    "Tacos":[
+                        {"Name":"tacos de lechon asado","Price": 2400}
+                    ]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[
+                {"Name":"ensalada de aguacate asado, tomate, pepino y remolacha crujiente","Price": 2050},
+                {"Name":"ensalada verde con queso de cabra y reduccion de frutas","Price": 1900}
+            ]
+        },
+        {
+            "Category":"Pasta ",
+            "Products":[
+                {"Name":"risotto de zanahoria con mozzarella y hierbas aromaticas","Price": 4050}
+            ]
+        },{
+            "Category":"Pizzas ",
+            "Products":[null]
+        },{
+            "Category":"Sandwich",
+            "Products":[null]
+        },{
+            "Category":"Additions",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                {"Name":"arroz blanco","Price": 700},
+                {"Name":"matajibaro","Price": 700},
+                {"Name":"vegetales salteados","Price": 700},
+                {"Name":"cesta de pan","Price": 700}
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"biscocho breton, crema de limon y toffe","Price": 1700},
+                {"Name":"coulant de chocolate con helado","Price": 2100},
+                {"Name":"baba al ron con helado","Price": 1700},
+                {"Name":"arroz con leche","Price": 1800},
+                {"Name":"helado","Price": 1350}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[null]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[null]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[null]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": true,
+        "Executive Lunch": false,
+        "Smoking Area": true,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": true,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": true
+    },
+    "State or Private": "Private",
+    "Phone": ["72038315"],
+    "Payment Options":{
+        "Online payments":false,
+        "Credit Card":false,
+        "Cash":{
+            "CUP":true,
+            "EUR":false,
+            "USD":false
+        }
+    }, 
+    "Social Media":{
+        "Facebook": "Otramaneralahabana",
+        "Instagram":"@otramanera.lahabana"
+    }
+}

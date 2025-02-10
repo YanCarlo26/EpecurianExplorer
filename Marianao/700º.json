@@ -1,0 +1,163 @@
+{
+    "Name": "700º",
+    "Zone": "Marianao",
+    "Location": "avenida 41 esquina 86",
+    "Place Type": "Restaurante",
+    "Food Type": "Internacional",
+    "Schedule":[
+        {"day": "monday", "open": "1100", "close": "0300"},
+        {"day": "tuesday", "open": "1100", "close": "0300"},
+        {"day": "wednesday", "open": "1100", "close": "0300"},
+        {"day": "thursday", "open": "1100", "close": "0300"},
+        {"day": "friday", "open": "1100", "close": "0300"},
+        {"day": "saturday", "open": "1100", "close": "0300"},
+        {"day": "sunday", "open": "1100", "close": "0300"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"tostones rellenos jamon y queso", "Price": 890},
+                {"Name":"croquetas de la casa", "Price": 890},
+                {"Name":"finger de pollo empanizado", "Price": 890},
+                {"Name":"tacos de pollo", "Price": 990},
+                {"Name":"tacos de cerdo", "Price": 1100},
+                {"Name":"frituras de malanga", "Price": 790},
+                {"Name":"emtremes de aceituna", "Price": 1130},
+                {"Name":"papas fritas", "Price": 890},
+                {"Name":"eperlan de pescado", "Price": 1380},
+                {"Name":"coctel de langosta", "Price": 1600},
+                {"Name":"coctel de camaron", "Price": 1600}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    "Meat, Poultry and Game": [
+                        {"Name":"lonjas de cerdo al carbon", "Price": 1850},
+                        {"Name":"saltimboca de cerdo", "Price": 1750},
+                        {"Name":"bistec de cerdo", "Price": 1650},
+                        {"Name":"fajitas de cerdo salteadas", "Price": 1650},
+                        {"Name":"solomillo de cerdo", "Price": 2900},
+                        {"Name":"masas de cerdo en salsa teriyaki", "Price": 2200},
+                        {"Name":"fricase de cerdo", "Price": 2200},
+                        {"Name":"pechuga de pollo", "Price": 1650},
+                        {"Name":"bistec uruguayo", "Price": 1850},
+                        {"Name":"ropa vieja de res", "Price": 2200}
+                    ]
+                },{
+                    "Fish and Seafood":[
+                        {"Name":"filete de pescado", "Price": 1850},
+                        {"Name":"camaron al gusto", "Price": 2800},
+                        {"Name":"enchilado de langosta", "Price": 2800},
+                        {"Name":"paella de marisco", "Price": 3550},
+                        {"Name":"cazuela de marisco", "Price": 3600}
+                    ]
+                },{
+                    "Tacos":[
+                        {"Name":"tacos de pollo", "Price": 990},
+                        {"Name":"tacos de cerdo", "Price": 1100}
+                    ]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta",
+            "Products":[
+                {"Name":"espaguetis napolitano", "Price": 1100},
+                {"Name":"espaguetis con camaron", "Price": 2500},
+                {"Name":"espaguetis de langosta", "Price": 2500},
+                {"Name":"espaguetis marineros", "Price": 1100}
+            ]
+        },{
+            "Category":"Pizzas",
+            "Products":[
+                {"Name":"napolitana", "Price": 1200},
+                {"Name":"hawaiana", "Price": 1450}
+            ]
+        },{
+            "Category":"Sandwich",
+            "Products":[null]
+        },{
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                {"Name":"arroz moro", "Price": 100},
+                {"Name":"vianda frita", "Price": 100},
+                {"Name":"platano maduro frito", "Price": 100},
+                {"Name":"ensalada estacion", "Price": 100},
+                {"Name":"platano chatinos", "Price": 100},
+                {"Name":"arroz blanco", "Price": 100}
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[null]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[null]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[null]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[null]
+        }
+        ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Estatal",
+    "Phone": [null],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": true,
+            "USD": true
+        }
+    },
+    "Social Media":{
+        "Facebook": false,
+        "Instagram": false
+    }
+}

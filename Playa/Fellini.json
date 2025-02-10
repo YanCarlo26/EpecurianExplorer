@@ -1,0 +1,225 @@
+{
+    "Name": "Fellini",
+    "Zone": "Playa",
+    "Location": "https://www.google.com/maps?q=23.120002043016232,-82.41824799824474",,
+    "Place Type": "Bar - Restaurante",
+    "Food Type": "Internacional",
+    "Schedule":[
+        {"day": "monday", "open": "1000", "close": "2100"},
+        {"day": "tuesday", "open": "1000", "close": "2100"},
+        {"day": "wednesday", "open": "1000", "close": "2100"},
+        {"day": "thursday", "open": "1000", "close": "2100"},
+        {"day": "friday", "open": "1000", "close": "2100"},
+        {"day": "saturday", "open": "1000", "close": "2100"},
+        {"day": "sunday", "open": "1000", "close": "2100"}
+    ],
+    "Menu": [
+            {
+                "Category": "Entrants(tapas)",
+                "Products": [
+                    {"Name": "croquetas de pollo", "Price": 550},
+                    {"Name": "tostones naturales", "Price": 380},
+                    {"Name": "tostones rellenos", "Price": 600},
+                    {"Name": "frituras de malanga", "Price": 400},
+                    {"Name": "caldoza", "Price": 780},
+                    {"Name": "papas fritas", "Price": 700},
+                    {"Name": "brochetas de cerdo", "Price": 1500}
+                ]
+            },
+            {
+                "Category": "Chef's Recommendation",
+                "Products": [null]
+            },
+            {
+                "Category": "Main courses",
+                "Products": [
+                    {
+                        " Meat, Poultry and Game ": [
+                            {"Name": "pechuga do polo srete", "Price": 1409},
+                            {"Name": "pechuga de pollo cre", "Price": 2100},
+                            {"Name": "bistec de cerdo inc", "Price": 1750},
+                            {"Name": "masas de cerdo frita", "Price": 2100},
+                            {"Name": "costillas de cerdo", "Price": 2100},
+                            {"Name": "bistec de cerdo clasico encebollado", "Price": 2100},
+                            {"Name": "cordero al vino", "Price": 3300},
+                            {"Name": "ropa vieja", "Price": 3300}
+                        ]
+                    },
+                    {
+                        "Fish and Seafood": [null]
+                    },
+                    {
+                        "Tacos": [null]
+                    }
+                ]
+            },
+            {
+                "Category": "For Your Diet",
+                "Products": [null]
+            },
+            {
+                "Category": "Pasta",
+                "Products": [null]
+            },
+            {
+                "Category": "Pizzas",
+                "Products": [null]
+            },
+            {
+                "Category": "Sandwich",
+                "Products": [null]
+            },
+            {
+                "Category": "Additions",
+                "Products": [null]
+            },
+            {
+                "Category": "Fittings(guarniciones)",
+                "Products": [
+                    {"Name": "arroz blanco", "Price": 180},
+                    {"Name": "moros y cristianos", "Price": 250},
+                    {"Name": "arroz congris", "Price": 250},
+                    {"Name": "yuca con mojo", "Price": 230},
+                    {"Name": "yuca con chicharrones", "Price": 230}
+                ]
+            },
+            {
+                "Category": "Soups and Creams",
+                "Products": [null]
+            },
+            {
+                "Category": "Desserts",
+                "Products": [
+                    {"Name": "dulce de coco", "Price": 250},
+                    {"Name": "arroz con leche", "Price": 500},
+                    {"Name": "casquito de guayaba", "Price": 380},
+                    {"Name": "fruta bomba en almibar", "Price": 380}
+                ]
+            },
+            {
+                "Category": "Coffees & Infusions",
+                "Products": [null]
+            },
+            {
+                "Category": "Alcoholic Beverages",
+                "Products": [
+                    {"Name": "clan camphl", "Price": 500},
+                    {"Name": "ballentines finest", "Price": 550},
+                    {"Name": "ballentines 12 anos", "Price": 700},
+                    {"Name": "jameson", "Price": 600},
+                    {"Name": "red label", "Price": 500},
+                    {"Name": "black label", "Price": 650},
+                    {"Name": "chiva 12 anos", "Price": 800},
+                    {"Name": "chiva 15 anos", "Price": 1300},
+                    {"Name": "chiva 18 anos", "Price": 1700},
+                    {"Name": "vodka", "Price": 300},
+                    {"Name": "absolut", "Price": 650},
+                    {"Name": "cerveza cristal botella", "Price": 350},
+                    {"Name": "cerveza cristal dispensada", "Price": 350},
+                    {"Name": "cerveza bucanero", "Price": 350},
+                    {"Name": "cerveza cristal extra", "Price": 350},
+                    {"Name": "gin beefeater", "Price": 400},
+                    {"Name": "gin mg", "Price": 350},
+                    {"Name": "vino copa", "Price": 500},
+                    {"Name": "sangre de toro", "Price": 5000},
+                    {"Name": "corona crianza", "Price": 5000},
+                    {"Name": "santa digna", "Price": 5000},
+                    {"Name": "loco de piedra", "Price": 5000},
+                    {"Name": "crema rua vieja", "Price": null},
+                    {"Name": "crema rua vieja arroz", "Price": null},
+                    {"Name": "crema rua vieja chocolate", "Price": null},
+                    {"Name": "crema airisbel", "Price": null},
+                    {"Name": "baileys", "Price": null},
+                    {"Name": "cuba libre", "Price": 450},
+                    {"Name": "cubata", "Price": 500},
+                    {"Name": "mojito", "Price": 450},
+                    {"Name": "dalquiri", "Price": null},
+                    {"Name": "caipirina", "Price": 450},
+                    {"Name": "caipirisima", "Price": 450},
+                    {"Name": "caipiroska", "Price": 450},
+                    {"Name": "gin tonic mg", "Price": 750},
+                    {"Name": "sangria", "Price": 600},
+                    {"Name": "tinto verano", "Price": 600},
+                    {"Name": "pina colada", "Price": 650},
+                    {"Name": "cubanito", "Price": 600},
+                    {"Name": "chelada", "Price": null},
+                    {"Name": "michelada", "Price": 200},
+                    {"Name": "havana club 3 anos", "Price": 300},
+                    {"Name": "havana club anejo especial", "Price": 350},
+                    {"Name": "havana club anejo reserva", "Price": 350},
+                    {"Name": "havana club 7 anos", "Price": 400},
+                    {"Name": "havana club profundo", "Price": 350},
+                    {"Name": "havana club smoky", "Price": 450},
+                    {"Name": "havana club seleccion maestro", "Price": 800},
+                    {"Name": "havana club pacto navio", "Price": 800},
+                    {"Name": "havana club 15 anos", "Price": 1000},
+                    {"Name": "black tears aguardiente", "Price": 300},
+                    {"Name": "black tears super dry", "Price": 300},
+                    {"Name": "black tears roble superior", "Price": 300},
+                    {"Name": "black tears dry spiced", "Price": 300},
+                    {"Name": "santiago 8 anos", "Price": 600},
+                    {"Name": "santiago 11 anos", "Price": 800},
+                    {"Name": "santiago 12 anos", "Price": 850},
+                    {"Name": "tequila olmeca blanco", "Price": 600},
+                    {"Name": "tequila olmeca reposado", "Price": 650},
+                    {"Name": "jequila aito b", "Price": 800},
+                    {"Name": "tequila altor", "Price": 100}
+                ]
+            },
+            {
+                "Category": "Non-Alcoholic Beverages",
+                "Products": [
+                    {"Name": "agua natural", "Price": 250},
+                    {"Name": "aguas gaseada", "Price": 300},
+                    {"Name": "tanica", "Price": 350},
+                    {"Name": "red bull", "Price": 500},
+                    {"Name": "energizante", "Price": 320},
+                    {"Name": "refresco cola", "Price": 300},
+                    {"Name": "pepsi", "Price": 350},
+                    {"Name": "coca cola", "Price": 350},
+                    {"Name": "refresco limon", "Price": 300},
+                    {"Name": "sprite", "Price": 350},
+                    {"Name": "fanta", "Price": 350},
+                    {"Name": "jugos natural", "Price": 250}
+                ]
+            }
+        ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar":true,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": false,
+    "Phone": ["53610207"],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+        "CUP": true,
+        "EUR": false,
+        "USD": false
+    }} , 
+    "Social Media":{
+        "Facebook": "Fellini Bar",
+        "Instagram": "@fellini.bar"
+    }
+}

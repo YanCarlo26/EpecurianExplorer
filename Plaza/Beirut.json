@@ -1,0 +1,148 @@
+{
+    "Name": "Beirut",
+    "Zone": "Plaza de la Revolucion",
+    "Location": "Calle 1ra entre A y B, Vedado, La Habana, Cuba",
+    "Place Type": "Bar-Restaurante",
+    "Food Type": "Comida libanesa",
+    "Schedule":[
+        {"day": "monday", "open": "1100", "close": "1100"},
+        {"day": "tuesday", "open": "1100", "close": "1100"},
+        {"day": "wednesday", "open": "1100", "close": "1100"},
+        {"day": "thursday", "open": "1100", "close": "1100"},
+        {"day": "friday", "open": "1100", "close": "1100"},
+        {"day": "saturday", "open": "1100", "close": "1100"},
+        {"day": "sunday", "open": "1100", "close": "1100"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[null]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"Shish Taouk","Price": 2950, "Description": "Brochetas de pollo, pimiento y cebolla asados, acompanados de arroz con fideos, vegetales y salsa de ajo"},
+                        {"Name":"Kabab","Price": 2900, "Description": "Brochetas de masa de carne de cordero picada, con pimienta, cebolla y perejil, acompanada de arroz con fideos, hummus y vegetales"},
+                        {"Name":"Shish Taouk-Kabab","Price": 2800, "Description": "Brochetas de pollo asadas con pimiento y cebolla asados, brochetas de masa de carne de cordero picada, con pimienta, cebolla, perejil, acompanados de arroz con fideos, vegetales y hummus "},
+                        {"Name":"Shish Kabab","Price": 2000, "Description": "Brochetas de masa de carne molida de pollo con perejil, cebolla y ajo; acompanados de arroz con fideos, salsa de ajo y ensalada de vegetales"},
+                        {"Name":"Tajin","Price": 3500, "Description": "Dados de cordero con cebolla, perejil; acompanados de arroz, fideos, ensalada de vegetales, hummus y pisto de vegetales"},
+                        {"Name":"Mixto Beirut","Price": 3700, "Description": "Kabab, Shish Taouk, Shish Kabab, Shawarma de pollo acompanados de hummus, vegetales y pan árabe"}
+                    ]
+                },{
+                    "Fish and Seafood":[null]
+                },{
+                    "Tacos":[null]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta ",
+            "Products":[null]
+        },{
+            "Category":"Pizzas ",
+            "Products":[null]
+        },{
+            "Category":"Sandwich",
+            "Products":[
+                {"Name":"Shawarma de pollo","Price": 1520, "Description": "En pan árabe pollo asado en shawarma guarnecido con crema de ajo y pepinillos acompanados de vegetales"},
+                {"Name":"Shawarma árabe","Price": 1520, "Description": "En pan árabe pollo asado en shawarma con crema de ajo y pepinillos acompanado de vegetales y hummus"},
+                {"Name":"Sandwich Falafel","Price": 1420, "Description": "En pan árabe falafel con hummus, acompnñado de vegetales y salsa taratore"},
+                {"Name":"Sandwich Shish Taouk","Price": 1720, "Description": "En pan árabe dados de pechuga de pollo, pepinillos, cebolla y pimientos acompanados con crema de ajo y vegetales"},
+                {"Name":"Sandwich Kabab","Price": 1720, "Description": "En pan árabe carne de cordero molida con perejil, cebolla, pepinillos y pimienta, acompanado con vegetales y hummus"}
+            ]
+        },{
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                {"Name":"Fetuche","Price": 1500, "Description": "Lechuga, pepino, tomate, cebolla, costrones de pan y aceite de oliva extra virgen"},
+                {"Name":"Ensalada mixta","Price": 2000, "Description": " "},
+                {"Name":"Betabel","Price": 2000, "Description": "Remolacha, queso feta, lechuga, cebolla con vinagre balsámico y aceite de oliva extra virgen"},
+                {"Name":"Ensalada Beirut","Price": 2100, "Description": "Shawarma de pollo, vegetales de estación y costrones de pan, aderezo con pasta de ajo y granada"},
+                {"Name":"Tabule","Price": 3000, "Description": "Tomate, cebolla, perejil, trigo bulgur aderezado con limón y aceite de oliva"}
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[null]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+                {"Name":"Expresso","Price": 125},
+                {"Name":"Capuccino","Price": 300},
+                {"Name":"Americano","Price": 160},
+                {"Name":"Cortado","Price": 200},
+                {"Name":"Te","Price": 150}
+            ]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"Cervezas","Price": 390}
+            ]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"Agua nacional","Price": 175},
+                {"Name":"Refrescos importados","Price": 290},
+                {"Name":"Maltas","Price": 290},
+                {"Name":"Cervezas","Price": 390},
+                {"Name":"Jugos naturales","Price": 410}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": true,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": ["78315883"],
+    "Payment Options":{
+        "Online payments": true,
+        "Credit Card": false,
+        "Cash":{
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+    }} , 
+    "Social Media":{
+        "Facebook": "https://www.facebook.com/beirutshawarmaoficial/",
+        "Instagram": "https://www.instagram.com/beiruthabana/"
+    }
+}

@@ -1,0 +1,192 @@
+{
+    "Name": "Café D la Esquina",
+    "Zone": "Plaza de la Revolucion",
+    "Location": "Paseo #101, esq. a 5ta., Vedado, La Habana",
+    "Place Type": "Bar-Restaurante",
+    "Food Type": "Tapas",
+    "Schedule":[
+        {"day": "monday", "open": "0800", "close": "1100"},
+        {"day": "tuesday", "open": "0800", "close": "1100"},
+        {"day": "wednesday", "open": "0800", "close": "1100"},
+        {"day": "thursday", "open": "0800", "close": "1100"},
+        {"day": "friday", "open": "0800", "close": "1100"},
+        {"day": "saturday", "open": "0800", "close": "1100"},
+        {"day": "sunday", "open": "0800", "close": "1100"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"Pizza Tacos Mix","Price": 2600},
+                {"Name":"Tabla de la casa","Price": 4200},
+                {"Name":"Canoa de Olga","Price": 800},
+                {"Name":"Trío de pizzeta Margarita","Price": 1000},
+                {"Name":"Tapa Hot Dog","Price": 2200},
+                {"Name":"Trío de pizzeta especial","Price": 1300}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"Rollo Criollo","Price": 1900},
+                        {"Name":"Rollo La Esquina","Price": 1900},
+                        {"Name":"Plato Campesino","Price": 2500}
+                    ]
+                },
+                {
+                    "Fish and Seafood":[
+                        null
+                    ]
+                },
+                {
+                    "Tacos":[
+                        null
+                    ]
+                }
+            ]
+        },
+        {
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta ",
+            "Products":[
+                {"Name":"Pasta clásica","Price": 1300},
+                {"Name":"Pasta al pesto","Price": 1500},
+                {"Name":"Pasta Ragú/Bolognesa","Price": 1800},
+                {"Name":"Pasta Carbonara","Price": 2200}
+            ]
+        },
+        {
+            "Category":"Pizzas ",
+            "Products":[null]
+        },
+        {
+            "Category":"Sandwich",
+            "Products":[null]
+        },
+        {
+            "Category":"Additions",
+            "Products":[
+                {"Name":"Cebolla","Price": 120},
+                {"Name":"Champiñón","Price": 170},
+                {"Name":"Queso Gouda","Price": 200},
+                {"Name":"Jamón Embuchado","Price": 100},
+                {"Name":"Bacon","Price": 150}
+            ]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[null]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"Tarta de la casa","Price": 700}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+                {"Name":"expresso","Price": 200},
+                {"Name":"Capuccino","Price": 350},
+                {"Name":"Frapuccino","Price": 700},
+                {"Name":"Americano","Price": 220},
+                {"Name":"Cortado","Price": 260},
+                {"Name":"Café con leche","Price": 350},
+                {"Name":"Carajillo","Price": 360},
+                {"Name":"Café Bombón","Price": 600},
+                {"Name":"Café frío","Price": 300},
+                {"Name":"Té","Price": 250}
+            ]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"Mojito","Price": 700},
+                {"Name":"Mojito Especial","Price": 750},
+                {"Name":"Pina Colada","Price": 900},
+                {"Name":"Daikirí","Price": 700},
+                {"Name":"Margarita","Price": 1000},
+                {"Name":"Sangría","Price": 750},
+                {"Name":"Caipirina","Price": 750},
+                {"Name":"Caipiroska","Price": 750},
+                {"Name":"Gin Tonic","Price": 900},
+                {"Name":"Vodka Tonic","Price": 900},
+                {"Name":"Limonada natural","Price": 450},
+                {"Name":"Limonada Lizzie sin ron","Price": 700},
+                {"Name":"Limonada Lizzie con ron","Price": 750},
+                {"Name":"Cerveza importada","Price": 400},
+                {"Name":"Cerveza nacional superior","Price": 550},
+                {"Name":"Copa de vino tinto","Price": 600},
+                {"Name":"Copa de vino blanco","Price": 600}
+            ]
+        },
+        {
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"Agua gaseada importada","Price": 1050},
+                {"Name":"Agua natural pequeña","Price": 300},
+                {"Name":"Agua natural grande","Price": 500},
+                {"Name":"Agua gaseada nacional","Price": 500},
+                {"Name":"Agua Tónica nacional","Price": 350},
+                {"Name":"Refresco nacional","Price": 350},
+                {"Name":"Refresco importado","Price": 350},
+                {"Name":"jugo de frutas naturales","Price": 250},
+                {"Name":"Energizante","Price": 600},
+                {"Name":"Malta","Price": 450},
+                {"Name":"Batido de helado","Price": 650},
+                {"Name":"Batido de frutas","Price": 450}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": true,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": true,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space": true,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": ["78362565"],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+        "CUP": true,
+        "EUR": false,
+        "USD": false
+    }} , 
+    "Social Media":{
+        "Facebook": false,
+        "Instagram": false
+    }
+}

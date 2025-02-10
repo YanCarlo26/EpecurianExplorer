@@ -1,0 +1,204 @@
+{
+    "Name": "Café Clington",
+    "Zone": "Playa",
+    "Location": "https://www.google.com/maps?q=23.115259266660882,-82.43418842082183",
+    "Place Type": "Restaurante",
+    "Food Type": "Internacional",
+    "Schedule":[
+        {"day": "monday", "open": "0800", "close": "1800"},
+        {"day": "tuesday", "open": "0800", "close": "1800"},
+        {"day": "wednesday", "open": "0800", "close": "1800"},
+        {"day": "thursday", "open": "0800", "close": "1800"},
+        {"day": "friday", "open": "0800", "close": "1800"},
+        {"day": "saturday", "open": "0800", "close": "1800"},
+        {"day": "sunday", "open": "0800", "close": "1800"}
+    ],
+    "Menu": [
+            {
+                "Category": "Entrants(tapas)",
+                "Products": [
+                    {"Name": "ensalada nicoise", "Price": 1500},
+                    {"Name": "ensalada de aguacate y atun", "Price": 600},
+                    {"Name": "ensalada de estacion", "Price": 500},
+                    {"Name": "ensalada cesarin de suprema de pollo", "Price": 1000},
+                    {"Name": "pasta fria de atun", "Price": 800},
+                    {"Name": "pasta fria de jamon", "Price": 800},
+                    {"Name": "pasta al pesto", "Price": 800},
+                    {"Name": "tapas de jamon con frutos secos", "Price": 700},
+                    {"Name": "tapas de falsa de atun napado en crema de vinagre balsamico", "Price": 900},
+                    {"Name": "tapa iberica", "Price": 1000},
+                    {"Name": "bruschettas", "Price": 900},
+                    {"Name": "black and white", "Price": 1000},
+                    {"Name": "anabella", "Price": 600},
+                    {"Name": "hansel y gretel", "Price": 600}
+                ]
+            },
+            {
+                "Category": "Chef's Recommendation",
+                "Products": [null]
+            },
+            {
+                "Category": "Main courses",
+                "Products": [
+                    {
+                        " Meat, Poultry and Game ": [null
+                        ]
+                    },
+                    {
+                        "Fish and Seafood": [null]
+                    },
+                    {
+                        "Tacos": [null]
+                    }
+                ]
+            },
+            {
+                "Category": "For Your Diet",
+                "Products": [null]
+            },
+            {
+                "Category": "Pasta",
+                "Products": [
+                    {"Name": "panini", "Price": 500},
+                    {"Name": "pasta fria de atun", "Price": 800},
+                    {"Name": "pasta fria de jamon", "Price": 800},
+                    {"Name": "pasta al pesto", "Price": 800}
+                ]
+            },
+            {
+                "Category": "Pizzas",
+                "Products": [null]
+            },
+            {
+                "Category": "Sandwich",
+                "Products": [
+                    {"Name": "sandwich de atun", "Price": 900},
+                    {"Name": "sandwich de jamon y queso", "Price": 900},
+                    {"Name": "sandwich de vegetales con huevo", "Price": 900},
+                    {"Name": "sandwich de pollo", "Price": 1000},
+                    {"Name": "sandwich de pollo con queso gratinado", "Price": 1200},
+                    {"Name": "club sandwich", "Price": 1800},
+                    {"Name": "sandwich campesino", "Price": 2500},
+                    {"Name": "mini burger", "Price": 310},
+                    {"Name": "hamburguesa", "Price": 400},
+                    {"Name": "perro new york", "Price": 350},
+                    {"Name": "pan perro", "Price": 350}
+                    ]
+                },
+            
+            {
+                "Category": "Additions",
+                "Products": [
+                    {"Name": "agua purificada de 500ml", "Price": 270},
+                    {"Name": "agua purificada de 1l", "Price": 350},
+                    {"Name": "agua purificada de 5l", "Price": 900},
+                    {"Name": "agua gaseada", "Price": 500}
+                ]
+            },
+            {
+                "Category": "Fittings(guarniciones)",
+                "Products": [null]
+            },
+            {
+                "Category": "Soups and Creams",
+                "Products": [null]
+            },
+            {
+                "Category": "Desserts",
+                "Products": [
+                    {"Name": "flan fanguito", "Price": 600},
+                    {"Name": "snicker", "Price": 750},
+                    {"Name": "tofi", "Price": 600},
+                    {"Name": "tarta de flan fanguito", "Price": 3500},
+                    {"Name": "cheesecake sabor fresa, limon y kiwi", "Price": 750},
+                    {"Name": "donas de chocolate", "Price": 570},
+                    {"Name": "ojos de buey", "Price": 200},
+                    {"Name": "magdalena", "Price": 250},
+                    {"Name": "hoja", "Price": 150},
+                    {"Name": "donas artesanales", "Price": 200},
+                    {"Name": "pastel danes", "Price": 200},
+                    {"Name": "caracol", "Price": 250},
+                    {"Name": "pastel de guayaba", "Price": 250},
+                    {"Name": "palmeras", "Price": 200},
+                    {"Name": "coquito horneado", "Price": 200},
+                    {"Name": "tarta grande de quiche lorraine", "Price": 3500},
+                    {"Name": "porcion de tarta quiche lorraine", "Price": 350},
+                    {"Name": "tarta pequeña de quiche lorraine", "Price": 600},
+                    {"Name": "tarta san marcos", "Price": 5000},
+                    {"Name": "protiferol", "Price": 450},
+                    {"Name": "eclair", "Price": 450}
+                ]
+            },
+            {
+                "Category": "Coffees & Infusions",
+                "Products": [
+                    {"Name": "expresso", "Price": 200},
+                    {"Name": "cortado", "Price": 250},
+                    {"Name": "capuchino", "Price": 500},
+                    {"Name": "bombon", "Price": 500},
+                    {"Name": "frapuccino", "Price": 600},
+                    {"Name": "con leche", "Price": 600},
+                    {"Name": "chocolate caliente", "Price": 600}
+                ]
+            },
+            {
+                "Category": "Alcoholic Beverages",
+                "Products": [
+                    {"Name": "cerveza cristal", "Price": 300},
+                    {"Name": "cerveza sol", "Price": 400},
+                    {"Name": "cerveza bucanero", "Price": 400},
+                    {"Name": "cerveza heineken", "Price": 500},
+                    {"Name": "cerveza blue", "Price": 300},
+                    {"Name": "cerveza corona", "Price": 550}
+                ]
+            },
+            {
+                "Category": "Non-Alcoholic Beverages",
+                "Products": [
+                    {"Name": "malta", "Price": 350},
+                    {"Name": "pepsi", "Price": 350},
+                    {"Name": "redbull", "Price": 500},
+                    {"Name": "coca cola", "Price": 450},
+                    {"Name": "sprite", "Price": 450}
+                ]
+            }
+        ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": "Media",
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": false,
+    "Phone": ["52629909"],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+        "CUP": true,
+        "EUR": false,
+        "USD": false
+    }} , 
+    "Social Media":{
+        "Facebook": false,
+        "Instagram": "@cafe_clington_"
+    }
+}

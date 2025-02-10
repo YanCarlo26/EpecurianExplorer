@@ -1,0 +1,183 @@
+{
+    "Name": "Restaurante El Pavo",
+    "Zone": "Guanabacoa",
+    "Location": "Guanabacoa",
+    "Place Type": "Restaurante",
+    "Food Type": "Internacinal",
+    "Schedule": [
+        {"day": "monday", "open": "1200", "close": "2300"},
+        {"day": "tuesday", "open": "1200", "close": "2300"},
+        {"day": "wednesday", "open": "1200", "close": "2300"},
+        {"day": "thursday", "open": "1200", "close": "2300"},
+        {"day": "friday", "open": "1200", "close": "2300"},
+        {"day": "saturday", "open": "1200", "close": "2300"},
+        {"day": "sunday", "open": "1200", "close": "2300"}
+    ],
+    "Menu": [
+        {
+            "Category": "Entrants(tapas)",
+            "Products": [
+                {"Name": "ensalada fria de jamon", "Price": 450},
+                {"Name": "ensalada fria de atun", "Price": 500},
+                {"Name": "croquetas", "Price": 200},
+                {"Name": "fajitas", "Price": 500},
+                {"Name": "toston relleno de jamon", "Price": 450},
+                {"Name": "toston relleno de atun", "Price": 450},
+                {"Name": "costillas", "Price": 800},
+                {"Name": "coctel de camaron", "Price": 700},
+                {"Name": "garbanzo frito", "Price": 400},
+                {"Name": "eperlan", "Price": 600},
+                {"Name": "entremes", "Price": 800}
+            ]
+        },
+        {
+            "Category": "Chef's Recommendation",
+            "Products": [null]
+        },
+        {
+            "Category": "Main courses",
+            "Products": [
+                {
+                    "Meat, Poultry and Game": [
+                        {"Name": "pollo grille", "Price": 1100},
+                        {"Name": "masa de cerdo", "Price": 1600},
+                        {"Name": "cerdo a la milanesa", "Price": 1400},
+                        {"Name": "bistec de cerdo", "Price": 1300},
+                        {"Name": "bistec de res", "Price": 1300},
+                        {"Name": "ropa vieja", "Price": 1600}
+                    ]
+                },
+                {
+                    "Fish and Seafood": [
+                        {"Name": "camarones enchilados", "Price": 1300},
+                        {"Name": "camarones al ajillo", "Price": 1300},
+                        {"Name": "camarones grille", "Price": 1200},
+                        {"Name": "camarones rebosados", "Price": 1300},
+                        {"Name": "enchilado de langosta", "Price": 1400},
+                        {"Name": "langosta grille", "Price": 1300},
+                        {"Name": "pescado grille", "Price": 1400},
+                        {"Name": "marinada al pavo", "Price": 2500}
+                    ]
+                },
+                {
+                    "Tacos": [null]
+                }
+            ]
+        },
+        {
+            "Category": "For Your Diet",
+            "Products": [null]
+        },
+        {
+            "Category": "Pasta",
+            "Products": [
+                {"Name": "spaghettis napolitano", "Price": 600},
+                {"Name": "spaghettis con jamon", "Price": 800},
+                {"Name": "spaghettis bolonnesa", "Price": 800},
+                {"Name": "spaghettis con camarones", "Price": 1000},
+                {"Name": "spaghettis con atun", "Price": 950},
+                {"Name": "spaghettis con bacon", "Price": 800},
+                {"Name": "lasagna de jamon", "Price": 800},
+                {"Name": "lasagna de carne", "Price": 900}
+            ]
+        },
+        {
+            "Category": "Pizzas",
+            "Products": [
+                {"Name": "pizza napolitana", "Price": 600},
+                {"Name": "pizza de vegetales", "Price": 650},
+                {"Name": "pizza de jamon", "Price": 800},
+                {"Name": "pizza de chorizo", "Price": 800},
+                {"Name": "pizza hawaiana", "Price": 850},
+                {"Name": "pizza de carne", "Price": 800},
+                {"Name": "pizza de camarones", "Price": 1000},
+                {"Name": "pizza especial 'el pavo'", "Price": 1500}
+            ]
+        },
+        {
+            "Category": "Sandwich",
+            "Products": [null]
+        },
+        {
+            "Category": "Additions",
+            "Products": [null]
+        },
+        {
+            "Category": "Fittings(guarniciones)",
+            "Products": [null]
+        },
+        {
+            "Category": "Soups and Creams",
+            "Products": [null]
+        },
+        {
+            "Category": "Desserts",
+            "Products": [
+                {"Name": "flan de leche", "Price": 180}
+            ]
+        },
+        {
+            "Category": "Coffees & Infusions",
+            "Products": [null]
+        },
+        {
+            "Category": "Alcoholic Beverages",
+            "Products": [
+                {"Name": "cerveza nacional", "Price": 250},
+                {"Name": "cerveza nacional", "Price": 200},
+                {"Name": "cerveza corona", "Price": 300}
+            ]
+        },
+        {
+            "Category": "Non-Alcoholic Beverages",
+            "Products": [
+                {"Name": "agua natural", "Price": 180},
+                {"Name": "agua gaseada", "Price": 180},
+                {"Name": "refresco nacional", "Price": 225},
+                {"Name": "refresco importado", "Price": 260},
+                {"Name": "malta importada", "Price": 225},
+                {"Name": "malta hypermalt", "Price": 260},
+                {"Name": "jugo(cajita)", "Price": 180}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": null,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music":true,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": [""],
+    "Payment Options": {
+        "Online payments": true,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+        }
+    },
+    "Social Media": {
+        "Facebook": true,
+        "Instagram": true
+    }
+}

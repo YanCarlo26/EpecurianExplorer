@@ -1,0 +1,183 @@
+{
+    "Name": "Mar Adentro",
+    "Zone": "Plaza de la Revolución",
+    "Location": "Calle C, #15, entre 1ª y 3ª, Havana, Cuba",
+    "Place Type": "Restaurante",
+    "Food Type": "Internacional",
+    "Schedule":[
+        {"day": "monday", "open": "0900", "close": "0030"},
+        {"day": "tuesday", "open": "0900", "close": "0030"},
+        {"day": "wednesday", "open": "0900", "close": "0030"},
+        {"day": "thursday", "open": "0900", "close": "0030"},
+        {"day": "friday", "open": "0900", "close": "0030"},
+        {"day": "saturday", "open": "0900", "close": "0030"},
+        {"day": "sunday", "open": "0900", "close": "0030"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"focaccia al romero","Price": 700},
+                {"Name":"focaccia de jamón serrano, tomate y rúcula","Price": 2000},
+                {"Name":"bruchettas","Price": 1800},
+                {"Name":"empanadillas de cangrejo o piña y queso","Price": 1200},
+                {"Name":"tostones rellenos","Price": 1300},
+                {"Name":"chispitas de malanga con camarones","Price": 1100},
+                {"Name":"croquetas de pescados o pollo","Price": 1200},
+                {"Name":"casabe taíno","Price": 990},
+                {"Name":"ceviche maradentro","Price": 2100},
+                {"Name":"rollitos de salmón","Price": 2200},
+                {"Name":"carpaccio de tuna","Price": 2300},
+                {"Name":"sushi/nigiri","Price": 2000},
+                {"Name":"dumplings de carne","Price": 1800},
+                {"Name":"carpaccio de res","Price": 2800}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"pollo horneado","Price": 2600},
+                        {"Name":"pechuga de pollo grillada","Price": 2800},
+                        {"Name":"chilindrón de cordero al tinto","Price": 3500},
+                        {"Name":"masas de cerdo confitadas","Price": 3200},
+                        {"Name":"lonjas de cerdo asadas en cazuela","Price": 3400},
+                        {"Name":"costillas guajiras","Price": 3800},
+                        {"Name":"ropa vieja frita","Price": 2700},
+                        {"Name":"bistec de palomilla","Price": 6800},
+                        {"Name":"chivito uruguayo","Price": 8200}
+                    ]
+                },{
+                    "Fish and Seafood":[
+                        {"Name":"camarones","Price": 3600},
+                        {"Name":"langosta","Price": 4300},
+                        {"Name":"pesca del día","Price": 3200}
+                    ]
+                },{
+                    "Tacos":[
+                        {"Name":"tacos de vaca frita o pescado","Price": 1900}
+                    ]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta ",
+            "Products":[null]
+        },{
+            "Category":"Pizzas ",
+            "Products":[null]
+        },{
+            "Category":"Sandwich",
+            "Products":[
+                {"Name":"cesta de pan","Price": 750}
+            ]
+        },{
+            "Category":"Additions",
+            "Products":[]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                {"Name":"arroz blanco","Price": 700},
+                {"Name":"arroz verde","Price": 700},
+                {"Name":"frijoles dormidos","Price": 700},
+                {"Name":"moros y cristianos","Price": 700},
+                {"Name":"tostones","Price": 700},
+                {"Name":"maduros","Price": 700},
+                {"Name":"puré de boniato","Price": 700}
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"copa de helado","Price": 800},
+                {"Name":"brownie y helado","Price": 1300},
+                {"Name":"cheesecake de guayaba","Price": 1200},
+                {"Name":"casquitos de guayaba con queso guajiro","Price": 900},
+                {"Name":"flan licuado","Price": 1200},
+                {"Name":"tarta de limón","Price": 1000}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[null]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"maradentro","Price": 950},
+                {"Name":"clarete","Price": 950},
+                {"Name":"vino blanco de verano","Price": 950},
+                {"Name":"licor marejada","Price": 950},
+                {"Name":"rubi","Price": 950}
+            ]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"limonada natural","Price": 950},
+                {"Name":"limonada frescura","Price": 950},
+                {"Name":"limonada pepino y jengibre","Price": 950},
+                {"Name":"agua nacional","Price": 450},
+                {"Name":"agua importada","Price": 500},
+                {"Name":"agua tónica nacional","Price": 700},
+                {"Name":"agua tónica importada","Price": 800},
+                {"Name":"refresco nacional","Price": 450},
+                {"Name":"refresco importado","Price": 600},
+                {"Name":"malta","Price": 500},
+                {"Name":"energizantes","Price": 600},
+                {"Name":"batido de frutas","Price": 750},
+                {"Name":"batido de helado","Price": 900}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": true,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space": true,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": false,
+    "Phone": ["+5378332060"],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": true,
+        "Cash":{
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+    }} , 
+    "Social Media":{
+        "Facebook": "https://www.facebook.com/maradentrohabana",
+        "Instagram": "https://www.instagram.com/maradentrohabana"
+    }
+}

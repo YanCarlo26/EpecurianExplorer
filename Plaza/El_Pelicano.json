@@ -1,0 +1,154 @@
+{
+    "Name": "El Pelícano",
+    "Zone": "Plaza de la Revolución",
+    "Location": "4J52+FF7, Avenida 26, La Habana, Cuba",
+    "Place Type": "Bar-Restaurante",
+    "Food Type": "Criolla",
+    "Schedule":[
+        {"day": "monday", "open": null, "close": null},
+        {"day": "tuesday", "open": null, "close": null},
+        {"day": "wednesday", "open": "1000", "close": "1800"},
+        {"day": "thursday", "open": "1000", "close": "1800"},
+        {"day": "friday", "open": "1000", "close": "1800"},
+        {"day": "saturday", "open": "1000", "close": "1800"},
+        {"day": "sunday", "open": "1000", "close": "1800"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"Croquetas","Price": 350, "Description": "7 unidades con salsa roja"},
+                {"Name":"Picadera de Jamón y Queso","Price": 450},
+                {"Name":"Papas Fritas","Price": 550},
+                {"Name":"Bolitas de Queso","Price": 650},
+                {"Name":"Salchipapa","Price": 750}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"Pollo Frito","Price": 420},
+                        {"Name":"Pollo Chiflado","Price": 520},
+                        {"Name":"Brochetas de Pollo y Vegetales","Price": 580, "Description": "Dos brochetas de pollo acompañadas de Cebolla y Pimientos"},
+                        {"Name":"Brochetas Mixtas","Price": 700, "Description": "Una brocheta de Pollo y otra de Cerdo acompañadas de Cebolla y Pimientos"},
+                        {"Name":"Brochetas de Cerdo","Price": 950, "Description": "Dos brochetas de Cerdo acompañadas de Cebolla y Pimientos"},
+                        {"Name":"Bistec de Cerdo","Price": 950, "Description": "Bistec de Cerdo con arroz y vegetales"},
+                        {"Name":"Lonja de Cerdo","Price": 950},
+                        {"Name":"Masa de Cerdo","Price": 990}
+                    ]
+                },{
+                    "Fish and Seafood":[null]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta ",
+            "Products":[null]
+        },{
+            "Category":"Pizzas ",
+            "Products":[null]
+        },{
+            "Category":"Sandwich",
+            "Products":[
+                {"Name":"Pan con Jamón y Queso","Price": 350},
+                {"Name":"Pan con Perro","Price": 360},
+                {"Name":"Pan con Lechón","Price": 500},
+                {"Name":"Pan con Hamburguesa","Price": 550}
+            ]
+        },{
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                {"Name":"Arroz Moro","Price": 150},
+                {"Name":"Arroz Blanco","Price": 150}
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"Paleta de Chocolate","Price": 260},
+                {"Name":"Pote de Helado","Price": 495}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+                {"Name":"Cafe Expresso","Price": 90},
+                {"Name":"Cafe Cortado","Price": 110},
+                {"Name":"Cafe Bombón","Price": 150}
+            ]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"Cerveza","Price": 190},
+                {"Name":"Chelada","Price": 290},
+                {"Name":"Cuba Libre","Price": 380},
+                {"Name":"Michelada","Price": 390}
+            ]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"Jugo de Cajita","Price": 190},
+                {"Name":"Agua","Price": 120},
+                {"Name":"Refresco de Lata","Price": 195},
+                {"Name":"Limonada Frape","Price": 250},
+                {"Name":"Energizante","Price": 220}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": true,
+        "Home Delivery": true,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": ["63960310"],
+    "Payment Options":{
+        "Online payments": true,
+        "Credit Card": false,
+        "Cash":{
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+    }} , 
+    "Social Media":{
+        "Facebook":false,
+        "Instagram":false
+    }
+}

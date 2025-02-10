@@ -1,0 +1,176 @@
+{
+    "Name": "Colesterol 5.1",
+    "Zone": "Marianao",
+    "Location": "Avenida 51 entre 134 y 136",
+    "Place Type": "Restaurante",
+    "Food Type": "Internacional",
+    "Schedule":[
+        {"day": "monday", "open": "1000", "close": "0000"},
+        {"day": "tuesday", "open": "1000", "close": "0000"},
+        {"day": "wednesday", "open": "1000", "close": "0000"},
+        {"day": "thursday", "open": "1000", "close": "0000"},
+        {"day": "friday", "open": "1000", "close": "0000"},
+        {"day": "saturday", "open": "1000", "close": "0000"},
+        {"day": "sunday", "open": "1000", "close": "0000"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"tostones", "Price": 490},
+                {"Name":"mariposita china", "Price": 565},
+                {"Name":"frituras de malanga", "Price": 590},
+                {"Name":"bolitas de queso con miel y mostaza", "Price": 730},
+                {"Name":"croquetas colesterol 5.1", "Price": 835},
+                {"Name":"fajitas de pollo", "Price": 950},
+                {"Name":"fajitas de cerdo", "Price": 1150},
+                {"Name":"coctel de camarones", "Price": 1670},
+                {"Name":"eperlan de pescado", "Price": 950},
+                {"Name":"ensalada fria de jamon", "Price": 835},
+                {"Name":"ensalada fria de pollo", "Price": 865},
+                {"Name":"ensalada fria de atun", "Price": 995},
+                {"Name":"ensalada fria de marisco", "Price": 1125},
+                {"Name":"crema de queso", "Price": 595},
+                {"Name":"crema de mariscos", "Price": 920},
+                {"Name":"garbanzo frito", "Price": 1670},
+                {"Name":"tacos de pollo", "Price": 1260},
+                {"Name":"tacos de cerdo", "Price": 1670},
+                {"Name":"tacos de res", "Price": 1925},
+                {"Name":"tacos de marineros", "Price": 2330},
+                {"Name":"tabla colesterol", "Price": 3320}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {"Name":"masa de cerdo frita", "Price": 2725},
+                {"Name":"bistec uruguayo", "Price": 2995},
+                {"Name":"chuleta de cerdo en salsa agridulce", "Price": 3200},
+                {"Name":"bistec suprema", "Price": 2460},
+                {"Name":"ropa vieja res", "Price": 2190},
+                {"Name":"vaca frita", "Price": 2190},
+                {"Name":"brocheta mixta", "Price": 2600}
+            ]
+        },{
+            "Category":"Tacos",
+            "Products":[
+                {"Name":"tacos de pollo", "Price": 1260},
+                {"Name":"tacos de cerdo", "Price": 1670},
+                {"Name":"tacos de res", "Price": 1925},
+                {"Name":"tacos de marineros", "Price": 2330}
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta",
+            "Products":[
+                {"Name":"espaguetis napolitanos", "Price": 925},
+                {"Name":"espaguetis con jamon", "Price": 1145},
+                {"Name":"espaguetis a la bolonnesa", "Price": 1800},
+                {"Name":"espaguetis al pesto", "Price": 1265},
+                {"Name":"espaguetis carbonara", "Price": 2475},
+                {"Name":"espaguetis con frutos de mar", "Price": 3750},
+                {"Name":"lasanna bolonnesa", "Price": 2245}
+            ]
+        },{
+            "Category":"Pizzas",
+            "Products":[
+                {"Name":"pizza margarita 5.1", "Price": 1930},
+                {"Name":"pizza de jamon", "Price": 2115},
+                {"Name":"pizza hawaiana", "Price": 2215},
+                {"Name":"pizza de bacon, pepperoni y jamon serrano", "Price": 2845},
+                {"Name":"pizza campesina", "Price": 2645},
+                {"Name":"pizza marinera", "Price": 3020}
+            ]
+        },{
+            "Category":"Sandwich",
+            "Products":[
+                {"Name":"sandwich ropa vieja", "Price": 760},
+                {"Name":"sandwich de jamon y queso", "Price": 765},
+                {"Name":"sandwich cubano", "Price": 1320},
+                {"Name":"sandwich de atun y cebolla", "Price": 1945}
+            ]
+        },{
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                {"Name":"tamal estilo colesterol", "Price": 1925}
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[
+                {"Name":"crema de queso", "Price": 595},
+                {"Name":"crema de mariscos", "Price": 920}
+            ]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"churros con leche condensada", "Price": 300},
+                {"Name":"tocinillo", "Price": 300},
+                {"Name":"sunday", "Price": 470},
+                {"Name":"churros acompannado de chocolate caliente", "Price": 700}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[null]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[null]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[null]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Estatal",
+    "Phone": [null],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": true,
+            "USD": true
+        }
+    },
+    "Social Media":{
+        "Facebook": false,
+        "Instagram": false
+    }
+}

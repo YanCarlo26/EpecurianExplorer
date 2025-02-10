@@ -1,0 +1,188 @@
+{
+    "Name": "El Vampirito",
+    "Zone": "Plaza de la Revolucion",
+    "Location": "Calle 6 entre 19 y 21, Vedado, La Habana, Cuba",
+    "Place Type": "Bar-Restaurante-Cafeteria",
+    "Food Type": "Italiana",
+    "Schedule":[
+        {"day": "monday", "open": "1000", "close": "1100"},
+        {"day": "tuesday", "open": "1000", "close": "1100"},
+        {"day": "wednesday", "open": "1000", "close": "1100"},
+        {"day": "thursday", "open": "1000", "close": "1100"},
+        {"day": "friday", "open": "1000", "close": "1100"},
+        {"day": "saturday", "open": "1000", "close": "1100"},
+        {"day": "sunday", "open": "1000", "close": "1100"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"Bruschettas naturales","Price": 780},
+                {"Name":"Bruchettas con atún, carne o ropa vieja","Price": 930},
+                {"Name":"Entremés de queso, jamón y bruschettas","Price": 1180},
+                {"Name":"Picadera de la casa","Price": 2620}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"Solomillo de cerdo","Price": 2340},
+                        {"Name":"Carne asada en cazuela","Price": 2340}
+                    ]
+                },{
+                    "Fish and Seafood":[null]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta ",
+            "Products":[
+                {"Name":"Lasaña de jamón","Price": 1530},
+                {"Name":"Lasaña de carne","Price": 1530},
+                {"Name":"Lasaña hawaiana","Price": 1570},
+                {"Name":"Espaguetis","Price": 1090},
+                {"Name":"Media ración de espaguetis y media ración de lasaña","Price": 1310}
+            ]
+        },{
+            "Category":"Pizzas ",
+            "Products":[
+                {"Name":"Pizza de queso","Price": 1220},
+                {"Name":"Pizza pequeña","Price": 590}
+            ]
+        },{
+            "Category":"Sandwich",
+            "Products":[
+                {"Name":"Hamburguesa sencilla","Price": 1090},
+                {"Name":"Hamburguesa doble","Price": 2000},
+                {"Name":"Sandwich de queso gouda","Price": 960},
+                {"Name":"Sandwich de ropa vieja","Price": 960},
+                {"Name":"Sandwich de bacon, huevo y queso","Price": 1390},
+                {"Name":"Sandwich de lechón asado","Price": 1050},
+                {"Name":"Sandwich de atún","Price": 1390},
+                {"Name":"Sandwich de pechuga de pollo con queso","Price": 1260},
+                {"Name":"Sandwich de crema y jalea de fresa","Price": 1260}
+            ]
+        },{
+            "Category":"Additions",
+            "Products":[
+                {"Name":"Tomate","Price": 200},
+                {"Name":"Cebolla","Price": 200},
+                {"Name":"Pimiento","Price": 200},
+                {"Name":"Jamón","Price": 320},
+                {"Name":"Bacon","Price": 420},
+                {"Name":"Atún","Price": 535},
+                {"Name":"Chorizo","Price": 490},
+                {"Name":"Queso","Price": 370},
+                {"Name":"Pina glaseada","Price": 200},
+                {"Name":"Boloñesa","Price": 535},
+                {"Name":"Aceituna","Price": 280}
+            ]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[null]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[
+                {"Name":"Crema de queso","Price": 570},
+                {"Name":"Crema Aurora","Price": 600}
+            ]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"Helado montado","Price": 300},
+                {"Name":"Canoa de helado","Price": 1500},
+                {"Name":"Postre del día","Price": 780},
+                {"Name":"Tarta","Price": 975},
+                {"Name":"Torrejas","Price": 700},
+                {"Name":"Media ración de torrejas","Price": 360},
+                {"Name":"Torrejas con helado","Price": 550}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+                {"Name":"expresso","Price": 180},
+                {"Name":"cortado","Price": 200},
+                {"Name":"capuccino","Price": 280},
+                {"Name":"Café con leche","Price": 280},
+                {"Name":"Café con ron","Price": 280},
+                {"Name":"Café con licor","Price": 280}
+            ]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[{"Name":"Limonada frappé","Price": 620},
+            {"Name":"Limonada con Hierba buena","Price": 700},
+            {"Name":"Caipirina","Price": 750},
+            {"Name":"Daiquirí","Price": 750},
+            {"Name":"Sangría","Price": 750},
+            {"Name":"Copa de vino","Price": 550},
+            {"Name":"Cerveza importada","Price": 400},
+            {"Name":"Cerveza nacional","Price": 500},
+            {"Name":"Michelada con cerveza importada","Price": 500},
+            {"Name":"Michelada con cerveza nacional","Price": 600},
+            {"Name":"Mojito frappé","Price": 750}]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"Jugo natural","Price": 250},
+                {"Name":"Refresco","Price": 400},
+                {"Name":"Agua natural/ glaseada","Price": 200},
+                {"Name":"Malteada","Price": 700},
+                {"Name":"Malta","Price": 460},
+                {"Name":"Suero de helado","Price": 1200},
+                {"Name":"Red Bull","Price": 500}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": ["78300774"],
+    "Payment Options":{
+        "Online payments": true,
+        "Credit Card": false,
+        "Cash":{
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+    }} , 
+    "Social Media":{
+        "Facebook": false,
+        "Instagram": false
+    }
+}

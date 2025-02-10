@@ -1,0 +1,167 @@
+{
+    "Name": "Ruta 66",
+    "Zone": "Guanabacoa",
+    "Location": "Guanabacoa",
+    "Place Type": "restaurante",
+    "Food Type": "Internacinal",
+    "Schedule": [
+        {"day": "tuesday", "open": "1200", "close": "2130"},
+        {"day": "wednesday", "open": "1200", "close": "2130"},
+        {"day": "thursday", "open": "1200", "close": "2130"},
+        {"day": "friday", "open": "1200", "close": "2130"},
+        {"day": "saturday", "open": "1200", "close": "2130"},
+        {"day": "sunday", "open": "1200", "close": "2130"}
+    ],
+    "Menu": [
+        {
+            "Category": "Entrants(tapas)",
+            "Products": [
+                {"Name": "tostones rellenos de jamon y queso", "Price": 1090},
+                {"Name": "tostones rellenos de bolognesa", "Price": 950},
+                {"Name": "tostones rellenos de vegetales salteados y queso", "Price": 910},
+                {"Name": "garbanzos fritos", "Price": 1900},
+                {"Name": "ceviche de pescado", "Price": 1500},
+                {"Name": "frituras de malanga", "Price": 595},
+                {"Name": "croquetas", "Price": 490},
+                {"Name": "brosquetas", "Price": 420},
+                {"Name": "tamal", "Price": 400}
+            ]
+        },
+        {
+            "Category": "Chef's Recommendation",
+            "Products": [null]
+        },
+        {
+            "Category": "Main courses",
+            "Products": [
+                {
+                    "Meat, Poultry and Game": [
+                        {"Name": "arroz frito especial route 66", "Price": 2065},
+                        {"Name": "lomo ahumado (con gratinado de queso)", "Price": 1850},
+                        {"Name": "lomo ahumado (con salsa de pinna)", "Price": 2000},
+                        {"Name": "super route 66 (cerdo)", "Price": 1965},
+                        {"Name": "castrol (cerdo)", "Price": 1255},
+                        {"Name": "texaco (cerdo)", "Price": 940}
+                    ]
+                },
+                {
+                    "Fish and Seafood": [
+                        {"Name": "enchilado de camarones", "Price": 3300},
+                        {"Name": "camarones al ajillo", "Price": 2950},
+                        {"Name": "camarones en salsa de frutas", "Price": 2800},
+                        {"Name": "enchilado de pulpo", "Price": 2690},
+                        {"Name": "pulpo al ajillo", "Price": 2470},
+                        {"Name": "filete de pescado route 66 (a la plancha gratinado con queso y camaron)", "Price": 3550},
+                        {"Name": "monte toro a la francesa (a la plancha gratinado con queso)", "Price": 2400},
+                        {"Name": "filete de pescado en salsa de frutas", "Price": 2250},
+                        {"Name": "filete de pescado a la plancha", "Price": 1800}
+                    ]
+                },
+                {
+                    "Tacos": [null]
+                }
+            ]
+        },
+        {
+            "Category": "For Your Diet",
+            "Products": [null]
+        },
+        {
+            "Category": "Pasta",
+            "Products": [
+                {"Name": "lasagna queso gouda", "Price": 1420},
+                {"Name": "spaghettis de queso gouda", "Price": 1100}
+            ]
+        },
+        {
+            "Category": "Pizzas",
+            "Products": [
+                {"Name": "pizza de queso gouda", "Price": 850}
+            ]
+        },
+        {
+            "Category": "Sandwich",
+            "Products": [null]
+        },
+        {
+            "Category": "Additions",
+            "Products": [null]
+        },
+        {
+            "Category": "Fittings(guarniciones)",
+            "Products": [
+                {"Name": "arroz frito", "Price": 1280},
+                {"Name": "arroz blanco", "Price": 200},
+                {"Name": "pure de malanga", "Price": 335},
+                {"Name": "ensalada mixta de estacion", "Price": 425}
+            ]
+        },
+        {
+            "Category": "Soups and Creams",
+            "Products": [null]
+        },
+        {
+            "Category": "Desserts",
+            "Products": [null]
+        },
+        {
+            "Category": "Coffees & Infusions",
+            "Products": [null]
+        },
+        {
+            "Category": "Alcoholic Beverages",
+            "Products": [
+                {"Name": "cerveza importada", "Price": 210},
+                {"Name": "vino tinto", "Price": 2200}
+            ]
+        },
+        {
+            "Category": "Non-Alcoholic Beverages",
+            "Products": [
+                {"Name": "refrescos importados", "Price": 240},
+                {"Name": "malta importada", "Price": 250},
+                {"Name": "agua mineral", "Price": 190},
+                {"Name": "jugos importados", "Price": 210}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": [""],
+    "Payment Options": {
+        "Online payments": true,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+        }
+    },
+    "Social Media": {
+        "Facebook": false,
+        "Instagram": false
+    }
+}

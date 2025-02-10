@@ -1,0 +1,169 @@
+{
+    "Name": "Bar Tropicana",
+    "Zone": "Marianao",
+    "Location": "72A, Avenida 41",
+    "Place Type": "Bar",
+    "Food Type": "Internacional",
+    "Schedule":[
+        {"day": "monday", "open": "1200", "close": "2200"},
+        {"day": "tuesday", "open": "1200", "close": "2200"},
+        {"day": "wednesday", "open": "1200", "close": "2200"},
+        {"day": "thursday", "open": "1200", "close": "2200"},
+        {"day": "friday", "open": "1200", "close": "2200"},
+        {"day": "saturday", "open": "1200", "close": "2200"},
+        {"day": "sunday", "open": "1200", "close": "2200"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"picadera de la casa","Price": 650},
+                {"Name":"entremes de embutido y queso","Price": 400},
+                {"Name":"croquetas","Price": 250},
+                {"Name":"eperlan de pescado","Price": 600},
+                {"Name":"fajitas de pollo","Price": 500}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"lonjas de cerdo asada","Price": 2000},
+                        {"Name":"fricase de cerdo","Price": 2300},
+                        {"Name":"bistec de cerdo grille","Price": 1800},
+                        {"Name":"pollo asado","Price": 850},
+                        {"Name":"pollo frito","Price": 900},
+                        {"Name":"pollo deshuesado","Price": 900},
+                        {"Name":"filete mignnon","Price": 3000},
+                        {"Name":"steack de res","Price": 1400}
+                    ]
+                },
+                {
+                    "Fish and Seafood":[
+                        {"Name":"filete de pescado a la plancha","Price": 1500},
+                        {"Name":"filete de pescado gratinado con queso","Price": 1750},
+                        {"Name":"filete de pescado canciller","Price": 2000},
+                        {"Name":"langosta a la plancha","Price": 1800},
+                        {"Name":"langosta enchilada","Price": 1900}
+                    ]
+                },
+                {
+                    "Tacos":[
+                        {"Name":"tacos mexicanos de pollo","Price": 700},
+                        {"Name":"tacos mexicanos de cerdo","Price": 1400}
+                    ]
+                }
+            ]
+        },
+        {
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta ",
+            "Products":[
+                {"Name":"pasta napolitana","Price": 500}
+            ]
+        },
+        {
+            "Category":"Pizzas ",
+            "Products":[
+                {"Name":"pizza napolitana","Price": 500},
+                {"Name":"pizza campesina","Price": 1200},
+                {"Name":"pizza especial rodney (rellena con queso)","Price": 800},
+                {"Name":"pizza especial rodney (rellena con embutido)","Price": 900},
+                {"Name":"pizza super especial rodney (rellena con queso y varios embutidos)","Price": 1200}
+            ]
+        },
+        {
+            "Category":"Sandwich",
+            "Products":[
+                {"Name":"sandwich de un agrego","Price": 230},
+                {"Name":"sandwich de dos agregos","Price": 300}
+            ]
+        },
+        {
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                {"Name":"arroz rodney","Price": 780},
+                {"Name":"filete bacalao a la plancha","Price": 250},
+                {"Name":"arroz blanco","Price": 120},
+                {"Name":"ensalada de vegetales","Price": 120}
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[
+                {"Name":"sopa del dia","Price": 125},
+                {"Name":"crema aurora","Price": 350},
+                {"Name":"crema virginia","Price": 480},
+                {"Name":"crema de calabaza con queso","Price": 400}
+            ]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[null]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[null]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[null]
+        },
+        {
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[null]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Estatal",
+    "Phone": [null],
+    "Payment Options":{
+        "Online payments": true,
+        "Credit Card": false,
+        "Cash":{
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+        }
+    },
+    "Social Media":{
+        "Facebook": false,
+        "Instagram":false
+    }
+}
+

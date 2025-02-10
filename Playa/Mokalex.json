@@ -1,0 +1,167 @@
+{
+    "Name": "Mokalex",
+    "Zone": "Playa",
+    "Location": "Calle 47 #3417 e/ 34 y 36, Reparto Kholy, Playa, La Habana, Cuba, Havana, Cuba",
+    "Place Type": "Restaurante",
+    "Food Type": "Internacional",
+    "Schedule":[
+        {"day": "monday", "open": null, "close": null},
+        {"day": "tuesday", "open": "0900", "close": "1800"},
+        {"day": "wednesday", "open": "0900", "close": "1800"},
+        {"day": "thursday", "open": "0900", "close": "1800"},
+        {"day": "friday", "open": "0900", "close": "1800"},
+        {"day": "saturday", "open": "0900", "close": "1800"},
+        {"day": "sunday", "open": "0900", "close": "1400"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"empanada gallega","Price": 800},
+                {"Name":"tabla de embutidos y quesos","Price": 2300},
+                {"Name":"aceitunas","Price": 700},
+                {"Name":"croissant con nutella","Price": 1300},
+                {"Name":"croissant con jamon y queso","Price": 1800},
+                {"Name":"ensalada fria","Price": 800}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"arroz frito","Price": 1800},
+                        {"Name":"ensalada de humus con pechuga de pollo y vegetales", "Price": 1400}
+                    ]
+                },{
+                    "Fish and Seafood":[
+                        null
+                    ]
+                },{
+                    "Tacos":[null]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta ",
+            "Products":[
+                {"Name":"lasagna bolognesa","Price": 1800},
+                {"Name":"spaghetti con jamón","Price": 1500}
+            ]
+        },{
+            "Category":"Pizzas ",
+            "Products":[null]
+        },{
+            "Category":"Sandwich",
+            "Products":[
+                {"Name":"sandwich cubano","Price": 1500},
+                {"Name":"sandwich de jamón y queso","Price": 1300}
+            ]
+        },{
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[null]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"pastelería","Price": 350},
+                {"Name":"torta de la casa","Price": 700}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+                {"Name":"café exconvicto","Price": 400},
+                {"Name":"café yuma","Price": 400},
+                {"Name":"café suturado","Price": 500},
+                {"Name":"café conde","Price": 600},
+                {"Name":"café mulata","Price": 550},
+                {"Name":"frapuchino","Price": 800},
+                {"Name":"frapuhelado","Price": 900},
+                {"Name":"capuchino","Price": 800},
+                {"Name":"infusiones","Price": 300}
+            ]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"cerveza","Price": 450},
+                {"Name":"michelada","Price": 600},
+                {"Name":"copa de vino tinto","Price": 600},
+                {"Name":"copa de vino blanco","Price": 600},
+                {"Name":"crema catalana","Price": 800},
+                {"Name":"havana club especial","Price": 400},
+                {"Name":"havana club 7 años","Price": 600},
+                {"Name":"whisky j&b","Price": 800}
+            ]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"h2o natural","Price": 300},
+                {"Name":"h2o gaseada","Price": 400},
+                {"Name":"h2o gaseada importada","Price": 600},
+                {"Name":"refresco","Price": 400},
+                {"Name":"malta","Price": 500},
+                {"Name":"energizante","Price": 400},
+                {"Name":"jugos naturales","Price": 400},
+                {"Name":"jugo óxido rojo","Price": 600}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": true,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": true,
+        "Room Reservation": false
+    },
+    "State or Private": false,
+    "Phone": [false],
+    "Payment Options":{
+        "Online payments":false,
+        "Credit Card":false,
+        "Cash":{
+            "CUP":true,
+            "EUR":false,
+            "USD":false
+        }
+    }, 
+    "Social Media":{
+        "Facebook": "https://www.facebook.com/people/Mokal%C3%A9x/100090418757162/",
+        "Instagram":"@mokalex_cuba"
+    }
+}

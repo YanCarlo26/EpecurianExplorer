@@ -1,0 +1,165 @@
+{
+    "Name": "Vale & Vane",
+    "Zone": "Guanabacoa",
+    "Location": "Guanabacoa",
+    "Place Type": "Restaurante",
+    "Food Type": "Italiana y Criolla",
+    "Schedule": [
+        {"day": "tuesday", "open": "09:00", "close": "21:00"},
+        {"day": "wednesday", "open": "09:00", "close": "21:00"},
+        {"day": "thursday", "open": "09:00", "close": "21:00"},
+        {"day": "friday", "open": "09:00", "close": "21:00"},
+        {"day": "saturday", "open": "09:00", "close": "21:00"},
+        {"day": "sunday", "open": "09:00", "close": "21:00"}
+    ],
+    "Menu": [
+        {
+            "Category": "Entrants(tapas)",
+            "Products": [null]
+        },
+        {
+            "Category": "Chef's Recommendation",
+            "Products": [null]
+        },
+        {
+            "Category": "Main courses",
+            "Products": [
+                {
+                    "Meat, Poultry and Game": [
+                        {"Name": "chuleta de cerdo", "Price": 1100},
+                        {"Name": "bistec cerdo grille", "Price": 1200},
+                        {"Name": "masa de cerdo frita", "Price": 1300},
+                        {"Name": "bistec encebollado", "Price": 1450},
+                        {"Name": "costilla cerdo", "Price": 1650},
+                        {"Name": "lomo ahumado", "Price": 1400},
+                        {"Name": "uruguayo", "Price": 1600},
+                        {"Name": "bistec princesa", "Price": 1720},
+                        {"Name": "garbanzo frito", "Price": 1300},
+                        {"Name": "pollo frito", "Price": 1000},
+                        {"Name": "suprema grille", "Price": 1400},
+                        {"Name": "bistec princesa", "Price": 1920},
+                        {"Name": "suprema encebollada", "Price": 1650}
+                    ]
+                },
+                {
+                    "Fish and Seafood": [
+                        {"Name": "filete pescado grille", "Price": 1800},
+                        {"Name": "camaron grille", "Price": 1800},
+                        {"Name": "enchilado camaron", "Price": 1850},
+                        {"Name": "mar y tierra", "Price": 2500},
+                        {"Name": "vaca frita", "Price": 1600},
+                        {"Name": "ropa vieja", "Price": 1600}
+                    ]
+                },
+                {
+                    "Tacos": [null]
+                }
+            ]
+        },
+        {
+            "Category": "For Your Diet",
+            "Products": [null]
+        },
+        {
+            "Category": "Pasta",
+            "Products": [
+                {"Name": "spaghetti napolitano", "Price": 650},
+                {"Name": "spaghetti con jamon", "Price": 900},
+                {"Name": "spaghetti con chorizo", "Price": 900},
+                {"Name": "spaghetti doble queso", "Price": 920}
+            ]
+        },
+        {
+            "Category": "Pizzas",
+            "Products": [
+                {"Name": "pizza napolitana", "Price": 350},
+                {"Name": "pizza napolitana", "Price": 650},
+                {"Name": "pizza familiar", "Price": 2500}
+            ]
+        },
+        {
+            "Category": "Sandwich",
+            "Products": [null]
+        },
+        {
+            "Category": "Additions",
+            "Products": [null]
+        },
+        {
+            "Category": "Fittings(guarniciones)",
+            "Products": [null]
+        },
+        {
+            "Category": "Soups and Creams",
+            "Products": [null]
+        },
+        {
+            "Category": "Desserts",
+            "Products": [null]
+        },
+        {
+            "Category": "Coffees & Infusions",
+            "Products": [null]
+        },
+        {
+            "Category": "Alcoholic Beverages",
+            "Products": [
+                {"Name": "cerveza cristal (lata)", "Price": 280},
+                {"Name": "cerveza cristal (botella)", "Price": 380},
+                {"Name": "cerveza hollandia", "Price": 250},
+                {"Name": "cerveza wild hill", "Price": 250}
+            ]
+        },
+        {
+            "Category": "Non-Alcoholic Beverages",
+            "Products": [
+                {"Name": "tigon", "Price": 280},
+                {"Name": "agua natural", "Price": 180},
+                {"Name": "refresco lata", "Price": 250},
+                {"Name": "malta hyper malta", "Price": 270},
+                {"Name": "malta bucanero", "Price": 300},
+                {"Name": "jugo natural (cajita)", "Price": 200},
+                {"Name": "jugo natural (lata)", "Price": 270}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": null,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": [null],
+    "Payment Options": {
+        "Online payments": true,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+        }
+    },
+    "Social Media": {
+        "Facebook": true,
+        "Instagram": true
+    }
+}

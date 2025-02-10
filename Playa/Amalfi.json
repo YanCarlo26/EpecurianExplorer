@@ -1,0 +1,207 @@
+{
+    "Name": "Amalfi",
+    "Zone": "Playa",
+    "Location": {
+        "latitude": 23.118857756567763,
+        "longitude": -82.42952136001638
+    },
+    "Place Type": "bar - restaurante",
+    "Food Type": ["italiana", "mediterranea", "europea"],
+    "Schedule":[
+        {"day": "monday", "open": "1200", "close": "2230"},
+        {"day": "tuesday", "open": "1200", "close": "2230"},
+        {"day": "wednesday", "open": "1200", "close": "2230"},
+        {"day": "thursday", "open": "1200", "close": "2230"},
+        {"day": "friday", "open": "1200", "close": "2230"},
+        {"day": "saturday", "open": "1200", "close": "2230"},
+        {"day": "sunday", "open": "1200", "close": "2230"}
+    ],
+    "Menu": [
+        {
+            "Category": "Entrants(tapas)",
+            "Products": [
+                {"Name": "bruschetta", "Price": 1600},
+                {"Name": "bruschetta amalfi", "Price": 1920},
+                {"Name": "focaccia clasica", "Price": 1280},
+                {"Name": "parmigiana", "Price": 2240},
+                {"Name": "carpaccio pulpo", "Price": 3840},
+                {"Name": "carpaccio res", "Price": 4160},
+                {"Name": "carpaccio atun", "Price": 3520},
+                {"Name": "focaccia 500", "Price": 1280},
+                {"Name": "focaccia con prosciutto", "Price": 3840},
+                {"Name": "focaccia pomodoro e rucola", "Price": 2560},
+                {"Name": "focaccia salume del giorno e formaggio", "Price": 3200}
+            ]
+        },
+        {
+            "Category": "Chef's Recommendation",
+            "Products": [null]
+        },
+        {
+            "Category": "Main courses",
+            "Products": [
+                {
+                    "Meat, Poultry and Game": [
+                        {"Name": "salsiccia italiana la plancha", "Price": 3840}
+                    ]
+                },
+                {
+                    "Fish and Seafood": [
+                        {"Name": "fantasia di mare", "Price": 4800},
+                        {"Name": "gambari al limone", "Price": 3840},
+                        {"Name": "profumo mediterraneo", "Price": 5120}
+                    ]
+                },
+                {
+                    "Tacos": [null]
+                }
+            ]
+        },
+        {
+            "Category": "For Your Diet",
+            "Products": [null]
+        },
+        {
+            "Category": "Pasta",
+            "Products": [
+                {"Name": "pomodoro fresco", "Price": 3520},
+                {"Name": "carbonara", "Price": 3520},
+                {"Name": "amatriciana", "Price": 3520},
+                {"Name": "carbonara salsiccia", "Price": 3840},
+                {"Name": "puttanesca", "Price": 3840},
+                {"Name": "ragu malale", "Price": 3840},
+                {"Name": "zucca e salsiccia", "Price": 3840},
+                {"Name": "funghi e salsiccia", "Price": 4800},
+                {"Name": "penne a la sorrentina", "Price": 3840},
+                {"Name": "spaghetti con bottarga", "Price": 3200},
+                {"Name": "penne al salmon", "Price": 3840},
+                {"Name": "pasta amalfi", "Price": 3840},
+                {"Name": "spaghetti cetara", "Price": 3840},
+                {"Name": "linguine con calamar", "Price": 5120},
+                {"Name": "pasta mediterranea", "Price": 5120}
+            ]
+        },
+        {
+            "Category": "Pizzas",
+            "Products": [
+                {"Name": "pizza margarita", "Price": 1920},
+                {"Name": "pizza de la casa", "Price": 3520},
+                {"Name": "pizza vegetariana", "Price": 2560},
+                {"Name": "pizza mixta", "Price": 3200},
+                {"Name": "pizza de atun", "Price": 3200},
+                {"Name": "pizza de brocoli y salchicha", "Price": 2880},
+                {"Name": "pizza diavola", "Price": 3880},
+                {"Name": "pizza de serrano", "Price": 3200},
+                {"Name": "pizza romana", "Price": 3200},
+                {"Name": "pizza de jamon barra", "Price": 2560}
+            ]
+        },
+        {
+            "Category": "Sandwich",
+            "Products": [null]
+        },
+        {
+            "Category": "Additions",
+            "Products": [
+                {"Name": "ensalada de estacion", "Price": 1280},
+                {"Name": "ensalada positano", "Price": 1920},
+                {"Name": "ensalada ravello", "Price": 1920},
+                {"Name": "ensalada vettica", "Price": 1920}
+            ]
+        },
+        {
+            "Category": "Fittings(guarniciones)",
+            "Products": [null]
+        },
+        {
+            "Category": "Soups and Creams",
+            "Products": [null]
+        },
+        {
+            "Category": "Desserts",
+            "Products": [
+                {"Name": "torta al limon", "Price": 1280},
+                {"Name": "tortino al cioccolato", "Price": 1600},
+                {"Name": "profiterol", "Price": 1280},
+                {"Name": "tiramisu", "Price": 1280},
+                {"Name": "tiramisu pan di stelle", "Price": 1600},
+                {"Name": "delicia del dia", "Price": 1280}
+            ]
+        },
+        {
+            "Category": "Coffees & Infusions",
+            "Products": [null]
+        },
+        {
+            "Category": "Alcoholic Beverages",
+            "Products": [
+                {"Name": "cerveza", "Price": 980},
+                {"Name": "daiquiri", "Price": 1400},
+                {"Name": "cuba libre", "Price": 1400},
+                {"Name": "cubanito", "Price": 1400},
+                {"Name": "cubata", "Price": 1400},
+                {"Name": "mojito", "Price": 1400},
+                {"Name": "caipiroska", "Price": 1400},
+                {"Name": "caipirinna", "Price": 1400},
+                {"Name": "caipirissima", "Price": 1400},
+                {"Name": "sangria", "Price": 1400},
+                {"Name": "margarita", "Price": 1400},
+                {"Name": "gin tonic", "Price": 1400},
+                {"Name": "pina colada", "Price": 1400},
+                {"Name": "negroni", "Price": 2240},
+                {"Name": "copa de vino", "Price": 1260},
+                {"Name": "copa de vino italiano", "Price": 1680}
+            ]
+        },
+        {
+            "Category": "Non-Alcoholic Beverages",
+            "Products": [
+                {"Name": "agua nacional", "Price": 500},
+                {"Name": "agua importada", "Price": 850},
+                {"Name": "refresco nacional", "Price": 420},
+                {"Name": "refresco importado", "Price": 750},
+                {"Name": "limonada", "Price": 840},
+                {"Name": "jugo natural", "Price": 700}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": true
+    },
+    "State or Private": false,
+    "Phone": [false],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+        }
+    },
+    "Social Media": {
+        "Facebook": "Amalfi",
+        "Instagram": "@amalfi_havana_restaurant"
+    }
+}

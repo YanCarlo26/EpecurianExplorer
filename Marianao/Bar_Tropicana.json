@@ -1,0 +1,125 @@
+{
+    "Name": "Bar Tropicana",
+    "Zone": "Marianao",
+    "Location": "72A, Avenida 41",
+    "Place Type": "Bar",
+    "Food Type": false ,
+    "Schedule":[
+        {"day": "monday", "open": "12:00", "close": "22:00"},
+        {"day": "tuesday", "open": "12:00", "close": "22:00"},
+        {"day": "wednesday", "open": "12:00", "close": "22:00"},
+        {"day": "thursday", "open": "12:00", "close": "22:00"},
+        {"day": "friday", "open": "12:00", "close": "22:00"},
+        {"day": "saturday", "open": "12:00", "close": "22:00"},
+        {"day": "sunday", "open": "12:00", "close": "22:00"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[null]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [null]
+                },
+                {
+                    "Fish and Seafood":[null]
+                },
+                {
+                    "Tacos":[null]
+                }
+            ]
+        },
+        {
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta ",
+            "Products":[null]
+        },
+        {
+            "Category":"Pizzas ",
+            "Products":[null]
+        },
+        {
+            "Category":"Sandwich",
+            "Products":[null]
+        },
+        {
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[null]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[null]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[null]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[null]
+        },
+        {
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[null]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": "Show",
+        "Room Reservation": false
+    },
+    "State or Private": "estatal",
+    "Phone": [""],
+    "Payment Options":{
+        "Online payments": "true",
+        "Credit Card": false,
+        "Cash":{
+            "CUP": "efectivo",
+            "EUR": false,
+            "USD": false
+        }
+    },
+    "Social Media":{
+        "Facebook": "",
+        "Instagram":""
+    }
+}
+
+

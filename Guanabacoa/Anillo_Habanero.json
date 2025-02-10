@@ -1,0 +1,184 @@
+{
+    "Name": "Anillo Habanero",
+    "Zone": "Guanabacoa",
+    "Location": "Primer Anillo de La Habana",
+    "Place Type": "Restaurante",
+    "Food Type": "Internacional",
+    "Schedule":[
+        {"day": "monday", "open": "1000", "close": "2300"},
+        {"day": "tuesday", "open": "1000", "close": "2300"},
+        {"day": "wednesday", "open": "1000", "close": "2300"},
+        {"day": "thursday", "open": "1000", "close": "2300"},
+        {"day": "friday", "open": "1000", "close": "2300"},
+        {"day": "saturday", "open": "1000", "close": "2300"},
+        {"day": "sunday", "open": "1000", "close": "2300"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"picadera anillo","Price": 3000},
+                {"Name":"croquetas habaneras","Price": 400},
+                {"Name":"nachos, salsa rosa y guacamole","Price": 400},
+                {"Name":"brochetas","Price": 1300},
+                {"Name":"coctel de camarones","Price": 2000},
+                {"Name":"frituras","Price": 300},
+                {"Name":"tostones rellenos","Price": 550}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"lomo ahumado","Price": 2000},
+                        {"Name":"chuletas de cerdo","Price": 3000},
+                        {"Name":"ropa vieja","Price": 3000},
+                        {"Name":"vaca frita","Price": 3000}
+                    ]
+                },
+                {
+                    "Fish and Seafood":[
+                        {"Name":"camarones enchilados","Price": 3500},
+                        {"Name":"camarones al ajillo","Price": 3500}
+                    ]
+                },
+                {
+                    "Tacos":[
+                        {"Name":"tacos de vegetales","Price": 600},
+                        {"Name":"tacos de pollo","Price": 800}
+                    ]
+                }
+            ]
+        },
+        {
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta ",
+            "Products":[
+                {"Name":"spaghettis napoles","Price": 850}
+            ]
+        },
+        {
+            "Category":"Pizzas ",
+            "Products":[
+                {"Name":"pizza napolitana","Price": 800}
+            ]
+        },
+        {
+            "Category":"Sandwich",
+            "Products":[null]
+        },
+        {
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[null]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"tarta de vainilla","Price": 750},
+                {"Name":"cheesecake de limon","Price": 750},
+                {"Name":"coctel de frutas importadas","Price": 350}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+                {"Name":"expresso","Price": 100},
+                {"Name":"cortadito","Price": 200},
+                {"Name":"capuchino","Price": 250}
+            ]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"michelada","Price": 600},
+                {"Name":"margarita","Price": 800},
+                {"Name":"caipiroska","Price": 800},
+                {"Name":"cocteles analcoholicos","Price": 500},
+                {"Name":"caipirisima","Price": 800},
+                {"Name":"vodka tonic","Price": 900},
+                {"Name":"screwdriver","Price": 800},
+                {"Name":"gin tonic","Price": 900},
+                {"Name":"agua marina","Price": 800},
+                {"Name":"cancha","Price": 800},
+                {"Name":"tinto de verano","Price": 800},
+                {"Name":"limonada frappe","Price": 250},
+                {"Name":"daiquiri","Price": 800},
+                {"Name":"chelada","Price": 450},
+                {"Name":"pinna colada","Price": 1000},
+                {"Name":"sangria","Price": 1000},
+                {"Name":"cerveza nacional","Price": 350},
+                {"Name":"cerveza importada","Price": 300},
+                {"Name":"trago jonny walker","Price": 500},
+                {"Name":"william lawsons","Price": 350},
+                {"Name":"lyubov vodka","Price": 200}
+            ]
+        },
+        {
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"energizantes importados","Price": 500},
+                {"Name":"maltas importadas","Price": 320},
+                {"Name":"pepsi refresco gaseado","Price": 400},
+                {"Name":"jugos naturales","Price": 250},
+                {"Name":"agua natural","Price": 200},
+                {"Name":"kermato","Price": 700},
+                {"Name":"refrescos importados","Price": 300}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": true,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": [""],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+        }
+    },
+    "Social Media":{
+        "Facebook": "Facebook",
+        "Instagram": "Instagram"
+    }
+}

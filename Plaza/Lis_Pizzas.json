@@ -1,0 +1,187 @@
+{
+    "Name": "Doña Lis Pizza",
+    "Zone": "Plaza de la Revolución",
+    "Location": "4JPC+W87, 1169 A Neptuno, La Habana",
+    "Place Type": "Bar",
+    "Food Type": "Internacional",
+    "Schedule": [
+        {"day": "monday", "open": "1030", "close": "2400"},
+        {"day": "tuesday", "open": "1030", "close": "2400"},
+        {"day": "wednesday", "open": "1030", "close": "2400"},
+        {"day": "thursday", "open": "1030", "close": "2400"},
+        {"day": "friday", "open": "1030", "close": "2400"},
+        {"day": "saturday", "open": "1030", "close": "2400"},
+        {"day": "sunday", "open": "1030", "close": "2400"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"Croquetas","Price": 400.00},
+                {"Name":"Bolitas de queso/jamón","Price": 500.00},
+                {"Name":"Bolitas de pescado","Price": 450.00},
+                {"Name":"Frituras Malanga","Price": 350.00},
+                {"Name":"Papas fritas","Price": 500.00},
+                {"Name":"Fajitas de pollo","Price": 600.00},
+                {"Name":"Tostones rellenos","Price": 500.00},
+                {"Name":"Nachos","Price": 300.00},
+                {"Name":"Ración Yuca/Mojo","Price": 250.00}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    "Meat, Poultry and Game": [
+                        {"Name":"Don Hamburgueso/Vianda frita","Price": 550.00},
+                        {"Name":"Hamburguesa Doña Lis/Vianda frita","Price": 1000.00},
+                        {"Name":"Cheeseburger/Vianda frita","Price": 650.00},
+                        {"Name":"Pechuga Grillé","Price": 800.00},
+                        {"Name":"Pechuga empanada","Price": 850.00},
+                        {"Name":"Fajitas salteadas","Price": 700.00},
+                        {"Name":"Bistec de cerdo","Price": 900.00},
+                        {"Name":"Bistec de cerdo gratinado","Price": 1000.00}
+                    ]
+                },{
+                    "Fish and Seafood":[
+                        {"Name":"Filete de pescado grillé","Price": 900.00}
+                    ]
+                },{
+                    "Tacos":[
+                        {"Name":"Tacos al Pastor","Price": 700.00},
+                        {"Name":"Tacos Cerdo","Price": 800.00},
+                        {"Name":"Tacos Pollo/Vegetales","Price": 700.00},
+                        {"Name":"Tacos de pescado","Price": 750.00}
+                    ]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Pasta ",
+            "Products":[
+                {"Name":"Lasaña","Price": 800.00},
+                {"Name":"Pasta Napolitana","Price": 500.00},
+                {"Name":"Pasta Vegetariana","Price": 650.00}
+            ]
+        },{
+            "Category":"Pizzas ",
+            "Products":[
+                {"Name":"Pizza napolitana","Price": 650.00},
+                {"Name":"Pizza Margarita","Price": 700.00},
+                {"Name":"Pizza Hawaiana","Price": 900.00},
+                {"Name":"Pizza Doña Lis","Price": 1400.00}
+            ]
+        },{
+            "Category":"Sandwich",
+            "Products":[
+                {"Name":"Sándwich Atún/Vianda frita","Price": 650.00},
+                {"Name":"Sándwich Jamón y Queso/Vianda frita","Price": 550.00},
+                {"Name":"Sándwich Pollo y Vegetales/Vianda frita","Price": 650.00}
+            ]
+        },{
+            "Category":"Additions",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"Pote de helado","Price": 750.00},
+                {"Name":"Paleta de helado","Price": 200.00}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"Servicio Michelada","Price": 300.00},
+                {"Name":"Servicio Chelada","Price": 200.00},
+                {"Name":"Cerveza Nacional","Price": 300.00},
+                {"Name":"Cerveza de botella","Price": 300.00},
+                {"Name":"Cerveza Importada","Price": 280.00}
+            ]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"Jugo natural","Price": 150.00},
+                {"Name":"Batido de fruta","Price": 350.00},
+                {"Name":"Batido de Trigo","Price": 500.00},
+                {"Name":"Malteada","Price": 500.00},
+                {"Name":"Batido de Helado","Price": 500.00},
+                {"Name":"Limonada Frappé","Price": 300.00},
+                {"Name":"Malta","Price": 300.00},
+                {"Name":"Energizante","Price": 250.00},
+                {"Name":"Refresco","Price": 280.00},
+                {"Name":"Agua","Price": 180.00}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": ["5510909"],
+    "Payment Options": {
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+        }
+    },
+    "Social Media": {
+        "Facebook": "https://www.facebook.com/groups/332631921199459/user/100092583440020",
+        "Instagram": "https://www.instagram.com/donalis_pizza/"
+    }
+}

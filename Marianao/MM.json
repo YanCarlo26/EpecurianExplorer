@@ -1,0 +1,184 @@
+{
+    "Name": "MMCafeteria",
+    "Zone": "Marianao",
+    "Location": "Avenida 41",
+    "Place Type": "Restaurante",
+    "Food Type": "Internacional",
+    "Schedule":[
+        {"day": "monday", "open": "0900", "close": "1000"},
+        {"day": "tuesday", "open": "0900", "close": "1000"},
+        {"day": "wednesday", "open": "0900", "close": "1000"},
+        {"day": "thursday", "open": "0900", "close": "1000"},
+        {"day": "friday", "open": "0900", "close": "1000"},
+        {"day": "saturday", "open": "0900", "close": "1000"},
+        {"day": "sunday", "open": "0900", "close": "1000"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"papas fritas","Price": 650},
+                {"Name":"croquetas","Price": 550},
+                {"Name":"fritura de malanga","Price": 550},
+                {"Name":"tostones rellenos","Price": 650},
+                {"Name":"ensalada fria de jamon","Price": 800},
+                {"Name":"ensalada fria de atun","Price": 900},
+                {"Name":"fajitas de pechuga salteada","Price": 1200},
+                {"Name":"fajitas de pechuga empanada","Price": 1450},
+                {"Name":"fajitas de cerdo salteadas","Price": 1300},
+                {"Name":"fajitas de cerdo empanada","Price": 1350},
+                {"Name":"eperlan","Price": 1350},
+                {"Name":"coctel de camarones","Price": 2100}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"bistec de cerdo grille","Price": 1400},
+                        {"Name":"cerdo bistec empanizado","Price": 1600},
+                        {"Name":"bistec de cerdo uruguayo","Price": 1950},
+                        {"Name":"masa de cerdo salteada","Price": 1350},
+                        {"Name":"lomo de cerdo","Price": 1500},
+                        {"Name":"fricase de cerdo ","Price": 1400},
+                        {"Name":"bistec de pollo gordon blue","Price": 1900},
+                        {"Name":"bistec de pechuga gordon blue","Price": 1900},
+                        {"Name":"pechuga de pollo grille","Price": 1500},
+                        {"Name":"pechuga de pollo empanada","Price": 1400},
+                        {"Name":"vaca frita","Price": 1900},
+                        {"Name":"ropa vieja","Price": 1900}
+                    ]
+                },
+                {
+                    "Fish and Seafood":[
+                        {"Name":"pescado grille", "Price": 1500},
+                        {"Name":"pescado empanizado", "Price": 1900},
+                        {"Name":"enchilado de camaron", "Price": 1400},
+                        {"Name":"camaron al ajillo", "Price": 1700},
+                        {"Name":"camaron empanado", "Price": 2000},
+                        {"Name":"canciller 190grs", "Price": 2000},
+                        {"Name":"langosta", "Price": 2100},
+                        {"Name":"cazuela de mariscos", "Price": 2100},
+                        {"Name":"canciller 180 grs", "Price": 2000}
+                    ]
+                },
+                {
+                    "Tacos":[null]
+                }
+            ]
+        },
+        {
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta ",
+            "Products":[
+                {"Name":"crema de queso","Price": 800},
+                {"Name":"lasagnna bolonnesa","Price": 1700},
+                {"Name":"espaguettis napolitano","Price": 700}
+            ]
+        },
+        {
+            "Category":"Pizzas ",
+            "Products":[
+                {"Name":"pizzas napolitanas, 32 cm","Price": 750},
+                {"Name":"pizzas jamon","Price": 1100},
+                {"Name":"pizzas bacon","Price": 1650},
+                {"Name":"pizzas pimiento","Price": 1050},
+                {"Name":"pizzas cebolla","Price": 950},
+                {"Name":"pizzas hawaiana","Price": 1350},
+                {"Name":"pizzas atun","Price": 1650},
+                {"Name":"pizzas camaron","Price": 1350},
+                {"Name":"pizzas ropa vieja","Price": 1500},
+                {"Name":"pizzas de chorizo","Price": 1100},
+                {"Name":"pizzas mm","Price": 1800}
+            ]
+        },
+        {
+            "Category":"Sandwich",
+            "Products":[null]
+        },
+        {
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                {"Name":"arroz blanco","Price": 200},
+                {"Name":"arroz congri","Price": 300},
+                {"Name":"arroz frito","Price": 1550},
+                {"Name":"arroz imperial","Price": 1650},
+                {"Name":"paella","Price": 2100},
+                {"Name":"arroz frito de cerdo, pollo y mejillon","Price": 1450}
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"helado cid","Price": 850}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[null]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[null]
+        },
+        {
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[null]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music":true,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Estatal",
+    "Phone": [null],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+        }
+    },
+    "Social Media":{
+        "Facebook": false,
+        "Instagram":false
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "Name": "Coco Blue",
+    "Zone": "Plaza de la Revolución",
+    "Location": "4HJW+C3 La Habana, Cuba",
+    "Place Type": "Bar",
+    "Food Type": "Tapas",
+    "Schedule":[
+        {"day": "monday", "open": null, "close": null},
+        {"day": "tuesday", "open": null, "close": null},
+        {"day": "wednesday", "open": null, "close": null},
+        {"day": "thursday", "open": "1000", "close": "0030"},
+        {"day": "friday", "open": "1000", "close": "0030"},
+        {"day": "saturday", "open": "1000", "close": "0030"},
+        {"day": "sunday", "open": "1000", "close": "0030"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"NACHOS","Price": 400.00},
+                {"Name":"BONIATO FRITO","Price": 500.00},
+                {"Name":"FRITURAS DE MALANGA","Price": 700.00},
+                {"Name":"CROQUETAS DE PESCADO","Price": 1000.00},
+                {"Name":"CROQUETAS DE RES","Price": 1100.00},
+                {"Name":"CEVICHE","Price": 1600.00},
+                {"Name":"FAJITAS DE POLLO","Price": 1200.00}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"BISTEC DE POLLO","Price": 2000.00},
+                        {"Name":"ROPA VIEJA","Price": 2100.00}
+                    ]
+                },
+                {
+                    "Fish and Seafood":[
+                        {"Name":"FILETE DE PESCADO","Price": 2000.00}
+                    ]
+                },
+                {
+                    "Tacos":[
+                        {"Name":"TACOS DE POLLO","Price": 1100.00},
+                        {"Name":"TACOS DE VEGETALES","Price": 1000.00},
+                        {"Name":"TACOS DE RES","Price": 1200.00}
+                    ]
+                }
+            ]
+        },
+        {
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta ",
+            "Products":[
+                {"Name":"ESPAGUETTI NAPOLITANO","Price": 1600.00}
+            ]
+        },
+        {
+            "Category":"Pizzas ",
+            "Products":[null]
+        },
+        {
+            "Category":"Sandwich",
+            "Products":[
+                {"Name":"SANDWICH ZORRA PELUA","Price": 1600.00}
+            ]
+        },
+        {
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[null]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"CASCOS DE GUAYABA","Price": 800.00}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+                {"Name":"Expresso","Price": 400.00},
+                {"Name":"Cortado","Price": 450.00},
+                {"Name":"Capuccino","Price": 500.00},
+                {"Name":"Frappuccino","Price": 600.00},
+                {"Name":"Americano","Price": 350.00}
+            ]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"Importadas","Price": 500.00},
+                {"Name":"Nacional","Price": 550.00},
+                {"Name":"Cristal dispensada","Price": 400.00},
+                {"Name":"Cubetazo","Price": 2800.00},
+                {"Name":"Mojito","Price": 700.00},
+                {"Name":"Cuba Libre","Price": 700.00},
+                {"Name":"Cubata","Price": 600.00},
+                {"Name":"Daiquirí","Price": 700.00},
+                {"Name":"Daiquirí de Sabores","Price": 750.00},
+                {"Name":"Caipiriña","Price": 600.00},
+                {"Name":"Caipiroska Base","Price": 570.00},
+                {"Name":"Caipirísima","Price": 650.00},
+                {"Name":"Piña Colada","Price": 700.00},
+                {"Name":"Chelada","Price": 880.00},
+                {"Name":"Michelada","Price": 900.00},
+                {"Name":"Sangría","Price": 1100.00},
+                {"Name":"Margarita","Price": 800.00},
+                {"Name":"Long Island","Price": 1100.00},
+                {"Name":"Jagger Bomb","Price": 1000.00},
+                {"Name":"Blue Lagon","Price": 1100.00}
+            ]
+        },
+        {
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"Frutas","Price": 450.00},
+                {"Name":"Natural","Price": 450.00},
+                {"Name":"Frappé","Price": 500.00},
+                {"Name":"Frescura","Price": 600.00},
+                {"Name":"Natural","Price": 450.00},
+                {"Name":"Tónica","Price": 500.00},
+                {"Name":"Gaseada","Price": 600.00},
+                {"Name":"Refrescos","Price": 500.00},
+                {"Name":"Energizante","Price": 700.00}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area":true,
+        "Bar": true,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": true,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": true,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": ["59121916", "78374828"],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+        "CUP": true,
+        "EUR": false,
+        "USD": false
+    }} , 
+    "Social Media":{
+        "Facebook": "https://www.facebook.com/cocoblueylazorrapelua",
+        "Instagram":"https://www.instagram.com/cocoblueylazorrapelua/"
+    }
+}

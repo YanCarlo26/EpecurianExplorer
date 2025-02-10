@@ -1,0 +1,189 @@
+{
+    "Name": "Asia Cuba",
+    "Zone": "Plaza de la Revolución, La Habana",
+    "Location": "Calle 6 ##562 entre 23 y 25, Vedado",
+    "Place Type": "Bar-Restaurante",
+    "Food Type": "Comida asiática",
+    "Schedule": [
+        {"day":"monday","Open": "0730","close":"1100"},  
+        {"day":"tuesday","Open": "0730","close":"1100"},
+        {"day":"wednesday","Open": null,"close":null},
+        {"day":"thursday","Open": "0730", "close":"1100"}, 
+        {"day":"friday","Open": "0730" ,"close":"1100"},
+        {"day":"saturday","Open": "0730" , "close":"1100"},
+        {"day":"sunday","Open": "0730" , "close":"1100"}
+    ],
+    "Menu": [
+        {
+            "Category": "Entrants(tapas)",
+            "Products": [
+                {"Name": "Caribe Zen Roll", "Price": 1840},
+                {"Name": "Tartar Sakura Tango Saigon", "Price": 2500},
+                {"Name": "Satay de Sumatra", "Price": 1550},
+                {"Name": "Croquetas Sonaderas de pollo/ropa vieja", "Price": 1800},
+                {"Name": "Mano del Dragón", "Price": 2080},
+                {"Name": "Rey Mono", "Price": 2080},
+                {"Name": "Dragón del mar", "Price": 2400}
+            ]
+        },
+        {
+            "Category": "Chef's Recommendation",
+            "Products": [
+                null
+            ]
+        },
+        {
+            "Category": "Main courses",
+            "Products": [
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name": "Brasa Patagonia", "Price": 6560},
+                        {"Name": "Brocheta Dak Galbi", "Price": 3840},
+                        {"Name": "Brocheta Gochu Vermounth Harmony", "Price": 4480},
+                        {"Name": "Char Siu Delhi", "Price": 4160},
+                        {"Name": "Ssamn Kimuchi Tropical", "Price": 3200}
+                    ]
+                },
+                {
+                    "Fish and Seafood": [
+                        {"Name": "Bonito Tai Red", "Price": 3840},
+                        {"Name": "Langosta Coco Verde", "Price": 5760},
+                        {"Name": "Dragón del mar", "Price": 2400},
+                        {"Name": "Nigiri Ika no Yume", "Price": 2400}
+                    ]
+                },{ "Tacos": [ null ]}
+            ]
+        },
+        {
+            "Category": "For Your Diet",
+            "Products": [
+                    null
+                ]
+        },{
+            "Category": "Pasta",
+            "Products": [null
+            ]
+        },{
+            "Category": "Pizzas",
+            "Products": [null]
+        },{
+            "Category": "Sandwich",
+            "Products": []
+        },{
+            "Category": "Additions",
+            "Products": []
+        },{
+            "Category": "Fittings(guarniciones)",
+            "Products": []
+        },{
+            "Category": "Soups and Creams",
+            "Products": []
+        },{
+            "Category": "Desserts",
+            "Products": [
+                {"Name": "Sensei borracho", "Price": 1920},
+                {"Name": "Maestro Shifu", "Price": 2080},
+                {"Name": "Mei Mei", "Price": 1800},
+                {"Name": "Maestro Shinobi", "Price": 1760}
+            ]
+        },{
+            "Category": "Coffees & Infusions",
+            "Products": []
+        },{
+            "Category": "Alcoholic Beverages",
+            "Products": [
+                {"Name": "Daiquirí", "Price": 900},
+                {"Name": "Daiquirí de fruta", "Price": 1100},
+                {"Name": "Gin Tonic Simple", "Price": 1400},
+                {"Name": "Margarita", "Price": 900},
+                {"Name": "Martini Dry", "Price": 1100},
+                {"Name": "Michelada", "Price": 1100},
+                {"Name": "Mojito", "Price": 900},
+                {"Name": "Negroni", "Price": 1200},
+                {"Name": "Aperol Spritz", "Price": 1400},
+                {"Name": "Bloody Mary", "Price": 1100},
+                {"Name": "Caipirísima", "Price": 900},
+                {"Name": "Caipiroska", "Price": 900},
+                {"Name": "Canchánchara", "Price": 900},
+                {"Name": "Coctel Danzon", "Price": 1200},
+                {"Name": "Coctel Mambo", "Price": 1200},
+                {"Name": "Coctel Son", "Price": 1500},
+                {"Name": "Coctel Tecno Sour", "Price": 1100},
+                {"Name": "Coctel Tango", "Price": 1200},
+                {"Name": "Cuba Libre", "Price": 900},
+                {"Name": "Cubanito", "Price": 1200},
+                {"Name": "Sambuca San Faustino", "Price": 600},
+                {"Name": "Old Fashioned", "Price": 1500},
+                {"Name": "Piña Colada", "Price": 1200},
+                {"Name": "Pisco Sour", "Price": 1400},
+                {"Name": "Sangría", "Price": 1500},
+                {"Name": "Penicillin", "Price": 1400},
+                {"Name": "Lemon song", "Price": 1100},
+                {"Name": "Okinawa spritz", "Price": 1400},
+                {"Name": "Crema Bailys", "Price": 950},
+                {"Name": "Frangelico", "Price": 1000},
+                {"Name": "Limoncello", "Price": 600},
+                {"Name": "Sirope de kiwi", "Price": 600},
+                {"Name": "Sirope de Manzana", "Price": 125},
+                {"Name": "Campari", "Price": 850},
+                {"Name": "Licor de Café", "Price": 740},
+                {"Name": "Whiskeys Jack Daniels", "Price": 1500},
+                {"Name": "Whiskeys Jim Bean", "Price": 1200},
+                {"Name": "Whiskeys Jhonny Walker Red Label", "Price": 1200},
+                {"Name": "Whiskeys Jamenson", "Price": 850},
+                {"Name": "Whiskys Jhonny Walker Black Label", "Price": 2000},
+                {"Name": "Ron Havana Club Pacto Navío", "Price": 2000},
+                {"Name": "Ron Havana Club 3 anos", "Price": 480},
+                {"Name": "Ron Havana Club 7 anos", "Price": 900},
+                {"Name": "Ron Santiago 8 anos", "Price": 950},
+                {"Name": "Ron Santiago 11 anos", "Price": 1250},
+                {"Name": "Ron Santiago 12 anos", "Price": 1650},
+                {"Name": "Eminente 3 anos", "Price": 3000},
+                {"Name": "Ron Black tears Roble Superior", "Price": 650},
+                {"Name": "Ron selección de Maestros", "Price": 3300}
+            ]
+        },{
+            "Category": "Non-Alcoholic Beverages",
+            "Products": [ null ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": true,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": true
+    },
+    "State or Private": "Private",
+    "Phone": ["50956929"],
+    "Payment Options": {
+        "Online payments": true,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+        }
+    },
+    "Social Media": {
+        "Facebook": false,
+        "Instagram": "https://www.instagram.com/reel/DFae9BTufHY/"
+    }
+}

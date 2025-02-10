@@ -1,0 +1,168 @@
+{
+    "Name": "Villarino",
+    "Zone": "Playa",
+    "Location": "avenida 33, calle 58,Playa",
+    "Place Type": "Bar - Restaurante",
+    "Food Type": "Internacional",
+    "Schedule":[
+        {"day": "monday", "open": "1200", "close": "2200"},
+        {"day": "tuesday", "open": "1200", "close": "2200"},
+        {"day": "wednesday", "open": "1200", "close": "2200"},
+        {"day": "thursday", "open": "1200", "close": "2200"},
+        {"day": "friday", "open": "1200", "close": "2200"},
+        {"day": "saturday", "open": "1200", "close": "2200"},
+        {"day": "sunday", "open": "1200", "close": "2200"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"crujientes de yuca con aderezo agridulce","Price": 480},
+                {"Name":"croquetas de la casa","Price": 520},
+                {"Name":"bolitas de queso crujientes","Price": 720},
+                {"Name":"sandwich clasico","Price": 520},
+                {"Name":"eperlan de pescado","Price": 720},
+                {"Name":"fajitas de pollo","Price": 680},
+                {"Name":"cazuelita de garbanzos a la criolla","Price": 680}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"arroz con pollo a la campesina","Price": 800},
+                        {"Name":"arroz frito especial","Price": 800},
+                        {"Name":"risotto","Price": 2250}
+                    ]
+                },{
+                    "Fish and Seafood":[null]
+                },{
+                    "Tacos":[null]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta ",
+            "Products":[
+                {"Name":"pasta de queso","Price": 850},
+                {"Name":"pasta de jamon","Price": 920},
+                {"Name":"pasta de chorizo","Price": 880},
+                {"Name":"pasta carbonara","Price": 950},
+                {"Name":"pasta villarino","Price": 1200},
+                {"Name":"lasagna de carne","Price": 850}
+            ]
+        },{
+            "Category":"Pizzas ",
+            "Products":[
+                {"Name":"pizza napolitana","Price": 700},
+                {"Name":"pizza cebolla","Price": 750},
+                {"Name":"pizza chorizo","Price": 780},
+                {"Name":"pizza doble queso","Price": 950},
+                {"Name":"pizza jamon","Price": 800},
+                {"Name":"pizza vegetales","Price": 800},
+                {"Name":"pizza hawaiana","Price": 880},
+                {"Name":"pizza de pollo","Price": 800},
+                {"Name":"pizza del mar","Price": 1200},
+                {"Name":"pizza de atun","Price": 950},
+                {"Name":"pizza de ropa vieja","Price": 950},
+                {"Name":"pizza de camarones","Price": 1200},
+                {"Name":"pizza al gusto","Price": 1000}
+            ]
+        },{
+            "Category":"Sandwich",
+            "Products":[
+                {"Name":"sandwich clasico","Price": 520}
+            ]
+        },{
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[null]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[null]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[null]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"cocteles nacionales","Price": 475},
+                {"Name":"cocteles internacionales","Price": 550},
+                {"Name":"copa de vino","Price": 350},
+                {"Name":"cervezas nacionales (cristal/bucanero)","Price": 260},
+                {"Name":"cervezas importadas","Price": 380}
+            ]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"agua natural","Price": 150},
+                {"Name":"agua tonica","Price": 300},
+                {"Name":"malta importada","Price": 280},
+                {"Name":"malteada","Price": 480},
+                {"Name":"red bull","Price": 220},
+                {"Name":"refrescos nacionales","Price": 220},
+                {"Name":"refrescos importados","Price": 235},
+                {"Name":"limonada frappe","Price": 200},
+                {"Name":"jugos naturales","Price": 180},
+                {"Name":"jugos importados","Price": 210}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": true,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": true,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space": true,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation":false
+    },
+    "State or Private": false,
+    "Phone": ["72077867"],
+    "Payment Options":{
+        "Online payments":false,
+        "Credit Card":false,
+        "Cash":{
+            "CUP":true,
+            "EUR":false,
+            "USD":false
+        }
+    }, 
+    "Social Media":{
+        "Facebook": "Restaurante Club Villarino",
+        "Instagram":"@villarino.restaurantehabana"
+    }
+}

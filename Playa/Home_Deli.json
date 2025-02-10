@@ -1,0 +1,150 @@
+{
+    "Name": "Home Deli",
+    "Zone": "Playa",
+    "Location": {
+        "latitude": 23.102013500945667,
+        "longitude": -82.43068481917766
+    },,
+    "Place Type": "Restaurante",
+    "Food Type": "Italiana",
+    "Schedule":[
+        {"day": "monday", "open": "0900", "close": "2100"},
+        {"day": "tuesday", "open": "0900", "close": "2100"},
+        {"day": "wednesday", "open": "0900", "close": "2100"},
+        {"day": "thursday", "open": "0900", "close": "2100"},
+        {"day": "friday", "open": "0900", "close": "2100"},
+        {"day": "saturday", "open": "0900", "close": "2100"},
+        {"day": "sunday", "open": "0900", "close": "2100"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"tabla mixta","Price": 0},
+                {"Name":"chips mariflye","Price": 380},
+                {"Name":"focaccina","Price": 400}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[
+                {"Name":"","Price": 0}
+            ]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [null]
+                },{
+                    "Fish and Seafood":[null]
+                },{
+                    "Tacos":[null]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta ",
+            "Products":[null]
+        },{
+            "Category":"Pizzas ",
+            "Products":[
+                {"Name":"pizza margarita","Price": 1900},
+                {"Name":"pizza baby","Price": 1100}
+            ]
+        },{
+            "Category":"Sandwich",
+            "Products":[
+                {"Name":"sandwich de queso gouda","Price": 1400},
+                {"Name":"sandwich de jamon serrano","Price": 1600},
+                {"Name":"sandwich de chorizo iberico","Price": 1300},
+                {"Name":"sandwich de mortadella","Price": 1300},
+                {"Name":"sandwich de jamon york","Price": 1300}
+            ]
+        },{
+            "Category":"Additions",
+            "Products":[
+                {"Name":"serrano","Price": 850},
+                {"Name":"chorizo iberico","Price": 550},
+                {"Name":"pepperoni","Price": 700},
+                {"Name":"jamon york","Price": 720},
+                {"Name":"mozarella","Price": 980},
+                {"Name":"gouda","Price": 700}
+            ]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[null]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"copa de helado","Price": 950}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+                {"Name":"expresso","Price": 250},
+                {"Name":"cortado","Price": 320},
+                {"Name":"americano","Price": 300},
+                {"Name":"con leche","Price": 450}
+            ]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"copa de vino","Price": 600},
+                {"Name":"vaso de cerveza","Price": 220},
+                {"Name":"jarra de cerveza","Price": 380}
+            ]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[null]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": true,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private", 
+    "Phone": ["59429273"], 
+    "Payment Options":{ 
+        "Online payments": false, 
+        "Credit Card": false, 
+        "Cash":{ 
+            "CUP": true, 
+            "EUR": false, 
+            "USD": false }} , 
+        "Social Media":{ 
+            "Facebook": "Home Deli", 
+            "Instagram": "@homedelicuba" 
+            } 
+        }

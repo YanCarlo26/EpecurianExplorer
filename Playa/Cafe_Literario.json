@@ -1,0 +1,144 @@
+{
+    "Name": "Café literario La Copa",
+    "Zone": "Playa",
+    "Location": {
+        "latitude": 23.118089959620736,
+        "longitude": -82.4323885782618
+    },
+    "Place Type": "Restaurante",
+    "Food Type": ["americana", "cubana"],
+    "Schedule":[
+        {"day": "monday", "open": "0900", "close": "1700"},
+        {"day": "tuesday", "open": "0900", "close": "1700"},
+        {"day": "wednesday", "open": "0900", "close": "1700"},
+        {"day": "thursday", "open": "0900", "close": "1700"},
+        {"day": "friday", "open": "0900", "close": "1700"},
+        {"day": "saturday", "open": "0900", "close": "1700"},
+        {"day": "sunday", "open": false, "close": false}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"croquetas con tostadas","Price": 500},
+                {"Name":"papas fritas","Price": 600},
+                {"Name":"croissant de jamon con queso","Price": 800},
+                {"Name":"croissant natural","Price": 500}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[
+                {"Name":"","Price": 0}
+            ]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [null]
+                },{
+                    "Fish and Seafood":[null]
+                },{
+                    "Tacos":[null]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta ",
+            "Products":[null]
+        },{
+            "Category":"Pizzas ",
+            "Products":[null]
+        },{
+            "Category":"Sandwich",
+            "Products":[
+                {"Name":"hot dog","Price": 600},
+                {"Name":"sandwich de jamon y queso","Price": 700},
+                {"Name":"pan con hamburguesa","Price": 700}]
+        },{
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[null]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"copa de helado","Price": 500}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+                {"Name":"cafe expresso","Price": 1500},
+                {"Name":"cafe cortado","Price": 200},
+                {"Name":"cafe bombon","Price": 350},
+                {"Name":"capuchino","Price": 400},
+                {"Name":"frapuccino","Price": 500}
+            ]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[null]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"agua natural","Price": 120},
+                {"Name":"malteada","Price": 500},
+                {"Name":"malta bucanero","Price": 300},
+                {"Name":"energizante","Price": 230},
+                {"Name":"jugo de lata","Price": 270},
+                {"Name":"suero helado","Price": 800}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": false,
+    "Phone": ["55094105"],
+    "Payment Options":{
+        "Online payments":false,
+        "Credit Card":false,
+        "Cash":{
+            "CUP":true,
+            "EUR":false,
+            "USD":false
+        }
+    }, 
+    "Social Media":{
+        "Facebook": false,
+        "Instagram":"@cafe.literario.lacopa"
+    }
+}

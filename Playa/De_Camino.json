@@ -1,0 +1,199 @@
+{
+    "Name": "D'kmino",
+    "Zone": "Playa",
+    "Location": "https://www.google.com/maps?q=23.11433698105626,-82.41322840010747",
+    "Place Type": "Restaurante",
+    "Food Type": "Caribeña, Latina, Cubana",
+    "Schedule":[
+        {"day": "monday", "open": "1100", "close": "2300"},
+        {"day": "tuesday", "open": "1100", "close": "2300"},
+        {"day": "wednesday", "open": "1100", "close": "2300"},
+        {"day": "thursday", "open": "1100", "close": "2300"},
+        {"day": "friday", "open": "1100", "close": "2300"},
+        {"day": "saturday", "open": "1100", "close": "2300"},
+        {"day": "sunday", "open": "1100", "close": "2300"}
+    ],
+    "Menu": [
+            {
+                "Category": "Entrants(tapas)",
+                "Products": [
+                    {"Name": "pan con chicharrones carnudos y guacamole", "Price": 1655},
+                    {"Name": "pan cubano el guapo", "Price": 3555},
+                    {"Name": "croquetas de la abuela", "Price": 1000},
+                    {"Name": "frituras de malanga y jamon", "Price": 1700},
+                    {"Name": "empanadas de la casa", "Price": 1700},
+                    {"Name": "carpaccio de ternera aceite trufas y destellos de parmesano", "Price": 1700},
+                    {"Name": "berenjenas a la parmesana", "Price": 1700},
+                    {"Name": "ensalada cesar con dados de pollo show", "Price": 1700},
+                    {"Name": "chorizo gallego al carbon con queso manchego", "Price": 1700},
+                    {"Name": "ceviche de pescado y calamares crujientes", "Price": 1700},
+                    {"Name": "steak tartar show", "Price": 1700},
+                    {"Name": "calamares a la romana con salsa tartara y aceite de sesamo", "Price": 945},
+                    {"Name": "burrata fresca con aceite de truffas tomate y aguacate", "Price": 2100},
+                    {"Name": "yaquitori de langosta crujiente con salsa chipotle", "Price": 2255},
+                    {"Name": "provoleta con blanqueta tomate y pimiento asado", "Price": 3335}
+                ]
+            },
+            {
+                "Category": "Chef's Recommendation",
+                "Products": [null]
+            },
+            {
+                "Category": "Main courses",
+                "Products": [
+                    {
+                        " Meat, Poultry and Game ": [
+                            {"Name": "tamal relleno con lonjas de cerdo y huevo frito", "Price": 2955},
+                            {"Name": "costillas de cerdo caramelizadas con pure de boniato y jengibre", "Price": 4145},
+                            {"Name": "fricando de ternera estofado", "Price": 4500},
+                            {"Name": "milanesa de pollo con mini ensalada cesar", "Price": 2955},
+                            {"Name": "churrasco de filete de cerdo con salsa de guayaba y mostaza dijon", "Price": 2945},
+                            {"Name": "pollo entero relleno de arroz moro y bacon", "Price": 2955},
+                            {"Name": "solomillo de ternera con papas asadas y crema de piquillos", "Price": 4550},
+                            {"Name": "picanha chilena", "Price": 8000},
+                            {"Name": "rionada argentina", "Price": 8000},
+                            {"Name": "bife de chorizo", "Price": 7255},
+                            {"Name": "straccettis con cebolla y jamon", "Price": 3500},
+                            {"Name": "cerdo asado a lo cubana", "Price": 8500},
+                            {"Name": "tamaribs de cerdo 340g con papas fritas", "Price": 4500}
+                        ]
+                    },
+                    {
+                        "Fish and Seafood": [
+                            {"Name": "filete de pescado con vegetales orientales", "Price": 3755},
+                            {"Name": "filete de pescado frito con crujientes de cebolla frita y aderezo", "Price": 2950},
+                            {"Name": "gambon argentino al ajillo", "Price": 3555},
+                            {"Name": "zarzuela de mariscos langosta camarón pescado y pulpo", "Price": 5500}
+                        ]
+                    },
+                    {
+                        "Tacos": [
+                            {"Name": "tostas y tacos de res o camaron", "Price": 1700},
+                            {"Name": "quesadilla marinera", "Price": 1700}
+                        ]
+                    }
+                ]
+            },
+            {
+                "Category": "For Your Diet",
+                "Products": [null]
+            },
+            {
+                "Category": "Pasta",
+                "Products": [
+                    {"Name": "pastas largas y cortas a la piedra", "Price": 3100},
+                    {"Name": "pasta alfredo", "Price": 2950},
+                    {"Name": "pasta aglio e olio con dados de tomate", "Price": 2755}
+                ]
+            },
+            {
+                "Category": "Pizzas",
+                "Products": [
+                    {"Name": "real pizza italiana 33 cm", "Price": 2300},
+                    {"Name": "pizza imperial", "Price": 3655}
+                ]
+            },
+            {
+                "Category": "Sandwich",
+                "Products": [
+                    {"Name": "sandwich de atun", "Price": 900},
+                    {"Name": "sandwich de jamon y queso", "Price": 900},
+                    {"Name": "sandwich de vegetales con huevo", "Price": 900},
+                    {"Name": "sandwich de pollo", "Price": 1000},
+                    {"Name": "sandwich de pollo con queso gratinado", "Price": 1200},
+                    {"Name": "club sandwich", "Price": 1800},
+                    {"Name": "sandwich campesino", "Price": 2500},
+                    {"Name": "baguette de jamon serrano", "Price": 650},
+                    {"Name": "baguette de jamon york", "Price": 500},
+                    {"Name": "baguette de queso gouda", "Price": 500},
+                    {"Name":"pan con chicharrones carnudos y guacamole", "Price": 1655},
+                    {"Name": "pan cubano el guapo", "Price": 3555},
+                    {"Name": "panes de campaña", "Price": 400}
+                ]
+            },
+            {
+                "Category": "Additions",
+                "Products": [
+                    {"Name": "jamon barra", "Price": 500},
+                    {"Name": "jamon serrano", "Price": 650},
+                    {"Name": "queso gouda", "Price": 500},
+                    {"Name": "queso parmesano", "Price": 800},
+                    {"Name": "bacon", "Price": 500},
+                    {"Name": "pepperoni", "Price": 550},
+                    {"Name": "chorizo asturiano", "Price": 550},
+                    {"Name": "camaron", "Price": 600},
+                    {"Name": "huevo", "Price": 400},
+                    {"Name": "aceitunas", "Price": 500},
+                    {"Name": "cebolla", "Price": 450}]
+            },
+            {
+                "Category": "Fittings(guarniciones)",
+                "Products": [null
+                ]
+            },
+            {
+                "Category": "Soups and Creams",
+                "Products": [null]
+            },
+            {
+                "Category": "Desserts",
+                "Products": [
+                    {"Name": "cookies recien horneadas con helado y cremas", "Price": 2000},
+                    {"Name": "cheesecake", "Price": 2000},
+                    {"Name": "tres leche con fanguito y helado", "Price": 2000},
+                    {"Name": "brownie de nueces y helado de pistacho", "Price": 2000},
+                    {"Name": "es mas que un flan", "Price": 2000}
+                ]
+            },
+            {
+                "Category": "Coffees & Infusions",
+                "Products": [null]
+            },
+            {
+                "Category": "Alcoholic Beverages",
+                "Products": [null]
+            },
+            {
+                "Category": "Non-Alcoholic Beverages",
+                "Products": [null]
+            }
+        ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": "Alta",
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": true,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": false,
+    "Phone": ["72090437"],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+        "CUP": true,
+        "EUR": false,
+        "USD": false
+    }} , 
+    "Social Media":{
+        "Facebook": "DKmino",
+        "Instagram": "@dkaminocomidasaludable"
+    }
+}

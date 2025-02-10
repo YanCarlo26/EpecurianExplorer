@@ -1,0 +1,182 @@
+{
+    "Name": "Polo",
+    "Zone": "Guanabacoa",
+    "Location": "Cruz Verde",
+    "Place Type": "Bar-Retaurante",
+    "Food Type": "Internacional",
+    "Schedule": [
+        {"day": "monday", "open": "1200", "close": "0000"},
+        {"day": "tuesday", "open": "1200", "close": "0000"},
+        {"day": "wednesday", "open": "1200", "close": "0000"},
+        {"day": "thursday", "open": "1200", "close": "0000"},
+        {"day": "friday", "open": "1200", "close": "0000"},
+        {"day": "saturday", "open": "1200", "close": "0000"},
+        {"day": "sunday", "open": "1200", "close": "0000"}
+    ],
+    "Menu": [
+        {
+            "Category": "Entrants(tapas)",
+            "Products": [
+                {"Name": "toston relleno de jamon y queso", "Price": 450},
+                {"Name": "toston relleno de atun y queso", "Price": 600},
+                {"Name": "fajitas de pechuga", "Price": 850},
+                {"Name": "ensaladas frias de jamon", "Price": 500},
+                {"Name": "ensalada fria de atun", "Price": 650},
+                {"Name": "eperlano de pescado", "Price": 1100},
+                {"Name": "croquetas de la casa", "Price": 450},
+                {"Name": "frituras malanga", "Price": 450},
+                {"Name": "coctel camarones", "Price": 1300},
+                {"Name": "papas fritas", "Price": 550}
+            ]
+        },
+        {
+            "Category": "Chef's Recommendation",
+            "Products": [null]
+        },
+        {
+            "Category": "Main courses",
+            "Products": [
+                {
+                    "Meat, Poultry and Game": [
+                        {"Name": "bistec de cerdo grille encebollado", "Price": 1900},
+                        {"Name": "uruguallo de cerdo", "Price": 2400},
+                        {"Name": "bistec princesa", "Price": 2500},
+                        {"Name": "pechuga grille", "Price": 1850},
+                        {"Name": "pechuga gratinada", "Price": 2200},
+                        {"Name": "lomo ahumado", "Price": 2400},
+                        {"Name": "gordon bleu de pechuga", "Price": 2500},
+                        {"Name": "bistec de res encebollado", "Price": 2000},
+                        {"Name": "uruguallo de res", "Price": 2500},
+                        {"Name": "ropa vieja de res", "Price": 2300},
+                        {"Name": "arroz frito con camarones", "Price": 1500}
+                    ]
+                },
+                {
+                    "Fish and Seafood": [
+                        {"Name": "filete de pescado grille", "Price": 2200},
+                        {"Name": "filete montero", "Price": 2800},
+                        {"Name": "filete canciller", "Price": 2900},
+                        {"Name": "filete gratinado", "Price": 2600},
+                        {"Name": "camaron enchilado", "Price": 2700},
+                        {"Name": "camaron al ajillo", "Price": 2600},
+                        {"Name": "camaron empanizado", "Price": 2700},
+                        {"Name": "filete mediterraneo", "Price": 3500},
+                        {"Name": "mar y tierra", "Price": 4500},
+                        {"Name": "masa de vida", "Price": 4100}
+                    ]
+                },
+                {
+                    "Tacos": [null]
+                }
+            ]
+        },
+        {
+            "Category": "For Your Diet",
+            "Products": [null]
+        },
+        {
+            "Category": "Pasta",
+            "Products": [
+                {"Name": "spaghetti napolitano", "Price": 850},
+                {"Name": "spaghetti carbonara", "Price": 1400}
+            ]
+        },
+        {
+            "Category": "Pizzas",
+            "Products": [
+                {"Name": "pizza napolitana", "Price": 900},
+                {"Name": "pizza hawaiana", "Price": 1300}
+            ]
+        },
+        {
+            "Category": "Sandwich",
+            "Products": [null]
+        },
+        {
+            "Category": "Additions",
+            "Products": [null]
+        },
+        {
+            "Category": "Fittings(guarniciones)",
+            "Products": [
+                {"Name": "arroz blanco", "Price": 120},
+                {"Name": "arroz moro y cristiano", "Price": 180},
+                {"Name": "arroz pilaf", "Price": 200},
+                {"Name": "arroz salteado con vegetales", "Price": 250}
+            ]
+        },
+        {
+            "Category": "Soups and Creams",
+            "Products": [null]
+        },
+        {
+            "Category": "Desserts",
+            "Products": [null]
+        },
+        {
+            "Category": "Coffees & Infusions",
+            "Products": [
+                {"Name": "cafe expreso", "Price": 250}
+            ]
+        },
+        {
+            "Category": "Alcoholic Beverages",
+            "Products": [
+                {"Name": "cerveza nacional", "Price": 350},
+                {"Name": "cerveza importada", "Price": 250}
+            ]
+        },
+        {
+            "Category": "Non-Alcoholic Beverages",
+            "Products": [
+                {"Name": "energizante", "Price": 300},
+                {"Name": "agua natural 500ml", "Price": 200},
+                {"Name": "refresco nacional", "Price": 250},
+                {"Name": "refrescos importados", "Price": 280},
+                {"Name": "malta nacional", "Price": 250},
+                {"Name": "malta importada", "Price": 280},
+                {"Name": "jugo de caja", "Price": 200},
+                {"Name": "jugo de lata", "Price": 280}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": true,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "private",
+    "Phone": [""],
+    "Payment Options": {
+        "Online payments": true,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+        }
+    },
+    "Social Media": {
+        "Facebook": true,
+        "Instagram": true
+    }
+}

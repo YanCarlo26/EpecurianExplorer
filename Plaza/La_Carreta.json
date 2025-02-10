@@ -1,0 +1,267 @@
+{
+    "Name": "La Carreta",
+    "Zone": "Plaza de la Revolución",
+    "Location": "23 y 12, Vedado, Plaza, La Habana, Cuba",
+    "Place Type": "Bar-Restaurante-Cafeteria",
+    "Food Type": "Italiana",
+    "Schedule":[
+        {"day": "monday", "open": "1000", "close": "1100"},
+        {"day": "tuesday", "open": "1000", "close": "1100"},
+        {"day": "wednesday", "open": "1000", "close": "1100"},
+        {"day": "thursday", "open": "1000", "close": "1100"},
+        {"day": "friday", "open": "1000", "close": "1100"},
+        {"day": "saturday", "open": "1000", "close": "1100"},
+        {"day": "sunday", "open": "1000", "close": "1100"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"cesta de panes de la casa","Price": 600},
+                {"Name":"coctel colage de frutas tropicales","Price": 600},
+                {"Name":"ensaladas de frutas tropicales","Price": 600},
+                {"Name":"coctel de langosta","Price": 2100},
+                {"Name":"tabla mediterranea","Price": 3600},
+                {"Name":"ensalada de la huerta","Price": 600},
+                {"Name":"vegetales salteados","Price": 650},
+                {"Name":"vianda hervida","Price": 500},
+                {"Name":"tamal en hojas","Price": 500},
+                {"Name":"ajiaco criollo","Price": 500},
+                {"Name":"fritura","Price": 750},
+                {"Name":"croquetas de la casa","Price": 750},
+                {"Name":"toston de puñetazo","Price": 600},
+                {"Name":"tostones rellenos","Price": 900},
+                {"Name":"vianda frita","Price": 600},
+                {"Name":"picando con guahiro","Price": 2400}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"grilladar del corral","Price": 8000},
+                        {"Name":"paletilla de cordero al vino tinto y romero","Price": 7500},
+                        {"Name":"cantío de gallo","Price": 4000},
+                        {"Name":"cordero chilindron a lo montuno","Price": 4000},
+                        {"Name":"cordero al curry","Price": 4000},
+                        {"Name":"pollo asado al estilo carreta","Price": 2000},
+                        {"Name":"pechuga grille","Price": 2100},
+                        {"Name":"pollo al curry","Price": 2000},
+                        {"Name":"picadillo a la habanera","Price": 1300},
+                        {"Name":"vaca frita a la tradición","Price": 2400},
+                        {"Name":"ropa vieja carretera","Price": 2400},
+                        {"Name":"tasajo","Price": 5000},
+                        {"Name":"lonjas de cerdo al estribo","Price": 2000},
+                        {"Name":"bistec del yunta","Price": 2000},
+                        {"Name":"masas fritas a lo campestre","Price": 3000},
+                        {"Name":"costillas tentadoras al gusto","Price": 4000},
+                        {"Name":"lomo ahumado al gusto","Price": 2400}
+                    ]
+                },{
+                    "Fish and Seafood":[
+                        {"Name":"grillada del mar","Price": 9000},
+                        {"Name":"grillada mar y tierra","Price": 10000},
+                        {"Name":"filete de pescado grillé","Price": 2700},
+                        {"Name":"filete de pescado enchilado","Price": 2900},
+                        {"Name":"camarones grillé","Price": 3500},
+                        {"Name":"camarones al ajillo","Price": 3550},
+                        {"Name":"enchilado de camarones","Price": 3550},
+                        {"Name":"enchilado de langosta","Price": 4000},
+                        {"Name":"langosta grillé","Price": 4000}
+                    ]
+                },{
+                    "Tacos":[null]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta ",
+            "Products":[
+                {"Name":"spaguetis napolitano y jugo natural","Price": 1350}
+            ]
+        },{
+            "Category":"Pizzas ",
+            "Products":[
+                {"Name":"pizza napolitana y jugo natural","Price": 1350}
+            ]
+        },{
+            "Category":"Sandwich",
+            "Products":[null]
+        },{
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                {"Name":"arroz blanco","Price": 250},
+                {"Name":"moros y cristianos","Price": 300},
+                {"Name":"arroz primavera","Price": 350},
+                {"Name":"frijoles negros","Price": 300}
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"bocadito dulce de limon y crema","Price": 800},
+                {"Name":"regalo de mulato","Price": 800},
+                {"Name":"canoa de helado","Price": 500},
+                {"Name":"variedad de postres","Price": 2500},
+                {"Name":"flan tentador","Price": 500},
+                {"Name":"arroz con leche de la abuela","Price": 450},
+                {"Name":"cake a la moda","Price": 800}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+                {"Name":"cafe expresso","Price": 250},
+                {"Name":"cafe cortado","Price": 300},
+                {"Name":"cafe americano","Price": 300},
+                {"Name":"capuchino","Price": 400},
+                {"Name":"cafe con leche","Price": 450},
+                {"Name":"cafe bombon","Price": 500},
+                {"Name":"frapuchino","Price": 500},
+                {"Name":"té","Price": 150}
+            ]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"agua nacional","Price": 250},
+                {"Name":"agua gaseada","Price": 250},
+                {"Name":"agua tonica nacional","Price": 300},
+                {"Name":"agua importada","Price": 500},
+                {"Name":"refrescos nacionales","Price": 300},
+                {"Name":"refrescos importados","Price": 450},
+                {"Name":"malta","Price": 400},
+                {"Name":"malteada","Price": 500},
+                {"Name":"jugos naturales","Price": 300},
+                {"Name":"san francisco","Price": 300},
+                {"Name":"jugos en conserva","Price": 400},
+                {"Name":"limonada frapé","Price": 450},
+                {"Name":"limonada frescura","Price": 500},
+                {"Name":"naranjada","Price": 400}
+            ]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"mojito tradicional","Price": 600},
+                {"Name":"mojito tropical","Price": 700},
+                {"Name":"daiquiri frappe","Price": 550},
+                {"Name":"daiquiri natural","Price": 550},
+                {"Name":"cubanito","Price": 550},
+                {"Name":"cuba libre","Price": 550},
+                {"Name":"canchanchara","Price": 925},
+                {"Name":"caipirisima","Price": 550},
+                {"Name":"caipiriña","Price": 550},
+                {"Name":"caipiroska","Price": 550},
+                {"Name":"screw driver","Price": 750},
+                {"Name":"bloody mary","Price": 950},
+                {"Name":"piña colada","Price": 950},
+                {"Name":"chelada","Price": 600},
+                {"Name":"michelada","Price": 600},
+                {"Name":"mega mojito","Price": 1250},
+                {"Name":"gin tonic con imagin","Price": 900},
+                {"Name":"gin tonic con beefeater","Price": 1000},
+                {"Name":"gin tonic con tanqueray","Price": 1100},
+                {"Name":"vodka tonic con belvedere","Price": 1100},
+                {"Name":"vodka tonic con absolut","Price": 1100},
+                {"Name":"sangria","Price": 900},
+                {"Name":"tinto de verano","Price": 850},
+                {"Name":"ron havana club 3 años","Price": 300},
+                {"Name":"ron havana club especial","Price": 330},
+                {"Name":"ron havana club reserva","Price": 360},
+                {"Name":"ron havana club ritual","Price": 390},
+                {"Name":"ron havana club 7 años","Price": 500},
+                {"Name":"ron havana club selección de maestros","Price": 1000},
+                {"Name":"ron havana club profundo","Price": 350},
+                {"Name":"santiago añejo","Price": 500},
+                {"Name":"santiago añejo 8A","Price": 750},
+                {"Name":"santiago añejo 11A","Price": 1000},
+                {"Name":"santiago añejo 12A","Price": 1000},
+                {"Name":"santiago extra seco","Price": 1100},
+                {"Name":"santiago extra 15A","Price": 1200},
+                {"Name":"mulata 15A","Price": 1200},
+                {"Name":"santero 11A","Price": 1000},
+                {"Name":"cognac hennessy","Price": 1000},
+                {"Name":"whiskie ballantine","Price": 625},
+                {"Name":"whiskie chiva regal 12A","Price": 1500},
+                {"Name":"whiskie clan campbell","Price": 700},
+                {"Name":"whiskie jameson","Price": 815},
+                {"Name":"whiskie buchanans","Price": 2200},
+                {"Name":"whiskie JW red label","Price": 900},
+                {"Name":"whiskie JW black label","Price": 2000},
+                {"Name":"vermouth rosso","Price": 525},
+                {"Name":"vermouth bianco","Price": 525},
+                {"Name":"vermouth extra dry","Price": 525},
+                {"Name":"brandies torres 5","Price": 500},
+                {"Name":"brandie napoleon","Price": 500},
+                {"Name":"ginebra beefeater","Price": 525},
+                {"Name":"ginebra imagin","Price": 450},
+                {"Name":"ginebra reythor","Price": 475},
+                {"Name":"vodka absolut","Price": 950},
+                {"Name":"vodka belvedere","Price": 1050},
+                {"Name":"tequila olmeca blanco","Price": 500},
+                {"Name":"tequila olmeca reposado","Price": 550},
+                {"Name":"licor sambuca","Price": 450},
+                {"Name":"licor anis seco","Price": 450},
+                {"Name":"licor campari","Price": 450},
+                {"Name":"licor limoncello","Price": 550},
+                {"Name":"licor aperol","Price": 700},
+                {"Name":"licor grappa","Price": 500},
+                {"Name":"aguardiente de la casa","Price": 300}
+            ]
+        }
+    ],      
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": true,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": true,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": true,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking":false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": ["+53 50990383"],
+    "Payment Options":{
+        "Online payments": true,
+        "Credit Card": false,
+        "Cash":{
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+    }} , 
+    "Social Media":{
+        "Facebook": "Restaurant La Carreta Cuba",
+        "Instagram": "lacarreta_cuba"
+    }
+}

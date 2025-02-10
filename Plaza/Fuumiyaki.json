@@ -1,0 +1,205 @@
+{
+    "Name": "Fuumiyaki",
+    "Zone": "Plaza de la Revolución",
+    "Location": "Ave 26/23 y 25, Vedado, La Habana, Cuba",
+    "Place Type": "Restaurante",
+    "Food Type": "Japanesse",
+    "Schedule":[
+        {"day": "monday", "open": "1200", "close": "2350"},
+        {"day": "tuesday", "open": "1200", "close": "2350"},
+        {"day": "wednesday", "open": "1200", "close": "2350"},
+        {"day": "thursday", "open": "1200", "close": "2350"},
+        {"day": "friday", "open": "1200", "close": "2350"},
+        {"day": "saturday", "open": "1200", "close": "2350"},
+        {"day": "sunday", "open": "1200", "close": "2350"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"Ceviche de Pescado","Price": 1000},
+                {"Name":"Ceviche Mixto","Price": 1500},
+                {"Name":"Gyozas","Price": 850},
+                {"Name":"Rice paper camarones/langosta/pulpo","Price": 1400},
+                {"Name":"Rice paper pescado","Price": 1400},
+                {"Name":"Rice paper pollo/cerdo","Price": 900},
+                {"Name":"Rollitos Primavera","Price": 500},
+                {"Name":"Sashimi de pescado","Price": 1200},
+                {"Name":"Tartar de pescado","Price": 1200}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"Bocados de tempura de Cerdo","Price": 1900},
+                        {"Name":"Chop suey de cerdo","Price": 1800},
+                        {"Name":"Chow mein de cerdo","Price": 1850},
+                        {"Name":"Shogayaki de cerdo","Price": 2200},
+                        {"Name":"Teriyaki de Cerdo","Price": 2000},
+                        {"Name":"Yaki Tori de Cerdo","Price": 1800},
+                        {"Name":"Yakisoba de Cerdo","Price": 1850}
+                    ]
+                },{
+                    "Fish and Seafood":[
+                        {"Name":"Bocados de Langosta en Tempura","Price": 2500},
+                        {"Name":"Bocados de tempura de camarones","Price": 2500},
+                        {"Name":"Bocados de tempura de Pescado","Price": 2200},
+                        {"Name":"Chop suey de camarones","Price": 2000},
+                        {"Name":"Chop suey de langosta","Price": 2000},
+                        {"Name":"Chow mein de camarones","Price": 2000},
+                        {"Name":"Chow mein de langosta","Price": 2000},
+                        {"Name":"Enchilado de camarones","Price": 2700},
+                        {"Name":"Enchilado de langosta","Price": 2700},
+                        {"Name":"Shioyaki de pescado","Price": 2500},
+                        {"Name":"Teriyaki de Camarones","Price": 2600},
+                        {"Name":"Teriyaki de Langosta","Price": 2600},
+                        {"Name":"Yaki Tori de Camarones","Price": 2500},
+                        {"Name":"Yaki Tori de Langosta","Price": 2500},
+                        {"Name":"Yakisoba de Camarones","Price": 2000},
+                        {"Name":"Yakisoba de Langosta","Price": 2000}
+                    ]
+                },{
+                    "Tacos":[
+                        {"Name":"Tacos de Camarones","Price": 1600},
+                        {"Name":"Tacos de Cerdo","Price": 1400},
+                        {"Name":"Tacos de Langosta","Price": 1500},
+                        {"Name":"Tacos de Pollo","Price": 1100},
+                        {"Name":"Tacos de Ropa vieja","Price": 1300}
+                    ]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta ",
+            "Products":[null]
+        },{
+            "Category":"Pizzas ",
+            "Products":[null]
+        },{
+            "Category":"Sandwich",
+            "Products":[null]
+        },{
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[null]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[
+                {"Name":"Sopa de Miso","Price": 750}
+            ]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"Ración de tarta flan","Price": 850},
+                {"Name":"Toffee","Price": 850}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+                {"Name":"Café Expresso","Price": 200},
+                {"Name":"Café Cortado","Price": 300},
+                {"Name":"Té","Price": 300}
+            ]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"Cerveza Bucanero","Price": 500},
+                {"Name":"Cerveza Cristal","Price": 500},
+                {"Name":"Vino tinto Casillero del Diablo Reserva","Price": 10000},
+                {"Name":"Vino tinto Trapiche Reserva","Price": 8000},
+                {"Name":"Havana Club 7 años","Price": 600},
+                {"Name":"Seleccion de Maestros","Price": 750},
+                {"Name":"Pacto Navío","Price": 750},
+                {"Name":"Santiago Añejo","Price": 550},
+                {"Name":"Santiago 11 años","Price": 800},
+                {"Name":"Clan Campbell","Price": 550},
+                {"Name":"Jameson","Price": 650},
+                {"Name":"Ballantines","Price": 600},
+                {"Name":"Chivas 12 años","Price": 750},
+                {"Name":"Chivas XV","Price": 1000},
+                {"Name":"Chivas 18 años","Price": 1150},
+                {"Name":"Mojito","Price": 700},
+                {"Name":"Daiquirí","Price": 700},
+                {"Name":"Caipirinha","Price": 750},
+                {"Name":"Caipiroska","Price": 750},
+                {"Name":"Cubanito","Price": 800},
+                {"Name":"Bloody Mary","Price": 850},
+                {"Name":"Piña Colada","Price": 850},
+                {"Name":"Mimosa","Price": 500},
+                {"Name":"Gin Tonic","Price": 850},
+                {"Name":"Sangría","Price": 850},
+                {"Name":"Tequila Sunrise","Price": 600},
+                {"Name":"Margarita","Price": 850},
+                {"Name":"Old Fashion","Price": 800},
+                {"Name":"Sake","Price": 650},
+                {"Name":"Mojito Sake","Price": 650},
+                {"Name":"Umeshu Mojito","Price": 600},
+                {"Name":"Matcha Highball","Price": 750},
+                {"Name":"Chuchai","Price": 650}
+            ]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"Agua Mineral Carbonatada Ciego Montero","Price": 150},
+                {"Name":"Agua Natural Ciego Montero","Price": 350},
+                {"Name":"Refresco Santa Isabel","Price": 350},
+                {"Name":"Refresco Santa Limón","Price": 350},
+                {"Name":"Refresco Santa Naranja","Price": 350}
+            ]
+        }
+    ],       
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": true,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food":false,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space": true,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": false,
+    "Phone": ["+5352832188"],
+    "Payment Options":{
+        "Online payments": true,
+        "Credit Card": false,
+        "Cash":{
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+    }} , 
+    "Social Media":{
+        "Facebook": "https://www.facebook.com/fuumiyaki.cuba/",
+        "Instagram": "https://www.instagram.com/fuumiyaki/?hl=es"
+    }
+}
