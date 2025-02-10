@@ -1,0 +1,294 @@
+{
+    "Name": "Lateral",
+    "Zone": "Víbora, Diez De Octubre",
+    "Location": "Ave. Acosta #467, esq. Goicuría",
+    "Place Type": "Restaurante",
+    "Food Type": "internacional",
+    "Schedule": [
+        {"day": "monday", "open": "10:00", "close": "23:00"},
+        {"day": "tuesday", "open": "10:00", "close": "23:00"},
+        {"day": "wednesday", "open": "10:00", "close": "23:00"},
+        {"day": "thursday", "open": "10:00", "close": "23:00"},
+        {"day": "friday", "open": "10:00", "close": "23:00"},
+        {"day": "saturday", "open": "10:00", "close": "23:00"},
+        {"day": "sunday", "open": "10:00", "close": "23:00"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name": "croquetas de la casa", "Price": 600},
+                {"Name": "bolitas de carne", "Price": 600},
+                {"Name": "croquetas de queso y arroz", "Price": 600},
+                {"Name": "empanadas sandwich cubano", "Price": 650},
+                {"Name": "empanadas de la casa", "Price": 600},
+                {"Name": "bolitas de queso gouda", "Price": 1100},
+                {"Name": "fajitas de pechuga de pollo", "Price": 2200},
+                {"Name": "fajitas de cerdo", "Price": 2200},
+                {"Name": "eperlan de pescado", "Price": 2200},
+                {"Name": "ceviche de pescado", "Price": 1700},
+                {"Name": "dados de pescado al curry", "Price": 2400},
+                {"Name": "surtido de mariscos", "Price": 2600},
+                {"Name": "pica pica lateral", "Price": 2000},
+                {"Name": "picada mixta", "Price": 5300},
+                {"Name": "tabla de salmon", "Price": 3000},
+                {"Name": "tabla de jamon serrano", "Price": 2700},
+                {"Name": "choriqueso", "Price": 1050},
+                {"Name": "pulpo en salsa verde", "Price": 1400},
+                {"Name": "coctel de langosta", "Price": 2000},
+                {"Name": "coctel de camarones", "Price": 2150},
+                {"Name": "tabla mixta lateral", "Price": 3700},
+                {"Name": "tartar de atun", "Price": 5200}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    "Meat, Poultry and Game": [
+                    {"Name": "solomillo 460gr", "Price": 3900},
+                    {"Name": "lomo de cerdo 350gr", "Price": 3500},
+                    {"Name": "ropa vieja de res", "Price": 2100},
+                    {"Name": "vaca frita", "Price": 2100},
+                    {"Name": "bistec de cerdo encebollado", "Price": 2200},
+                    {"Name": "carne de cerdo estofada", "Price": 2450},
+                    {"Name": "corte de res rib eye", "Price": 7000},
+                    {"Name": "filete mignon", "Price": 7000}
+                    ]
+                },{
+                    "Fish and Seafood":[
+                    {"Name": "filete de pescado grille", "Price": 2450},
+                    {"Name": "pescado con camarones", "Price": 3300},
+                    {"Name": "pescado con langosta", "Price": 3000},
+                    {"Name": "lomo de pescado", "Price": 2400},
+                    {"Name": "lomo de salmon", "Price": 5800}
+                    ]
+                },{
+                    "Tacos":[null]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta",
+            "Products":[
+                {"Name": "pasta boloñesa", "Price": 1510},
+                {"Name": "lasaña de carne mixta", "Price": 1100},
+                {"Name": "pasta carbonara", "Price": 2500},
+                {"Name": "pasta marinera", "Price": 1750},
+                {"Name": "pasta napolitana", "Price": 1120},
+                {"Name": "pasta jamon", "Price": 1370},
+                {"Name": "pasta boloñesa con queso", "Price": 1690},
+                {"Name": "pasta jamon con queso", "Price": 1550},
+                {"Name": "pasta napolitana con queso", "Price": 1300},
+                {"Name": "pasta camarón con salsa blanca", "Price": 2650}
+            ]
+        },{
+            "Category":"Pizzas",
+            "Products":[
+                {"Name": "pizza lateral", "Price": 2340},
+                {"Name": "pizza carne cerdo", "Price": 1900},
+                {"Name": "pizza carbonara", "Price": 2340},
+                {"Name": "pizza mixta", "Price": 1700},
+                {"Name": "pizza hawaiana", "Price": 1700},
+                {"Name": "pizza napolitana", "Price": 1150},
+                {"Name": "pizza jamon", "Price": 1400},
+                {"Name": "pizza atun", "Price": 1820},
+                {"Name": "pizza margarita", "Price": 1400},
+                {"Name": "pizza camarón", "Price": 2450},
+                {"Name": "pizza vegetales", "Price": 1580},
+                {"Name": "pizza champinones", "Price": 2250}
+            ]
+        },{
+            "Category":"Sandwich",
+            "Products":[
+                {"Name": "sandwich cubano", "Price": 1200},
+                {"Name": "hamburguesa lateral de res king size", "Price": 1800},
+                {"Name": "sandwich lateral", "Price": 850},
+                {"Name": "sandwich de pollo", "Price": 1000},
+                {"Name": "hamburguesa de cerdo", "Price": 1000}
+            ]
+        },{
+            "Category":"Additions",
+            "Products":[
+                {"Name": "agrego aceitunas", "Price": 400},
+                {"Name": "agrego carne cerdo", "Price": 500},
+                {"Name": "agrego carne res", "Price": 600},
+                {"Name": "agrego atun", "Price": 560},
+                {"Name": "agrego camaron", "Price": 650},
+                {"Name": "agrego queso", "Price": 375},
+                {"Name": "agrego jamon", "Price": 350},
+                {"Name": "agrego chorizo", "Price": 350},
+                {"Name": "agrego bacon", "Price": 485},
+                {"Name": "agrego champinon", "Price": 570},
+                {"Name": "agrego cebolla", "Price": 200},
+                {"Name": "agrego pimiento", "Price": 200},
+                {"Name": "agrego salsa hawaiana", "Price": 250},
+                {"Name": "agrego tomate", "Price": 200},
+                {"Name": "agrego jamon serrano", "Price": 1500}
+            ]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                {"Name": "arroz moro", "Price": 300},
+                {"Name": "tostones", "Price": 400},
+                {"Name": "ensalada de aguacate", "Price": 300},
+                {"Name": "boniato frito", "Price": 400},
+                {"Name": "crema de boniato", "Price": 650},
+                {"Name": "alubias blancas", "Price": 750},
+                {"Name": "tamal cubano", "Price": 500},
+                {"Name": "yuca con mojo", "Price": 400}
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[
+                {"Name": "crema de boniato", "Price": 650}
+            ]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name": "crepes", "Price": 400},
+                {"Name": "tres leches", "Price": 750},
+                {"Name": "caja cake", "Price": 150},
+                {"Name": "semifrio", "Price": 650},
+                {"Name": "cheesecake", "Price": 750}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+                {"Name": "cafe", "Price": 400},
+                {"Name": "cafe americano", "Price": 380},
+                {"Name": "cafe con coffee mate", "Price": 500},
+                {"Name": "carajillo", "Price": 1000},
+                {"Name": "cafe bombon", "Price": 850}
+            ]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name": "tonel cerveza dispensada 2lts", "Price": 1900},
+                {"Name": "tonel cerveza dispensada 3lts", "Price": 2900},
+                {"Name": "cerveza cristal", "Price": 550},
+                {"Name": "michelada presidente", "Price": 900},
+                {"Name": "vaso dispensada", "Price": 250},
+                {"Name": "jarra dispensada", "Price": 500},
+                {"Name": "negroni", "Price": 1500},
+                {"Name": "moscow mule", "Price": 1500},
+                {"Name": "mojito", "Price": 900},
+                {"Name": "cuba libre", "Price": 850},
+                {"Name": "daiquiri", "Price": 850},
+                {"Name": "cubanito", "Price": 950},
+                {"Name": "vodka tonic", "Price": 1200},
+                {"Name": "caipirinha", "Price": 900},
+                {"Name": "daiquiri frappe", "Price": 700},
+                {"Name": "caipirisima", "Price": 900},
+                {"Name": "michelada mule", "Price": 1300},
+                {"Name": "ron collins", "Price": 800},
+                {"Name": "cubata", "Price": 1050},
+                {"Name": "mojito frutas", "Price": 1100},
+                {"Name": "sangria", "Price": 1500},
+                {"Name": "daiquiri frutas", "Price": 1000},
+                {"Name": "mojito frappe", "Price": 950},
+                {"Name": "gin tonic importado", "Price": 1900},
+                {"Name": "calimocho", "Price": 800},
+                {"Name": "tinto de verano", "Price": 1150},
+                {"Name": "gin fizz", "Price": 900},
+                {"Name": "coctel lateral", "Price": 900},
+                {"Name": "mojito hc especial", "Price": 1200},
+                {"Name": "caipiriachi", "Price": 1500},
+                {"Name": "martini saborizado", "Price": 850},
+                {"Name": "daiquiri saborizado", "Price": 750},
+                {"Name": "caipiroska frutas", "Price": 1200},
+                {"Name": "old fashionet", "Price": 900},
+                {"Name": "canchanchara", "Price": 900},
+                {"Name": "michelada con cristal", "Price": 900},
+                {"Name": "long island ice tea", "Price": 1800},
+                {"Name": "blue star", "Price": 850},
+                {"Name": "cuban smoky", "Price": 800},
+                {"Name": "servicio de micheladas", "Price": 450},
+                {"Name": "moscow mule gray goose", "Price": 1700},
+                {"Name": "bloody mary gray goose", "Price": 1700},
+                {"Name": "caipiroska gray goose", "Price": 1900},
+                {"Name": "screw drivers gray goose", "Price": 1900},
+                {"Name": "caipiroska stolishnaya", "Price": 1200},
+                {"Name": "caipiroska ciroc", "Price": 1900},
+                {"Name": "red label", "Price": 1000},
+                {"Name": "black label", "Price": 1500},
+                {"Name": "doble black", "Price": 1900},
+                {"Name": "ballentine", "Price": 900},
+                {"Name": "margarita reposada", "Price": 1200},
+                {"Name": "ruavieja", "Price": 850},
+                {"Name": "jameson", "Price": 900},
+                {"Name": "ginebra", "Price": 1000},
+                {"Name": "cerveza presidente", "Price": 500}
+            ]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name": "agua gaseada", "Price": 660},
+                {"Name": "limonada frappe", "Price": 650},
+                {"Name": "jugos", "Price": 500},
+                {"Name": "agua natural importada pequeña", "Price": 300},
+                {"Name": "limonada frutas", "Price": 800},
+                {"Name": "refresco pepsi", "Price": 450},
+                {"Name": "refresco importado", "Price": 400},
+                {"Name": "smoothie", "Price": 1200},
+                {"Name": "batido de helado", "Price": 1500},
+                {"Name": "limonada frappe con hierba buena", "Price": 900},
+                {"Name": "limonada blue", "Price": 900},
+                {"Name": "limonada rebelde", "Price": 700},
+                {"Name": "san francisco lateral", "Price": 750},
+                {"Name": "limonada natural", "Price": 950}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": 10,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": true
+    },
+    "State or Private": "privado",
+    "Phone": ["59525677"],
+    "Payment Options": {
+        "Online payments": true,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+        }
+    },
+    "Social Media": {
+        "Facebook": "https://www.facebook.com/307308194105213",
+        "Instagram": "@lateral.at"
+    }
+}

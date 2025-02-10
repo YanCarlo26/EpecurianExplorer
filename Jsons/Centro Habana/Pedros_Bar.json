@@ -1,0 +1,157 @@
+{
+    "Name": "Pedro's Bar",
+    "Zone": "Centro Habana",
+    "Location": "23.136930631399565, -82.36181409182808",
+    "Place Type": "bar - restaurante",
+    "Food Type": "cocteleria",
+    "Schedule":[
+        {"day": "monday", "open": "1400", "close": "0200"},
+        {"day": "tuesday", "open": "1400", "close": "0200"},
+        {"day": "wednesday", "open": "1400", "close": "0200"},
+        {"day": "thursday", "open": "1400", "close": "0200"},
+        {"day": "friday", "open": "1400", "close": "0200"},
+        {"day": "saturday", "open": "1400", "close": "0200"},
+        {"day": "sunday", "open": "1400", "close": "0200"}
+    ],
+    "Menu": [
+        {
+            "Category": "Entrants(tapas)",
+            "Products": [
+                {"Name":"papas fritas", "Price": 1150},
+                {"Name":"frituras de malanga", "Price": 800},
+                {"Name":"croquetas", "Price": 1050},
+                {"Name":"dados de queso", "Price": 1350},
+                {"Name":"fajitas de pollo", "Price": 1450},
+                {"Name":"tabla mixta", "Price": 4600}
+            ]
+        },
+        {
+            "Category": "Chef's Recommendation",
+            "Products": [null]
+        },
+        {
+            "Category": "Main courses",
+            "Products": [
+                {
+                    "Meat, Poultry and Game": [null]
+                },
+                {
+                    "Fish and Seafood": [null]
+                },
+                {
+                    "Tacos": [null]
+                }
+            ]
+        },
+        {
+            "Category": "For Your Diet",
+            "Products": [null]
+        },
+        {
+            "Category": "Pasta",
+            "Products": [null]
+        },
+        {
+            "Category": "Pizzas",
+            "Products": [
+                {"Name":"pizza de queso", "Price": 1200},
+                {"Name":"pizza hawaiana", "Price": 1500},
+                {"Name":"pizza de vegetales", "Price": 1500}
+            ]
+        },
+        {
+            "Category": "Sandwich",
+            "Products": [
+                {"Name":"sandwich de jamon y queso", "Price": 1200},
+                {"Name":"sandwich de pechuga", "Price": 1550},
+                {"Name":"sandwich de atun", "Price": 1500},
+                {"Name":"sandwich de lechon", "Price": 1550}
+            ]
+        },
+        {
+            "Category": "Additions",
+            "Products": [null]
+        },
+        {
+            "Category": "Fittings(guarniciones)",
+            "Products": [null]
+        },
+        {
+            "Category": "Soups and Creams",
+            "Products": [null]
+        },
+        {
+            "Category": "Desserts",
+            "Products": [null]
+        },
+        {
+            "Category": "Coffees & Infusions",
+            "Products": [null]
+        },
+        {
+            "Category": "Alcoholic Beverages",
+            "Products": [
+                {"Name":"canchanchara", "Price": 1150},
+                {"Name":"mojito", "Price": 1100},
+                {"Name":"caipis", "Price": 1100},
+                {"Name":"daiquiri", "Price": 1100},
+                {"Name":"gin tonic", "Price": 1450},
+                {"Name":"margarita", "Price": 1050},
+                {"Name":"cubata", "Price": 1050},
+                {"Name":"sangria", "Price": 1350},
+                {"Name":"piña colada", "Price": 1100},
+                {"Name":"jarra de cerveza", "Price": 350},
+                {"Name":"cerveza", "Price": 600},
+                {"Name":"vasos de cerveza", "Price": 200},
+                {"Name":"servicio de michelada", "Price": 300},
+                {"Name":"servicio de chelada", "Price": 400}
+            ]
+        },
+        {
+            "Category": "Non-Alcoholic Beverages",
+            "Products": [
+                {"Name":"agua natural", "Price": 250},
+                {"Name":"refresco", "Price": 500},
+                {"Name":"energizante", "Price": 500}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": true,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": false,
+    "Phone": ["5510666"],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+        "CUP": "true",
+        "EUR": false,
+        "USD": "true"
+    }} , 
+    "Social Media":{
+        "Facebook": "Pedro's Bar",
+        "Instagram": "@pedrosbar_boulevard"
+    }
+}

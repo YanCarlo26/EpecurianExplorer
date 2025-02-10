@@ -1,0 +1,148 @@
+{
+    "Name": "Doping pizza",
+    "Zone": "Centro Habana",
+    "Location": "23.13389533564469, -82.37685653415737",
+    "Place Type": "Restaurante",
+    "Food Type": "italiana",
+    "Schedule":[
+        {"day": "monday", "open": "1200", "close": "2400"},
+        {"day": "tuesday", "open": "1200", "close": "2400"},
+        {"day": "wednesday", "open": "1200", "close": "2400"},
+        {"day": "thursday", "open": "1200", "close": "2400"},
+        {"day": "friday", "open": "1200", "close": "2400"},
+        {"day": "saturday", "open": "1200", "close": "2400"},
+        {"day": "sunday", "open": "1200", "close": "2400"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"ensalada fria natural","Price": 500},
+                {"Name":"ensalada fria de jamon","Price": 600},
+                {"Name":"ensalada fria de atun","Price": 700}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [null]
+                },{
+                    "Fish and Seafood":[null]
+                },{
+                    "Tacos":[null]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta",
+            "Products":[{"Name":"spaghetti napoles","Price": 900}]
+        },{
+            "Category":"Pizzas",
+            "Products":[
+                {"Name":"pizza napolitana","Price": 1000},
+                {"Name":"pizza de jamon","Price": 1100},
+                {"Name":"pizza hawaiana","Price": 1300},
+                {"Name":"pizza de atun","Price": 1300},
+                {"Name":"pizza de chorizo","Price": 1400},
+                {"Name":"pizza de bacon","Price": 1400},
+                {"Name":"pizza doping extreme","Price": 1500}
+            ]
+        },{
+            "Category":"Sandwich",
+            "Products":[null]
+        },{
+            "Category":"Additions",
+            "Products":[
+                {"Name":"queso","Price": 450},
+                {"Name":"jamon","Price": 350},
+                {"Name":"chorizo","Price": 350},
+                {"Name":"atun","Price": 400},
+                {"Name":"cebolla","Price": 200},
+                {"Name":"pimiento","Price": 200},
+                {"Name":"aceituna","Price": 300},
+                {"Name":"bacon","Price": 400}
+            ]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[null]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"paletica de helado clasica","Price": 150}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[null]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"cerveza","Price": 300}
+            ]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"agua","Price": 150},
+                {"Name":"refresco","Price": 250},
+                {"Name":"malta","Price": 300},
+                {"Name":"malteada","Price": 650},
+                {"Name":"jugos","Price": 300},
+                {"Name":"batido de helado (12oz)","Price": 550},
+                {"Name":"batido de helado (16oz)","Price": 750}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": true,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "baja",
+    "Phone": [""],
+    "Payment Options":{
+        "Online payments": true,
+        "Credit Card": false,
+        "Cash":{
+        "CUP": true,
+        "EUR": false,
+        "USD": true
+    }} , 
+    "Social Media":{
+        "Facebook": false,
+        "Instagram":"@dopingpizzas"
+    }
+}

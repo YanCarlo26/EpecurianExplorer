@@ -1,0 +1,152 @@
+{
+    "Name": "Comida Criolla Ocho Vias",
+    "Zone": "Arroyo Naranjo",
+    "Location": "Avenida 1er Anillo 3km despues de San Agustin, Arroyo Naranjo",
+    "Place Type": "Restaurante",
+    "Food Type": "cubana",
+    "Schedule": [
+        {"day": "monday", "open": "11:00", "close": "23:00"},
+        {"day": "tuesday", "open": "11:00", "close": "23:00"},
+        {"day": "wednesday", "open": "11:00", "close": "23:00"},
+        {"day": "thursday", "open": "11:00", "close": "23:00"},
+        {"day": "friday", "open": "11:00", "close": "23:00"},
+        {"day": "saturday", "open": "11:00", "close": "23:00"},
+        {"day": "sunday", "open": "11:00", "close": "23:00"}
+    ],
+    "Menu": [
+            {
+                "Category": "Entrants(tapas)",
+                "Products": [
+                    {"Name": "Croquetas de queso", "Price": 500},
+                    {"Name": "Tostones Rellenos", "Price": 800},
+                    {"Name": "Tostones Tradicionales", "Price": 250},
+                    {"Name": "Papas Fritas", "Price": 800},
+                    {"Name": "Platanos Fritos", "Price": 200}
+                ]
+            },
+            {
+                "Category": "Chef's Recommendation",
+                "Products": null
+            },
+            {
+                "Category": "Main courses",
+                "Products": [
+                    {
+                        " Meat, Poultry and Game ": [
+                            {"Name": "Bistec de Higado(460 gramos)", "Price": 1600},
+                            {"Name": "Higado Italiana(460 gramos)", "Price": 1600},
+                            {"Name": "Bistec de Cerdo(460 gramos)", "Price": 2200},
+                            {"Name": "Chuleta de Cerdo(460 gramos)", "Price": 2200},
+                            {"Name": "Fricase de Cerdo(430 gramos)", "Price": 2500},
+                            {"Name": "Masa Frita(430 gramos)", "Price": 2200},
+                            {"Name": "Bistec de Pollo", "Price": 2000},
+                            {"Name": "Pechuga de Pollo", "Price": 2500},
+                            {"Name": "Costilla Frita o Fricase", "Price": 2200},
+                            {"Name": "Fricase de Carnero(960 gramos)", "Price": 2200},
+                            {"Name": "Bistec Uruguayo)", "Price": 2800},
+                            {"Name": "Ropa Vieja(460 gramos)", "Price": 2700}
+                        ]
+                    },
+                    {
+                        "Fish and Seafood": [
+                            {"Name": "Pescado Entero a la Marinera", "Price": 2200},
+                            {"Name": "Camaron Enchilado", "Price": 2700},
+                            {"Name": "Langosta Grille(690 gramos)", "Price": 2700},
+                            {"Name": "Langosta Enchilada(690 gramos)", "Price": 2800},
+                            {"Name": "Pescado Empanado", "Price": 2500},
+                            {"Name": "Enchilado de Cangrejo", "Price": 1800}
+                        ]
+                    },
+                    {
+                        "Tacos": null
+                    }
+                ]
+            },
+            {
+                "Category": "For Your Diet",
+                "Products": null
+            },
+            {
+                "Category": "Pasta",
+                "Products": null
+            },
+            {
+                "Category": "Pizzas",
+                "Products": null
+            },
+            {
+                "Category": "Sandwich",
+                "Products": null
+            },
+            {
+                "Category": "Additions",
+                "Products": null
+            },
+            {
+                "Category": "Fittings(guarniciones)",
+                "Products": [
+                    {"Name": "Arroz Moro", "Price": 200},
+                    {"Name": "Ensalada Mixta", "Price": 300}
+                ]
+            },
+            {
+                "Category": "Soups and Creams",
+                "Products": null
+            },
+            {
+                "Category": "Desserts",
+                "Products": null
+            },
+            {
+                "Category": "Coffees & Infusions",
+                "Products": null
+            },
+            {
+                "Category": "Alcoholic Beverages",
+                "Products": null
+            },
+            {
+                "Category": "Non-Alcoholic Beverages",
+                "Products": null
+            }
+        ],
+    "House Specialty": "",
+    "Head Chef": "",
+    "Price Range": "",
+    "Place Options": {
+        "Accessible": "",
+        "Executive Lunch": "",
+        "Smoking Area": "",
+        "Bar": "",
+        "Event Buffet": "",
+        "Wine List": "",
+        "Air Conditioning": "",
+        "Service Charge %":false,
+        "Dress Code": "",
+        "Takeaway Food": "",
+        "Breakfast": "",
+        "Home Delivery": false,
+        "Reserved Space": "",
+        "Karaoke": "",
+        "Recorded Music": "",
+        "Playground": "",
+        "Parking": "",
+        "Live Performances": "",
+        "Room Reservation": true
+    },
+    "State or Private": "Private",
+    "Phone": [""],
+    "Payment Options": {
+        "Online payments": true,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+        }
+    },
+    "Social Media": {
+        "Facebook": "",
+        "Instagram": ""
+    }
+}

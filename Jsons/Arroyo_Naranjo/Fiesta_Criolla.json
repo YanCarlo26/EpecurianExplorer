@@ -1,0 +1,169 @@
+{
+    "Name": "Fiesta Criolla",
+    "Zone": "Arroyo Naranjo",
+    "Location": "Calle 100 #1003 (despues del puente de calabazar), Arroyo Naranjo",
+    "Place Type": "Restaurante",
+    "Food Type": "cubana",
+    "Schedule": [
+        {"day": "monday", "open": "12:00", "close": "24:00"},
+        {"day": "tuesday", "open": "12:00", "close": "24:00"},
+        {"day": "wednesday", "open": "12:00", "close": "24:00"},
+        {"day": "thursday", "open":null, "close": null},
+        {"day": "friday", "open": "12:00", "close": "24:00"},
+        {"day": "saturday", "open": "12:00", "close": "24:00"},
+        {"day": "sunday", "open": "12:00", "close": "24:00"}
+    ],
+    "Menu": [
+            {
+                "Category": "Entrants(tapas)",
+                "Products": [
+                    {"Name": "toston criollo", "Price": 500},
+                    {"Name": "toston relleno con jamon y queso", "Price": 600},
+                    {"Name": "toston relleno con atun", "Price": 700},
+                    {"Name": "eperlan", "Price": 1300},
+                    {"Name": "fajitas de pollo", "Price": 1300},
+                    {"Name": "caldo de mariscos", "Price": 1000},
+                    {"Name": "camaron rebosado", "Price": 2000},
+                    {"Name": "tamal en hojas", "Price": 90},
+                    {"Name": "fritura de malanga", "Price": 500},
+                    {"Name": "platano frito", "Price": 350},
+                    {"Name": "alitas de pollo", "Price": 850}
+                ]
+            },
+            {
+                "Category": "Chef's Recommendation",
+                "Products": [null]
+            },
+            {
+                "Category": "Main courses",
+                "Products": [
+                    {
+                        " Meat, Poultry and Game ": [
+                            {"Name": "pollo asado", "Price": 1150},
+                            {"Name": "pechuga grille", "Price": 1450},
+                            {"Name": "pechuga gratinada jamon y queso", "Price": 1600},
+                            {"Name": "chuleta", "Price": 1350},
+                            {"Name": "pechuga salteada con vegetales", "Price": 1550},
+                            {"Name": "lomo ahumado", "Price": 1350},
+                            {"Name": "lomo deshuesado ahumado", "Price": 1550},
+                            {"Name": "costillas fritas", "Price": 1400},
+                            {"Name": "masa frita", "Price": 1550},
+                            {"Name": "bistec grille", "Price": 1450},
+                            {"Name": "bistec gratinado de jamon y queso", "Price": 1600},
+                            {"Name": "ropa vieja", "Price": 1500},
+                            {"Name": "suprema carnero", "Price": 1800},
+                            {"Name": "fricase de carnero", "Price": 1500},
+                            {"Name": "camaron grille", "Price": 1900}
+                        ]
+                    },
+                    {
+                        "Fish and Seafood": [
+                            {"Name": "langosta grille", "Price": 1900},
+                            {"Name": "pulpo grille", "Price": 2000},
+                            {"Name": "pescado grille", "Price": 1300},
+                            {"Name": "rueda pescado grille", "Price": 1300},
+                            {"Name": "pescado grille gratinado con jamon y queso", "Price": 1450},
+                            {"Name": "don pedro", "Price": 2300},
+                            {"Name": "masa de cangrejo", "Price": 1050},
+                            {"Name": "caldero de mariscos", "Price": 3500},
+                            {"Name": "mar y tierra", "Price": 3950},
+                            {"Name": "paella", "Price": 2300},
+                            {"Name": "mariscada", "Price": 2500},
+                            {"Name": "arroz con mariscos", "Price": 1000}
+                        ]
+                    },
+                    {
+                        "Tacos": [null]
+                    }
+                ]
+            },
+            {
+                "Category": "For Your Diet",
+                "Products": [null]
+            },
+            {
+                "Category": "Pasta",
+                "Products": [
+                    {"Name": "spaghettis napolitanos", "Price": 1000},
+                    {"Name": "spaghettis con Jamon y Queso", "Price": 1250}
+                ]
+            },
+            {
+                "Category": "Pizzas",
+                "Products": [null]
+            },
+            {
+                "Category": "Sandwich",
+                "Products":[ null]
+            },
+            {
+                "Category": "Additions",
+                "Products": [null]
+            },
+            {
+                "Category": "Fittings(guarniciones)",
+                "Products": [null]
+            },
+            {
+                "Category": "Soups and Creams",
+                "Products": [null]
+            },
+            {
+                "Category": "Desserts",
+                "Products": [
+                    {"Name": "dulce tres leches", "Price": 0}
+                ]
+            },
+            {
+                "Category": "Coffees & Infusions",
+                "Products": [null]
+            },
+            {
+                "Category": "Alcoholic Beverages",
+                "Products": [null]
+            },
+            {
+                "Category": "Non-Alcoholic Beverages",
+                "Products": [null]
+            }
+        ],
+    "House Specialty": "don pedro",
+    "Head Chef": null,
+    "Price Range": null,
+    "Place Options": {
+        "Accessible": null,
+        "Executive Lunch": null,
+        "Smoking Area": null,
+        "Bar": null,
+        "Event Buffet": null,
+        "Wine List": null,
+        "Air Conditioning":null,
+        "Service Charge %": false,
+        "Dress Code": null,
+        "Takeaway Food": null,
+        "Breakfast":null,
+        "Home Delivery": false,
+        "Reserved Space": null,
+        "Karaoke":null,
+        "Recorded Music": "",
+        "Playground":null,
+        "Parking":null,
+        "Live Performances":null,
+        "Room Reservation": false
+    },
+    "State or Private": "privado",
+    "Phone": [null],
+    "Payment Options": {
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+        }
+    },
+    "Social Media": {
+        "Facebook": null,
+        "Instagram": null
+    }
+}

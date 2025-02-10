@@ -1,0 +1,178 @@
+{
+    "Name": "Chicken Little",
+    "Zone": "La Habana del Este",
+    "Location": "5ta. B y 5ta. C, 5B15 e 504, La Habana",
+    "Place Type": "Restaurant",
+    "Food Type": "Criolla",
+    "Schedule":[
+        {"day": "monday", "open": "9:00am", "close": "11:00pm"},
+        {"day": "tuesday", "open": "9:00am", "close": "11:00pm"},
+        {"day": "wednesday", "open": "9:00am", "close": "11:00pm"},
+        {"day": "thursday", "open": "9:00am", "close": "11:00pm"},
+        {"day": "friday", "open": "9:00am", "close": "11:00pm"},
+        {"day": "saturday", "open": "9:00am", "close": "11:00pm"},
+        {"day": "sunday", "open": "9:00am", "close": "11:00pm"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"Ensalada de Pollo", "Price": 825},
+                {"Name":"Coctel de Camaron", "Price": 1300},
+                {"Name":"Coctel de Langosta", "Price": 1300},
+                {"Name":"Tabla Surtida Chicken Little", "Price": 1995},
+                {"Name":"Crudo de Pescado", "Price": 995},
+                {"Name":"Tostones Rellenos", "Price": 895},
+                {"Name":"Tostones Rellenos Mixtos", "Price": 925},
+                {"Name":"Tapas de Pescado", "Price": 725},
+                {"Name":"Tapas Mixtas", "Price": 995}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"Pollo Grille", "Price": 1650},
+                        {"Name":"Pollo al Ajillo", "Price": 1795},
+                        {"Name":"Pollo Salteado con Piña", "Price": 1675},
+                        {"Name":"Pollo a la Mostaza", "Price": 1795},
+                        {"Name":"Suprema Especial de Pollo", "Price": 2150},
+                        {"Name":"Pollo Tropical", "Price": 2295},
+                        {"Name":"Pollo Princesa", "Price": 1995},
+                        {"Name":"Pollo Salteado con Vegetales", "Price": 1795},
+                        {"Name":"Filete de Pescado Grille", "Price": 1995},
+                        {"Name":"Pescado con Vegetales", "Price": 2095},
+                        {"Name":"Dados de Pescado al Ajillo", "Price": 2095},
+                        {"Name":"Filete Jon Ville", "Price": 2795},
+                        {"Name":"Filete Canciller", "Price": 2695},
+                        {"Name":"Filete Costa Sur", "Price": 2795},
+                        {"Name":"Filete Princesa", "Price": 2395},
+                        {"Name":"Camaron Grille", "Price": 2495},
+                        {"Name":"Camaron al Ajillo", "Price": 2595},
+                        {"Name":"Camarones Enchilados", "Price": 2595},
+                        {"Name":"Camarones Empanados", "Price": 2595},
+                        {"Name":"Langosta Grille", "Price": 2595},
+                        {"Name":"Langosta Enchilada", "Price": 2595},
+                        {"Name":"Langosta al Ajillo", "Price": 2595},
+                        {"Name":"Tres Delicias", "Price": 2900},
+                        {"Name":"Gran Plato del Mar", "Price": 3300},
+                        {"Name":"Cazuela Marinera", "Price": 2995},
+                        {"Name":"Bistec Uruguayo", "Price": 2795},
+                        {"Name":"Bistec de Cerdo Grille", "Price": 2050},
+                        {"Name":"Masas Fritas", "Price": 2395},
+                        {"Name":"Masas Hawaianas", "Price": 2550},
+                        {"Name":"Costillas de Cerdo Fritas", "Price": 1525}
+                    ]
+                },{
+                    "Fish and Seafood":[null]
+                },{
+                    "Tacos":[null]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta",
+            "Products":[null]
+        },{
+            "Category":"Pizzas",
+            "Products":[null]
+        },{
+            "Category":"Sandwich",
+            "Products":[null]
+        },{
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                {"Name":"Ensalada Mixta", "Price": 400},
+                {"Name":"Arroz Blanco", "Price": 195},
+                {"Name":"Arroz Moro", "Price": 295}
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[
+                {"Name":"Sopa de Pollo con Fideos", "Price": 595}
+            ]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"Flan de Caramelo", "Price": 325},
+                {"Name":"Helados", "Price": 450},
+                {"Name":"Copa Lolita", "Price": 550}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[null]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"Ron Havana Club 7 Años", "Price": 325},
+                {"Name":"Ballantine Finest", "Price": 800},
+                {"Name":"Ballantine 12", "Price": 600},
+                {"Name":"Limonada Frappe", "Price": 650},
+                {"Name":"Agua Nacional", "Price": 250},
+                {"Name":"Agua Tonica", "Price": 250},
+                {"Name":"Sodas Nacionales", "Price": 325},
+                {"Name":"Sodas Importadas", "Price": 350},
+                {"Name":"Malta", "Price": 400},
+                {"Name":"Cerveza Nacional", "Price": 345},
+                {"Name":"Cerveza Corona", "Price": 495}
+            ]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[null]
+        }
+    ],
+    "House Specialty": "La langosta",
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": true,
+        "Executive Lunch": false,
+        "Smoking Area": true,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": [null],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+        "CUP": true,
+        "EUR": true,
+        "USD": true
+    }},
+    "Social Media":{
+        "Facebook": false,
+        "Instagram": false
+    }
+}

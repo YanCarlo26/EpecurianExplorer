@@ -1,0 +1,162 @@
+{
+    "Name": "La Patrona",
+    "Zone": "San Miguel del Padron",
+    "Location": "Calzada de Guines en San Francisco de Paula",
+    "Place Type": "cafeteria",
+    "Food Type": "Internacional",
+    "Schedule": [
+        {"day": "monday", "open": null, "close": null},
+        {"day": "tuesday", "open": "0800", "close": "0000"},
+        {"day": "wednesday", "open": "0800", "close": "0000"},
+        {"day": "thursday", "open": "0800", "close": "0000"},
+        {"day": "friday", "open": "0800", "close": "0000"},
+        {"day": "saturday", "open": "0800", "close": "0000"},
+        {"day": "sunday", "open": "0800", "close": "0000"}
+    ],
+    "Menu": [
+            {
+                "Category": "Entrants(tapas)",
+                "Products": [null]
+            },
+            {
+                "Category": "Chef's Recommendation",
+                "Products": [null]
+            },
+            {
+                "Category": "Main courses",
+                "Products": [
+                    {
+                        "Meat, Poultry and Game": [
+                            {"Name": "bistec uruguayo", "Price": 2600},
+                            {"Name": "ropa vieja", "Price": 1400},
+                            {"Name": "escalope de cerdo", "Price": 1800},
+                            {"Name": "bistec de cerdo", "Price": 1600},
+                            {"Name": "arroz frito", "Price": 1000}
+                        ]
+                    },
+                    {
+                        "Fish and Seafood": [null]
+                    },
+                    {
+                        "Tacos": [null]
+                    }
+                ]
+            },
+            {
+                "Category": "For Your Diet",
+                "Products": [null]
+            },
+            {
+                "Category": "Pasta",
+                "Products": [
+                    {"Name": "lasagna", "Price": 1250},
+                    {"Name": "canelones", "Price": 1100},
+                    {"Name": "spaghetti carbonara", "Price": 15000}
+                ]
+            },
+            {
+                "Category": "Pizzas",
+                "Products": [
+                    {"Name": "pizza La Patrona", "Price": 1800}
+                ]
+            },
+            {
+                "Category": "Sandwich",
+                "Products": [null]
+            },
+            {
+                "Category": "Additions",
+                "Products": [
+                    {"Name": "jamon serrano", "Price": 800},
+                    {"Name": "jamon", "Price": 400},
+                    {"Name": "chorizo", "Price": 400},
+                    {"Name": "bacon", "Price": 400},
+                    {"Name": "pepperoni", "Price": 400},
+                    {"Name": "queso parmesano", "Price": 400},
+                    {"Name": "queso blanco", "Price": 300},
+                    {"Name": "queso gouda", "Price": 400},
+                    {"Name": "cebolla", "Price": 300},
+                    {"Name": "pinna", "Price": 300},
+                    {"Name": "aceitunas", "Price": 300},
+                    {"Name": "atun", "Price": 500}
+                ]
+            },
+            {
+                "Category": "Fittings(guarniciones)",
+                "Products": [null]
+            },
+            {
+                "Category": "Soups and Creams",
+                "Products": [null]
+            },
+            {
+                "Category": "Desserts",
+                "Products": [
+                    {"Name": "flan", "Price": 200},
+                    {"Name": "copa lolita", "Price": 400},
+                    {"Name": "cesta helado", "Price": 500},
+                    {"Name": "tres gracias", "Price": 300}
+                ]
+            },
+            {
+                "Category": "Coffees & Infusions",
+                "Products": [
+                    {"Name": "cafe express", "Price": 150},
+                    {"Name": "cafe con crema", "Price": 180},
+                    {"Name": "cafe La Patrona", "Price": 250},
+                    {"Name": "frapuchino", "Price": 250}
+                ]
+            },
+            {
+                "Category": "Alcoholic Beverages",
+                "Products": [null]
+            },
+            {
+                "Category": "Non-Alcoholic Beverages",
+                "Products": [
+                    {"Name": "jugos", "Price": 100},
+                    {"Name": "suero helado", "Price": 350},
+                    {"Name": "batidos", "Price": 300}
+                ]
+            }
+        ],
+    "House Specialty": ["lasagna", "canelones", "spaghetti carbonara"],
+    "Head Chef":false,
+    "Price Range":false,
+    "Place Options": {
+        "Accessible":false,
+        "Executive Lunch":false,
+        "Smoking Area":false,
+        "Bar":false,
+        "Event Buffet":false,
+        "Wine List":false,
+        "Air Conditioning": true,
+        "Service Charge %": false,
+        "Dress Code":false,
+        "Takeaway Food":false,
+        "Breakfast":false,
+        "Home Delivery": true,
+        "Reserved Space":false,
+        "Karaoke":false,
+        "Recorded Music": true,
+        "Playground":false,
+        "Parking":false,
+        "Live Performances":false,
+        "Room Reservation":false
+    },
+    "State or Private": "Private",
+    "Phone": [null],
+    "Payment Options": {
+        "Online payments": true,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR":false,
+            "USD":false
+        }
+    },
+    "Social Media": {
+        "Facebook": "La Patrona",
+        "Instagram":false
+    }
+}

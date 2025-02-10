@@ -1,0 +1,160 @@
+{
+    "Name": "Jackafe",
+    "Zone": "Habana del Este",
+    "Location": "Calle 164B, #3B01, Esquina 3ra B, Mercado de los Rusos, zona 1, Alamar",
+    "Place Type": "Bar-Restaurant",
+    "Food Type": "Internacional",
+    "Schedule":[
+        {"day": "monday", "open": "1200", "close": "0900"},
+        {"day": "tuesday", "open": "1200", "close": "0900"},
+        {"day": "wednesday", "open": "1200", "close": "0900"},
+        {"day": "thursday", "open": "1200", "close": "0900"},
+        {"day": "friday", "open": "1200", "close": "0900"},
+        {"day": "saturday", "open": "1200", "close": "0900"},
+        {"day": "sunday", "open": "1200", "close": "0900"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"Croquetas", "Price": 360},
+                {"Name":"Bolitas de queso", "Price": 280},
+                {"Name":"Tostones rellenos de chorizo", "Price": 940},
+                {"Name":"Tostones rellenos de atun", "Price": 840},
+                {"Name":"Tostones rellenos de jamon", "Price": 680},
+                {"Name":"Coctel de pescado", "Price": 760},
+                {"Name":"Coctel de camaron", "Price": 780},
+                {"Name":"Coctelde langosta", "Price": 980},
+                {"Name":"Trio de cocteles", "Price": 2280},
+                {"Name":"Ceviche", "Price": 1190},
+                {"Name":"Eperlan", "Price": 1720},
+                {"Name":"Garbanzos fritos", "Price": 1680},
+                {"Name":"Entremes de la casa", "Price": 1920},
+                {"Name":"Entremes de jamon serrano", "Price": 1350},
+                {"Name":"Tabla de quesos", "Price": 1820}
+            ]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {"Name":"Crema de queso", "Price": 590},
+                {"Name":"Lazana bolonesa", "Price": 1690},
+                {"Name":"Espaghetti napolitano queso gouda", "Price": 840},
+                {"Name":"Espaghetti napolitano queso mozarella", "Price": 610},
+                {"Name":"Espaghetti al aglio y olio", "Price": 1240},
+                {"Name":"Pizza napolitana queso gouda", "Price": 760},
+                {"Name":"Pizza napolitana queso mozarella", "Price": 610},
+                {"Name":"Bistec de cerdo grille", "Price": 1620},
+                {"Name":"Bistec de cerdo Princesa", "Price": 2240},
+                {"Name":"Bistec Uruguayo", "Price": 2380},
+                {"Name":"Cordero al vino tinto", "Price": 2730},
+                {"Name":"Estofado de res", "Price": 3320},
+                {"Name":"Filete de pescado grille", "Price": 1590},
+                {"Name":"Filete de pescado Princesa", "Price": 2140},
+                {"Name":"Canciller", "Price": 2320},
+                {"Name":"Pulpo enchilado", "Price": 1330},
+                {"Name":"Pulpo al ajillo", "Price": 1850},
+                {"Name":"Langosta grille", "Price": 2190},
+                {"Name":"Langosta enchilada", "Price": 2310},
+                {"Name":"Langosta Termidor", "Price": 2520}
+            ]
+        },
+        {
+            "Category":"Additionals",
+            "Products":[
+                {"Name":"Champinon", "Price": 140},
+                {"Name":"Atun", "Price": 510},
+                {"Name":"Aceitunas", "Price": 450},
+                {"Name":"Jamon", "Price": 250},
+                {"Name":"Jamon Serrano", "Price": 650},
+                {"Name":"Chorizo", "Price": 480},
+                {"Name":"Queso Gouda", "Price": 420},
+                {"Name":"Queso Mimolett", "Price": 480},
+                {"Name":"Queso Azul", "Price": 380},
+                {"Name":"Pina", "Price": 170},
+                {"Name":"Salsa de tomate", "Price": 150}
+            ]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                {"Name":"Arroz blanco", "Price": 180},
+                {"Name":"Arroz moro", "Price": 250},
+                {"Name":"Arroz frito Jackafe", "Price": 1480},
+                {"Name":"Ensalada de estacion", "Price": 250},
+                {"Name":"Viandas fritas", "Price": 250}
+            ]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[null]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+                {"Name":"Cafe Expreso", "Price": 180},
+                {"Name":"Cafe Americano", "Price": 180},
+                {"Name":"Cafe Cortado", "Price": 250},
+                {"Name":"Cafe Capuchino", "Price": 300},
+                {"Name":"Cafe con Ashe", "Price": 395},
+                {"Name":"Te", "Price": 80}
+            ]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"Cerveza importada", "Price": 280},
+                {"Name":"Cerveza michelada", "Price": 100}
+            ]
+        },
+        {
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"Refresco importado", "Price": 330},
+                {"Name":"Jugo de caja", "Price": 850},
+                {"Name":"Energizante", "Price": 370},
+                {"Name":"Agua natural importada", "Price": 260},
+                {"Name":"Agua tonica", "Price": 720}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area":true,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery":true,
+        "Reserved Space":true,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking":true,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": ["77636363"],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": true,
+        "Cash":{
+        "CUP":true,
+        "EUR":true,
+        "USD":true,
+        "Other":true
+    }},
+    "Social Media":{
+        "Facebook": "JacKafe",
+        "Instagram": false
+    }
+}

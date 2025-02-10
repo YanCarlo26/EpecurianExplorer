@@ -1,0 +1,167 @@
+{
+    "Name": "El Trafico",
+    "Zone": "San Miguel del Padron",
+    "Location": "Calzada de Guines entre 90 y 94",
+    "Place Type": "Restaurante-Cafeteria",
+    "Food Type": "Italiana y Criolla",
+    "Schedule": [
+        {"day": "monday", "open": "1000", "close": "2200"},
+        {"day": "tuesday", "open": "1000", "close": "2200"},
+        {"day": "wednesday", "open": "1000", "close": "2200"},
+        {"day": "thursday", "open": "1000", "close": "2200"},
+        {"day": "friday", "open": "1000", "close": "2200"},
+        {"day": "saturday", "open": "1000", "close": "2200"},
+        {"day": "sunday", "open": "1000", "close": "2200"}
+    ],
+    "Menu": [
+            {
+                "Category": "Entrants(tapas)",
+                "Products": [null]
+            },
+            {
+                "Category": "Chef's Recommendation",
+                "Products": [null]
+            },
+            {
+                "Category": "Main courses",
+                "Products": [
+                    {
+                        "Meat, Poultry and Game": [
+                            {"Name": "bistec de pollo", "Price": 1500},
+                            {"Name": "bistec de cerdo", "Price": 1950},
+                            {"Name": "bistec de res", "Price": 1950},
+                            {"Name": "pechuga de pollo", "Price": 1950},
+                            {"Name": "chuleta de cerdo", "Price": 1950},
+                            {"Name": "masa de cerdo frita", "Price": 2000},
+                            {"Name": "cerdo guisado", "Price": 2000},
+                            {"Name": "lomo ahumado", "Price": 2000},
+                            {"Name": "costilla de cerdo", "Price": 2000},
+                            {"Name": "ropa vieja", "Price": 2000}
+                        ]
+                    },
+                    {
+                        "Fish and Seafood": [
+                            {"Name": "filete de merluza", "Price": 2000}
+                        ]
+                    },
+                    {
+                        "Tacos": [null]
+                    }
+                ]
+            },
+            {
+                "Category": "For Your Diet",
+                "Products": [null]
+            },
+            {
+                "Category": "Pasta",
+                "Products": [
+                    {"Name": "spaghetti con queso blanco", "Price": 400},
+                    {"Name": "spaghetti con queso gouda", "Price": 420},
+                    {"Name": "spaghetti con queso parmesano", "Price": 450}
+                ]
+            },
+            {
+                "Category": "Pizzas",
+                "Products": [
+                    {"Name": "pizza de queso blanco", "Price": 280},
+                    {"Name": "pizza de queso blanco XL", "Price": 770},
+                    {"Name": "pizza de queso gouda", "Price": 320},
+                    {"Name": "pizza de queso gouda XL", "Price": 830},
+                    {"Name": "pizza de queso parmesano", "Price": 350},
+                    {"Name": "pizza de queso parmesano XL", "Price": 850}
+                ]
+            },
+            {
+                "Category": "Sandwich",
+                "Products": [null]
+            },
+            {
+                "Category": "Additions",
+                "Products": [
+                    {"Name": "queso blanco", "Price": 300},
+                    {"Name": "queso gouda", "Price": 320},
+                    {"Name": "queso parmesano", "Price": 350},
+                    {"Name": "cebolla", "Price": 200},
+                    {"Name": "pimiento", "Price": 200},
+                    {"Name": "pinna", "Price": 200},
+                    {"Name": "camaron", "Price": 350},
+                    {"Name": "jamon", "Price": 200},
+                    {"Name": "chorizo", "Price": 200},
+                    {"Name": "bacon", "Price": 200},
+                    {"Name": "salchicha", "Price": 200},
+                    {"Name": "aceituna", "Price": 300},
+                    {"Name": "atun", "Price": 300}
+                ]
+            },
+            {
+                "Category": "Fittings(guarniciones)",
+                "Products": [
+                    {"Name": "arroz moro", "Price": 300},
+                    {"Name": "vianda", "Price": 150},
+                    {"Name": "ensalada", "Price": 200},
+                    {"Name": "tamal", "Price": 200},
+                    {"Name": "papas fritas", "Price": 600}
+                ]
+            },
+            {
+                "Category": "Soups and Creams",
+                "Products": [null]
+            },
+            {
+                "Category": "Desserts",
+                "Products": [null]
+            },
+            {
+                "Category": "Coffees & Infusions",
+                "Products": [null]
+            },
+            {
+                "Category": "Alcoholic Beverages",
+                "Products": [null]
+            },
+            {
+                "Category": "Non-Alcoholic Beverages",
+                "Products": [null]
+            }
+        ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": [null],
+    "Payment Options": {
+        "Online payments": true,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+        }
+    },
+    "Social Media": {
+        "Facebook": false,
+        "Instagram": false
+    }
+}

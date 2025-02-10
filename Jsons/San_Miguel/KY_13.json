@@ -1,0 +1,200 @@
+{
+    "Name": "KY-13",
+    "Zone": "San Miguel del Padron",
+    "Location": "calzada de guines #45 e/ 13 y 23 AMP. San Matias",
+    "Place Type": "Restaurante-Cafeteria",
+    "Food Type": "Internacional",
+    "Schedule": [
+        {"day": "monday", "open": "1000", "close": "2300"},
+        {"day": "tuesday", "open": "1000", "close": "2300"},
+        {"day": "wednesday", "open": "1000", "close": "2300"},
+        {"day": "thursday", "open": "1000", "close": "2300"},
+        {"day": "friday", "open": "1000", "close": "2300"},
+        {"day": "saturday", "open": "1000", "close": "2300"},
+        {"day": "sunday", "open": "1000", "close": "2300"}
+    ],
+    "Menu": [
+        {
+            "Category": "Entrants(tapas)",
+            "Products": [
+                {"Name": "croquetas de queso", "Price": 600},
+                {"Name": "frituras de malanga", "Price": 600},
+                {"Name": "tostones rellenos", "Price": 700},
+                {"Name": "eperlan", "Price": 1300},
+                {"Name": "dedos de pollo", "Price": 1000},
+                {"Name": "coctel de camaron", "Price": 1300},
+                {"Name": "camaron rebozado", "Price": 1200},
+                {"Name": "surtido KY13", "Price": 4000}
+            ]
+        },
+        {
+            "Category": "Chef's Recommendation",
+            "Products": [null]
+        },
+        {
+            "Category": "Main courses",
+            "Products": [
+                {
+                    "Meat, Poultry and Game": [
+                        {"Name": "bistec de cerdo grille", "Price": 2350},
+                        {"Name": "bistec de cerdo empanado", "Price": 2700},
+                        {"Name": "uruguayo de cerdo", "Price": 3500},
+                        {"Name": "pechuga de pollo grille", "Price": 2400},
+                        {"Name": "pechuga de pollo gratinada", "Price": 2800},
+                        {"Name": "pollo gordon blue", "Price": 3650},
+                        {"Name": "pollo frito o asado", "Price": 2000},
+                        {"Name": "ropa vieja de res", "Price": 2800},
+                        {"Name": "picadillo a la habanera", "Price": 2700},
+                        {"Name": "chuleta de cerdo", "Price": 2600},
+                        {"Name": "lomo ahumado", "Price": 2500},
+                        {"Name": "costilla de cerdo frita", "Price": 2300},
+                        {"Name": "masa de cerdo frita", "Price": 3800},
+                        {"Name": "bistec de pollo", "Price": 2200},
+                        {"Name": "arroz frito", "Price": 2800}
+                    ]
+                },
+                {
+                    "Fish and Seafood": [
+                        {"Name": "filete de pescado grille", "Price": 3000},
+                        {"Name": "filete de pescado empanado", "Price": 3300},
+                        {"Name": "filete de pescado gratinado", "Price": 3500},
+                        {"Name": "pescado montetoro", "Price": 3800},
+                        {"Name": "pescado canciller", "Price": 4250},
+                        {"Name": "camaron grille", "Price": 2600},
+                        {"Name": "enchilado de camaron", "Price": 2800},
+                        {"Name": "camaron al ajillo", "Price": 2700},
+                        {"Name": "langosta grille", "Price": 2700},
+                        {"Name": "langosta enchilada", "Price": 2800}
+                    ]
+                },
+                {
+                    "Tacos": [null]
+                }
+            ]
+        },
+        {
+            "Category": "For Your Diet",
+            "Products": [null]
+        },
+        {
+            "Category": "Pasta",
+            "Products": [
+                {"Name": "spaghetti de queso", "Price": 1300},
+                {"Name": "lasagna de jamon", "Price": 1800},
+                {"Name": "spaghetti a la carbonara", "Price": 2000}
+            ]
+        },
+        {
+            "Category": "Pizzas",
+            "Products": [
+                {"Name": "pizza de queso", "Price": 1200},
+                {"Name": "pizza familiar de queso", "Price": 3350}
+            ]
+        },
+        {
+            "Category": "Sandwich",
+            "Products": [
+                {"Name": "sandwich sencillo", "Price": 1250},
+                {"Name": "sandwich lomo ahumado", "Price": 1250},
+                {"Name": "sandwich especial", "Price": 2100},
+                {"Name": "sandwich de atun", "Price": 1150}
+            ]
+        },
+        {
+            "Category": "Additions",
+            "Products": [
+                {"Name": "queso gouda sencilla", "Price": 560},
+                {"Name": "queso gouda familiar", "Price": 1400},
+                {"Name": "jamon sencilla", "Price": 620},
+                {"Name": "jamon familiar", "Price": 1550},
+                {"Name": "vegetales sencilla", "Price": 500},
+                {"Name": "vegetales familiar", "Price": 1250},
+                {"Name": "chorizo sencilla", "Price": 450},
+                {"Name": "chorizo familiar", "Price": 825},
+                {"Name": "aceituna sencilla", "Price": 600},
+                {"Name": "aceituna familiar", "Price": 1500},
+                {"Name": "pinna sencilla", "Price": 300},
+                {"Name": "pinna familiar", "Price": 750},
+                {"Name": "jamon pierna sencilla", "Price": 700},
+                {"Name": "jamon pierna familiar", "Price": 1750},
+                {"Name": "camaron sencilla", "Price": 800},
+                {"Name": "camaron familiar", "Price": 2000},
+                {"Name": "atun sencilla", "Price": 790},
+                {"Name": "atun familiar", "Price": 1975}
+            ]
+        },
+        {
+            "Category": "Fittings(guarniciones)",
+            "Products": [
+                {"Name": "arroz blanco", "Price": 300},
+                {"Name": "arroz moro", "Price": 480},
+                {"Name": "vianda frita", "Price": 700},
+                {"Name": "ensalada mixta", "Price": 700}
+            ]
+        },
+        {
+            "Category": "Soups and Creams",
+            "Products": [
+                {"Name": "crema de queso", "Price": 850},
+                {"Name": "crema aurora", "Price": 550},
+                {"Name": "crema virginia", "Price": 800},
+                {"Name": "crema de camaron", "Price": 900}
+            ]
+        },
+        {
+            "Category": "Desserts",
+            "Products": [null]
+        },
+        {
+            "Category": "Coffees & Infusions",
+            "Products": [null]
+        },
+        {
+            "Category": "Alcoholic Beverages",
+            "Products": [null]
+        },
+        {
+            "Category": "Non-Alcoholic Beverages",
+            "Products": [null]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": ["(+53) 7 693 0887"],
+    "Payment Options": {
+        "Online payments": true,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+        }
+    },
+    "Social Media": {
+        "Facebook": "https://www.facebook.com/Calle13BarRestaurante",
+        "Instagram": "https://www.instagram.com/p/DCMmDCJtD9F/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+    }
+}

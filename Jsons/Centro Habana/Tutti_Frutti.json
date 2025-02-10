@@ -1,0 +1,142 @@
+{
+    "Name": "Tutti Frutti",
+    "Zone": "ch",
+    "Location": "San Lazaro entre San Fransico y Espada",
+    "Place Type": "Restaurante",
+    "Food Type": "Desayunos",
+    "Schedule":[
+        {"day": "monday", "open": "0800", "close": "2000"},
+        {"day": "tuesday", "open": "0800", "close": "2000"},
+        {"day": "wednesday", "open": "0800", "close": "2000"},
+        {"day": "thursday", "open": "0800", "close": "2000"},
+        {"day": "friday", "open": "0800", "close": "2000"},
+        {"day": "saturday", "open": "0800", "close": "2000"},
+        {"day": "sunday", "open": "0800", "close": "2000"}
+    ],
+    "Menu": [
+            {
+                "Category": "Entrants(tapas)",
+                "Products": [null]
+            },
+            {
+                "Category": "Chef's Recommendation",
+                "Products": [null]
+            },
+            {
+                "Category": "Main courses",
+                "Products": [null]
+            },
+            {
+                "Category": "For Your Diet",
+                "Products": [null]
+            },
+            {
+                "Category": "Pasta",
+                "Products": [null]
+            },
+            {
+                "Category": "Pizzas",
+                "Products": [null]
+            },
+            {
+                "Category": "Sandwich",
+                "Products": [null]
+            },
+            {
+                "Category": "Additions",
+                "Products": [
+                    {"Name":"Huevo", "Price": 250},
+                    {"Name":"Atún", "Price": 800},
+                    {"Name":"Jamón", "Price": 300},
+                    {"Name":"Pollo", "Price": 500},
+                    {"Name":"Cebolla", "Price": 200}
+                ]
+            },
+            {
+                "Category": "Fittings(guarniciones)",
+                "Products": [null]
+            },
+            {
+                "Category": "Soups and Creams",
+                "Products": [null]
+            },
+            {
+                "Category": "Desserts",
+                "Products": [
+                    {"Name":"Copa de frutas", "Price": 400},
+                    {"Name":"Tutti Frutti", "Price": 500},
+                    {"Name":"Frutas dulces", "Price": 300}
+                ]
+            },
+            {
+                "Category": "Coffees & Infusions",
+                "Products": [
+                    {"Name":"Café", "Price": 900}
+                ]
+            },
+            {
+                "Category": "Alcoholic Beverages",
+                "Products": [
+                    {"Name":"Mojito", "Price": 700},
+                    {"Name":"Mojito Tutti Frutti", "Price": 800},
+                    {"Name":"Daiquirí", "Price": 700},
+                    {"Name":"Daiquirí Tutti Frutti", "Price": 800},
+                    {"Name":"Santiago", "Price": 900},
+                    {"Name":"Cuba Libre", "Price": 700},
+                    {"Name":"Piña Colada", "Price": 900},
+                    {"Name":"Canchánchara", "Price": 800},
+                    {"Name":"Caribbean", "Price": 900},
+                    {"Name":"Emma", "Price": 900}
+                ]
+            },
+            {
+                "Category": "Non-Alcoholic Beverages",
+                "Products": [
+                    {"Name":"Jugo Natural", "Price": 400},
+                    {"Name":"Batidos", "Price": 600},
+                    {"Name":"Champola", "Price": 600},
+                    {"Name":"Smoothies", "Price": 800},
+                    {"Name":"Leche", "Price": 400}
+                ]
+            }
+        ],
+    "House Specialty": "Desayunos",
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Particular",
+    "Phone": [""],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+        "CUP": "true",
+        "EUR": false,
+        "USD": "true"
+    }} , 
+    "Social Media":{
+        "Facebook": null,
+        "Instagram": null
+    }
+}
+

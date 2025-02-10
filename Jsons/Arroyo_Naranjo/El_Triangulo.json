@@ -1,0 +1,141 @@
+{
+    "Name": "El Triangulo",
+    "Zone": "Arroyo Naranjo",
+    "Location": "Esquina Calzada de 10 de octubre y Calzada de Porvenir, La Palma, Arroyo Naranjo",
+    "Place Type": "Cafeteria",
+    "Food Type": "cubana",
+    "Schedule": [
+        {"day": "monday", "open": "08:00", "close": "24:00"},
+        {"day": "tuesday", "open": "08:00", "close": "24:00"},
+        {"day": "wednesday", "open": "08:00", "close": "24:00"},
+        {"day": "thursday", "open": "08:00", "close": "24:00"},
+        {"day": "friday", "open": "08:00", "close": "24:00"},
+        {"day": "saturday", "open": "08:00", "close": "24:00"},
+        {"day": "sunday", "open": "08:00", "close": "24:00"}
+    ],
+    "Menu": [
+            {
+                "Category": "Entrants(tapas)",
+                "Products": [
+                    {"Name": "fajitas de pollo", "Price": 350},
+                    {"Name": "croquetas", "Price": 150},
+                    {"Name": "bolitas de queso", "Price": 150},
+                    {"Name": "tostones", "Price": 150}
+                ]
+            },
+            {
+                "Category": "Chef's Recommendation",
+                "Products": [null]
+            },
+            {
+                "Category": "Main courses",
+                "Products": [
+                    {
+                        " Meat, Poultry and Game ": [
+                            {"Name": "pollo frito", "Price": 1000}
+                        ]
+                    },
+                    {
+                        "Fish and Seafood": [null]
+                    },
+                    {
+                        "Tacos":[ null]
+                    }
+                ]
+            },
+            {
+                "Category": "For Your Diet",
+                "Products":[ null]
+            },
+            {
+                "Category": "Pasta",
+                "Products": [null]
+            },
+            {
+                "Category": "Pizzas",
+                "Products":[ null]
+            },
+            {
+                "Category": "Sandwich",
+                "Products":[ null]
+            },
+            {
+                "Category": "Additions",
+                "Products":[ null]
+            },
+            {
+                "Category": "Fittings(guarniciones)",
+                "Products": [null]
+            },
+            {
+                "Category": "Soups and Creams",
+                "Products": [null]
+            },
+            {
+                "Category": "Desserts",
+                "Products": [null]
+            },
+            {
+                "Category": "Coffees & Infusions",
+                "Products": [null]
+            },
+            {
+                "Category": "Alcoholic Beverages",
+                "Products": [
+                    {"Name": "cerveza cristal", "Price": 250},
+                    {"Name": "cerveza bucanero", "Price": 250},
+                    {"Name": "cerveza escorial", "Price": 200},
+                    {"Name": "cerveza holanda", "Price": 200}
+                ]
+            },
+            {
+                "Category": "Non-Alcoholic Beverages",
+                "Products": [
+                    {"Name": "agua", "Price": 120},
+                    {"Name": "refresco", "Price": 220},
+                    {"Name": "jugo de caja", "Price": 180},
+                    {"Name": "red bull", "Price": 230},
+                    {"Name": "malta", "Price": 220}
+                ]
+            }
+        ],
+    "House Specialty": null,
+    "Head Chef": null,
+    "Price Range": null,
+    "Place Options": {
+        "Accessible": null,
+        "Executive Lunch":null,
+        "Smoking Area": null,
+        "Bar":null,
+        "Event Buffet":null,
+        "Wine List": null,
+        "Air Conditioning": null,
+        "Service Charge %": false,
+        "Dress Code":null,
+        "Takeaway Food": null,
+        "Breakfast":null,
+        "Home Delivery": false,
+        "Reserved Space":null,
+        "Karaoke":null,
+        "Recorded Music": true,
+        "Playground":null,
+        "Parking":null,
+        "Live Performances":null,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": [""],
+    "Payment Options": {
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+        }
+    },
+    "Social Media": {
+        "Facebook":null,
+        "Instagram":null
+    }
+}

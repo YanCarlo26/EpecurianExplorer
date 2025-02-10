@@ -1,0 +1,215 @@
+{
+    "Name": "Divino",
+    "Zone": "Arroyo Naranjo",
+    "Location": "#50, Calle Raquel entre Esperanza y Lindero, Mantilla",
+    "Place Type": "Restaurante",
+    "Food Type": "Cocina mixta",
+    "Schedule":[
+        {"day": "monday", "open": null, "close": null},
+        {"day": "tuesday", "open": null, "close": null},
+        {"day": "wednesday", "open": null, "close": null},
+        {"day": "thursday", "open": null, "close": null},
+        {"day": "friday", "open": "12h00", "close": "22h00"},
+        {"day": "saturday", "open": "12h00", "close": "22h00"},
+        {"day": "sunday", "open": "12h00", "close": "22h00"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"Crema de vegetales", "Price": 450},
+                {"Name":"Coctel de mariscos", "Price": 1700},
+                {"Name":"Croquetas de la casa", "Price": 1200},
+                {"Name":"Tostones rellenos mixtos", "Price": 1500},
+                {"Name":"Canapes agridulces de jamon y queso con pina", "Price": 1200},
+                {"Name":"Pulpo sobre boniato a lass brasas y salsa de pimiento", "Price": 2500},
+                {"Name":"Surtido Divino", "Price": 1800}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    "Meat, Poultry and Game": [
+                        {"Name":"Pollo a la Campesina", "Price": 1800},
+                        {"Name":"Cerdo ahumado al mangle rojo", "Price": 2880},
+                        {"Name":"Suprema de pollo a la mostaza", "Price": 1950}
+                    ]
+                },{
+                    "Fish and Seafood":[
+                        {"Name":"Langosta marinera", "Price": 3000},
+                        {"Name":"Pinchos de camaron aromatizados con aceite de trufa", "Price": 3200},
+                        {"Name":"Pulpo a la gallega", "Price": 4500},
+                        {"Name":"Reino del Mar", "Price": 9500}
+                    ]
+                },{
+                    "Tacos":[null]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta",
+            "Products":[null]
+        },{
+            "Category":"Pizzas",
+            "Products":[null]
+        },{
+            "Category":"Sandwich",
+            "Products":[null]
+        },{
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[null]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[
+                {"Name":"Crema de vegetales", "Price": 450}
+            ]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"Mousse de limon", "Price": 1000},
+                {"Name":"Mousse de fruto del bosque", "Price": 1000},
+                {"Name":"Copa de helado", "Price": 1300},
+                {"Name":"Flan de la casa", "Price": 600}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+                {"Name":"Cafe Expresso", "Price": 250},
+                {"Name":"Cafe Tradicional", "Price": 150},
+                {"Name":"Cafe Cortado", "Price": 250},
+                {"Name":"Cafe con leche", "Price": 350},
+                {"Name":"Cappuccino", "Price": 400},
+                {"Name":"Cafe bombon", "Price": 500},
+                {"Name":"Cafe Americano", "Price": 200},
+                {"Name":"Cafe al ron cubano", "Price": 300},
+                {"Name":"Te", "Price": 200}
+            ]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"Mojito", "Price": 800},
+                {"Name":"Cubata", "Price": 750},
+                {"Name":"Daiquiri frappe", "Price": 700},
+                {"Name":"Pina Colada", "Price": 800},
+                {"Name":"Margarita", "Price": 700},
+                {"Name":"Sangria espanola", "Price": 800},
+                {"Name":"Sangria Asturiana", "Price": 850},
+                {"Name":"Caipiroska", "Price": 700},
+                {"Name":"Ron Collins", "Price": 500},
+                {"Name":"Long Island", "Price": 1000},
+                {"Name":"Screwdriver", "Price": 700},
+                {"Name":"Michelada", "Price": 400},
+                {"Name":"Chelada", "Price": 400},
+                {"Name":"Olmeca Silver", "Price": 400},
+                {"Name":"Olmeca Reposado", "Price": 500},
+                {"Name":"Santiago Carta Blanca", "Price": 900},
+                {"Name":"Santiago 8 anos", "Price": 1200},
+                {"Name":"Santiago 11 anos", "Price": 1900},
+                {"Name":"Santiago 12 anos", "Price": 1900},
+                {"Name":"Havana Club 7 anos", "Price": 600},
+                {"Name":"Havana Club Pacto Navio", "Price": 1900},
+                {"Name":"Havana Club Smoky", "Price": 700},
+                {"Name":"Havana Club Spiced", "Price": 700},
+                {"Name":"Havana Club Ritual", "Price": 450},
+                {"Name":"Cubay 10 anos", "Price": 850},
+                {"Name":"Barcelo", "Price": 400},
+                {"Name":"Barcelo Gran Anejo", "Price": 500},
+                {"Name":"Legendario Rose", "Price": 350},
+                {"Name":"Pazo Pondal", "Price": 250},
+                {"Name":"Anis del Mono", "Price": 380},
+                {"Name":"Anisado Pastis", "Price": 350},
+                {"Name":"Baileys", "Price": 800},
+                {"Name":"Crema Ruavieja de chocolate", "Price": 600},
+                {"Name":"Crema Ruavieja de arroz", "Price": 600},
+                {"Name":"Jaggermeister", "Price": 700},
+                {"Name":"J.B", "Price": 500},
+                {"Name":"J.W Gold", "Price": 2500},
+                {"Name":"J.W Red Label", "Price": 1000},
+                {"Name":"Jameson", "Price": 500},
+                {"Name":"Ballantine's", "Price": 500},
+                {"Name":"Glen Scalan", "Price": 850},
+                {"Name":"Pisco Mosto Verde", "Price": 400},
+                {"Name":"Grappa Chanti", "Price": 350},
+                {"Name":"Grappa Prosecco", "Price": 350},
+                {"Name":"Gavi di Gavi", "Price": 350},
+                {"Name":"Vodka Wiborowa", "Price": 650},
+                {"Name":"Beefeater", "Price": 750},
+                {"Name":"Gin MG", "Price": 650},
+                {"Name":"Gin MG Rose", "Price": 700},
+                {"Name":"Tanqueray #10", "Price": 1500},
+                {"Name":"Gin Master", "Price": 800},
+                {"Name":"Q Rose", "Price": 600}
+            ]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"Cerveza importada", "Price": 350},
+                {"Name":"Cerveza nacional", "Price": 500},
+                {"Name":"Cubetazo", "Price": 3000},
+                {"Name":"Refresco", "Price": 400},
+                {"Name":"Agua natural", "Price": 200},
+                {"Name":"Jugo natural", "Price": 250},
+                {"Name":"Batido de helado", "Price": 700},
+                {"Name":"Copa de vino tinto", "Price": 700},
+                {"Name":"Limonada natural", "Price": 600},
+                {"Name":"Limonada Fresh", "Price": 700},
+                {"Name":"Limonada frappe", "Price": 600}
+            ]
+        }
+    ],
+    "House Specialty": null,
+    "Head Chef": null,
+    "Price Range": null,
+    "Place Options": {
+        "Accessible": null,
+        "Executive Lunch": null,
+        "Smoking Area": true,
+        "Bar": null,
+        "Event Buffet": null,
+        "Wine List": null,
+        "Air Conditioning": null,
+        "Service Charge %": null,
+        "Dress Code": null,
+        "Takeaway Food": null,
+        "Breakfast": null,
+        "Home Delivery": false,
+        "Reserved Space": null,
+        "Karaoke": null,
+        "Recorded Music": null,
+        "Playground": null,
+        "Parking": true,
+        "Live Performances": null,
+        "Room Reservation": null
+    },
+    "State or Private": "Privado",
+    "Phone": ["55627175", "63733055", "76437734"],
+    "Payment Options":{
+        "Online payments": null,
+        "Credit Card": null,
+        "Cash": {
+            "CUP": true,
+            "EUR": true,
+            "USD": true
+        }
+    },
+    "Social Media":{
+        "Facebook": "DiVino",
+        "Instagram": "@restaurantedivino_official"
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "Name": "Dona Almira",
+    "Zone": "Boyeros",
+    "Location": "Calle Finlay entre Avenida de los Pinos y F de Castro, 3J7F+MP4",
+    "Place Type": "Restaurante",
+    "Food Type": "Criolla",
+    "Schedule": [
+        {"day": "monday", "open": null, "close": null},
+        {"day": "tuesday", "open": null, "close": null},
+        {"day": "wednesday", "open": null, "close": null},
+        {"day": "thursday", "open": "12h00", "close": "23h00"},
+        {"day": "friday", "open": "12h00", "close": "23h00"},
+        {"day": "saturday", "open": "12h00", "close": "23h00"},
+        {"day": "sunday", "open": "12h00", "close": "23h00"}
+    ],
+    "Menu": [
+            {
+                "Category": "Entrants(tapas)",
+                "Products": [
+                    {"Name": "Tostones rellenos", "Price": 850},
+                    {"Name": "ANGU tamal en cazuela", "Price": 785},
+                    {"Name": "Vegetales rellenos", "Price": 895},
+                    {"Name": "Racion de chicharrones", "Price": 300},
+                    {"Name": "Aderezo Dona Almira", "Price": 385},
+                    {"Name": "Salsa agridulce", "Price": 395},
+                    {"Name": "Entredos de chorizo", "Price": 1225},
+                    {"Name": "Ceviche de pescado", "Price": 685}
+                ]
+            },
+            {
+                "Category": "Chef's Recommendation",
+                "Products": [null]
+            },
+            {
+                "Category": "Main courses",
+                "Products": [
+                    {
+                        "Meat, Poultry and Game": [
+                            {"Name": "Costillas de cerdo", "Price": 1890},
+                            {"Name": "Bistec americano", "Price": 2430},
+                            {"Name": "Nasobuco", "Price": 1860},
+                            {"Name": "Bistec de higado", "Price": 1290},
+                            {"Name": "Higado a la italiana", "Price": 1380},
+                            {"Name": "Lomo rostizado", "Price": 2150},
+                            {"Name": "Pollo Dona Almira", "Price": 1340},
+                            {"Name": "Pollo barbacoa", "Price": 1195},
+                            {"Name": "Pollo en salsa agridulce", "Price": 1205},
+                            {"Name": "Pollo grille", "Price": 1185},
+                            {"Name": "Pollo en fricase", "Price": 1225},
+                            {"Name": "Pollo a la pasa", "Price": 1220},
+                            {"Name": "Pollo grille con camarones y queso", "Price": 1375},
+                            {"Name": "Cerdo enrrollado asado", "Price": 1545},
+                            {"Name": "Cerdo enrrollado en salsa agridulce", "Price": 1570},
+                            {"Name": "Cerdo enrrollado glaseado", "Price": 1550},
+                            {"Name": "Fricase de cerdo", "Price": 1520},
+                            {"Name": "Picadillo a la Habanera", "Price": 1290},
+                            {"Name": "Ropa Vieja", "Price": 1305},
+                            {"Name": "Vaca Frita", "Price": 1260}
+                        ]
+                    },
+                    {
+                        "Fish and Seafood": [
+                            {"Name": "Mignon de pescado grille", "Price": 1370},
+                            {"Name": "Mignon de pescado a las finas hierbas", "Price": 1410},
+                            {"Name": "Mignon de pescado Dona Almira", "Price": 1650},
+                            {"Name": "Mignon de pescado gratinado", "Price": 1585},
+                            {"Name": "Mignon de pescado con queso y bacon", "Price": 1720}
+                        ]
+                    },
+                    {
+                        "Tacos": [null]
+                    }
+                ]
+            },
+            {
+                "Category": "For Your Diet",
+                "Products": [null]
+            },
+            {
+                "Category": "Pasta",
+                "Products": [null]
+            },
+            {
+                "Category": "Pizzas",
+                "Products": [null]
+            },
+            
+            {
+                "Category": "Sandwich",
+                "Products": [null]
+            },
+            {
+                "Category": "Additions",
+                "Products": [null]
+            },
+            {
+                "Category": "Fittings(guarniciones)",
+                "Products": [
+                    {"Name": "Arroz congris", "Price": 120},
+                    {"Name": "Ensalada de estacion", "Price": 285}
+                ]
+            },
+            {
+                "Category": "Soups and Creams",
+                "Products": [null]
+            },
+            {
+                "Category": "Desserts",
+                "Products": [
+                    {"Name": "Mousse variados", "Price": 570}
+                ]
+            },
+            {
+                "Category": "Coffees & Infusions",
+                "Products": [
+                    {"Name": "Cafe Cubano", "Price": 150},
+                    {"Name": "Cafe Cortado", "Price": 180}
+                ]
+            },
+            {
+                "Category": "Alcoholic Beverages",
+                "Products": [null]
+            },
+            {
+                "Category": "Non-Alcoholic Beverages",
+                "Products": [null]
+            }
+        ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": true,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": ["76472532", "52928671"],
+    "Payment Options": {
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": true,
+            "USD": true
+        }
+    },
+    "Social Media": {
+        "Facebook": null,
+        "Instagram": null
+    }
+}

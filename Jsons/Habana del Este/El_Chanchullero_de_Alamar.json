@@ -1,0 +1,164 @@
+{
+    "Name": "El Chanchullero",
+    "Zone": "Habana del Este",
+    "Location": "#162D entre Calle 5G y Calle 162, zona 6, Alamar",
+    "Place Type": "Bar-Restaurant",
+    "Food Type": "Criolla",
+    "Schedule":[
+        {"day": "monday", "open": "1200", "close": "0000"},
+        {"day": "tuesday", "open": "1200", "close": "0000"},
+        {"day": "wednesday", "open": "1200", "close": "0000"},
+        {"day": "thursday", "open": "1200", "close": "0000"},
+        {"day": "friday", "open": "1200", "close": "0000"},
+        {"day": "saturday", "open": "1200", "close": "0000"},
+        {"day": "sunday", "open": "1200", "close": "0000"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"Chicharrita de platano macho", "Price": 250},
+                {"Name":"Toston relleno con cerdo", "Price": 375},
+                {"Name":"Fritura de malanga con miel", "Price": 375},
+                {"Name":"Ceviche de pulpo y pescado", "Price": 450}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"Cerdo al perejil", "Price": 795},
+                        {"Name":"Brochetas de cerdo", "Price": 795},
+                        {"Name":"Bistec encebollado", "Price": 800},
+                        {"Name":"Ropa vieja", "Price": 800},
+                        {"Name":"Cerdo asado al horno", "Price": 795},
+                        {"Name":"Masas de cerdo", "Price": 800}
+                    ]
+                },{
+                    "Fish and Seafood":[
+                        {"Name":"Pulpo al ajillo", "Price": 925},
+                        {"Name":"Pescado chanchullero (castero)", "Price": 800},
+                        {"Name":"Enchilado de langosta", "Price": 975},
+                        {"Name":"Langosta a la plancha", "Price": 975}
+                    ]
+                },{
+                    "Tacos":[null]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta",
+            "Products":[null]
+        },{
+            "Category":"Pizzas",
+            "Products":[null]
+        },{
+            "Category":"Sandwich",
+            "Products":[null]
+        },{
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[null]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"Flan al caramelo", "Price": 150}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[{"Name":"cafe Expreso", "Price": 100}]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"Catarro", "Price": 275},
+                {"Name":"Cuba Libre", "Price": 275},
+                {"Name":"Mojito", "Price": 275},
+                {"Name":"Caipirisima", "Price": 275},
+                {"Name":"Ron Coli", "Price": 275},
+                {"Name":"Cosita de esa", "Price": 275},
+                {"Name":"Caipiroska", "Price": 275},
+                {"Name":"Caipirina", "Price": 300},
+                {"Name":"Daiquiri", "Price": 300},
+                {"Name":"Pina colada", "Price": 300},
+                {"Name":"Vodka con naranja", "Price": 300},
+                {"Name":"Copa de vino", "Price": 300},
+                {"Name":"Cerveza importada", "Price": 275},
+                {"Name":"Red Bull", "Price": 300},
+                {"Name":"Ron HC Club Especial", "Price": 325},
+                {"Name":"Chelada", "Price": 400},
+                {"Name":"Michelada", "Price": 450},
+                {"Name":"Botella de vino", "Price": 1200},
+                {"Name":"Vodka absolut", "Price": 525},
+                {"Name":"Whiskey Black and White", "Price": 395},
+                {"Name":"Clan Cambell", "Price": 425},
+                {"Name":"Jameson", "Price": 425},
+                {"Name":"Finest Blended (Speech)", "Price": 400}
+            ]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"Jugo de fruta natural", "Price": 140},
+                {"Name":"Agua natural", "Price": 130},
+                {"Name":"Agua gaseada", "Price": 180},
+                {"Name":"Refrescos importados", "Price": 240},
+                {"Name":"Refrescos nacionales", "Price": 200}
+        ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": true,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": [null],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": true,
+        "Cash":{
+        "CUP": true,
+        "EUR": true,
+        "USD": true
+    }},
+    "Social Media":{
+        "Facebook": "El Chanchullero de Alamar Bar&Restaurant",
+        "Instagram": "@chanchullerobar.zona6"
+    }
+}

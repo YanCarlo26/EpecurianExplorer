@@ -1,0 +1,150 @@
+{
+    "Name": "Mundo Pizza",
+    "Zone": "Centro Habana",
+    "Location": "23.13771148492377, -82.36400171839173",
+    "Place Type": "Restaurante",
+    "Food Type": "italiana",
+    "Schedule":[
+        {"day": "monday", "open": "1200", "close": "2200"},
+        {"day": "tuesday", "open": "1200", "close": "2200"},
+        {"day": "wednesday", "open": "1200", "close": "2200"},
+        {"day": "thursday", "open": "1200", "close": "2200"},
+        {"day": "friday", "open": "1200", "close": "2200"},
+        {"day": "saturday", "open": "1200", "close": "2200"},
+        {"day": "sunday", "open": "1200", "close": "2200"}
+    ],
+    "Menu": [
+        {
+            "Category": "Entrants(tapas)",
+            "Products": [
+                {"Name":"croquetas caseras", "Price": 590},
+                {"Name":"tostones criollos", "Price": 540},
+                {"Name":"focaccia", "Price": 560}
+            ]
+        },
+        {
+            "Category": "Chef's Recommendation",
+            "Products": [null]
+        },
+        {
+            "Category": "Main courses",
+            "Products": [
+                {
+                    "Meat, Poultry and Game": [null]
+                },
+                {
+                    "Fish and Seafood": [null]
+                },
+                {
+                    "Tacos": [null]
+                }
+            ]
+        },
+        {
+            "Category": "For Your Diet",
+            "Products": [null]
+        },
+        {
+            "Category": "Pasta",
+            "Products": [
+                {"Name":"spaghetti", "Price": 950},
+                {"Name":"lasaña", "Price": 1250},
+                {"Name":"spaghetti al pesto", "Price": 1050},
+                {"Name":"spaghetti del dia", "Price": 1600}
+            ]
+        },
+        {
+            "Category": "Pizzas",
+            "Products": [
+                {"Name":"pizza metro criolla", "Price": 2800},
+                {"Name":"pizza metro casa", "Price": 3700},
+                {"Name":"pizza metro gouda", "Price": 5100},
+                {"Name":"pizza metro elección", "Price": 5150},
+                {"Name":"pizza 1/2 metro mix", "Price": 2500},
+                {"Name":"pizza 1/2 metro elección", "Price": 2700},
+                {"Name":"pizza rossa", "Price": 590}
+            ]
+        },
+        {
+            "Category": "Sandwich",
+            "Products": [null]
+        },
+        {
+            "Category": "Additions",
+            "Products": [null]
+        },
+        {
+            "Category": "Fittings(guarniciones)",
+            "Products": [null]
+        },
+        {
+            "Category": "Soups and Creams",
+            "Products": [null]
+        },
+        {
+            "Category": "Desserts",
+            "Products": [
+                {"Name":"postre del dia", "Price": 650},
+                {"Name":"pizza a chocolate", "Price": 815},
+                {"Name":"helado 3 gracias", "Price": 500}
+            ]
+        },
+        {
+            "Category": "Coffees & Infusions",
+            "Products": [null]
+        },
+        {
+            "Category": "Alcoholic Beverages",
+            "Products": [
+                {"Name":"cerveza", "Price": 300}
+            ]
+        },
+        {
+            "Category": "Non-Alcoholic Beverages",
+            "Products": [
+                {"Name":"refresco", "Price": 250},
+                {"Name":"energizante", "Price": 390},
+                {"Name":"malta", "Price": 300},
+                {"Name":"jugo cajita", "Price": 250}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": true,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": false,
+    "Phone": ["53372715"],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+        "CUP": "true",
+        "EUR": false,
+        "USD": "true"
+    }} , 
+    "Social Media":{
+        "Facebook": "Mundo Pizza",
+        "Instagram": "@mundopizza_habana"
+    }
+}

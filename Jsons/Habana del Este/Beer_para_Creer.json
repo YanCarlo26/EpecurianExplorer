@@ -1,0 +1,158 @@
+{
+    "Name": "Beer para creer",
+    "Zone": "Habana del Este",
+    "Location": "Centro comercial Falcon, Alamar, 5P88+9X3",
+    "Place Type": "Bar-Cafeteria",
+    "Food Type": "Internacional",
+    "Schedule":[
+        {"day": "monday", "open": "1000", "close": "2100"},
+        {"day": "tuesday", "open": "1000", "close": "2100"},
+        {"day": "wednesday", "open": "1000", "close": "2100"},
+        {"day": "thursday", "open": "1000", "close": "2100"},
+        {"day": "friday", "open": "1000", "close": "2100"},
+        {"day": "saturday", "open": "1000", "close": "2100"},
+        {"day": "sunday", "open": "1000", "close": "2100"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"Hamurguesa simple", "Price": 450},
+                {"Name":"Hamburguesa especial", "Price": 550},
+                {"Name":"Sandwich pinareno", "Price": 900},
+                {"Name":"Croquetas del Chef", "Price": 650},
+                {"Name":"Pan con lechon", "Price": 350},
+                {"Name":"Sandwish cubano con lechon", "Price": 950}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"Masas de cerdo fritas", "Price": 1350},
+                        {"Name":"Ropa vieja de cerdo", "Price": 1400},
+                        {"Name":"Fricase de cerdo", "Price": 1400},
+                        {"Name":"Bistec de cerdo grille", "Price": 850},
+                        {"Name":"Bistec de cerdo Princesa", "Price": 1100},
+                        {"Name":"Milanesa de cerdo", "Price": 1100},
+                        {"Name":"Envoltino de cerdo", "Price": 1250},
+                        {"Name":"Lomo ahumado", "Price": 1000},
+                        {"Name":"Lonjas de cerdo asadas al carbon", "Price": 1300},
+                        {"Name":"Uruguayo de cerdo", "Price": 1150},
+                        {"Name":"Escalope de cerdo", "Price": 950},
+                        {"Name":"Gordon Blue de cerdo", "Price": 1250},
+                        {"Name":"Bistec de pollo grille", "Price": 850},
+                        {"Name":"Bistec de pollo gratinado", "Price": 1200},
+                        {"Name":"Fricase de pollo", "Price": 1400},
+                        {"Name":"Arroz a la chorrera", "Price": 1400},
+                        {"Name":"Pollo chiflado", "Price": 850}
+                    ]
+                },{
+                    "Fish and Seafood":[null]
+                },{
+                    "Tacos":[null]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta",
+            "Products":[
+                {"Name":"Spaghettis napolitanos", "Price": 520}
+            ]
+        },{
+            "Category":"Pizzas",
+            "Products":[
+                {"Name":"Pizza de queso blanco", "Price": 160},
+                {"Name":"Pizza de queso gouda", "Price": 250}
+            ]
+        },{
+            "Category":"Sandwich",
+            "Products":[
+                {"Name":"Sandwich pinareno", "Price": 900},
+                {"Name":"Sandwish cubano con lechon", "Price": 950}
+            ]
+        },{
+            "Category":"Additions",
+            "Products":[
+                {"Name":"Jamon", "Price": 100},
+                {"Name":"Queso blanco", "Price": 80},
+                {"Name":"Cebolla", "Price": 120},
+                {"Name":"Chorizo", "Price": 100}
+            ]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                {"Name":"Arroz blanco", "Price": 250},
+                {"Name":"Arroz moro", "Price": 180},
+                {"Name":"Vianda frita", "Price": 100},
+                {"Name":"Ensalada de vegetales", "Price": 80}
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[null]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[null]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[null]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[null]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": true,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": [null],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": true,
+        "Cash":{
+        "CUP": true,
+        "EUR": true,
+        "USD": true
+    }},
+    "Social Media":{
+        "Facebook": false,
+        "Instagram": false
+    }
+}

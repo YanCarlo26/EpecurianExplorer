@@ -1,0 +1,239 @@
+{
+    "Name": "El Monakeno",
+    "Zone": "Diez de Octubre",
+    "Location": "Avenida Mayia Rodriguez entre Acosta y O'Farril",
+    "Place Type": "Restaurante",
+    "Food Type": "Americana",
+    "Schedule": [
+        {"day": "monday", "open": "12:00", "close": "24:00"},
+        {"day": "tuesday", "open": "12:00", "close": "24:00"},
+        {"day": "wednesday", "open": "12:00", "close": "24:00"},
+        {"day": "thursday", "open": "12:00", "close": "24:00"},
+        {"day": "friday", "open": "12:00", "close": "02:00"},
+        {"day": "saturday", "open": "12:00", "close": "02:00"},
+        {"day": "sunday", "open": "12:00", "close": "02:00"}
+    ],
+    "Menu": [
+        {
+            "Category": "Entrants(tapas)",
+            "Products": [
+                {"Name": "Croquetas", "Price": 900},
+                {"Name": "Bolitas de queso", "Price": 1000},
+                {"Name": "Queso frito", "Price": 950},
+                {"Name": "Papas fritas", "Price": 400},
+                {"Name": "Brusquetas", "Price": 700},
+                {"Name": "Fajitas de pollo", "Price": 1300},
+                {"Name": "Tapas Monakeno", "Price": 2000},
+                {"Name": "Picadera Monakeno", "Price": 2500},
+                {"Name": "Picadera Super Monakeno", "Price": 5000}
+            ]
+        },
+        {
+            "Category": "Chef's Recommendation",
+            "Products": [null]
+        },
+        {
+            "Category": "Main courses",
+            "Products": [
+                {
+                    "Meat, Poultry and Game": [
+                        {"Name": "Hamburguesa de res", "Price": 1500},
+                        {"Name": "Hamburguesa Monakeno Azul", "Price": 2000},
+                        {"Name": "Ensalada de atun y vegetales", "Price": 1500},
+                        {"Name": "Ensalada Italiana", "Price": 2300},
+                        {"Name": "Ensalada Monakeno", "Price": 1200},
+                        {"Name": "Solomillo de res", "Price": 5500},
+                        {"Name": "Carpaccio de res", "Price": 1900},
+                        {"Name": "Ropa Vieja de res o Vaca Frita", "Price": 2800},
+                        {"Name": "Picadillo de res a la Habanera", "Price": 2600},
+                        {"Name": "Pechuga de pollo grille", "Price": 2200},
+                        {"Name": "Chuleta de cerdo", "Price": 2400},
+                        {"Name": "Milanesa Monakeno", "Price": 2150}
+                    ]
+                },
+                {
+                    "Fish and Seafood": [
+                        {"Name": "Camaron al gusto", "Price": 2500}
+                    ]
+                },
+                {
+                    "Tacos": [null]
+                }
+            ]
+        },
+        {
+            "Category": "For Your Diet",
+            "Products": [null]
+        },
+        {
+            "Category": "Pasta",
+            "Products": [
+                {"Name": "Pasta Napolitana", "Price": 1450},
+                {"Name": "Pasta Carbonara", "Price": 2500},
+                {"Name": "Pasta Alfredo", "Price": 1500},
+                {"Name": "Pasta Amatriciana", "Price": 2400},
+                {"Name": "Pasta de 4 Quesos", "Price": 2200},
+                {"Name": "Pasta de vegetales", "Price": 1150},
+                {"Name": "Pasta al Pesto", "Price": 1500},
+                {"Name": "Pasta Bolognesa", "Price": 2200}
+            ]
+        },
+        {
+            "Category": "Pizzas",
+            "Products": [
+                {"Name": "Pizza de nutella", "Price": 1050},
+                {"Name": "Pizza Margarita", "Price": 1650},
+                {"Name": "Pizza Monakeno", "Price": 2600},
+                {"Name": "Pizza Napolitana", "Price": 1150},
+                {"Name": "Pizza de atun", "Price": 1850},
+                {"Name": "Pizza de jamon", "Price": 1750},
+                {"Name": "Pizza hawaiana", "Price": 1800},
+                {"Name": "Pizza Panna", "Price": 1950},
+                {"Name": "Pizza Prosciutto", "Price": 2150}
+            ]
+        },
+        {
+            "Category": "Sandwich",
+            "Products": [
+                {"Name": "Hot Dog", "Price": 1100},
+                {"Name": "Sandwich Cubano", "Price": 2100},
+                {"Name": "Sandwich de atun", "Price": 1500},
+                {"Name": "Sandwich de jamon y queso", "Price": 1200}
+            ]
+        },
+        {
+            "Category": "Additions",
+            "Products": [
+                {"Name": "Champignones", "Price": 250},
+                {"Name": "Queso azul", "Price": 550},
+                {"Name": "Queso Parmesano", "Price": 800},
+                {"Name": "Camarón", "Price": 1100},
+                {"Name": "Bacon", "Price": 500},
+                {"Name": "Chorizo extra vela", "Price": 700},
+                {"Name": "Queso Gouda", "Price": 500},
+                {"Name": "Aceitunas", "Price": 400},
+                {"Name": "Piña glaseada", "Price": 150},
+                {"Name": "Cebolla", "Price": 250},
+                {"Name": "Pimiento", "Price": 250},
+                {"Name": "Jamón Euro", "Price": 400},
+                {"Name": "Huevo", "Price": 200},
+                {"Name": "Jamón Serrano", "Price": 800},
+                {"Name": "Atún", "Price": 550},
+                {"Name": "Guarnición de arroz blanco", "Price": 250},
+                {"Name": "Vegetales salteados", "Price": 250},
+                {"Name": "Puré de boniato", "Price": 200}
+            ]
+        },
+        {
+            "Category": "Fittings(guarniciones)",
+            "Products": [
+                {"Name": "Champignones", "Price": 250},
+                {"Name": "Queso azul", "Price": 550},
+                {"Name": "Queso Parmesano", "Price": 800},
+                {"Name": "Camarón", "Price": 1100},
+                {"Name": "Bacon", "Price": 500},
+                {"Name": "Chorizo extra vela", "Price": 700},
+                {"Name": "Queso Gouda", "Price": 500},
+                {"Name": "Aceitunas", "Price": 400},
+                {"Name": "Piña glaseada", "Price": 150},
+                {"Name": "Cebolla", "Price": 250},
+                {"Name": "Pimiento", "Price": 250},
+                {"Name": "Jamón Euro", "Price": 400},
+                {"Name": "Huevo", "Price": 200},
+                {"Name": "Jamón Serrano", "Price": 800},
+                {"Name": "Atún", "Price": 550},
+                {"Name": "Guarnición de arroz blanco", "Price": 250},
+                {"Name": "Vegetales salteados", "Price": 250},
+                {"Name": "Puré de boniato", "Price": 200}
+            ]
+        },
+        {
+            "Category": "Soups and Creams",
+            "Products": [null]
+        },
+        {
+            "Category": "Desserts",
+            "Products": [
+                {"Name": "Tarta Flan", "Price": 1000},
+                {"Name": "Cheesecake", "Price": 1125},
+                {"Name": "Helados", "Price": 550},
+                {"Name": "Flan casero", "Price": 650}
+            ]
+        },
+        {
+            "Category": "Coffees & Infusions",
+            "Products": [
+                {"Name": "Café Expresso", "Price": 200},
+                {"Name": "Café Cortado", "Price": 250},
+                {"Name": "Frappuccino", "Price": 400}
+            ]
+        },
+        {
+            "Category": "Alcoholic Beverages",
+            "Products": [
+                {"Name": "Screw Driver", "Price": 600},
+                {"Name": "Screw Driver Absolute", "Price": 900},
+                {"Name": "Ron Collins", "Price": 650},
+                {"Name": "Margarita", "Price": 800},
+                {"Name": "Sangría", "Price": 700},
+                {"Name": "Daiquiri", "Price": 700},
+                {"Name": "Mojito", "Price": 700},
+                {"Name": "Cuba Libre", "Price": 600},
+                {"Name": "Caipirinha", "Price": 650},
+                {"Name": "Caipiroska", "Price": 650},
+                {"Name": "Caipirissima", "Price": 650},
+                {"Name": "Happy Monakeno", "Price": 1250},
+                {"Name": "Michelada", "Price": 200},
+                {"Name": "Chelada", "Price": 150},
+                {"Name": "Cerveza Embrau", "Price": 280},
+                {"Name": "Cubetazo de cerveza Embrau", "Price": 1400},
+                {"Name": "Cubetazo de cerveza Cristal", "Price": 1800}
+            ]
+        },{
+            "Category": "Non-Alcoholic Beverages",
+            "Products": [
+                {"Name": "Limonada", "Price": 450},
+                {"Name": "Piña Colada", "Price": 800},
+                {"Name": "Red Bull", "Price": 500}
+            ]}
+        ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": 0,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": true
+    },
+    "State or Private": "privado",
+    "Phone": ["63444454"],
+    "Payment Options": {
+        "Online payments": "digital_transfer_national, usd_transfer",
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": false,
+            "USD": true
+        }
+    },
+    "Social Media": {
+        "Facebook": "https://www.facebook.com/monakeno.2024/",
+        "Instagram": "@el_monakeno"
+    }
+}

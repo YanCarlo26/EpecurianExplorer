@@ -1,0 +1,142 @@
+{
+    "Name": "Cafe Toscano",
+    "Zone": "San Miguel del Padron",
+    "Location": "Calzada de Guines",
+    "Place Type": "Cafeteria",
+    "Food Type": "Italiana y Criolla",
+    "Schedule": [
+        {"day": "monday", "open": "0800", "close": "2200"},
+        {"day": "tuesday", "open": "0800", "close": "2200"},
+        {"day": "wednesday", "open": "0800", "close": "2200"},
+        {"day": "thursday", "open": "0800", "close": "2200"},
+        {"day": "friday", "open": "0800", "close": "2200"},
+        {"day": "saturday", "open": "0800", "close": "2200"},
+        {"day": "sunday", "open": "0800", "close": "2200"}
+    ],
+    "Menu": [
+        {
+            "Category": "Entrants(tapas)",
+            "Products": [
+                {"Name": "tostones rellenos", "Price": 250},
+                {"Name": "tostones", "Price": 150},
+                {"Name": "platano", "Price": 100}
+            ]
+        },
+        {
+            "Category": "Chef's Recommendation",
+            "Products": [null]
+        },
+        {
+            "Category": "Main courses",
+            "Products": [
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name": "pollo chiflado", "Price": 400},
+                        {"Name": "pollo especial", "Price": 1000}
+                    ]
+                },
+                {
+                    "Fish and Seafood": [null]
+                },
+                {
+                    "Tacos": [null]
+                }
+            ]
+        },
+        {
+            "Category": "For Your Diet",
+            "Products": [null]
+        },
+        {
+            "Category": "Pasta",
+            "Products": [
+                {"Name": "spaghetti", "Price": 330},
+                {"Name": "spaghetti con queso gouda", "Price": 400}
+            ]
+        },
+        {
+            "Category": "Pizzas",
+            "Products": [
+                {"Name": "pizza napolitana", "Price": 17},
+                {"Name": "pizza doble de queso", "Price": 250},
+                {"Name": "pizza hawaiana", "Price": 290},
+                {"Name": "pizza gouda", "Price": 250},
+                {"Name": "pizza cubana", "Price": 320},
+                {"Name": "pizza grande napolitana", "Price": 550},
+                {"Name": "pizza grande doble de queso", "Price": 790},
+                {"Name": "pizza grande gouda", "Price": 940}
+            ]
+        },
+        {
+            "Category": "Sandwich",
+            "Products": [null]
+        },
+        {
+            "Category": "Additions",
+            "Products": [null]
+        },
+        {
+            "Category": "Fittings(guarniciones)",
+            "Products": [null]
+        },
+        {
+            "Category": "Soups and Creams",
+            "Products": [null]
+        },
+        {
+            "Category": "Desserts",
+            "Products": [null]
+        },
+        {
+            "Category": "Coffees & Infusions",
+            "Products": [null]
+        },
+        {
+            "Category": "Alcoholic Beverages",
+            "Products": [null]
+        },
+        {
+            "Category": "Non-Alcoholic Beverages",
+            "Products": [null]
+        }
+    ],
+    "House Specialty":false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area":false,
+        "Bar":false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground":false,
+        "Parking":false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": [null],
+    "Payment Options": {
+        "Online payments": false,
+        "Credit Card":false,
+        "Cash": {
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+        }
+    },
+    "Social Media": {
+        "Facebook": false,
+        "Instagram": false
+    }
+}

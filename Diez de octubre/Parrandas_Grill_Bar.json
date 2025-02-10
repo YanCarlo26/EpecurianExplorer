@@ -1,0 +1,322 @@
+{
+    "Name": "Parrandas Grill Bar",
+    "Zone": "Diez de Octubre",
+    "Location": "#366, Calle O'Farril entre Destrampes y Figueroa, Diez de Octubre",
+    "Place Type": "Bar",
+    "Food Type": "Mixta",
+    "Schedule":[
+        {"day": "monday", "open": "1200", "close": "2400"},
+        {"day": "tuesday", "open": "1200", "close": "2400"},
+        {"day": "wednesday", "open": "1200", "close": "2400"},
+        {"day": "thursday", "open": "1200", "close": "2400"},
+        {"day": "friday", "open": "1200", "close": "2400"},
+        {"day": "saturday", "open": "1200", "close": "2400"},
+        {"day": "sunday", "open": "1200", "close": "2400"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name": "Picadera Parrandas", "Price": 2500},
+                {"Name": "Tabla de jamon Serrano", "Price": 1900},
+                {"Name": "Garbanzos fritos", "Price": 1000},
+                {"Name": "Nachos", "Price": 1400},
+                {"Name": "Ceviche", "Price": 900},
+                {"Name": "Eperlan", "Price": 800},
+                {"Name": "Entremes de jamon / queso / chorizo", "Price": 1000},
+                {"Name": "Chorizos parrilleros con queso al horno", "Price": 1600},
+                {"Name": "Tostones rellenos", "Price": 800},
+                {"Name": "Papas fritas", "Price": 500},
+                {"Name": "Brusquetas", "Price": 700},
+                {"Name": "Croquetas caseras", "Price": 700},
+                {"Name": "Tambor de bonieto con cangrejo picante", "Price": 1100},
+                {"Name": "Empanadas de queso azul", "Price": 1100},
+                {"Name": "Coctel de langosta", "Price": 1300},
+                {"Name": "Coctel de camaron", "Price": 1400},
+                {"Name": "Tabla de queso", "Price": 2700},
+                {"Name": "Papas bravas con queso y guacamole", "Price": 1300},
+                {"Name": "Patacon con vaca frita", "Price": 1100},
+                {"Name": "Rollitos de salmon con queso crema", "Price": 1700},
+                {"Name": "Tartar de salmon", "Price": 1200},
+                {"Name": "Tostas de ceviche con Pesto", "Price": 1000}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    "Meat, Poultry and Game": [
+                    {"Name": "Pan con lechon", "Price": 1200},
+                    {"Name": "Pan con pollo crujiente", "Price": 1500},
+                    {"Name": "Costillas en salsa barbacoa", "Price": 2800},
+                    {"Name": "Picana de ternera con papas fritas", "Price": 5000},
+                    {"Name": "Fajitas de pollo", "Price": 2400},
+                    {"Name": "Fajitas de cerdo", "Price": 2500},
+                    {"Name": "Pechuga de pollo", "Price": 2400},
+                    {"Name": "Masas de cerdo", "Price": 2500},
+                    {"Name": "Ropa vieja", "Price": 2100},
+                    {"Name": "Vaca frita", "Price": 2000}
+                    ]
+                },{
+                    "Fish and Seafood":[
+                    {"Name": "Filete de pescado", "Price": 2400},
+                    {"Name": "John Bill", "Price": 3200},
+                    {"Name": "John Bill de langosta", "Price": 3300},
+                    {"Name": "Salteado de mariscos", "Price": 3200},
+                    {"Name": "Langosta enchilada", "Price": 2700},
+                    {"Name": "Camaron al gusto", "Price": 2600},
+                    {"Name": "Pulpo al gusto", "Price": 3500}
+                    ]
+                },{
+                    "Tacos":[
+                    {"Name": "Tacos Parrandas", "Price": 1500},
+                    {"Name": "Tacos de camaron", "Price": 2300}
+                    ]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta",
+            "Products":[
+                {"Name": "Pasta Napolitana", "Price": 1000},
+                {"Name": "Pasta Frutti di Mare", "Price": 1900},
+                {"Name": "Pasta Carbonara", "Price": 1800},
+                {"Name": "Pasta de salmon con crema", "Price": 1900}
+            ]
+        },
+        {
+            "Category":"Pizzas",
+            "Products":[
+                {"Name": "Pizza Carbonara", "Price": 1700},
+                {"Name": "Pizza Napolitana", "Price": 1200}
+            ]
+        },
+        {
+            "Category":"Sandwich",
+            "Products":[
+                {"Name": "Pan con lechon", "Price": 1200},
+                {"Name": "Pan con pollo crujiente", "Price": 1500}
+            ]
+        },
+        {
+            "Category":"Additions",
+            "Products":[
+                {"Name": "Queso", "Price": 700},
+                {"Name": "Chorizo", "Price": 450},
+                {"Name": "Bacon", "Price": 500},
+                {"Name": "Jamon", "Price": 450},
+                {"Name": "Jamon pierna", "Price": 500},
+                {"Name": "Jamon ahumado pierna canario", "Price": 700},
+                {"Name": "Atun", "Price": 600},
+                {"Name": "Pina", "Price": 200},
+                {"Name": "Cebolla", "Price": 250},
+                {"Name": "Aceituna", "Price": 500},
+                {"Name": "Jamon Serrano", "Price": 800},
+                {"Name": "Trufa negra", "Price": 450},
+                {"Name": "Langosta", "Price": 1100},
+                {"Name": "Camaron", "Price": 1200},
+                {"Name": "Champignon", "Price": 400},
+                {"Name": "Queso azul", "Price": 700},
+                {"Name": "Salmon ahumado", "Price": 1000},
+                {"Name": "Arroz moro", "Price": 250}
+            ]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                {"Name": "Arroz moro", "Price": 250}
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[
+                {"Name": "Crema de papa con crujiente de jamon Serrano", "Price": 1200}
+            ]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name": "Mousse de chocolate", "Price": 800},
+                {"Name": "Mousse de vainilla", "Price": 800},
+                {"Name": "Pie de fanguito con mani", "Price": 800},
+                {"Name": "Pie de limón", "Price": 800}
+            ]
+        },
+        {    
+            "Category":"Alcoholic Beverages",
+                "Products":[
+                {"Name": "Beldevere 2 Tonica", "Price": 12000},
+                {"Name": "Green Label", "Price": 55000},
+                {"Name": "Gold Label", "Price": 50000},
+                {"Name": "Clan Campbell", "Price": 400},
+                {"Name": "Vat 69", "Price": 450},
+                {"Name": "The Glenlivet", "Price": 900},
+                {"Name": "Chivas 12", "Price": 1000},
+                {"Name": "Chivas 15", "Price": 1800},
+                {"Name": "Chivas 18", "Price": 3000},
+                {"Name": "Jameson (shot)", "Price": 700},
+                {"Name": "JB (shot)", "Price": 700},
+                {"Name": "Jack Daniel's", "Price": 1200},
+                {"Name": "Jack Daniel's Honey", "Price": 1000},
+                {"Name": "JW Red Label", "Price": 750},
+                {"Name": "JW Gold Label", "Price": 3500},
+                {"Name": "Ballantines", "Price": 700},
+                {"Name": "Ballantines 10", "Price": 800},
+                {"Name": "Jameson Black Barrel", "Price": 1400},
+                {"Name": "Buchanan's 12 (shot)", "Price": 1800},
+                {"Name": "Old Parr (Shot)", "Price": 1000},
+                {"Name": "Santiago Anejo (shot)", "Price": 400},
+                {"Name": "Selección de Maestro (shot)", "Price": 1200},
+                {"Name": "Santiago 11 (shot)", "Price": 1100},
+                {"Name": "HC Anejo 7 años (shot)", "Price": 550},
+                {"Name": "Santiago 8 (shot)", "Price": 700},
+                {"Name": "Ron Barceló Gran Añejo (shot)", "Price": 400},
+                {"Name": "Santisima Trinidad (shot)", "Price": 700},
+                {"Name": "Olmeca Reposado (shot)", "Price": 700},
+                {"Name": "1800 Reposado (shot)", "Price": 1600},
+                {"Name": "Don Ramón Blanco (shot)", "Price": 1000},
+                {"Name": "Patrón (shot)", "Price": 2000},
+                {"Name": "Don Julio Reposado (shot)", "Price": 2000},
+                {"Name": "Copa de vino tinto", "Price": 700},
+                {"Name": "Copa de vino blanco", "Price": 650},
+                {"Name": "Botella de vino tinto Hoya de Cadenas", "Price": 7500},
+                {"Name": "Botella de vino tinto Valdubón", "Price": 8000},
+                {"Name": "Botella de vino tinto Orube", "Price": 7500},
+                {"Name": "Jaggermeister", "Price": 500},
+                {"Name": "Vodka Absolut", "Price": 500},
+                {"Name": "Vodka Absolut de café", "Price": 550},
+                {"Name": "Ciroc de sabores", "Price": 1000},
+                {"Name": "Grey Goose", "Price": 1200},
+                {"Name": "Belvedere", "Price": 1300},
+                {"Name": "Chopin", "Price": 1350},
+                {"Name": "Vincent Van Gogh", "Price": 500},
+                {"Name": "Gordon's", "Price": 550},
+                {"Name": "G'Vine", "Price": 700},
+                {"Name": "Master's", "Price": 700},
+                {"Name": "Master's Pink", "Price": 700},
+                {"Name": "Tanqueray Ten", "Price": 1100},
+                {"Name": "Beefeater", "Price": 600},
+                {"Name": "London No.1", "Price": 1800},
+                {"Name": "Energizante", "Price": 450},
+                {"Name": "Red Bull", "Price": 700},
+                {"Name": "Jugo natural", "Price": 350},
+                {"Name": "Limonada natural", "Price": 600},
+                {"Name": "Cerveza La Salve", "Price": 350},
+                {"Name": "Cerveza Presidente", "Price": 550},
+                {"Name": "Cerveza Sol", "Price": 600},
+                {"Name": "Cerveza Alhambra", "Price": 700},
+                {"Name": "Jarra de cerveza", "Price": 450},
+                {"Name": "Cana de cerveza", "Price": 225},
+                {"Name": "Cana con limon", "Price": 275},
+                {"Name": "Malta", "Price": 380},
+                {"Name": "Refresco nacional", "Price": 300},
+                {"Name": "Refresco importado", "Price": 380},
+                {"Name": "Tónica MG", "Price": 600},
+                {"Name": "Cuba Libre Coca Cola", "Price": 600},
+                {"Name": "Cubata Coca Cola", "Price": 650},
+                {"Name": "Caipiroska", "Price": 700},
+                {"Name": "Caipiroska de la casa", "Price": 800},
+                {"Name": "Caipirissima", "Price": 700},
+                {"Name": "Caipirinha", "Price": 700},
+                {"Name": "Ron Collins", "Price": 650},
+                {"Name": "Margarita", "Price": 700},
+                {"Name": "Screwdriver", "Price": 600},
+                {"Name": "Gin Tonic MG", "Price": 1200},
+                {"Name": "Piña Colada Virgen", "Price": 750},
+                {"Name": "Piña Colada", "Price": 800},
+                {"Name": "Mojito", "Price": 700},
+                {"Name": "Mary Pickford", "Price": 650},
+                {"Name": "Tinto de verano", "Price": 650},
+                {"Name": "Blue Lagoon", "Price": 700},
+                {"Name": "Sangría", "Price": 650},
+                {"Name": "Sangría blanca", "Price": 600},
+                {"Name": "Daiquiri", "Price": 700},
+                {"Name": "Daiquiri saborizado", "Price": 800},
+                {"Name": "Vodka Tonic MG", "Price": 1000},
+                {"Name": "Caipirita", "Price": 700},
+                {"Name": "Negroni", "Price": 1400},
+                {"Name": "Tito's 2 Ligant", "Price": 10000},
+                {"Name": "Ballantine's 2 Ligant", "Price": 8000},
+                {"Name": "Ballantine's 12 2 Ligant", "Price": 12000},
+                {"Name": "Chivas 12 1 Ligant", "Price": 12000},
+                {"Name": "Chivas 18 1 Ligant", "Price": 20000},
+                {"Name": "Glenlivet 2 Ligant", "Price": 14000},
+                {"Name": "White Label Dewars", "Price": 4500},
+                {"Name": "Jameson", "Price": 9000},
+                {"Name": "JB", "Price": 9000},
+                {"Name": "Etiqueta Roja LT 2 Ligant", "Price": 12000},
+                {"Name": "Buchanan's 12", "Price": 21000},
+                {"Name": "Old Parr", "Price": 10000},
+                {"Name": "Santiago 8", "Price": 9000},
+                {"Name": "7 años LT", "Price": 6000},
+                {"Name": "Pacto Navio", "Price": 15000},
+                {"Name": "Selección de Maestro", "Price": 14000},
+                {"Name": "Santiago 11", "Price": 14000},
+                {"Name": "Espumoso Freixenet", "Price": 6000},
+                {"Name": "Cana con limon", "Price": 275},
+                {"Name": "Grey Goose 2 Tonica", "Price": 12000}
+            ]
+        },
+        {
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name": "Energizante", "Price": 450},
+                {"Name": "Red Bull", "Price": 700},
+                {"Name": "Jugo natural", "Price": 350},
+                {"Name": "Limonada natural", "Price": 600},
+                {"Name": "Agua natural", "Price": 250},
+                {"Name": "Agua gaseada", "Price": 280},
+                {"Name": "Malta", "Price": 380},
+                {"Name": "Refresco nacional", "Price": 300},
+                {"Name": "Refresco importado", "Price": 380},
+                {"Name": "Tónica MG", "Price": 600}
+            ]
+        }
+    ],
+    "House Specialty": "",
+    "Head Chef": "",
+    "Price Range": "",
+    "Place Options": {
+        "Accessible": true,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": true,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": 0,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": true,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": true
+    },
+    "State or Private": "Private",
+    "Phone": ["50587446"],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+            "CUP": true,
+            "EUR": false,
+            "USD": true
+        }
+    },
+    "Social Media":{
+        "Facebook": false,
+        "Instagram": "@parrandasgrilbar"
+    }
+}

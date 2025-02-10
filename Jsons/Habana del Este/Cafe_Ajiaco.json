@@ -1,0 +1,355 @@
+{
+    "Name": "Cafe Ajiaco",
+    "Zone": "Habana del Este",
+    "Location": "calle 92/No. 267 e/ 3ra. E y 5ta. Cojimar, Habana del Heste",
+    "Place Type": "Restaurant",
+    "Food Type": "Criolla",
+    "Schedule":[
+        {"day": "monday", "open": "1200", "close": "1100"},
+        {"day": "tuesday", "open": "1200", "close": "1100"},
+        {"day": "wednesday", "open": "1200", "close": "1100"},
+        {"day": "thursday", "open": "1200", "close": "1100"},
+        {"day": "friday", "open": "1200", "close": "1100"},
+        {"day": "saturday", "open": "1200", "close": "1100"},
+        {"day": "sunday", "open": "1200", "close": "1100"}
+    ],
+    "Menu":[
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {
+                    "Name":"Mojito Ajiaco (Ron Anejo, miel de abejas, jugo de limon, hierba buena, agua gaseada, hielo )",
+                    "Price": 350
+                },{
+                    "Name":"Mojito Clasico",
+                    "Price": 350
+                },{
+                    "Name":"Cuba Libre",
+                    "Price": 350
+                },{
+                    "Name":"Daiquiri Tradicional",
+                    "Price": 350
+                },{
+                    "Name":"Dalquiri de Frutas",
+                    "Price": 350
+                },{
+                    "Name":"ron Collins",
+                    "Price": 350
+                },{
+                    "Name":"Cubata Habana Special",
+                    "Price": 350
+                },{
+                    "Name":"Caipiina",
+                    "Price": 350
+                },{
+                    "Name":"Caipiroska",
+                    "Price": 350
+                },{
+                    "Name":"Caispirisma",
+                    "Price": 350
+                },{
+                    "Name":"Canchanchera",
+                    "Price": 350
+                },{
+                    "Name":"Pina Colada",
+                    "Price": 380
+                },{
+                    "Name":"Sangria",
+                    "Price": 380
+                },{
+                    "Name":"Gin Tonic",
+                    "Price": 380
+                },{
+                    "Name":"Vodka Tonic",
+                    "Price": 380
+                },{
+                    "Name":"Margarita",
+                    "Price": 380
+                },{
+                    "Name":"Copa de Vino de la casa ",
+                    "Price": 390
+                },{
+                    "Name":"Cervezas",
+                    "Price": 290
+                }, {
+                    "Name":"Havana Club 3 Anos",
+                    "Price": 200
+                },{
+                    "Name":"Havana Club Anajo Especial",
+                    "Price": 230
+                },{
+                    "Name":"Havana Club Reserva",
+                    "Price": 210
+                },{
+                    "Name":"Havana Club 7 Anos",
+                    "Price": 290
+                },{
+                    "Name":"Tequila Blanco",
+                    "Price": 290
+                },{
+                    "Name":"Vodka",
+                    "Price": 230
+                },{
+                    "Name":"Agua Ardiente",
+                    "Price": 190
+                },{
+                    "Name":"Ginebra",
+                    "Price":250
+                }
+            ]
+        },
+        {
+            "Category":"Non- Alcoholic Beverage",
+            "Products":[
+                {
+                    "Name":"Pina Colada",
+                    "Price": 650
+                },{
+                    "Name":"Jugos Naturales",
+                    "Price": 220
+                },{
+                    "Name":"Refrescos Nacionales (200 ml a 500 ml)",
+                    "Price": 220
+                },{
+                    "Name":"Aguas nacionales(200 ml a 500 ml)",
+                    "Price": 280
+                },{
+                    "Name":"Agua Tonica ",
+                    "Price": 220
+                },{
+                    "Name":"Energizante",
+                    "Price": 280
+                },{
+                    "Name":"Cerveza Nacional",
+                    "Price": 350
+                },{
+                    "Name":"Malta",
+                    "Price": 300
+                }
+            ]
+        },
+        {  "Category":"Entrants",
+            "Products":[
+                {
+                "Name":"seviche de pescado fresco del dia",
+                "Price": 890
+                },{
+                "Name":"Coctel de camarones",
+                "Price": 1200
+                },{
+                "Name":"Coctel de langosta ",
+                "Price": 990
+                },{
+                "Name":"Escabeche de pescado en adereso de aceitunas y cebollas ",
+                "Price": 990
+                },{
+                "Name":"pulpo fresco",
+                "Price": 1350
+                },{
+                "Name":"Ajiaco cubano ",
+                "Price": 390
+                },{
+                "Name":"Garbanzos fritos del chef",
+                "Price": 1470
+                },{
+                "Name":"Croquetas caceras (4 unid)",
+                "Price": 490
+                },{
+                "Name":"Tostones rellenos de ropa vieja",
+                "Price": 990
+                },{
+                    "Name":"Tostones rellenos con jamon y queso",
+                    "Price": 990
+                },{
+                    "Name":"Cartucho o Frituras de malanga",
+                    "Price": 490
+                },{
+                    "Name":"Tamal en casuela con (choriza y cerdo o camarones)",
+                    "Price": 1200
+                },{
+                    "Name":"tamal en hoja en monteria de cerdo",
+                    "Price": 890
+                },{
+                    "Name":"Tamal en hoja con salsa chimichurri(2 unid)",
+                    "Price": 420
+                }          
+            ] 
+        },
+        {
+            "Category":"For Your Diet",
+            "Products":[null]
+        },{
+            "Category":"Sopas y Cremas",
+            "Products":[null]
+        },{
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Pastas ",
+            "Products":[
+                {
+                    "Name":"Pasta de queso",
+                    "Price": 790
+                },{
+                    "Name":"Pasta con jamon",
+                    "Price": 1150
+                }]
+        } ,{
+            "Category":" Pizzas",
+            "Products":[       
+                
+                {
+                    "Name":"Pizza de queso",
+                    "Price": 1250
+                },{
+                    "Name":"Pizza con jamon",
+                    "Price": 1550
+                },{
+                    "Name":"Pizza con camarones",
+                    "Price": 1990
+                },{
+                    "Name":"pizza hawaiana",
+                    "Price": 1490
+                },{
+                    "Name":"Pizza con ropa vieja y platanos maduros fritos",
+                    "Price": 1890
+                }
+            ]
+        },
+        {
+            "Category":"Main Courses",
+            "Products":[ 
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"Arroz a la cubana (arroz blanco, 2 huevos fritos, plátano maduro frito)", "Price": 590},
+                        {"Name":"Arroz a la marinera", "Price": 2200},
+                        {"Name":"Arroz a la campesina (cerdo, maíz, chorizo con plátanos fritos borrachos)", "Price": 1690},
+                        {"Name":"Arroz con pollo en baño de cerveza", "Price": 1650},
+                        {"Name":"Suprema de pollo grille", "Price": 1400},
+                        {"Name":"Fricase de pollo al estilo campesino", "Price": 1690},
+                        {"Name":"Suprema de pollo relleno con jamón y queso", "Price": 1750},
+                        {"Name":"Bistec de cerdo", "Price": 1450},
+                        {"Name":"Masas de cerdo fritas", "Price": 2490},
+                        {"Name":"Patas de cerdo cocidas en salsa criolla", "Price": 1050},
+                        {"Name":"Cerdo empanado y relleno con jamón y queso", "Price": 1890},
+                        {"Name":"Escalopes de cerdo empanados", "Price": 1390},
+                        {"Name":"Ropa vieja de la casa", "Price": 1950},
+                        {"Name":"Chilindrón de carnero", "Price": 2150},
+                        {"Name":"Estofado de res", "Price": 1790}
+                    ]
+                },
+                {
+                    "Fish and Seafood": [
+                        {"Name":"Pescado fresco del día con salteados de albahaca, tomate, y ajo", "Price": 2100},
+                        {"Name":"Cazuela mixta del mar", "Price": 2450},
+                        {"Name":"Filete de pescado al estilo canciller", "Price": 2290},
+                        {"Name":"Pulpo estofado en vino tinto y salsa criolla", "Price": 2980},
+                        {"Name":"Camarón grille", "Price": 2190},
+                        {"Name":"Camarones cocidos en aceite, ajo y guindillas", "Price": 2400},
+                        {"Name":"Langosta cocida en aceite, ajo y guindillas", "Price": 2450},
+                        {"Name":"Langosta al ron en salsa criolla", "Price": 2400},
+                        {"Name":"Eperlan o minutas de pescado con mayonesa", "Price": 1890}
+                    ]
+                },
+                {
+                    "Tacos": [null]
+                }
+            ]
+        },
+        
+        {
+            "Category":"Fittings",
+            "Products":[
+                {                
+                    "Name":"Arooz blanco",
+                    "Price": 290
+                },{
+                    
+                    "Name":"Arroz moros y cristianos",
+                    "Price": 380            
+                },{     
+                    "Name":"Vegetales frescos, marinados, salteados",
+                    "Price": 290         
+                },{
+                    "Name":"Frijoles negros dormidos",
+                    "Price": 350
+                },{
+                    "Name":"Seleccion de viandas con mojo del dia",
+                    "Price": 290
+                },{
+                    "Name":"Pure de viandas",
+                    "Price": 250
+                },{
+                    "Name":"Vianda frita",
+                    "Price": 350
+                },{
+                    "Name":"Tamal en hoja (i unid)",
+                    "Price": 210
+                }
+
+            ]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {
+                    "Name":"Helado cacero",
+                    "Price": 550
+                }
+            ]
+        },
+        {
+            "Category":"Coffees and Infusions",
+            "Products":[
+                {
+                    "Name":"Cafe expreso",
+                    "Price": 180
+                },{
+                    "Name":"Te",
+                    "Price": 120
+                }
+            ]
+        }
+    ],
+    "House Specialty": "El ajiaco",
+    "Head Chef":false,
+    "Price Range":false,
+    "Place Options": {
+        "Accessible":true  ,             
+        "Executive Lunch":false,
+        "Smoking Area": true,
+        "Bar": true,
+        "Event Buffet":false,
+        "Wine List":false,
+        "Air Conditioning":false,
+        "Service Charge %":false,
+        "Dress Code":false,
+        "Takeaway Food": true,
+        "Breakfast":false,
+        "Home Delivery": true,
+        "Reserved Space":false,
+        "Karaoke":false,
+        "Recorded Music": true,
+        "Playground":false,
+        "Parking": true,
+        "Live Performances":false,
+        "Room Reservation": true,
+        "Outdoor Services":false
+    },
+    "State or Private": "Private",
+    "Phone": "077650514",
+    "Payment Options":{
+        "Online payments":true,
+        "Credit Card":false,
+        "Cash":{
+        "CUP":true,
+        "EUR":true,
+        "USD":true
+    } }, 
+    "Social Media":{
+        "Facebook": "https://www.google.com/url?q=https://m.facebook.com/cojimarrestaurant/&sa=U&ved=2ahUKEwiM1e3a3pSKAxW678kDHc0EFPAQFnoECBgQAQ&usg=AOvVaw3BqQEdr1xlwXZyatGAiSTi",
+        "Instagram":"https://www.google.com/url?q=https://www.instagram.com/explore/locations/660058979/ajiaco-cafe/%3Fhl%3Des-la&sa=U&ved=2ahUKEwjVjcus3pSKAxWjG9AFHd09EqkQFnoECBkQAQ&usg=AOvVaw1L6wFe3Njtl4q8h0SHrbWb"
+    }
+}
+

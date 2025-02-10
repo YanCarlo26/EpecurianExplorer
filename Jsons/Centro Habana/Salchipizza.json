@@ -1,0 +1,146 @@
+{
+    "Name": "Salchipizza",
+    "Zone": "Centro Habana",
+    "Location": "23.13412923367649, -82.37826298998031",
+    "Place Type": "Restaurante",
+    "Food Type": "cubana",
+    "Schedule":[
+        {"day": "monday", "open": false, "close": false},
+        {"day": "tuesday", "open": "1300", "close": "2300"},
+        {"day": "wednesday", "open": "1300", "close": "2300"},
+        {"day": "thursday", "open": "1300", "close": "2300"},
+        {"day": "friday", "open": "1300", "close": "2300"},
+        {"day": "saturday", "open": "1300", "close": "2300"},
+        {"day": "sunday", "open": false, "close": false}
+    ],
+    "Menu": [
+        {
+            "Category": "Entrants(tapas)",
+            "Products": [
+                {"Name":"tabla de panes artesanales", "Price": 1500},
+                {"Name":"terrina de pescado", "Price": 2700},
+                {"Name":"tinaja de carbón con crema Parmentier de verduras de estación", "Price": 2500},
+                {"Name":"ensalada de cerdo guayaba y fruta bomba", "Price": 2000}
+            ]
+        },
+        {
+            "Category": "Chef's Recommendation",
+            "Products": [null]
+        },
+        {
+            "Category": "Main courses",
+            "Products": [
+                {
+                    "Meat, Poultry and Game": [
+                        {"Name":"carretón de boniato, rueda de quimbombó y látigo de carnero ahumado", "Price": 3000},
+                        {"Name":"masa de cerdo con verduras al gratin", "Price": 2300},
+                        {"Name":"señorita de cerdo con verduras al gratin", "Price": 3000}
+                    ]
+                },
+                {
+                    "Fish and Seafood": [
+                        {"Name":"volcán de maíz, lava de pescado ardiente y cenizas de pulpo", "Price": 3500}
+                    ]
+                },
+                {
+                    "Tacos": [null]
+                }
+            ]
+        },
+        {
+            "Category": "For Your Diet",
+            "Products": [null]
+        },
+        {
+            "Category": "Pasta",
+            "Products": [
+                {"Name":"lasaña de carne a la boloñesa", "Price": 1600}
+            ]
+        },
+        {
+            "Category": "Pizzas",
+            "Products": [null]
+        },
+        {
+            "Category": "Sandwich",
+            "Products": [null]
+        },
+        {
+            "Category": "Additions",
+            "Products": [null]
+        },
+        {
+            "Category": "Fittings(guarniciones)",
+            "Products": [null]
+        },
+        {
+            "Category": "Soups and Creams",
+            "Products": [null]
+        },
+        {
+            "Category": "Desserts",
+            "Products": [
+                {"Name":"recuerdos de la infancia", "Price": 2000}
+            ]
+        },
+        {
+            "Category": "Coffees & Infusions",
+            "Products": [
+                {"Name":"café", "Price": 150}
+            ]
+        },
+        {
+            "Category": "Alcoholic Beverages",
+            "Products": [
+                {"Name":"copa de vino", "Price": 750},
+                {"Name":"copa de champagne", "Price": 800},
+                {"Name":"cerveza nacional", "Price": 350},
+                {"Name":"cerveza importada", "Price": 400}
+            ]
+        },
+        {
+            "Category": "Non-Alcoholic Beverages",
+            "Products": [
+                {"Name":"agua", "Price": 200}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": true,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": false,
+    "Phone": [""],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+        "CUP": "true",
+        "EUR": false,
+        "USD": "true"
+    }} , 
+    "Social Media":{
+        "Facebook": "Salchipizza",
+        "Instagram": "@salchipizza"
+    }
+}

@@ -1,0 +1,243 @@
+{
+    "Name": "RicarDon",
+    "Zone": "Centro Habana",
+    "Location": "23.137414091589683, -82.36092696447452",
+    "Place Type": "Restaurante",
+    "Food Type": "caribeña",
+    "Schedule":[
+        {"day": "monday", "open": "1200", "close": "2400"},
+        {"day": "tuesday", "open": "1200", "close": "2400"},
+        {"day": "wednesday", "open": "1200", "close": "2400"},
+        {"day": "thursday", "open": "1200", "close": "2400"},
+        {"day": "friday", "open": "1200", "close": "2400"},
+        {"day": "saturday", "open": "1200", "close": "2400"},
+        {"day": "sunday", "open": "1200", "close": "2400"}
+    ],
+    "Menu": [
+        {
+            "Category": "Entrants(tapas)",
+            "Products": [
+                {"Name":"croquetas de chorizo (10 un)", "Price": 970},
+                {"Name":"tostones rellenos con jamon y queso (50g jamon, 30g queso)", "Price": 600},
+                {"Name":"ceviche estilo ricardo", "Price": 1350},
+                {"Name":"coctel de langosta (150g)", "Price": 1000},
+                {"Name":"quesadillas de jamon y queso (75g cada uno)", "Price": 750},
+                {"Name":"empanadillas de queso con mermelada de guayaba", "Price": 950},
+                {"Name":"brusquetas de jamon y queso (50g jamon y 30g queso)", "Price": 875},
+                {"Name":"frituras de malanga", "Price": 500},
+                {"Name":"tapas de salmon con queso crema y uvas pasas (60g)", "Price": 1125},
+                {"Name":"tostones rellenos de ropa vieja de cerdo (100g)", "Price": 1000}
+            ]
+        },
+        {
+            "Category": "Chef's Recommendation",
+            "Products": [null]
+        },
+        {
+            "Category": "Main courses",
+            "Products": [
+                {
+                    "Meat, Poultry and Game": [
+                        {"Name":"baston de pollo empanado (280g)", "Price": 2200},
+                        {"Name":"brochetas de pollo con piña (280g)", "Price": 2025},
+                        {"Name":"brochetas de pollo (280g)", "Price": 2000},
+                        {"Name":"pollo a la crema con jamon serrano (280g)", "Price": 2250},
+                        {"Name":"fajitas de pollo a la campesina (280g)", "Price": 2500},
+                        {"Name":"pollo gorden blue (280g y 45g jamon y queso)", "Price": 3000},
+                        {"Name":"pollo grille en salsa de cebolla (280g)", "Price": 2250},
+                        {"Name":"pollo grille basado en salsa barbecue (250g)", "Price": 1700},
+                        {"Name":"alondridas de cerdo en salsa criolla (210g)", "Price": 1500},
+                        {"Name":"montado de pollo jamon y queso (280c pollo y jamon y queso)", "Price": 2500},
+                        {"Name":"brochetas de cerdo con piña (280g)", "Price": 2100},
+                        {"Name":"ropa vieja de cerdo sin salsa de tomate (170g)", "Price": 1900},
+                        {"Name":"ropa vieja de cerdo con salsa de tomate (170g)", "Price": 2000},
+                        {"Name":"bistec de cerdo gratinado con jamon y queso (280g y 45g jamon y queso)", "Price": 2400},
+                        {"Name":"lomo de cerdo deshuesado con mojo criollo (280g)", "Price": 2200},
+                        {"Name":"lomo ahumado agridulce (280g)", "Price": 2250},
+                        {"Name":"lomo ahumado al graten (280)", "Price": 2200},
+                        {"Name":"lomo ahumado grille (280g)", "Price": 2000},
+                        {"Name":"lomo ahumado en salsa barbacoa (280g)", "Price": 2250},
+                        {"Name":"sirloin con salsa española", "Price": 12000},
+                        {"Name":"ribeye de wagyu de res", "Price": 14000},
+                        {"Name":"ribeye angus", "Price": 9000},
+                        {"Name":"wagyu new york strip", "Price": 13750},
+                        {"Name":"chilindron de cordero (250g)", "Price": 2400},
+                        {"Name":"ropa vieja de res sin salsa de tomate (170g)", "Price": 2500},
+                        {"Name":"dados de res estofado (250g)", "Price": 2600},
+                        {"Name":"ropa vieja de res con salsa de tomate (170g)", "Price": 2700},
+                        {"Name":"estofado de cordero al vino tinto (250g)", "Price": 2250}
+                    ]
+                },
+                {
+                    "Fish and Seafood": [
+                        {"Name":"pescado relleno con salmon", "Price": 3200},
+                        {"Name":"arroz marinero", "Price": 3350},
+                        {"Name":"camarón en salsa de crema de queso y albahaca", "Price": 3300},
+                        {"Name":"camarón thermidor", "Price": 2500},
+                        {"Name":"filete de salmon (350g)", "Price": 2500},
+                        {"Name":"pescado del dia (280g)", "Price": 2625},
+                        {"Name":"pescado salvaje", "Price": 2800},
+                        {"Name":"fajitas de pescado en mirepoix de vegetales (280g)", "Price": 2300},
+                        {"Name":"pescado grille c/ m d hotel (280g)", "Price": 2500},
+                        {"Name":"langosta grille c/ m d hotel (350g)", "Price": 2500},
+                        {"Name":"enchilado de pulpo (250g)", "Price": 4000},
+                        {"Name":"pescado marinero (280g pescado y 60g camarón)", "Price": 3000},
+                        {"Name":"camarón empanado (250g)", "Price": 2500},
+                        {"Name":"camarones enchilados (250g)", "Price": 2800},
+                        {"Name":"filete de pescado empanado (200g)", "Price": 2500},
+                        {"Name":"dados de pescado en salsa cubana (200g)", "Price": 2500},
+                        {"Name":"pescado joinville (280g pescado y 50g de camarón)", "Price": 3700},
+                        {"Name":"zarzuela marinera (150g de cada producto)", "Price": 4900}
+                    ]
+                },
+                {
+                    "Tacos": [
+                        {"Name":"tacos de camaron (200g)", "Price": 1800},
+                        {"Name":"tacos de cerdo y res (65g cerdo y 65g res)", "Price": 1100},
+                        {"Name":"tacos de pollo (125g)", "Price": 1100},
+                        {"Name":"tacos de pollo en salsa pico de gallo (125)", "Price": 1250}
+                    ]
+                }
+            ]
+        },
+        {
+            "Category": "For Your Diet",
+            "Products": [null]
+        },
+        {
+            "Category": "Pasta",
+            "Products": [
+                {"Name":"spaghetti napoles con queso gouda", "Price": 1200},
+                {"Name":"spaghetti con jamon y queso gouda", "Price": 1700},
+                {"Name":"spaghetti camarones", "Price": 2200},
+                {"Name":"spaghetti en salsa blanca cremosa con parmesano y...", "Price": 1900},
+                {"Name":"spaghetti con atun", "Price": 2000},
+                {"Name":"spaghetti en salsa cremosa de salmon ahumado", "Price": 2300},
+                {"Name":"spaghetti carbonara", "Price": 2500}
+            ]
+        },
+        {
+            "Category": "Pizzas",
+            "Products": [
+                {"Name":"pizza de serrano", "Price": 1950},
+                {"Name":"pizza de camarones", "Price": 2000},
+                {"Name":"pizza de atun", "Price": 1550},
+                {"Name":"pizza de cebolla", "Price": 1100},
+                {"Name":"pizza de chorizo vela", "Price": 2000},
+                {"Name":"pizza de jamon", "Price": 1450},
+                {"Name":"pizza napolitana", "Price": 1100},
+                {"Name":"pizza de aji y cebolla", "Price": 1200},
+                {"Name":"pizza al pesto", "Price": 1100},
+                {"Name":"pizza 4 queso", "Price": 2000},
+                {"Name":"pizza a la carbonara", "Price": 2500}
+            ]
+        },
+        {
+            "Category": "Sandwich",
+            "Products": [
+                {"Name":"baguette de jamón y queso", "Price": 1150},
+                {"Name":"baguette de atún y vegetales", "Price": 975}
+            ]
+        },
+        {
+            "Category": "Additions",
+            "Products": [
+                {"Name":"boniato frito", "Price": 200},
+                {"Name":"arroz blanco", "Price": 210},
+                {"Name":"tostones al ajo", "Price": 350},
+                {"Name":"arroz moro", "Price": 310},
+                {"Name":"tostones naturales", "Price": 300},
+                {"Name":"vegetales salteados al estilo del chef", "Price": 150}
+            ]
+        },
+        {
+            "Category": "Fittings(guarniciones)",
+            "Products": [null]
+        },
+        {
+            "Category": "Soups and Creams",
+            "Products": [null]
+        },
+        {
+            "Category": "Desserts",
+            "Products": [
+                {"Name":"flan al caramelo", "Price": 350},
+                {"Name":"eclair de crema y chocolate (1 unidad)", "Price": 850},
+                {"Name":"cake de chocolate (porción)", "Price": 1000},
+                {"Name":"dulce de papaya", "Price": 275},
+                {"Name":"dulce coco del abuelo", "Price": 250}
+            ]
+        },
+        {
+            "Category": "Coffees & Infusions",
+            "Products": [null]
+        },
+        {
+            "Category": "Alcoholic Beverages",
+            "Products": [
+                {"Name":"cerveza corona", "Price": 600},
+                {"Name":"cerveza cristal", "Price": 440},
+                {"Name":"cerveza stella de botella", "Price": 660},
+                {"Name":"cerveza heineken (botella)", "Price": 600},
+                {"Name":"cerveza presidente light", "Price": 550},
+                {"Name":"cerveza presidente", "Price": 600},
+                {"Name":"cerveza modelo superior", "Price": 600},
+                {"Name":"vb frontera chardonnay (botella)", "Price": 2650},
+                {"Name":"vb frontera sauvignon blanc (botella)", "Price": 2400},
+                {"Name":"vt frontera c 3/4 (botella)", "Price": 2600},
+                {"Name":"vt frontera merlot (botella)", "Price": 2400}
+            ]
+        },
+        {
+            "Category": "Non-Alcoholic Beverages",
+            "Products": [
+                {"Name":"agua gaseada", "Price": 600},
+                {"Name":"agua natural buonaso ml", "Price": 280},
+                {"Name":"agua tonica (mg)", "Price": 750},
+                {"Name":"malta importada turbo malta", "Price": 425},
+                {"Name":"refresco santa de naranja", "Price": 450},
+                {"Name":"refresco 7 up", "Price": 450},
+                {"Name":"refresco importado pepsi cola (lata)", "Price": 450},
+                {"Name":"jugo kermato", "Price": 750}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": true,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": false,
+    "Phone": ["78614325"],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+        "CUP": "true",
+        "EUR": false,
+        "USD": "true"
+    }} , 
+    "Social Media":{
+        "Facebook": "RicarDon",
+        "Instagram": "@restaurantericardon"
+    }
+}

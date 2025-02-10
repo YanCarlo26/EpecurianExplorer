@@ -1,0 +1,196 @@
+{
+    "Name": "El Bleko",
+    "Zone": "Centro Habana",
+    "Location": "Calle Marina, Centro Habana, La Habana",
+    "Place Type": "bar - restaurante",
+    "Food Type": "Internacional",
+    "Schedule":[
+        {"day": "monday", "open": "1300", "close": "0200"},
+        {"day": "tuesday", "open": "1300", "close": "0200"},
+        {"day": "wednesday", "open": "1300", "close": "0200"},
+        {"day": "thursday", "open": "1300", "close": "0200"},
+        {"day": "friday", "open": "1300", "close": "0200"},
+        {"day": "saturday", "open": "1300", "close": "0200"},
+        {"day": "sunday", "open": "1300", "close": "0200"}
+    ],
+    "Menu": [
+        {
+        "Category": "Entrants(tapas)",
+        "Products": [
+            {"Name":"frituras de malanga", "Price": 750},
+            {"Name":"croquetas mixtas", "Price": 1050},
+            {"Name":"palitos de queso", "Price": 1100},
+            {"Name":"nachos de salsa de queso", "Price": 900},
+            {"Name":"crostini mixto", "Price": 950},
+            {"Name":"torrejas saladas con cerdo ahumado", "Price": 1050},
+            {"Name":"quesadillas de jamón pierna", "Price": 1650}
+        ]
+    },
+    {
+        "Category": "Chef's Recommendation",
+        "Products": [null]
+    },
+    {
+        "Category": "Main courses",
+        "Products": [
+            {
+                "Meat, Poultry and Game": [
+                    {"Name":"bistec a la plancha", "Price": 2000},
+                    {"Name":"pollo frito", "Price": 1500},
+                    {"Name":"fajita de pechuga de pollo", "Price": 2500}
+                ]
+            },
+            {
+                "Fish and Seafood": [null]
+            },
+            {
+                "Tacos": [
+                    {"Name":"tacos de cerdo", "Price": 1550},
+                    {"Name":"tacos de cerdo ahumado", "Price": 1750},
+                    {"Name":"tacos de pollo", "Price": 1450}
+                ]
+            }
+        ]
+    },
+    {
+        "Category": "For Your Diet",
+        "Products": [null]
+    },
+    {
+        "Category": "Pasta",
+        "Products": [null]
+    },
+    {
+        "Category": "Pizzas",
+        "Products": [
+            {"Name":"pizza de queso", "Price": 1250},
+            {"Name":"pizza de jamón", "Price": 1450},
+            {"Name":"pizza de chorizo", "Price": 1450}
+        ]
+    },
+    {
+        "Category": "Sandwich",
+        "Products": [null]
+    },
+    {
+        "Category": "Additions",
+        "Products": [null]
+    },
+    {
+        "Category": "Fittings(guarniciones)",
+        "Products": [null]
+    },
+    {
+        "Category": "Soups and Creams",
+        "Products": [null]
+    },
+    {
+        "Category": "Desserts",
+        "Products": [null]
+    },
+    {
+        "Category": "Coffees & Infusions",
+        "Products": [
+            {"Name":"cafe expreso", "Price": 250},
+            {"Name":"cafe capuccino", "Price": 400},
+            {"Name":"cafe cortadito", "Price": 300}
+        ]
+    },
+    {
+        "Category": "Alcoholic Beverages",
+        "Products": [
+            {"Name":"caipirisima", "Price": 650},
+            {"Name":"canchanchara", "Price": 650},
+            {"Name":"caipiroska", "Price": 650},
+            {"Name":"caipiriña", "Price": 650},
+            {"Name":"mojito", "Price": 650},
+            {"Name":"cuba libre", "Price": 650},
+            {"Name":"sangria", "Price": 650},
+            {"Name":"margarita", "Price": 600},
+            {"Name":"piña colada", "Price": 650},
+            {"Name":"old fashion", "Price": 750},
+            {"Name":"laguna azul", "Price": 650},
+            {"Name":"tr reserva", "Price": 300},
+            {"Name":"tr barceló dorado", "Price": 400},
+            {"Name":"tr barceló añejo", "Price": 450},
+            {"Name":"tr ritual", "Price": 300},
+            {"Name":"tr añejo especial", "Price": 300},
+            {"Name":"tr vat 69", "Price": 500},
+            {"Name":"tr black white", "Price": 600},
+            {"Name":"tr jw black", "Price": 1500},
+            {"Name":"tr jw red", "Price": 1100},
+            {"Name":"tr ballantines", "Price": 1000},
+            {"Name":"tr doble black", "Price": 1800},
+            {"Name":"gin master", "Price": 650},
+            {"Name":"gin master pink", "Price": 650},
+            {"Name":"gin tanqueray", "Price": 650},
+            {"Name":"gin beefarer", "Price": 550},
+            {"Name":"gin johpur reserva", "Price": 900},
+            {"Name":"vodka tonic", "Price": 500},
+            {"Name":"tr ciroc", "Price": 1000},
+            {"Name":"tr ciroc coco", "Price": 1000},
+            {"Name":"tr finlandia", "Price": 600},
+            {"Name":"czech driver", "Price": 750},
+            {"Name":"tequila de la casa", "Price": 400},
+            {"Name":"licores: bailey's", "Price": 800},
+            {"Name":"licores: jagermeister", "Price": 450},
+            {"Name":"licores: jaeger", "Price": 800},
+            {"Name":"copa de vino", "Price": 500},
+            {"Name":"cristal lata", "Price": 350},
+            {"Name":"bucanero lata", "Price": 350},
+            {"Name":"cristal botella", "Price": 500},
+            {"Name":"bucanero botella", "Price": 500},
+            {"Name":"hollandia", "Price": 300},
+            {"Name":"unlaguer", "Price": 330}
+        ]
+    },
+    {
+        "Category": "Non-Alcoholic Beverages",
+        "Products": [
+            {"Name":"agua natural", "Price": 250},
+            {"Name":"santa cola", "Price": 350},
+            {"Name":"santa limon", "Price": 350},
+            {"Name":"santa naranja", "Price": 350},
+            {"Name":"energizante", "Price": 500}
+        ]
+    }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": true,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": true,
+        "Room Reservation": false
+    },
+    "State or Private":" Private",
+    "Phone": ["50985368"],
+    "Payment Options":{
+        "Online payments":true,
+        "Credit Card":false,
+        "Cash":{
+        "CUP":true,
+        "EUR":true,
+        "USD":true
+    }} , 
+    "Social Media":{
+        "Facebook": "El Bleko",
+        "Instagram":"@blecohavana"
+    }
+}

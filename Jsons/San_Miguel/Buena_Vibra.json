@@ -1,0 +1,145 @@
+{
+    "Name": "Buena Vibra",
+    "Zone": "San Miguel del Padron",
+    "Location": false,
+    "Place Type": "Cafeteria",
+    "Food Type": "Criolla",
+    "Schedule": [
+        {"day": "monday", "open": "1200", "close": "2200"},
+        {"day": "tuesday", "open": "1200", "close": "2200"},
+        {"day": "wednesday", "open": "1200", "close": "2200"},
+        {"day": "thursday", "open": "1200", "close": "2200"},
+        {"day": "friday", "open": "1200", "close": "2200"},
+        {"day": "saturday", "open": "1200", "close": "2200"},
+        {"day": "sunday", "open": "1200", "close": "2200"}
+    ],
+    "Menu": [
+        {
+            "Category": "Entrants(tapas)",
+            "Products": [
+                {"Name": "croquetas", "Price": 400},
+                {"Name": "fritura de malanga", "Price": 400},
+                {"Name": "vianda frita", "Price": 300},
+                {"Name": "tostones tradicionales", "Price": 300},
+                {"Name": "tostones rellenos", "Price": 500}
+            ]
+        },
+        {
+            "Category": "Chef's Recommendation",
+            "Products": [null]
+        },
+        {
+            "Category": "Main courses",
+            "Products": [
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name": "bistec de pollo", "Price": 850},
+                        {"Name": "bistec de pollo empanado", "Price": 900},
+                        {"Name": "higado de cerdo", "Price": 800},
+                        {"Name": "lomo ahumado", "Price": 900},
+                        {"Name": "bistec de cerdo", "Price": 900},
+                        {"Name": "pechuga de pollo", "Price": 900}
+                    ]
+                },
+                {
+                    "Fish and Seafood": [null]
+                },
+                {
+                    "Tacos": [null]
+                }
+            ]
+        },
+        {
+            "Category": "For Your Diet",
+            "Products": [null]
+        },
+        {
+            "Category": "Pasta",
+            "Products": [
+                {"Name": "spaghetti con queso", "Price": 400},
+                {"Name": "spaghetti de jamon", "Price": 550}
+            ]
+        },
+        {
+            "Category": "Pizzas",
+            "Products": [null]
+        },
+        {
+            "Category": "Sandwich",
+            "Products": [
+                {"Name": "hamburguesa de pollo", "Price": 300}
+            ]
+        },
+        {
+            "Category": "Additions",
+            "Products": [null]
+        },
+        {
+            "Category": "Fittings(guarniciones)",
+            "Products": [null]
+        },
+        {
+            "Category": "Soups and Creams",
+            "Products": [null]
+        },
+        {
+            "Category": "Desserts",
+            "Products": [null]
+        },
+        {
+            "Category": "Coffees & Infusions",
+            "Products": [null]
+        },
+        {
+            "Category": "Alcoholic Beverages",
+            "Products": [
+                {"Name": "tequila reposado", "Price": 300},
+                {"Name": "licor crema", "Price": 200},
+                {"Name": "pinna colada", "Price": 300}
+            ]
+        },
+        {
+            "Category": "Non-Alcoholic Beverages",
+            "Products": [null]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef":false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible":false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning":false,
+        "Service Charge %":false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space":false,
+        "Karaoke":false,
+        "Recorded Music":true,
+        "Playground":false,
+        "Parking": false,
+        "Live Performances":false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": [false],
+    "Payment Options": {
+        "Online payments":true,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR":false,
+            "USD":false
+        }
+    },
+    "Social Media": {
+        "Facebook": false,
+        "Instagram":false
+    }
+}

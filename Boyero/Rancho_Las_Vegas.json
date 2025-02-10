@@ -1,0 +1,187 @@
+{
+    "Name": "Ranchon Las Vegas",
+    "Zone": "Boyeros",
+    "Location": "Calle 409 % 182 & Avenida Independencia, Santiago de las Vegas, GPS: 22.975478,-82.384574",
+    "Place Type": "Restaurante",
+    "Food Type": "Criolla",
+    "Schedule":[
+        {"day": "monday", "open": null, "close": null},
+        {"day": "tuesday", "open": null, "close": null},
+        {"day": "wednesday", "open": null, "close": null},
+        {"day": "thursday", "open": null, "close": null},
+        {"day": "friday", "open": null, "close": null},
+        {"day": "saturday", "open": null, "close": null},
+        {"day": "sunday", "open": null, "close": null}
+    ],
+    "Menu":[
+            {
+                "Category":"Entrants(tapas)",
+                "Products":[
+                    {"Name":"Brusquetas de Serrano y Queso","Price": 600},
+                    {"Name":"Montaditos de Cerdo","Price": 700},
+                    {"Name":"Papas Fritas","Price": 800},
+                    {"Name":"Patacon de Cerdo","Price": 900},
+                    {"Name":"Croquetas Rancho","Price": 1000},
+                    {"Name":"Papas Fritas y Chorizos","Price": 1000},
+                    {"Name":"Tamal en Cazuela","Price": 1000},
+                    {"Name":"Tabla de Queso","Price": 1900},
+                    {"Name":"Tabla de Serrano, Quesos y Frutos Secos","Price": 2000},
+                    {"Name":"La Tranka","Price": 2500}
+                ]
+            },
+            {
+                "Category":"Chef's Recommendation",
+                "Products":[null]
+            },
+            {
+                "Category":"Main courses",
+                "Products":[
+                    {
+                        " Meat, Poultry and Game ": [
+                            {"Name":"Pollo Grille al Carbon","Price": 1600},
+                            {"Name":"Brochetas de Pollo","Price": 1800},
+                            {"Name":"Pescado 1 pax","Price": 2500},
+                            {"Name":"Super Fish + Copa de Vino","Price": 4500},
+                            {"Name":"Atun de Aleta Amarilla","Price": 7000}
+                        ]
+                    },{
+                        "Fish and Seafood":[
+                            {"Name":"Enchilado de Cangrejo","Price": 2200},
+                            {"Name":"Enchilado de Camaron","Price": 2500}
+                        ]
+                    },{
+                        "Tacos":[null]
+                    }
+                ]
+            },{
+                "Category":"For Your Diet",
+                "Products":[null]
+            },
+            {
+                "Category":"Pasta",
+                "Products":[null]
+            },{
+                "Category":"Pizzas",
+                "Products":[null]
+            },{
+                "Category":"Sandwich",
+                "Products":[
+                    {"Name":"Hamburguesa Clasica","Price": 800},
+                    {"Name":"Bagutte Guajiro","Price": 1300},
+                    {"Name":"Sándwich Cubano","Price": 1500}
+                ]
+            },{
+                "Category":"Additions",
+                "Products":[null]
+            },
+            {
+                "Category":"Fittings(guarniciones)",
+                "Products":[
+                    {"Name":"Arroz Blanco","Price": 300},
+                    {"Name":"Arroz Moro","Price": 350},
+                    {"Name":"Pure del Dia","Price": 350},
+                    {"Name":"Verduras Grilladas","Price": 400}
+                ]
+            },
+            {
+                "Category":"Soups and Creams",
+                "Products":[null]
+            },
+            {
+                "Category":"Desserts",
+                "Products":[
+                    {"Name":"Helado","Price": 450},
+                    {"Name":"Flan","Price": 450},
+                    {"Name":"Copa Lolita","Price": 850}
+                ]
+            },
+            {
+                "Category":"Coffees & Infusions",
+                "Products":[
+                    {"Name":"Café","Price": 350}
+                ]
+            },
+            {
+                "Category":"Alcoholic Beverages",
+                "Products":[
+                    {"Name":"Cuba Libre","Price": 750},
+                    {"Name":"Caipiriña","Price": 750},
+                    {"Name":"Caipiroska","Price": 750},
+                    {"Name":"Caipirisima","Price": 750},
+                    {"Name":"Mojito","Price": 750},
+                    {"Name":"Daiquiri","Price": 800},
+                    {"Name":"Piña Colada","Price": 900},
+                    {"Name":"Bloody Mary","Price": 900},
+                    {"Name":"Tinto de Verano","Price": 900},
+                    {"Name":"Sangria","Price": 900},
+                    {"Name":"Cubanito","Price": 900},
+                    {"Name":"Margarita","Price": 1250},
+                    {"Name":"Cerveza Importada","Price": 250},
+                    {"Name":"Cheladas","Price": 300},
+                    {"Name":"Cristal","Price": 350},
+                    {"Name":"Micheladas","Price": 400},
+                    {"Name":"Cristal de Botella","Price": 450},
+                    {"Name":"Corona","Price": 600},
+                    {"Name":"Cerveza Modelo","Price": 700},
+                    {"Name":"Vino Blanco","Price": 700},
+                    {"Name":"Vino Tinto","Price": 700}
+                ]
+            },{
+                "Category":"Non-Alcoholic Beverages",
+                "Products":[
+                    {"Name":"Piña Colada Virgen","Price": 800},
+                    {"Name":"Energizante Importado","Price": 400},
+                    {"Name":"Agua Natural","Price": 200},
+                    {"Name":"Refresco Cola","Price": 250},
+                    {"Name":"Refresco Limon","Price": 250},
+                    {"Name":"Refresco Naranja","Price": 250},
+                    {"Name":"Piña","Price": 250},
+                    {"Name":"Jugos","Price": 250},
+                    {"Name":"Coca Cola","Price": 350},
+                    {"Name":"Sprite","Price": 350},
+                    {"Name":"Malta","Price": 300},
+                    {"Name":"Malta Bucanero","Price": 350},
+                    {"Name":"Pepsi Cola","Price": 350}
+                ]
+            }
+        ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": true,
+        "Executive Lunch": false,
+        "Smoking Area": true,
+        "Bar": true,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": [null],
+    "Payment Options":{
+        "Online payments":false,
+        "Credit Card":false,
+        "Cash":{
+            "CUP":true,
+            "EUR":false,
+            "USD":false
+        }
+    },
+    "Social Media":{
+        "Facebook": false,
+        "Instagram": false
+    }
+}

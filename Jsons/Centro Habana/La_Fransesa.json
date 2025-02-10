@@ -1,0 +1,169 @@
+{
+    "Name": "La Francesa",
+    "Zone": "ch",
+    "Location": "Prado entre San Rafael y Neptuno",
+    "Place Type": "Bar",
+    "Food Type": "Tapas",
+    "Schedule":[
+        {"day": "monday", "open": "0800", "close": "1200"},
+        {"day": "tuesday", "open": "0800", "close": "1200"},
+        {"day": "wednesday", "open": "0800", "close": "1200"},
+        {"day": "thursday", "open": "0800", "close": "1200"},
+        {"day": "friday", "open": "0800", "close": "1200"},
+        {"day": "saturday", "open": "0800", "close": "1200"},
+        {"day": "sunday", "open": "0800", "close": "1200"}
+    ],
+    "Menu": [
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"Tostón relleno 3.0","Price": 1500},
+                {"Name":"Brusquetas","Price": 1500},
+                {"Name":"Coctel de camarones","Price": 1800},
+                {"Name":"Tostas de jamón serrano","Price": 1800},
+                {"Name":"Bolitas de queso estilo La Francesa","Price": 1600},
+                {"Name":"Ceviche de pesca blanca","Price": 1800},
+                {"Name":"Ensalada Capricho","Price": 1800},
+                {"Name":"Papas bravas","Price": 1500},
+                {"Name":"Papas fritas","Price": 1600},
+                {"Name":"Frituritas de malanga","Price": 950},
+                {"Name":"Croissant Clásico","Price": 1500},
+                {"Name":"Croissant Natural","Price": 750},
+                {"Name":"Hamburguesa La Francesa","Price": 2500},
+                {"Name":"Croquetas de la casa","Price": 1600},
+                {"Name":"Tabla fría","Price": 3200},
+                {"Name":"Tabla caliente","Price": 3500},
+                {"Name":"Tabla de jamón serrano","Price": 3500}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"Brochetas de cerdo","Price": 2500},
+                        {"Name":"Nuggets de pollo","Price": 1800}
+                    ]
+                },{
+                    "Fish and Seafood":[
+                        {"Name":"Dados de pescado frito con acompañamiento de salsa tártara","Price": 1800}
+                    ]
+                },{
+                    "Tacos":[
+                        {"Name":"Tacos de cerdo","Price": 2000}
+                    ]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta",
+            "Products":[
+                {"Name":"Pasta Napolitana","Price": 1250},
+                {"Name":"Pasta Boloñesa","Price": 1000},
+                {"Name":"Pasta Carbonara","Price": 1800},
+                {"Name":"Pasta al Pesto","Price": 1800},
+                {"Name":"Pasta Aglio Olio","Price": 1260}
+            ]
+        },{
+            "Category":"Pizzas",
+            "Products":[null]
+        },{
+            "Category":"Sandwich",
+            "Products":[
+                {"Name":"Sandwich Cubano","Price": 1900},
+                {"Name":"Sandwich Clásico","Price": 1750},
+                {"Name":"Sandwich Club","Price": 2500},
+                {"Name":"Sandwich de Atún","Price": 2500}
+            ]
+        },{
+            "Category":"Additions",
+            "Products":[
+                {"Name":"Nutella","Price": 300},
+                {"Name":"Miel","Price": 300},
+                {"Name":"Mantequilla","Price": 300},
+                {"Name":"Bacon","Price": 350},
+                {"Name":"Vegetales","Price": 250},
+                {"Name":"Huevo","Price": 300},
+                {"Name":"Cesta de Pan","Price": 250}
+            ]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[null]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"Brownie de chocolate","Price": 1200},
+                {"Name":"Mousse de café","Price": 950},
+                {"Name":"Pie de limón","Price": 1200},
+                {"Name":"Chesse cake","Price": 1200},
+                {"Name":"Copa de helado","Price": 1200}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+                {"Name":"Espresso","Price": 300},
+                {"Name":"Cortado","Price": 350},
+                {"Name":"Capuccino","Price": 450},
+                {"Name":"Frapuccino","Price": 550},
+                {"Name":"Bombón","Price": 550},
+                {"Name":"Carajillo","Price": 550},
+                {"Name":"Café con leche","Price": 700},
+                {"Name":"Leche con chocolate","Price": 750},
+                {"Name":"Té","Price": 300}
+            ]
+        }
+    ],
+    "House Specialty": "Tapas",
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Particular",
+    "Phone": [],
+    "Payment Options": {
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": true,
+            "USD": true
+        }
+    },
+    "Social Media": {
+        "Facebook": false,
+        "Instagram": false
+    }
+}

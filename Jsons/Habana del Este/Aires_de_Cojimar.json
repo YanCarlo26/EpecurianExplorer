@@ -1,0 +1,496 @@
+{
+    "Name": "Aires de Cojimar",
+    "Zone": "Habana del Este",
+    "Location": "Penzuela No.3E05,e/ La Rua y Espartero,Cojimar,La Habana,Cuba",
+    "Place Type": "Bar-Restaurante",
+    "Food Type": "Mariscos",
+    "Schedule": [
+        {"day": "monday", "open": "1200", "close": "1200"},
+        {"day": "tuesday", "open": "1200", "close": "1200"},
+        {"day": "wednesday", "open": "1200", "close": "1200"},
+        {"day": "thursday", "open": "", "close": "1200"},
+        {"day": "friday", "open": "1200", "close": "1200"},
+        {"day": "saturday", "open": "1200", "close": "1200"},
+        {"day": "sunday", "open": "1200", "close": "1200"}
+    ],
+    "Menu":[
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[
+                {
+                    "Name":"Coctel de Ostiones",
+                    "Price": 950
+                },{
+                    "Name":"Coctel de Pescado",
+                    "Price": 550
+                },{
+                    "Name":"Cascada Imperial",
+                    "Price": 2150
+                },{
+                    "Name":"Picadera Mixta",
+                    "Price": 1350
+                },{
+                    "Name":"Ensalada de Vegetales",
+                    "Price": 500
+                },{
+                    "Name":"Arroz Frito",
+                    "Price": 1750
+                },{
+                    "Name":"Chilindron de Cordero",
+                    "Price": 2850
+                },{
+                    "Name":"Estofado de Cordero",
+                    "Price": 2850
+                },{
+                    "Name":"Uruguallo",
+                    "Price": 2150
+                },{
+                    "Name":"Pulpo al Ajillo",
+                    "Price": 3750
+                },{
+                    "Name":"Pulpo al Vino Tinto",
+                    "Price": 3750
+                },{
+                    "Name":"Milanesa a la Napolitana",
+                    "Price": 2150
+                },{
+                    "Name":"Langosta Busito",
+                    "Price": 2200
+                },{
+                    "Name":"Langosta Varadero",
+                    "Price": 2000
+                },{
+                    "Name":"Langosta Aires de Cojimar",
+                    "Price": 6500
+                },{
+                    "Name":"Mar y Tierra",
+                    "Price": 4500
+                },{
+                    "Name":"Ropa VIeja",
+                    "Price": 2250
+                },{
+                    "Name":"Paella especial 'Aires de Cojimar'",
+                    "Price": 2500
+                },{
+                    "Name":"Arroz negro Marinero",
+                    "Price": 2500
+                },{
+                    "Name":"Arroz Campesino al Graten",
+                    "Price": 2500
+                }
+            ]
+        },{
+            "Category":"Entrants ",
+            "Products":[
+                {
+                    "Name":"Coctel 'Bella Mar",
+                    "Price": 850
+                },{
+                    "Name":"Ceviche 'Aires de Cojimar'",
+                    "Price":950
+                },{
+                    "Name":"Lomo de pescado en escabeche",
+                    "Price": 1250
+                },{
+                    "Name":"Bolitas de Queso",
+                    "Price": 650
+                },{
+                    "Name":"Eperlan",
+                    "Price": 1100
+                },{
+                    "Name":"Frituras de Malanga",
+                    "Price": 750
+                },{
+                    "Name":"Tapas Caprichosas ",
+                    "Price": 550
+                },{
+                    "Name":"Surtidp de Croquetas",
+                    "Price": 450
+                },{
+                    "Name":" Tostones de ajo",
+                    "Price": 350
+                }
+            ]
+        },{
+            "Category":"Sopas y Cremas",
+            "Products":[
+                {
+                    "Name":"Sopon de mariscos",
+                    "Price": 750
+                },{
+                    "Name":"Sopon de pollo y vegetales ",
+                    "Price": 550
+                },{
+                    "Name":"Crema de Calabaza y Queso",
+                    "Price": 500
+                },{
+                    "Name":"Crema de Queso",
+                    "Price": 500
+                },{
+                    "Name":"Crema de Mariscos",
+                    "Price": 600
+                }
+            ]
+        },{
+            "Category":"Pizzas",
+            "Products":[
+                {
+                    "Name":"Pizza Napolitana",
+                    "Price": 575
+                },{
+                    "Name":"Pizza Napolitana c/ Queso Gouda",
+                    "Price": 950
+                }]
+        },{
+            "Category":"Additions",
+            "Products":[
+                {
+                    "Name":"Jamon",
+                    "Price": 300
+                },{
+                    "Name":"queso Blaco",
+                    "Price": 150
+                },{
+                    "Name":"Queso Gouda",
+                    "Price": 450
+                },{
+                    "Name":"Cebolla",
+                    "Price": 250
+                },{
+                    "Name":"Champinon",
+                    "Price": 150
+                },{
+                    "Name":"Camarones",
+                    "Price": 500
+                },{
+                    "Name":"Aceitunas",
+                    "Price": 300
+                },{
+                    "Name":"Pina",
+                    "Price": 800
+                }
+            ]
+        },{
+            "Category":"For you diet",
+            "Products":[null]
+        },{
+            "Category":"Desserts",
+            "Products":[null]
+        },{ 
+            "Category":"Non- Alcoholic Beverages",
+            "Products": [null]
+        },{
+            "Category":"Sandwich",
+            "Products":[
+                null
+            ]
+        },{
+            "Category":"Pasta ",
+            "Products":[
+                null
+            ]
+        },{ 
+            "Category":"Alcoholic Beverage",
+            "Products": [
+                {
+                    "Name":"Mojito ",
+                    "Price": 700
+                },{
+                    "Name":"Ron Collins",
+                    "Price": 650
+                },{
+                    "Name":"Darquiri",
+                    "Price": 700
+                },{
+                    "Name":"Don Gregorio",
+                    "Price": 750
+                },{
+                    "Name":"Cuba Libre",
+                    "Price": 650
+                },{
+                    "Name":"Cubata",
+                    "Price": 850
+                },{
+                    "Name":"Canchanchara",
+                    "Price": 1600
+                },{
+                    "Name":"Cubanito",
+                    "Price": 1700
+                },{
+                    "Name":"Limonada Clarete",
+                    "Price": 650
+                },{
+                    "Name":"Tinto Verano",
+                    "Price": 650
+                },{
+                    "Name":"Colimocho",
+                    "Price": 650
+                },{
+                    "Name":"Caipirina",
+                    "Price": 600
+                },{
+                    "Name":"Caipirisima",
+                    "Price": 700
+                },{
+                    "Name":"Caipiroska",
+                    "Price": 700
+                },{
+                    "Name":"Gin Tonic",
+                    "Price": 700
+                },{
+                    "Name":"Gin Tonic al Tanqueray ",
+                    "Price": 750
+                },{
+                    "Name":"Martini",
+                    "Price": 650
+                },{
+                    "Name":"Negroni",
+                    "Price": 700
+                },{
+                    "Name":"Tom Collins",
+                    "Price": 700
+                },{
+                    "Name":"Margarita",
+                    "Price": 650
+                },{
+                    "Name":"Oina Colada",
+                    "Price": 650
+                },{
+                    "Name":"Sangria",
+                    "Price": 700
+                },{
+                    "Name":"Bloody Mary",
+                    "Price": 600
+                },{
+                    "Name":"Black Russian",
+                    "Price": 650
+                },{
+                    "Name":"Blue Lagoon",
+                    "Price": 550
+                },{
+                    "Name":"Long Island",
+                    "Price": 600
+                },{
+                    "Name":"Expreso Martini",
+                    "Price": 650
+                },{
+                    "Name":"B-52",
+                    "Price": 750
+                },{
+                    "Name":"Tequila Sunset",
+                    "Price": 650
+                },{
+                    "Name":"T.N.T",
+                    "Price": 650
+                },{
+                    "Name":"Changuirongo",
+                    "Price": 650
+                },{
+                    "Name":"Chelada",
+                    "Price": 250
+                },{
+                    "Name":"Michelada",
+                    "Price": 300
+                },{
+                    "Name":"Cerveza Cristal Botella",
+                    "Price": 365
+                },{
+                    "Name":"Cerveza Holland ",
+                    "Price": 350
+                },{
+                    "Name":"Jugos Naturales ",
+                    "Price": 200
+                },{
+                    "Name":"agua Nuatural",
+                    "Price":220
+                },{
+                    "Name":"Refrescos Nacinales",
+                    "Price": 320
+                },
+                {
+                    "Name":"Anisette",
+                    "Price": 300
+                },{
+                    "Name":"Sambuca",
+                    "Price": 400
+                },{
+                    "Name":"Kalhua",
+                    "Price": 350
+                }, 
+                {
+                    "Name":"Celeste",
+                    "Price": 5000
+                },{
+                    "Name":"Sanqre Toro ",
+                    "Price": 5000
+                },{
+                    "Name":"Fran Tem",
+                    "Price": 4000
+                },{
+                    "Name":"Joan Sarda",
+                    "Price": 3500
+                },{
+                    "Name":"Roca Mar",
+                    "Price": 3500
+                },{
+                    "Name":"Campo Viejo",
+                    "Price": 5500
+                },{
+                    "Name":"Alias",
+                    "Price": 5000
+                },{
+                    "Name":"El Nino",
+                    "Price": 4500
+                },{
+                    "Name":"Entre Rojos",
+                    "Price": 3500
+                },{
+                    "Name":"Masia Condal",
+                    "Price": 3500
+                },{
+                    "Name":"Gato Negro",
+                    "Price": 4500
+                },{
+                    "Name":"Rocamar",
+                    "Price": 3500
+                },{
+                    "Name":" VT Finca las Virtudes",
+                    "Price": 3500
+                },{
+                    "Name":"VT Vina Mercedes",
+                    "Price": 3500
+                },{
+                    "Name":"VB Vina Mercedes",
+                    "Price": 4000
+                },{
+                    "Name":"VB Masia Condal",
+                    "Price": 4000
+                },{
+                    "Name":"VB La Baronne",
+                    "Price": 4000
+                },{
+                    "Name":"VT Consejo Real ",
+                    "Price": 4500
+                },{
+                    "Name":"VT 1865",
+                    "Price": 5500
+                },{
+                    "Name":"VT Casillero del Diablo",
+                    "Price": 5000
+                },{
+                    "Name":"VT Estampa Reserva",
+                    "Price": 6500
+                },{
+                    "Name":"VT Santa Julia",
+                    "Price":6500
+                }
+        ]},{
+            "Category":"Fittings",
+            "Products":[
+                {
+                    "Name":"Arroz Blanco o Moro",
+                    "Price": 200
+                },{
+                    "Name":"Platanos Fritos ",
+                    "Price": 250
+                },{
+                    "Name":"Vianda Frita",
+                    "Price": 250
+                },{
+                    "Name":"Dalteado de Vegetales ",
+                    "Price": 400
+                },{
+                    "Name":"Ensalada de Vegetales",
+                    "Price": 350
+                }
+            ]
+        },{
+            "Category": "Main Courses",
+            "Products": [
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"Pulpo al Ajillo, vino tinto", "Price": 2850},
+                        {"Name":"langosta Varadero", "Price": 1950},
+                        {"Name":"Langosta Busito", "Price": 2000},
+                        {"Name":"Langosta Aires", "Price": 5800},
+                        {"Name":"Pescado Entero Frito", "Price": 3500},
+                        {"Name":"Costillas de Cerdo", "Price": 1950},
+                        {"Name":"Chuletas de Cerddo", "Price": 1950},
+                        {"Name":"Uruguayo", "Price": 1750},
+                        {"Name":"Masas de Cerdo", "Price": 1750},
+                        {"Name":"Pechuga de Pollo Grille", "Price": 1450},
+                        {"Name":"Pollo Empanado", "Price": 1500},
+                        {"Name":"Gorden Blun", "Price": 1750},
+                        {"Name":"Pechuga Suprema", "Price": 1650},
+                        {"Name":"Rolllitos de Pollo", "Price": 1750},
+                        {"Name":"Chilinfron de Cordero", "Price": 1650},
+                        {"Name":"Dados de Cerdo a la Cojimera", "Price": 1750},
+                        {"Name":"Bistec de Cerdo al Mojo Criollo", "Price": 1750},
+                        {"Name":"Pollo con Camarones al Granten", "Price": 1550},
+                        {"Name":"Pollo hawaiano", "Price": 1350},
+                        {"Name":"Estofado de Cordero", "Price": 1650},
+                        {"Name":"Brochetas Campesinas", "Price": 1750},
+                        {"Name":"Brochetas Marineras", "Price": 1750},
+                        {"Name":"Ropa vieja", "Price": 1950}
+                    ]
+                },
+                {
+                    "Fish and Seafood": [
+                        {"Name":"Filete de Pescado Grille", "Price": 1700},
+                        {"Name":"Filete de Pescado en Salsa de Romero y Limón", "Price": 1750},
+                        {"Name":"Filete de Pescado con Camarones al Gaten", "Price": 2150},
+                        {"Name":"Filete de Pescado Canciller", "Price": 2150},
+                        {"Name":"Camarones Tropicales", "Price": 2100},
+                        {"Name":"Enchilado de Camarones", "Price": 2100},
+                        {"Name":"Camarones al Sésamo", "Price": 2200},
+                        {"Name":"Caldereta Dona Blanca", "Price": 5500},
+                        {"Name":"Parrillada Marinera", "Price": 5500}
+                    ]
+                },
+                {
+                    "Tacos": [null]
+                }
+            ]
+        }
+    ],
+    "House Specialty": "Sabor del Cielo",
+    "Head Chef": "Erick",
+    "Price Range":false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": true,
+        "Bar":true,
+        "Event Buffet": true,
+        "Wine List":true,
+        "Air Conditioning": true,
+        "Service Charge %": false,
+        "Dress Code":false,
+        "Takeaway Food": true,
+        "Breakfast": false,
+        "Home Delivery":true,
+        "Reserved Space": true,
+        "Karaoke":false,
+        "Recorded Music":true,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": false,
+        "Outdoor Services": false
+    },
+    "State or Private": "Private",
+    "Phone": ["58385050"],
+    "Payment Options":{
+        "Online payments":true,
+        "Credit Card":true,
+        "Cash":{
+        "CUP":true,
+        "EUR":true,
+        "USD":true
+    } },
+    "Social Media":{
+        "Facebook": "https://www.google.com/url?q=https://m.facebook.com/groups/750679669616425/&sa=U&ved=2ahUKEwizmufSqpeKAxWRQTABHSc3CysQFnoECBQQAQ&usg=AOvVaw3i3O6sXJdlpKcTQtcSwQRW",
+        "Instagram":"https://www.google.com/url?q=https://www.instagram.com/aires_decojimar/&sa=U&ved=2ahUKEwier7zKqpeKAxXkRzABHWabBTgQFnoECFIQAQ&usg=AOvVaw1M7VBBhVie6YvZfPvBTDBA"
+    }
+
+}

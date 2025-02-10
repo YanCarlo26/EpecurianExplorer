@@ -1,0 +1,160 @@
+{
+    "Name": "El pórtico",
+    "Zone": "Centro Habana",
+    "Location": "23.13385424944992, -82.36160649338726",
+    "Place Type": "bar - restaurante",
+    "Food Type": "cubana",
+    "Schedule":[
+        {"day": "monday", "open": false, "close": false},
+        {"day": "tuesday", "open": "0000", "close": "2400"},
+        {"day": "wednesday", "open": "0000", "close": "2400"},
+        {"day": "thursday", "open": "0000", "close": "2400"},
+        {"day": "friday", "open": "0000", "close": "2400"},
+        {"day": "saturday", "open": "0000", "close": "2400"},
+        {"day": "sunday", "open": "0000", "close": "2400"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"pollo chiflado", "Price": 400},
+                {"Name":"chuleton", "Price": 950},
+                {"Name":"papas fritas", "Price": 350},
+                {"Name":"croquetas", "Price": 350},
+                {"Name":"tostones", "Price": 250}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    "Meat, Poultry and Game":[
+                        null
+                    ]
+                },{
+                    "Fish and Seafood":[
+                        null
+                    ]
+                },{
+                    "Tacos":[
+                        null
+                    ]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Pasta",
+            "Products":[
+                null
+            ]
+        },{
+            "Category":"Pizzas",
+            "Products":[
+                null
+            ]
+        },{
+            "Category":"Sandwich",
+            "Products":[
+                null
+            ]
+        },{
+            "Category":"Additions",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"cerveza dispensada (jarra)", "Price": 300},
+                {"Name":"cerveza dispensada (termo)", "Price": 2000},
+                {"Name":"cerveza parranda", "Price": 400},
+                {"Name":"cerveza hollandia", "Price": 200},
+                {"Name":"cerveza cacique", "Price": 240},
+                {"Name":"cerveza unlaguer", "Price": 200},
+                {"Name":"cerveza La Fria", "Price": 180},
+                {"Name":"cerveza almara", "Price": 180},
+                {"Name":"cerveza bucanero", "Price": 240},
+                {"Name":"cerveza cristal", "Price": 250}
+            ]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                null
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": true,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": true,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "",
+    "Phone": [""],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+        "CUP": true,
+        "EUR": false,
+        "USD": true
+    }} , 
+    "Social Media":{
+        "Facebook": false,
+        "Instagram": false
+    }
+}

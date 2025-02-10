@@ -1,0 +1,159 @@
+{
+    "Name": "Ivonne Café",
+    "Zone": "Centro Habana",
+    "Location": "San Lazaro entre Espada y Hospital",
+    "Place Type": "Bar-Restaurante",
+    "Food Type": "Italiana",
+    "Schedule":[
+        {"day": "monday", "open": "0900", "close": "2200"},
+        {"day": "tuesday", "open": "0900", "close": "2200"},
+        {"day": "wednesday", "open": "0900", "close": "2200"},
+        {"day": "thursday", "open": "0900", "close": "2200"},
+        {"day": "friday", "open": "0900", "close": "2200"},
+        {"day": "saturday", "open": "0900", "close": "2200"},
+        {"day": "sunday", "open": "0900", "close": "2200"}
+    ],
+    "Menu": [
+        {
+            "Category": "Entrants(tapas)",
+            "Products": [null]
+        },
+        {
+            "Category": "Chef's Recommendation",
+            "Products": [null]
+        },
+        {
+            "Category": "Main courses",
+            "Products": [
+                {
+                    "Meat, Poultry and Game": [null]
+                },
+                {
+                    "Fish and Seafood": [null]
+                },
+                {
+                    "Tacos": [null]
+                }
+            ]
+        },
+        {
+            "Category": "For Your Diet",
+            "Products": [null]
+        },
+        {
+            "Category": "Pasta",
+            "Products": [
+                {"Name":"Espagueti Blanco", "Price": 700},
+                {"Name":"Espagueti Gouda", "Price": 850}]
+        },
+        {
+            "Category": "Pizzas",
+            "Products": [
+                {"Name":"Pizza  queso blanco", "Price": 350},
+                {"Name":"Pizza Grande queso blanco", "Price": 500},
+                {"Name":"Pizza Pequeña Gouda", "Price": 600},
+                {"Name":"Pizza Grande Gouda", "Price": 850}
+            ]
+        },
+        {
+            "Category": "Sandwich",
+            "Products": [null]
+        },
+        {
+            "Category": "Additions",
+            "Products": [
+                {"Name":"Cebolla", "Price": 200},
+                {"Name":"Jamón", "Price": 200},
+                {"Name":"Aceituna", "Price": 200}
+            ]
+        },
+        {
+            "Category": "Fittings(guarniciones)",
+            "Products": [null]
+        },
+        {
+            "Category": "Soups and Creams",
+            "Products": [null]
+        },
+        {
+            "Category": "Desserts",
+            "Products": [
+                {"Name":"Tartaleta", "Price": 350},
+                {"Name":"Donut", "Price": 170},
+                {"Name":"Coffee cake", "Price": 160},
+                {"Name":"Empanada", "Price": 250},
+                {"Name":"Cangrejitos", "Price": 250},
+                {"Name":"Rollitos", "Price": 200},
+                {"Name":"Pasteles", "Price": 100},
+                {"Name":"Cakes", "Price": 4500}
+            ]
+        },
+        {
+            "Category": "Coffees & Infusions",
+            "Products": [
+                {"Name":"Expreso", "Price": 100},
+                {"Name":"Cortado", "Price": 150},
+                {"Name":"Con leche", "Price": 100},
+                {"Name":"Americano", "Price": 100},
+                {"Name":"Capuchino", "Price": 300},
+                {"Name":"Bombon", "Price": 300},
+                {"Name":"Frapuccino", "Price": 750}
+            ]
+        },
+        {
+            "Category": "Alcoholic Beverages",
+            "Products": [
+                {"Name":"Cervezas", "Price": 300}
+            ]
+        },
+        {
+            "Category": "Non-Alcoholic Beverages",
+            "Products": [
+                {"Name":"Aguas", "Price": 250},
+                {"Name":"Refrescos", "Price": 250},
+                {"Name":"Limonada Frappe", "Price": 850},
+                {"Name":"Batido Helado", "Price": 850},
+                {"Name":"Batido Fruta", "Price": 550}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": [null],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+        }
+    }, 
+    "Social Media": {
+        "Facebook": false,
+        "Instagram": false
+    }
+}

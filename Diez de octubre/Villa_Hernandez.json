@@ -1,0 +1,340 @@
+{
+    "Name": "Villa Hernandez",
+    "Zone": "",
+    "Location": "Calle San Miguel, # 112 e/ Revolución y Gelabert, Sevillano, Diez De Octubre",
+    "Place Type": "Restaurante",
+    "Food Type": "Internacional, Criolla",
+    "Schedule": [
+        {"day": "monday", "open": "1200", "close": "2300"},
+        {"day": "tuesday", "open": "1200", "close": "2300"},
+        {"day": "wednesday", "open": "1200", "close": "2300"},
+        {"day": "thursday", "open": "1200", "close": "2300"},
+        {"day": "friday", "open": "1200", "close": "2300"},
+        {"day": "saturday", "open": "1200", "close": "2300"},
+        {"day": "sunday", "open": "1200", "close": "2300"}
+    ],
+    "Menu":[
+        {
+            "Category": "Entrants(tapas)",
+            "Products": [
+                {"Name":"Cóctel de camarones", "Price": 1300},
+                {"Name":"Cóctel de langosta", "Price": 4650},
+                {"Name":"Trocillos de langosta en salsa Alfredo", "Price": 4980},
+                {"Name":"Eperlán de pescado con salsa tártara", "Price": 1895},
+                {"Name":"Plato mixto", "Price": 1380},
+                {"Name":"Masitas de pollo rebozadas", "Price": 2520},
+                {"Name":"Surtido Villa", "Price": 1550},
+                {"Name":"Papitas fritas", "Price": 960},
+                {"Name":"Tostones rellenos de picadillo", "Price": 430},
+                {"Name":"Tostones rellenos de camarones", "Price": 1480},
+                {"Name":"Tostones rellenos de jamón y queso", "Price": 890},
+                {"Name":"Tostones rellenos de pollo", "Price": 560},
+                {"Name":"Tostones rellenos de cerdo", "Price": 680},
+                {"Name":"Tostones rellenos de atún", "Price": 1050},
+                {"Name":"Croquetas", "Price": 980},
+                {"Name":"Fritura de malanga", "Price": 780},
+                {"Name":"Puré de papa", "Price": 550},
+                {"Name":"Puré de malanga", "Price": 580}
+            ]
+        },
+        {
+            "Category": "Chef's Recommendation",
+            "Products": [
+                {"Name":"Trocillos de langosta en salsa Alfredo", "Price": 4980}
+            ]
+        },
+        {
+            "Category": "Main courses",
+            "Products": [
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"Bistec de cerdo a la plancha", "Price": 2350},
+                        {"Name":"Bistec de cerdo empanado", "Price": 2480},
+                        {"Name":"Costillas de cerdo BBQ", "Price": 2685},
+                        {"Name":"Bistec criollo", "Price": 2895},
+                        {"Name":"Bistec empanado", "Price": 2995},
+                        {"Name":"Filetillo salteado", "Price": 2980},
+                        {"Name":"Filete de res", "Price": 3250},
+                        {"Name":"Hígado a la italiana", "Price": 2280},
+                        {"Name":"Bistec a la milanesa", "Price": 2550},
+                        {"Name":"Picadillo a la criolla", "Price": 2350},
+                        {"Name":"Vaca frita", "Price": 3550},
+                        {"Name":"Carne ripiada", "Price": 2850},
+                        {"Name":"Bistec de hígado a la plancha", "Price": 1980},
+                        {"Name":"Bistec uruguayo de res", "Price": 3350},
+                        {"Name":"Cordero estofado al vino", "Price": 3690},
+                        {"Name":"Ribeye 10-12 oz", "Price": 4990},
+                        {"Name":"Churrasco importado", "Price": 4370},
+                        {"Name":"Pechuga de pollo hawaiana", "Price": 2850},
+                        {"Name":"Bistec de pechuga de pollo", "Price": 2450},
+                        {"Name":"Bistec de pollo empanado", "Price": 2520},
+                        {"Name":"Filetillo de pollo al ajillo", "Price": 2345},
+                        {"Name":"Pollo cordon bleu", "Price": 2780},
+                        {"Name":"Filetillo de pollo salteado", "Price": 2480},
+                        {"Name":"Bistec de pollo a la milanesa", "Price": 2950},
+                        {"Name":"Bistec uruguayo de cerdo", "Price": 2950},
+                        {"Name":"Masas fritas", "Price": 2350},
+                        {"Name":"Lechón asado", "Price": 2200},
+                        {"Name":"Bistec de cerdo", "Price": 2380},
+                        {"Name":"Bistec de cerdo a la milanesa", "Price": 2980}
+                    ]
+                },
+                {
+                    "Fish and Seafood": [
+                        {"Name":"Camarones enchilados", "Price": 2865},
+                        {"Name":"Camarones al ajillo", "Price": 2650},
+                        {"Name":"Camarones rebozados", "Price": 3250},
+                        {"Name":"Camarones empanados", "Price": 2610},
+                        {"Name":"Pescado entero frito", "Price": 2750},
+                        {"Name":"Filete de pescado al ajillo", "Price": 2450},
+                        {"Name":"Filete de pescado frito", "Price": 2650},
+                        {"Name":"Filete de pescado Canciller", "Price": 2895},
+                        {"Name":"Filete de pescado grille", "Price": 2385},
+                        {"Name":"Filete Villa con camarones", "Price": 3450},
+                        {"Name":"Arroz amarillo con camarones", "Price": 3280},
+                        {"Name":"Arroz con mariscos", "Price": 7500},
+                        {"Name":"Arroz amarillo con pescado", "Price": 2950},
+                        {"Name":"Langosta grille", "Price": 4980},
+                        {"Name":"Langosta Villa con camarones", "Price": 5890},
+                        {"Name":"Enchilado de langosta", "Price": 5260},
+                        {"Name":"Canoa de mariscos a la criolla", "Price": 6990},
+                        {"Name":"Mar y tierra", "Price": 7800},
+                        {"Name":"Salmón grille vino blanco", "Price": 2980}
+                    ]
+                },
+                {
+                    "Tacos": [
+                        {"Name":"Quesadilla con queso, jamón Serrano y pico de gallo", "Price": 2100}
+                    ]
+                }
+            ]
+        },
+        {
+            "Category": "For Your Diet",
+            "Products": [
+                null
+            ]
+        },
+        {
+            "Category": "Pasta ",
+            "Products": [
+                null
+            ]
+        },
+        {
+            "Category": "Pizzas ",
+            "Products": [
+                {"Name":"Pizza de Queso", "Price": 1380},
+                {"Name":"Pizza de Cebolla", "Price": 1395},
+                {"Name":"Pizza de Pimientos", "Price": 1395},
+                {"Name":"Pizza Margarita", "Price": 1395},
+                {"Name":"Pizza de Jamón", "Price": 1450},
+                {"Name":"Pizza de Pepperoni", "Price": 1480},
+                {"Name":"Pizza de Aceitunas", "Price": 1475},
+                {"Name":"Pizza de Tocino", "Price": 1490},
+                {"Name":"Pizza Hawaiana", "Price": 1650},
+                {"Name":"Pizza de Pollo", "Price": 1500},
+                {"Name":"Pizza de Atún", "Price": 1450},
+                {"Name":"Pizza de Picadillo", "Price": 1500},
+                {"Name":"Pizza Pampera", "Price": 1750},
+                {"Name":"Pizza de Camarones", "Price": 1790},
+                {"Name":"Pizza de Langosta", "Price": 1850}
+            ]
+        },
+        {
+            "Category": "Sandwich",
+            "Products": [
+                null
+            ]
+        },
+        {
+            "Category": "Additions",
+            "Products": [
+                
+                {"Name":"Cebolla", "Price": 480},
+                {"Name":"Pimiento", "Price": 480},
+                {"Name":"Tomate", "Price": 480},
+                {"Name":"Queso", "Price": 650},
+                {"Name":"Jamon", "Price": 650},
+                {"Name":"Chorizo", "Price": 650},
+                {"Name":"Aceituna", "Price": 650},
+                {"Name":"Tocino", "Price": 650},
+                {"Name":"Atun", "Price": 750},
+                {"Name":"Camarones", "Price": 980},
+                {"Name":"Langosta", "Price": 4000}
+            ]
+        },
+        {
+            "Category": "Fittings(guarniciones)",
+            "Products": [
+                {"Name":"arroz_moro", "Price": 450},
+                {"Name":"arroz_blanco", "Price": 390},
+                {"Name":"ensalada_de_estacion", "Price": 480},
+                {"Name":"platano_maduro", "Price": 485},
+                {"Name":"frijoles", "Price": 350},
+                {"Name":"vegetales_mixtos", "Price": 460},
+                {"Name":"vianda_hervida", "Price": 480},
+                {"Name":"tostones", "Price": 490}
+            ]
+        },
+        {
+            "Category": "Soups and Creams",
+            "Products": [
+                {"Name":"Crema del día", "Price": 1050}
+            ]
+        },
+        {
+            "Category": "Desserts",
+            "Products": [
+                {"Name":"flan_de_leche", "Price": 910},
+                {"Name":"sundae_de_caramelo", "Price": 680},
+                {"Name":"bola_de_helado", "Price": 295},
+                {"Name":"chocoflan", "Price": 1260},
+                {"Name":"copa_lolita", "Price": 1350},
+                {"Name":"cheesecake", "Price": 1185},
+                {"Name":"torre_villa", "Price": 1490},
+                {"Name":"panetela_duende_con_helado", "Price": 950}
+            ]
+        },
+        {
+            "Category": "Coffees & Infusions",
+            "Products": [
+                {"Name":"frapuchino", "Price": 1750},
+                {"Name":"cafe_capuchino", "Price": 950},
+                {"Name":"cafe_americano", "Price": 160},
+                {"Name":"cafe_espresso", "Price": 290},
+                {"Name":"cafe_bombon", "Price": 590},
+                {"Name":"te_frio", "Price": 425},
+                {"Name":"te_caliente", "Price": 580},
+                {"Name":"cortadito", "Price": null}
+            ]
+        },
+        {
+            "Category": "Alcoholic Beverages",
+            "Products": [
+                {"Name":"ron_santiago_anejo", "Price": 750},
+                {"Name":"ron_santiago_carta_blanca", "Price": 850},
+                {"Name":"santiago_8_anos", "Price": 890},
+                {"Name":"ron_seleccion_de_maestros", "Price": 2500},
+                {"Name":"ron_havana_club_3_ano", "Price": 560},
+                {"Name":"bacardi", "Price": 710},
+                {"Name":"ron_havana_club_7_anos", "Price": 780},
+                {"Name":"santiago_11_anos", "Price": 780},
+                {"Name":"ron_havana_club_anejo_reserva", "Price": 875},
+                {"Name":"santiago_12_anos", "Price": 880},
+                {"Name":"ron_havana_club_aneo_especial", "Price": 725},
+                {"Name":"malibu", "Price": 630},
+                {"Name":"the_glenlivet", "Price": 1200},
+                {"Name":"chivas_regal", "Price": 1250},
+                {"Name":"old_choice", "Price": 950},
+                {"Name":"johnny_walker_blue_label", "Price": 8000},
+                {"Name":"johnny_walker_green_label", "Price": 5700},
+                {"Name":"jack_daniels", "Price": 1100},
+                {"Name":"johnny_walker_gold_label", "Price": 3750},
+                {"Name":"old_parr", "Price": 2300},
+                {"Name":"johnny_walker_double_black", "Price": 1800},
+                {"Name":"johnny_walker_black_label", "Price": 1980},
+                {"Name":"buchanans", "Price": 1380},
+                {"Name":"jameson", "Price": 990},
+                {"Name":"clan_campbell", "Price": 780},
+                {"Name":"johnny_walker_red_label", "Price": 1300},
+                {"Name":"ballantines", "Price": 980},
+                {"Name":"tequila_jose_cuervo", "Price": 850},
+                {"Name":"tequila_olmeca", "Price": 630},
+                {"Name":"tequila_patron", "Price": 1500},
+                {"Name":"vodka_absolut", "Price": 780},
+                {"Name":"vodka_grey_goose", "Price": 1325},
+                {"Name":"vodka_titos", "Price": 1010},
+                {"Name":"vodka_ciroc", "Price": 1215},
+                {"Name":"cognac_hennessy_remy", "Price": 1925},
+                {"Name":"cubanito", "Price": 780},
+                {"Name":"cuba_libre", "Price": 750},
+                {"Name":"screw_driver", "Price": 750},
+                {"Name":"margarita", "Price": 1500},
+                {"Name":"pina_colada", "Price": 1500},
+                {"Name":"bloody_mary", "Price": 880},
+                {"Name":"mojito_criollo", "Price": 800},
+                {"Name":"daiquiri_fruta", "Price": 1000},
+                {"Name":"frozen_daiquiri", "Price": 1000},
+                {"Name":"martini_dry", "Price": 850},
+                {"Name":"caipirina", "Price": 1000},
+                {"Name":"michelada_nacional", "Price": 800},
+                {"Name":"michelada_importada", "Price": 1000},
+                {"Name":"copa_de_vino", "Price": 650},
+                {"Name":"copa_de_sangria", "Price": 850},
+                {"Name":"gin_tonic_imp", "Price": 1500},
+                {"Name":"sidra_botella", "Price": 3500},
+                {"Name":"cubata", "Price": null},
+                {"Name":"sheridan", "Price": 915},
+                {"Name":"disaronno", "Price": 980},
+                {"Name":"sambuca", "Price": 1130},
+                {"Name":"baileys", "Price": 925},
+                {"Name":"kalhua", "Price": 780},
+                {"Name":"frangelico", "Price": 1015},
+                {"Name":"cointreau", "Price": 855},
+                {"Name":"grand_marnier", "Price": 1280},
+                {"Name":"ginebra", "Price": 730},
+                {"Name":"champan_moet_chandon", "Price": 1555}
+            ]
+        },{
+            "Category": "Non-Alcoholic Beverages",
+            "Products": [
+                {"Name":"jugos_de_cajitas", "Price": 450},
+                {"Name":"malteada_imp", "Price": 580},
+                {"Name":"malteada", "Price": 690},
+                {"Name":"batido_de_frutas", "Price": 650},
+                {"Name":"batido_de_helado", "Price": 990},
+                {"Name":"refrescos_nacionales", "Price": 380},
+                {"Name":"refrescos_importados", "Price": 475},
+                {"Name":"redbull", "Price": 590},
+                {"Name":"agua_nacional", "Price": 200},
+                {"Name":"agua_importada", "Price": 500},
+                {"Name":"agua_carbonatada", "Price": 280},
+                {"Name":"agua_tonica_imp", "Price": 800},
+                {"Name":"jugo_de_tomate_kermato", "Price": 540},
+                {"Name":"malta", "Price": 590},
+                {"Name":"jugos_de_frutas_naturales", "Price": 495},
+                {"Name":"limonada_natural", "Price": 690}
+            ]
+        }
+    ],      
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": true,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": 0,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space": true,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": true
+    },
+    "State or Private": false,
+    "Phone": ["53165356"],
+    "Payment Options": {
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": true,
+            "USD": true
+        }
+    },
+    "Social Media": {
+        "Facebook": "https://www.facebook.com/villahernandezrestaurant/?locale=es_LA",
+        "Instagram": "@villahernandezrestaurant"
+    }
+}

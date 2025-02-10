@@ -1,0 +1,140 @@
+{
+    "Name": "Bar Colina",
+    "Zone": "San Miguel del Padron",
+    "Location": "esquina b y calzada de guines reparto merceditas",
+    "Place Type": "Bar",
+    "Food Type": "Italiana",
+    "Schedule": [
+        {"day": "monday", "open": "1100", "close": "1100"},
+        {"day": "tuesday", "open": "1100", "close": "1100"},
+        {"day": "wednesday", "open": "1100", "close": "1100"},
+        {"day": "thursday", "open": "1100", "close": "1100"},
+        {"day": "friday", "open": "1100", "close": "1100"},
+        {"day": "saturday", "open": "1100", "close": "1100"},
+        {"day": "sunday", "open": "1100", "close": "1100"}
+    ],
+    "Menu": [
+        {
+            "Category": "Entrants(tapas)",
+            "Products": [
+                {"Name": "entremes de jamon y queso", "Price": 600},
+                {"Name": "croquetas", "Price": 400},
+                {"Name": "frituras de malanga", "Price": 550},
+                {"Name": "tostones", "Price": 400},
+                {"Name": "tostones rellenos", "Price": 600},
+                {"Name": "chicharrita", "Price": 300}
+            ]
+        },
+        {
+            "Category": "Chef's Recommendation",
+            "Products": [null]
+        },
+        {
+            "Category": "Main courses",
+            "Products": [
+                {
+                    " Meat, Poultry and Game ": [null]
+                },
+                {
+                    "Fish and Seafood": [null]
+                },
+                {
+                    "Tacos": [null]
+                }
+            ]
+        },
+        {
+            "Category": "For Your Diet",
+            "Products":[ null]
+        },
+        {
+            "Category": "Pasta",
+            "Products": [
+                {"Name": "spaghetti napolitano", "Price": 550}
+            ]
+        },
+        {
+            "Category": "Pizzas",
+            "Products": [
+                {"Name": "pizza napolitana grande", "Price": 650},
+                {"Name": "pizza napolitana", "Price": 220}
+            ]
+        },
+        {
+            "Category": "Sandwich",
+            "Products": [null]
+        },
+        {
+            "Category": "Additions",
+            "Products": [
+                {"Name": "queso", "Price": 200},
+                {"Name": "chorizo", "Price": 300},
+                {"Name": "jamon", "Price": 300},
+                {"Name": "pinna", "Price": 150}
+            ]
+        },
+        {
+            "Category": "Fittings(guarniciones)",
+            "Products": [null]
+        },
+        {
+            "Category": "Soups and Creams",
+            "Products": [null]
+        },
+        {
+            "Category": "Desserts",
+            "Products":[ null]
+        },
+        {
+            "Category": "Coffees & Infusions",
+            "Products": [null]
+        },
+        {
+            "Category": "Alcoholic Beverages",
+            "Products": [null]
+        },
+        {
+            "Category": "Non-Alcoholic Beverages",
+            "Products": [null]
+        }
+    ],
+    "House Specialty":false,
+    "Head Chef": false,
+    "Price Range":false,
+    "Place Options": {
+        "Accessible":false,
+        "Executive Lunch": false,
+        "Smoking Area":false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List":false,
+        "Air Conditioning": false,
+        "Service Charge %":true,
+        "Dress Code":false,
+        "Takeaway Food": false,
+        "Breakfast":false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground":false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": true
+    },
+    "State or Private": "Private",
+    "Phone": [null],
+    "Payment Options": {
+        "Online payments": true,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+        }
+    },
+    "Social Media": {
+        "Facebook": false,
+        "Instagram": true
+    }
+}

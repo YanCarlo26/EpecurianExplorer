@@ -1,0 +1,186 @@
+{
+    "Name": "GaraG",
+    "Zone": "San Miguel del Padron",
+    "Location": "Calzada de Guanabacoa entre B y C",
+    "Place Type": "Bar-Restaurante",
+    "Food Type": "Internacional",
+    "Schedule": [
+        {"day": "monday", "open": "1200", "close": "1200"},
+        {"day": "tuesday", "open": "1200", "close": "1200"},
+        {"day": "wednesday", "open": "1200", "close": "1200"},
+        {"day": "thursday", "open": "1200", "close": "1200"},
+        {"day": "friday", "open": "1200", "close": "1200"},
+        {"day": "saturday", "open": "1200", "close": "1200"},
+        {"day": "sunday", "open": "1200", "close": "1200"}
+    ],
+    "Menu": [
+        {
+            "Category": "Entrants(tapas)",
+            "Products": [
+                {"Name": "picadera GaraG", "Price": 3500},
+                {"Name": "toston Alfredo", "Price": 750},
+                {"Name": "eperlan", "Price": 1650},
+                {"Name": "fajitas de pollo", "Price": 1225},
+                {"Name": "fajitas de cerdo", "Price": 1550},
+                {"Name": "croquetas de Mima", "Price": 750},
+                {"Name": "ceviche", "Price": 900},
+                {"Name": "ensalada fria", "Price": 750},
+                {"Name": "coctel de camaron", "Price": 1250}
+            ]
+        },
+        {
+            "Category": "Chef's Recommendation",
+            "Products": [null]
+        },
+        {
+            "Category": "Main courses",
+            "Products": [
+                {
+                    "Meat, Poultry and Game": [
+                        {"Name": "pollo frito", "Price": 1350},
+                        {"Name": "bistec de pollo grille", "Price": 1350},
+                        {"Name": "pollo empanado", "Price": 1450},
+                        {"Name": "pollo gordon blue", "Price": 1925},
+                        {"Name": "aporreado de res", "Price": 1950},
+                        {"Name": "ropa vieja", "Price": 1930},
+                        {"Name": "arroz frito especial", "Price": 1350},
+                        {"Name": "arroz frito", "Price": 1200},
+                        {"Name": "bistec de cerdo encebollado", "Price": 1950},
+                        {"Name": "bistec de cerdo grille", "Price": 1700},
+                        {"Name": "bistec de cerdo empanado", "Price": 1750},
+                        {"Name": "bistec de cerdo uruguayo", "Price": 1955},
+                        {"Name": "masa de cerdo frita", "Price": 2200},
+                        {"Name": "cerdo asado", "Price": 2150}
+                    ]
+                },
+                {
+                    "Fish and Seafood": [
+                        {"Name": "filete de pescado grille", "Price": 1920},
+                        {"Name": "filete de pescado empanado", "Price": 1980},
+                        {"Name": "filete de pescado GaraG", "Price": 2225},
+                        {"Name": "pescado canciller", "Price": 2150},
+                        {"Name": "filete Alfredo", "Price": 2195},
+                        {"Name": "masa de pescado al ajillo", "Price": 1920},
+                        {"Name": "pargo frito", "Price": 2150},
+                        {"Name": "camaron al ajillo", "Price": 2300},
+                        {"Name": "camaron grille", "Price": 2105},
+                        {"Name": "enchilado de camaron", "Price": 2230},
+                        {"Name": "camaron empanado", "Price": 2290}
+                    ]
+                },
+                {
+                    "Tacos": [
+                        {"Name": "tacos de carne", "Price": 1205},
+                        {"Name": "tacos marineros", "Price": 1295}
+                    ]
+                }
+            ]
+        },
+        {
+            "Category": "For Your Diet",
+            "Products": [null]
+        },
+        {
+            "Category": "Pasta",
+            "Products": [
+                {"Name": "spaghetti napolitano", "Price": 930}
+            ]
+        },
+        {
+            "Category": "Pizzas",
+            "Products": [
+                {"Name": "pizza napolitana", "Price": 930},
+                {"Name": "pizza antihawaiana", "Price": 1555},
+                {"Name": "pizza lechoncito", "Price": 1595},
+                {"Name": "pizza 5 quesos", "Price": 1650}
+            ]
+        },
+        {
+            "Category": "Sandwich",
+            "Products": [null]
+        },
+        {
+            "Category": "Additions",
+            "Products": [
+                {"Name": "4 quesos", "Price": 800},
+                {"Name": "jamon", "Price": 300},
+                {"Name": "aceituna", "Price": 290},
+                {"Name": "pinna", "Price": 250},
+                {"Name": "chorizo", "Price": 395},
+                {"Name": "cebolla", "Price": 250},
+                {"Name": "atun", "Price": 350}
+            ]
+        },
+        {
+            "Category": "Fittings(guarniciones)",
+            "Products": [
+                {"Name": "ensalada estacion", "Price": 350},
+                {"Name": "vegetales salteados", "Price": 350}
+            ]
+        },
+        {
+            "Category": "Soups and Creams",
+            "Products": [null]
+        },
+        {
+            "Category": "Desserts",
+            "Products": [
+                {"Name": "copa de helado", "Price": 400},
+                {"Name": "copa lolita", "Price": 650},
+                {"Name": "cake a la moda", "Price": 850},
+                {"Name": "batido de helado", "Price": 750}
+            ]
+        },
+        {
+            "Category": "Coffees & Infusions",
+            "Products": [null]
+        },
+        {
+            "Category": "Alcoholic Beverages",
+            "Products": [null]
+        },
+        {
+            "Category": "Non-Alcoholic Beverages",
+            "Products": [null]
+        }
+    ],
+    "House Specialty": ["pizza 5 quesos", "pizza lechoncito", "pizza antihawaiana", "filete alfredo"],
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": true,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": [null],
+    "Payment Options": {
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+        }
+    },
+    "Social Media": {
+        "Facebook":"https://www.facebook.com/profile.php?id=100064683952235",
+        "Instagram": "https://www.instagram.com/garag.bar.restaurante/"
+    }
+}

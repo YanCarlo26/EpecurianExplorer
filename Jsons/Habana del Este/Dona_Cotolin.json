@@ -1,0 +1,206 @@
+{
+    "Name": "Dona Cotolin",
+    "Zone": "Habana del Este",
+    "Location": "Calle 482 entre 5ta Avenida y 5ta D, Guanabo, 5V97+P4H",
+    "Place Type": "Bar-Restaurante",
+    "Food Type": "Criolla ",
+    "Schedule":[
+        {"day": "monday", "open": "1100", "close": "2200"},
+        {"day": "tuesday", "open": "1100", "close": "2200"},
+        {"day": "wednesday", "open": "1100", "close": "2200"},
+        {"day": "thursday", "open": "1100", "close": "2200"},
+        {"day": "friday", "open": "1100", "close": "2200"},
+        {"day": "saturday", "open": "1100", "close": "2200"},
+        {"day": "sunday", "open": "1100", "close": "2200"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"Eperlan de pescado", "Price": 800},
+                {"Name":"Fajitas de pollo", "Price": 800},
+                {"Name":"Frituras de malanga", "Price": 500},
+                {"Name":"Tamal en cazuela", "Price": 550},
+                {"Name":"Tostones rellenos", "Price": 550},
+                {"Name":"Garbanzos fritos", "Price": 950},
+                {"Name":"Lasagna de pollo", "Price": 650},
+                {"Name":"Mas que taco, es un burrito", "Price": 600},
+                {"Name":"Ensalada fria", "Price": 500},
+                {"Name":"Croquetas de la casa", "Price": 250}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"Chuleta de cerdo al carbon", "Price": 1850},
+                        {"Name":"Costillas de cerdo al carbon", "Price": 1850},
+                        {"Name":"Masas de cerdo a la brasa", "Price": 1800},
+                        {"Name":"Lonjas de cerdo asado", "Price": 2500},
+                        {"Name":"Tabla de la Dona", "Price": 3000},
+                        {"Name":"Brochetas de cerdo al carbon", "Price": 1500},
+                        {"Name":"Pollo asado al carbon", "Price": 1750},
+                        {"Name":"Pollo asado a la pina", "Price": 1850}
+                    ]
+                },{
+                    "Fish and Seafood":[
+                        {"Name":"Camaron rebosado", "Price": 1850},
+                        {"Name":"Enchilado de camaron", "Price": 1900},
+                        {"Name":"Camaron al ajillo", "Price": 1850},
+                        {"Name":"Camaron Hawaiano", "Price": 2500},
+                        {"Name":"Echilado de langosta", "Price": 1950},
+                        {"Name":"Langosta a la plancha", "Price": 1900},
+                        {"Name":"Langosta Hawaiana", "Price": 2500},
+                        {"Name":"Pescado frito entero", "Price": 1500},
+                        {"Name":"Pescado al jugo", "Price": 1850},
+                        {"Name":"Caldereta de mariscos", "Price": 3000},
+                        {"Name":"Paella Mar y Tierra", "Price": 3000}
+                    ]
+                },{
+                    "Tacos":[null]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta",
+            "Products":[null]
+        },{
+            "Category":"Pizzas",
+            "Products":[null]
+        },{
+            "Category":"Sandwich",
+            "Products":[null]
+        },{
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                {"Name":"Arroz blanco", "Price": 150},
+                {"Name":"Arroz congri", "Price": 160},
+                {"Name":"Arroz salteado", "Price": 200},
+                {"Name":"Arroz pilaf", "Price": 200}
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"Helados con galletas", "Price": 500},
+                {"Name":"Coco glase", "Price": 650},
+                {"Name":"Arroz con leche", "Price": 400}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[null]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                
+                {"Name":"Screwdriver", "Price": 450},
+                {"Name":"Limonada Frappe", "Price": 450},
+                {"Name":"Limonada Presidente", "Price": 500},
+                {"Name":"Cuba Libre", "Price": 400},
+                {"Name":"Daiquiri Frappe", "Price": 400},
+                {"Name":"Mojito", "Price": 400},
+                {"Name":"Gin Tonic", "Price": 550},
+                {"Name":"Caipiroska", "Price": 450},
+                {"Name":"Caipirissima", "Price": 450},
+                {"Name":"Sangria", "Price": 500},
+                {"Name":"Pina Colada", "Price": 500},
+                {"Name":"Canchanchara", "Price": 400},
+                {"Name":"Margarita", "Price": 450},
+                {"Name":"Margarita de frutas", "Price": 450},
+                {"Name":"Chelada", "Price": 150},
+                {"Name":"Michelada", "Price": 250},
+                {"Name":"Trago de Havana Club 3 anos", "Price": 200},
+                {"Name":"Trago de Havana Club Especial", "Price": 200},
+                {"Name":"Trago de Havana Club 7 anos", "Price": 250},
+                {"Name":"Trago de Santiago Anejo 8 anos", "Price": 300},
+                {"Name":"Trago de Vodka Roskof", "Price": 280},
+                {"Name":"Trago de Old Partner", "Price": 350},
+                {"Name":"Trago de JW Red Label", "Price": 450},
+                {"Name":"Trago de JW Black Label", "Price": 650},
+                {"Name":"Trago de Jameson", "Price": 350},
+                {"Name":"Trago de Ballantine's", "Price": 350},
+                {"Name":"Trago de Black & White", "Price": 650},
+                {"Name":"Trago de Baileys", "Price": 530},
+                {"Name":"Trago de Jaggermeifter", "Price": 450},
+                {"Name":"Trago de Olmeca Blanco", "Price": 300},
+                {"Name":"Trago de Olmeca Reposado", "Price": 320},
+                {"Name":"Trago de tequila", "Price": 350},
+                {"Name":"Trago de Jose Cuervo", "Price": 700},
+                {"Name":"Trago de Rua Vieja", "Price": 300},
+                {"Name":"Trago de vino blanco", "Price": 400},
+                {"Name":"Trago de Vino tinto", "Price": 450},
+                {"Name":"Cerveza Cristal", "Price": 350},
+                {"Name":"Cerveza Bucanero", "Price": 350},
+                {"Name":"Cerveza importada", "Price": 230},
+                {"Name":"Cerveza Corona", "Price": 550}
+            ]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"Refresco de lata", "Price": 250},
+                {"Name":"Refresco de pomitos", "Price": 200},
+                {"Name":"Maltas", "Price": 270},
+                {"Name":"Jugos naturales", "Price": 250},
+                {"Name":"Agua natural", "Price": 150},
+                {"Name":"Agua tonica", "Price": 300},
+                {"Name":"Energizantes", "Price": 300}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": true,
+        "Bar": true,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": ["56095153", "77991347"],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+        "CUP": true,
+        "EUR": true,
+        "USD": true
+    }},
+    "Social Media":{
+        "Facebook": "Comida criolla y cubana todo al carbon Dona Cotolin",
+        "Instagram": false
+    }
+}

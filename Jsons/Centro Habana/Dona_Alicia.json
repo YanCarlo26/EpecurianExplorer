@@ -1,0 +1,257 @@
+{
+    "Name": "Doña Alicia",
+    "Zone": "ch",
+    "Location": "Reina esquina Belascoaín",
+    "Place Type": "Bar-Restaurante",
+    "Food Type": "Comida Caribeña",
+    "Schedule":[
+        {"day": "monday", "open": "1200", "close": "0000"},
+        {"day": "tuesday", "open": "1200", "close": "0000"},
+        {"day": "wednesday", "open": "1200", "close": "0000"},
+        {"day": "thursday", "open": "1200", "close": "0000"},
+        {"day": "friday", "open": "1200", "close": "0000"},
+        {"day": "saturday", "open": "1200", "close": "0000"},
+        {"day": "sunday", "open": "1200", "close": "0000"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"Cóctel De Langosta (150g)","Price": 1000.00},
+                {"Name":"Tostones Rellenos Con Jamón (50g Y 30g De Queso)","Price": 700.00},
+                {"Name":"Bolitas De Queso (10 Unkd)","Price": 1450.00},
+                {"Name":"Fritura De Malanga (10 Unid)","Price": 560.00}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"Ropa Vieja Res Con Salsa De Tomate (170g)","Price": 1995.00},
+                        {"Name":"Ropa Vieja Res Sin Salsa De Tomate (170g)","Price": 1970.00},
+                        {"Name":"Ropa Vieja De Cordero Sin Salsa De Tomate (170g)","Price": 1675.00},
+                        {"Name":"Ropa Vieja De Cordero Con Salsa De Tomate (170g)","Price": 1700.00},
+                        {"Name":"Estofado De Cordero Al Vino Tinto (250g)","Price": 2300.00},
+                        {"Name":"Chilindron De Cordero (280g)","Price": 2200.00},
+                        {"Name":"Bistec De Cerdo Gratinado Con Jamón Y Queso (280g Y 45g Jamón Y Queso)","Price": 2200.00},
+                        {"Name":"Bistec De La Abuela Con Mjo Criollo (280g)","Price": 1700.00},
+                        {"Name":"Masas De Cerdo Italianas","Price": 3500.00},
+                        {"Name":"Masas De Cerdo Con Salsa Agridulce","Price": 2350.00},
+                        {"Name":"Masa De Cerdo Con Mojo Criollo","Price": 2350.00},
+                        {"Name":"Lomo Deshuesado Con Mojo Criollo (280g)","Price": 2000.00},
+                        {"Name":"Lomo Ahumado Al Graten (280g)","Price": 2500.00},
+                        {"Name":"Lomo Ahumado Agridulce (280g)","Price": 2250.00},
+                        {"Name":"Fajitas De Cerdo A La Campesina (280g)","Price": 2200.00},
+                        {"Name":"Fajita Pollo Crema (280g)","Price": 2700.00},
+                        {"Name":"Montado De Pollo, Jamón Y Queso (280g-50g Jamón Y Queso)","Price": 2500.00},
+                        {"Name":"Pollo Gratinado (280g)","Price": 2375.00},
+                        {"Name":"Ropa Vieja De Cerdo Con Salsa De Tomate (170g)","Price": 1900.00},
+                        {"Name":"Ropa Vieja De Cerdo Sin Salsa De Tomate (170g)","Price": 1820.00},
+                        {"Name":"Pollo Entero Relleno 2500gr (Ordenar Mínimo 6 Horas De Antelación)","Price": 10000.00}
+                    ]
+                },{
+                    "Fish and Seafood":[
+                        {"Name":"Langosta Salteada Al Ajo (350g)","Price": 3250.00},
+                        {"Name":"Langosta Grillé C/ Salsa De La Casa (350g)","Price": 3000.00},
+                        {"Name":"Enchilado De Langosta (350g)","Price": 3500.00},
+                        {"Name":"Langosta Termidor (350g)","Price": 3125.00},
+                        {"Name":"Camarón Termidor","Price": 3000.00},
+                        {"Name":"Camarón Salteado Con Ajo","Price": 2600.00},
+                        {"Name":"Camarones Enchilados","Price": 2800.00},
+                        {"Name":"Pulpo Salteado Al Ajo (230g)","Price": 2625.00},
+                        {"Name":"Pulpo Enchilado (230g)","Price": 2750.00},
+                        {"Name":"Pescado Gratinado Jamón Y Queso (280g)(45g Jamón Y Queso)","Price": 2750.00},
+                        {"Name":"Dados De Pescado Al Ajo (280g)","Price": 2200.00},
+                        {"Name":"Dados De Pescado En Salsa Cubana (280g)","Price": 2430.00},
+                        {"Name":"Pescado Grille C/ Salsa De La Casa (280g)","Price": 2100.00},
+                        {"Name":"Pescado Del Dia (280g)","Price": 1950.00},
+                        {"Name":"Dados De Pescado En Salsa Italiana (280g)","Price": 2900.00}
+                    ]
+                },{
+                    "Tacos":[
+                        
+                {"Name":"Tacos De Camarón","Price": 1500.00},
+                {"Name":"Tacos De Pollo (125g)","Price": 1000.00},
+                {"Name":"Tacos Al Pastor (125g)","Price": 1025.00},
+                {"Name":"Tacos De Pollo En Salsa Pico De Gallo (125g)","Price": 1250.00},
+                {"Name":"Tacos De Cerdo En Salsa De Pico De Gallo (125g)","Price": 1200.00}
+                    ]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta",
+            "Products":[
+                {"Name":"Lasaña De Jamón","Price": 1650.00},
+                {"Name":"Espaguetis Con Jamón Y Queso Gouda","Price": 1510.00},
+                {"Name":"Espaguetis Con Camarones Y Queso Gouda","Price": 2220.00},
+                {"Name":"Espaguetis Carbonara","Price": 2115.00},
+                {"Name":"Espaguetis Nápoles C/ Gouda","Price": 1105.00},
+                {"Name":"Espaguetis Con Atun","Price": 1660.00},
+                {"Name":"Canelon De Camaron","Price": 1850.00},
+                {"Name":"Canelones De Jamón","Price": 1650.00},
+                {"Name":"Espaguetis En Salsa Blanca Cremosa Con Parmesano Y Albahaca Natural","Price": 1500.00},
+                {"Name":"Espaguettis De Vegetales Con Grana Padano","Price": 1650.00}
+            ]
+        },{
+            "Category":"Pizzas",
+            "Products":[
+                {"Name":"Pizza De Jamón","Price": 1600.00},
+                {"Name":"Pizza De Camarones","Price": 2000.00},
+                {"Name":"Pizza De Atún","Price": 1750.00},
+                {"Name":"Pizza De Bacon","Price": 2000.00},
+                {"Name":"Pizza Napolitana","Price": 1150.00},
+                {"Name":"Pizza De Aji Y Cebolla","Price": 1550.00},
+                {"Name":"Pizza Estilo Margarita","Price": 1250.00},
+                {"Name":"Pizza Ropa Vieja De Cerdo","Price": 1800.00},
+                {"Name":"Pizza 4 Queso","Price": 2000.00},
+                {"Name":"Pizza Hawaiana","Price": 1625.00},
+                {"Name":"Pizza De Salsa Pesto","Price": 1200.00},
+                {"Name":"Pizza Al Pastor","Price": 2000.00},
+                {"Name":"Pizza De Ropa Vieja De Res","Price": 2150.00}
+            ]
+        },{
+            "Category":"Sandwich",
+            "Products":[null]
+        },
+        {
+            "Category":"Additions",
+            "Products":[
+                {"Name":"Agrego De Jamón","Price": 300.00},
+                {"Name":"Agrego De Queso","Price": 600.00},
+                {"Name":"Agrego De Champiñones","Price": 375.00},
+                {"Name":"Agrego De Cebolla","Price": 275.00},
+                {"Name":"Agrego De Pimiento","Price": 205.00},
+                {"Name":"Agrego De Atún","Price": 550.00}
+            ]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                {"Name":"Tostones Naturales","Price": 250.00},
+                {"Name":"Vegetales De Temporada","Price": 350.00},
+                {"Name":"Arroz Blanco","Price": 220.00},
+                {"Name":"Arroz Moro","Price": 320.00},
+                {"Name":"Toston Al Ajo","Price": 350.00}
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"Cake De Chocolate (Porción)","Price": 850.00},
+                {"Name":"Cisne","Price": 95.00},
+                {"Name":"Trufa De Chocolate","Price": 160.00},
+                {"Name":"Eclear","Price": 530.00},
+                {"Name":"Rosca Reyes","Price": 350.00},
+                {"Name":"Arroz Con Leche","Price": 580.00},
+                {"Name":"Cheesecake De Fresa (Porción)","Price": 520.00},
+                {"Name":"Tortica","Price": 100.00}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[null]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"Cerveza Importada Modelo Especial","Price": 650.00},
+                {"Name":"Cerveza Presidente","Price": 595.00},
+                {"Name":"Heineken Botella 330 Ml","Price": 495.00},
+                {"Name":"Johnnie Walker Etiqueta Roja (750ml)","Price": 9050.00},
+                {"Name":"Chivas Regal 12 (750ml)","Price": 19500.00},
+                {"Name":"H.c Selección De Maestros (700ml)","Price": 8950.00},
+                {"Name":"H.c Añejo Reserva (700cl)","Price": 4300.00},
+                {"Name":"H.c Añejo Especial (700ml)","Price": 2625.00},
+                {"Name":"Tequila Olmeca Silver (700ml)","Price": 5800.00},
+                {"Name":"Cerveza Nacional Cristal","Price": 440.00},
+                {"Name":"Ron Santiago De Cuba Carta Blanca (700ml)","Price": 3500.00},
+                {"Name":"Whisky Black & White (750ml)","Price": 4125.00},
+                {"Name":"Whisky J/w Black Label (750ml)","Price": 17500.00},
+                {"Name":"Ron Santiago De Cuba Añejo 12","Price": 12000.00},
+                {"Name":"Black Tears (700ml)","Price": 2000.00},
+                {"Name":"Cerveza Corona","Price": 660.00},
+                {"Name":"H.c.pacto Navío","Price": 10000.00},
+                {"Name":"Cerveza Presidente Licht","Price": 570.00},
+                {"Name":"Vt Frontera Merlot (Botella)","Price": 2300.00},
+                {"Name":"Espumoso Cava Mistinguett Brut","Price": 3800.00},
+                {"Name":"Espumoso Cava Brut Reserva Mistinguett","Price": 3800.00},
+                {"Name":"Espumoso Gran Barón Cava Brut","Price": 3800.00},
+                {"Name":"Vt Frontera Cabernet Sauvignon (Mercado)","Price": 2100.00},
+                {"Name":"Vb Frontera Chardonay (Mercado)","Price": 2100.00},
+                {"Name":"Vt Frontera Merlot (Mercado)","Price": 2100.00},
+                {"Name":"Espumoso Torre De La Vid (Brut)","Price": 2750.00},
+                {"Name":"Vino Espumoso Rocamar (Brut)","Price": 2750.00},
+                {"Name":"Vino Rosado Espumoso Calaviña","Price": 2500.00},
+                {"Name":"Vino Blanco Espumoso Calaviña Brut","Price": 2500.00},
+                {"Name":"Cava Brut Rose Gran Baron","Price": 2250.00},
+                {"Name":"Vino Blanco Espumoso Semisecos Condelier","Price": 2625.00}
+            ]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"Malta Nacional Bucanero","Price": 405.00},
+                {"Name":"Pepsi Cola De Lata","Price": 380.00},
+                {"Name":"Refresco Importado 7 Up","Price": 320.00},
+                {"Name":"Jugo Kermato","Price": 710.00},
+                {"Name":"Red Bull","Price": 900.00},
+                {"Name":"Agua Tónica Mg","Price": 600.00},
+                {"Name":"Agua Natural Buona","Price": 280.00},
+                {"Name":"Refresco Santa Naranja","Price": 350.00},
+                {"Name":"Agua Gaseada Tehuacan","Price": 650.00},
+                {"Name":"Refresco Ritz Cola","Price": 345.00}
+            ]
+        }
+    ],
+    "House Specialty": "Comida Caribeña",
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Particular",
+    "Phone": ["7866-6009"],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+            "CUP": true,
+            "EUR": true,
+            "USD": true
+        }
+    }, 
+    "Social Media":{
+        "Facebook": "RestauranteDaAlicia",
+        "Instagram":"restaurantedaalicia"
+    }
+}

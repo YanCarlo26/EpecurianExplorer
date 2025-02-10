@@ -1,0 +1,209 @@
+{
+    "Name": "Melodrama",
+    "Zone": "Centro Habana",
+    "Location": "Obrapia 511 e/ Bernaza y Villegas,Habana Vieja ",
+    "Place Type": "Bar",
+    "Food Type": "Cocteleria",
+    "Schedule": "Todos los dias : 5:00PM - 1:00AM",
+    "Menu":[
+        {
+            "Category": "Alcoholic Drink",
+            "Products": [
+                { "Name": "Cerveza (Nacional)", "Price": 600 },
+                { "Name": "Cerveza (Importada)", "Price": 500 },
+                { "Name": "Vino Blanco", "Price": 800 },
+                { "Name": "Vino Tinto", "Price": 800 },
+                { "Name": "Absolut Vodka", "Price": 2000 },
+                { "Name": "Gin Hendricks", "Price": 2000 },
+                { "Name": "Mojito", "Price": 900 },
+                { "Name": "Daiquirí", "Price": 800 },
+                { "Name": "Caipirinha", "Price": 800 },
+                { "Name": "Canchánchara", "Price": 800 },
+                { "Name": "Screwdriver", "Price": 800 },
+                { "Name": "Cuba libre", "Price": 900 },
+                { "Name": "Cubata", "Price": 1200 },
+                { "Name": "Cubanito", "Price": 1000 },
+                { "Name": "Gin Tonic", "Price": 900 },
+                { "Name": "Sangría", "Price": 1000 },
+                { "Name": "Piña Colada", "Price": 900 },
+                { "Name": "Bloody Mary", "Price": 900 },
+                { "Name": "Margarita", "Price": 1000 },
+                { "Name": "Michelada", "Price": 900 },
+                { "Name": "Daiquirí de frutas", "Price": 1000 },
+                { "Name": "Daiquirí Tiki", "Price": 1300 },
+                { "Name": "Café Melodrama", "Price": 1000 },
+                { "Name": "Expreso Martini", "Price": 1000 },
+                { "Name": "Mojito de jengibre/cardamomo", "Price": 1200 },
+                { "Name": "Moscow Mule", "Price": 1000 },
+                { "Name": "Skinny Bitch", "Price": 800 },
+                { "Name": "Mariachi Hope", "Price": 1300 },
+                { "Name": "Long Island Iced Tea", "Price": 1600 },
+                { "Name": "HC Añejo Especial", "Price": 700 },
+                { "Name": "HC Añejo Reserva", "Price": 1100 },
+                { "Name": "HC Ritual", "Price": 900 },
+                { "Name": "HC Añejo 7 Años", "Price": 1500 },
+                { "Name": "HC Spiced", "Price": 1500 },
+                { "Name": "HC Smoky", "Price": 2000 },
+                { "Name": "HC Selección de Maestros", "Price": 3500 },
+                { "Name": "HC Pacto Navio", "Price": 3500 },
+                { "Name": "HC Skepta", "Price": 6000 },
+                { "Name": "HC 15 Años", "Price": 10000 },
+                { "Name": "Santiago Añejo", "Price": 1000 },
+                { "Name": "Santiago 8 Años", "Price": 1500 },
+                { "Name": "Santiago 11 Años", "Price": 3500 },
+                { "Name": "Santiago 12 Años", "Price": 4000 },
+                { "Name": "Santiago 20 Años", "Price": 10000 },
+                { "Name": "Progresiva", "Price": 3500 },
+                { "Name": "Vigia 18 Años", "Price": 2500 },
+                { "Name": "Mulata 25 Años", "Price": 15000 },
+                { "Name": "zacapa 12 Años", "Price": 4000 },
+                { "Name": "Cubay Extra Añejo", "Price": 6000 },
+                { "Name": "Eminente", "Price": 3000 },
+                { "Name": "Clan Campbell", "Price": 800 },
+                { "Name": "Ballantine", "Price": 1000 },
+                { "Name": "Jameson", "Price": 1000 },
+                { "Name": "Chivas Regal 12 Años", "Price": 3500 },
+                { "Name": "Johnny Walker Black Label", "Price": 4000 },
+                { "Name": "Olmeca Blanco", "Price": 700 },
+                { "Name": "Olmeca Reposado", "Price": 800 }
+            ]
+        },{
+            "Category": "Not Alcoholic Drink",
+            "Products":[
+                { "Name": "Limonada", "Price": 700 },
+                { "Name": "Jugo", "Price": 700 },
+                { "Name": "Agua", "Price": 400 },
+                { "Name": "Agua Gaseada", "Price": 500 },
+                { "Name": "Refresco", "Price": 500 }
+                
+            ]
+        },{
+            "Category": "Cafes e Infuciones",
+            "Products":[
+                { "Name": "Expreso", "Price": 300 },
+                { "Name": "Americano", "Price": 300 },
+                { "Name": "Cortado", "Price": 400 },
+                { "Name": "Café con leche", "Price": 500 },
+                { "Name": "Capuchino", "Price": 500 },
+                { "Name": "Frapuchino", "Price": 600 },
+                { "Name": "Infusión", "Price": 400 }
+            ]
+        },
+        {
+            "Category": "Entrants",
+            "Products":[
+                { "Name": "Yuca frita", "Price": 900 },
+                { "Name": "Frituras de Malanga", "Price": 700 },
+                { "Name": "Empanadillas de carne", "Price": 2000 },
+                { "Name": "Falafel", "Price": 1800 },
+                { "Name": "Tacos de frijoles", "Price": 1200 },
+                { "Name": "Tacos de carne", "Price": 1800 },
+                { "Name": "Papas Fritas", "Price": 1000 },
+                { "Name": "Curry Sandwich (Pechuga)", "Price": 2000 }
+            ]
+        },{
+            "Category":"Chef's Recommendation",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                    null
+                    ]
+                },{
+                    "Fish and Seafood":[
+                    null
+                    ]
+                },{
+                    "Tacos":[
+                    null
+                    ]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Pasta ",
+            "Products":[
+                null
+            ]
+        },{
+            "Category":"Pizzas ",
+            "Products":[
+                null
+            ]
+        },{
+            "Category":"Sandwich",
+            "Products":[
+                null
+            ]
+        },{
+            "Category":"Additions",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[
+                    null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                null
+            ]
+        }
+        
+    ],
+    "House Specialty": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Smoking Area": false,
+        "Bar": true,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Parking": false,
+        "Live Performances": true,
+        "Room Reservation": false,
+        "Outdoor Services": false
+    },
+    "State or Private": "Private",
+    "Phone": [
+        "78014193",
+        "55115638"
+    ],
+    "Payment Options":{
+        "Online payments":true,
+        "Credit Card":true,
+        "Cash":{
+        "CUP":true,
+        "EUR":true,
+        "USD":true
+    } }, 
+    "Social Media":{
+        "Facebook": "https://www.facebook.com/barmelodrama?mibextid=ZbWKwL",
+        "Instagram":"https://www.instagram.com/barmelodrama?igsh=NnlvbzN3Z3NnM2t4"
+    }
+}

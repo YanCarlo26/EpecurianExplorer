@@ -1,0 +1,188 @@
+{
+    "Name": "Los caneyes",
+    "Zone": "Arroyo Naranjo",
+    "Location": "Calle Marti y Gutierrez, Reparto Electrico, Arroyo Naranjo",
+    "Place Type": "Restaurante",
+    "Food Type": "cubana",
+    "Schedule": [
+        {"day": "monday", "open": "12:00", "close": "23:00"},
+        {"day": "tuesday", "open": "12:00", "close": "23:00"},
+        {"day": "wednesday", "open": "12:00", "close": "23:00"},
+        {"day": "thursday", "open": "12:00", "close": "23:00"},
+        {"day": "friday", "open": "12:00", "close": "23:00"},
+        {"day": "saturday", "open": "12:00", "close": "23:00"},
+        {"day": "sunday", "open": "12:00", "close": "23:00"}
+    ],
+    "Menu": [
+            {
+                "Category": "Entrants(tapas)",
+                "Products": [
+                    {"Name": "tostones", "Price": 800},
+                    {"Name": "papas fritas", "Price": 900},
+                    {"Name": "fajitas de pollo empanadas", "Price": 1000},
+                    {"Name": "fajitas de cerdo empanadas", "Price": 1000},
+                    {"Name": "eperlan de pescado", "Price": 1300},
+                    {"Name": "masas de cangrejo con tostones", "Price": 1000},
+                    {"Name": "milanesa de res con papas fritas", "Price": 1500}
+                ]
+            },
+            {
+                "Category": "Chef's Recommendation",
+                "Products": [null]
+            },
+            {
+                "Category": "Main courses",
+                "Products": [
+                    {
+                        " Meat, Poultry and Game ": [
+                            {"Name": "lomo ahumado deshuesado", "Price": 1800},
+                            {"Name": "bistec de cerdo frito", "Price": 1300},
+                            {"Name": "escalope de cerdo", "Price": 1500},
+                            {"Name": "bistec de cerdo con jamon, chorizo y queso", "Price": 1800},
+                            {"Name": "bistec uruguayo", "Price": 1800},
+                            {"Name": "boucht de cerdo", "Price": 1300},
+                            {"Name": "ropa vieja", "Price": 1700},
+                            {"Name": "vaca frita", "Price": 1700},
+                            {"Name": "suprema de pollo", "Price": 1300},
+                            {"Name": "fajitas salteadas", "Price": 1300},
+                            {"Name": "fajitas empanadas", "Price": 1400},
+                            {"Name": "suprema de pollo empanada", "Price": 1400},
+                            {"Name": "suprema de pollo con jamon y queso", "Price": 1800},
+                            {"Name": "gordon blue", "Price": 2300},
+                            {"Name": "suprema de pollo rellena con camarones y queso", "Price": 2300},
+                            {"Name": "suprema Los Caneyes", "Price": 2300}
+                        ]
+                    },
+                    {
+                        "Fish and Seafood": [
+                            {"Name": "filete de pescado grille", "Price": 1500},
+                            {"Name": "filete de pescado empanado", "Price": 1500},
+                            {"Name": "filete de pescado monte toro", "Price": 1800},
+                            {"Name": "filete de pescado caney", "Price": 1800},
+                            {"Name": "filete de pescado Los Caneyes", "Price": 2500},
+                            {"Name": "masas de cangrejo en salsa de tomate", "Price": 1300},
+                            {"Name": "salmon rociado en salsa de tomate", "Price": 1500},
+                            {"Name": "camarones al ajillo", "Price": 2200},
+                            {"Name": "enchilado de camarones", "Price": 2200},
+                            {"Name": "camarones rebozados", "Price": 2200}
+                        ]
+                    },
+                    {
+                        "Tacos": [null]
+                    }
+                ]
+            },
+            {
+                "Category": "For Your Diet",
+                "Products":[ null]
+            },
+            {
+                "Category": "Pasta",
+                "Products": [
+                    {"Name": "spaghettis Napolitano", "Price": 700}
+                ]
+            },
+            {
+                "Category": "Pizzas",
+                "Products": [
+                    {"Name": "pizza napolitana", "Price": 900},
+                    {"Name": "pizza napolitana con queso gouda", "Price": 1300}
+                ]
+            },
+            {
+                "Category": "Sandwich",
+                "Products": [
+                    {"Name": "hamburguesa de res c/ queso gratinado y papas fritas", "Price": 1500},
+                    {"Name": "hamburguesas de salmon c/ queso gratinado y tostones", "Price": 1500}
+                ]
+            },
+            {
+                "Category": "Additions",
+                "Products":[ null]
+            },
+            {
+                "Category": "Fittings(guarniciones)",
+                "Products": [
+                    {"Name": "arroz blanco", "Price": 150},
+                    {"Name": "arroz congri", "Price": 200},
+                    {"Name": "yuca con mojo", "Price": 200},
+                    {"Name": "pure de malanga", "Price": 400},
+                    {"Name": "Ensalada Mixta de Estacion", "Price": 250}
+                ]
+            },
+            {
+                "Category": "Soups and Creams",
+                "Products": [null]
+            },
+            {
+                "Category": "Desserts",
+                "Products": [
+                    {"Name": "Tarta con Ganache de Chocolate", "Price": 450},
+                    {"Name": "Pote de helado Gusto (1 litro)", "Price": 1000}
+                ]
+            },
+            {
+                "Category": "Coffees & Infusions",
+                "Products": [
+                    {"Name": "cafe", "Price": 100}
+                ]
+            },
+            {
+                "Category": "Alcoholic Beverages",
+                "Products": [
+                    {"Name": "cervezas", "Price": 330},
+                    {"Name": "cerveza cristal", "Price": 300}
+                ]
+            },
+            {
+                "Category": "Non-Alcoholic Beverages",
+                "Products": [
+                    {"Name": "Refresco cola y limon", "Price": 250},
+                    {"Name": "refresco de mate", "Price": 270},
+                    {"Name": "malta", "Price": 300},
+                    {"Name": "agua mineral embotellada", "Price": 300},
+                    {"Name": "latas de jugo", "Price": 300},
+                    {"Name": "bebida energizante", "Price": 100}
+                ]
+            }
+        ],
+    "House Specialty": "filete de pescado Los Caneyes, suprema Los Caneyes",
+    "Head Chef": null,
+    "Price Range": "",
+    "Place Options": {
+        "Accessible": null,
+        "Executive Lunch": null,
+        "Smoking Area":null,
+        "Bar":null,
+        "Event Buffet": null,
+        "Wine List":null,
+        "Air Conditioning": null,
+        "Service Charge %": false,
+        "Dress Code":null,
+        "Takeaway Food":null,
+        "Breakfast": null,
+        "Home Delivery": false,
+        "Reserved Space": null,
+        "Karaoke": null,
+        "Recorded Music":true,
+        "Playground": null,
+        "Parking":null,
+        "Live Performances": null,
+        "Room Reservation": false
+    },
+    "State or Private": "privado",
+    "Phone": [null],
+    "Payment Options": {
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR":false,
+            "USD": false
+        }
+    },
+    "Social Media": {
+        "Facebook": null,
+        "Instagram": null
+    }
+}

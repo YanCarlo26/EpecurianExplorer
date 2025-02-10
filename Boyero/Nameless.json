@@ -1,0 +1,131 @@
+{
+    "Name": "Nameless",
+    "Zone": "Boyeros",
+    "Location": "Avenida Independencia % 407A & 409, Santiago de las Vegas, GPS: 22.968986,-82.385378",
+    "Place Type": "Restaurante",
+    "Food Type": false,
+    "Schedule":[
+        {"day": "monday", "open": null, "close": null},
+        {"day": "tuesday", "open": null, "close": null},
+        {"day": "wednesday", "open": null, "close": null},
+        {"day": "thursday", "open": null, "close": null},
+        {"day": "friday", "open": null, "close": null},
+        {"day": "saturday", "open": null, "close": null},
+        {"day": "sunday", "open": null, "close": null}
+    ],
+    "Menu":[
+            {
+                "Category":"Entrants(tapas)",
+                "Products":[null]
+            },
+            {
+                "Category":"Chef's Recommendation",
+                "Products":[null]
+            },
+            {
+                "Category":"Main courses",
+                "Products":[
+                    {
+                        " Meat, Poultry and Game ": [
+                            {"Name":"Pollo Frito","Price": 1000},
+                            {"Name":"Pechuga","Price": 1200},
+                            {"Name":"Gordem Blue","Price": 1700}
+                        ]
+                    },{
+                        "Fish and Seafood":[null]
+                    },{
+                        "Tacos":[null]
+                    }
+                ]
+            },{
+                "Category":"For Your Diet",
+                "Products":[null]
+            },
+            {
+                "Category":"Pasta",
+                "Products":[null]
+            },{
+                "Category":"Pizzas",
+                "Products":[
+                    {"Name":"Pizza Napolitana","Price": 600},
+                    {"Name":"Pizza de Jamon","Price": 700},
+                    {"Name":"Pizza de aceitunas","Price": 900},
+                    {"Name":"Pizza de cebolla","Price": 700},
+                    {"Name":"Pizza Marinera","Price": 1500},
+                    {"Name":"Pizza Doble Via","Price": 1500},
+                    {"Name":"Pizza Hawaiana","Price": 850},
+                    {"Name":"Pizza de Chorizo","Price": 900}
+                ]
+            },{
+                "Category":"Sandwich",
+                "Products":[null]
+            },{
+                "Category":"Additions",
+                "Products":[null]
+            },
+            {
+                "Category":"Fittings(guarniciones)",
+                "Products":[
+                    {"Name":"Arroz Frito","Price": 700}
+                ]
+            },
+            {
+                "Category":"Soups and Creams",
+                "Products":[null]
+            },
+            {
+                "Category":"Desserts",
+                "Products":[null]
+            },
+            {
+                "Category":"Coffees & Infusions",
+                "Products":[null]
+            },
+            {
+                "Category":"Alcoholic Beverages",
+                "Products":[null]
+            },{
+                "Category":"Non-Alcoholic Beverages",
+                "Products":[null]
+            }
+        ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": [],
+    "Payment Options":{
+        "Online payments":false,
+        "Credit Card":false,
+        "Cash":{
+            "CUP":true,
+            "EUR":false,
+            "USD":false
+        }
+    },
+    "Social Media":{
+        "Facebook": false,
+        "Instagram": false
+    }
+}

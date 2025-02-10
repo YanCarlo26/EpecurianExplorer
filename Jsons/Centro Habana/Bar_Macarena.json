@@ -1,0 +1,209 @@
+{
+    "Name": "Macarena",
+    "Zone": "Centro Habana",
+    "Location":"4JQC+WQ9" ,
+    "Place Type": "Bar",
+    "Food Type": "Internacional",
+    "Schedule":[
+        {"day": "monday", "open": false, "close": false},
+        {"day": "tuesday", "open": "1600", "close": "0300"},
+        {"day": "wednesday", "open": "1600", "close": "0300"},
+        {"day": "thursday", "open": "1600", "close": "0300"},
+        {"day": "friday", "open": "1600", "close": "0300"},
+        {"day": "saturday", "open": "1600", "close": "0300"},
+        {"day": "sunday", "open": "1600", "close": "0300"}
+    ],
+    "Menu": [
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"croquetas de la casa","Price": 550},
+                {"Name":"jamón y queso","Price": 650},
+                {"Name":"rollitos a la macarena","Price": 700},
+                {"Name":"tostones rellenos","Price": 750},
+                {"Name":"surtida queso y embutido","Price": 1200},
+                {"Name":"mixta la macarena","Price": 2200}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[null]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta",
+            "Products":[null]
+        },{
+            "Category":"Pizzas",
+            "Products":[null]
+        },{
+            "Category":"Sandwich",
+            "Products":[null]
+        },{
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[null]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[null]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+                {"Name":"expreso","Price": 150},
+                {"Name":"cortado","Price": 250},
+                {"Name":"carajillo","Price": 450},
+                {"Name":"frappuccino","Price": 750}
+            ]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"cerveza cristal de botella","Price": 420},
+                {"Name":"cerveza bucanero de botella","Price": 400},
+                {"Name":"cerveza importada","Price": 300},
+                {"Name":"mojitos","Price": 650},
+                {"Name":"cuba libre","Price": 550},
+                {"Name":"bello monte","Price": 550},
+                {"Name":"cuba bella","Price": 750},
+                {"Name":"mary pickford","Price": 550},
+                {"Name":"havana especial","Price": 500},
+                {"Name":"presidente","Price": 500},
+                {"Name":"piña colada","Price": 900},
+                {"Name":"daikiri","Price": 750},
+                {"Name":"caipirissima","Price": 750},
+                {"Name":"cubanito","Price": 400},
+                {"Name":"caipiroska","Price": 750},
+                {"Name":"sex on the beach","Price": 550},
+                {"Name":"screw driver","Price": 550},
+                {"Name":"kamikase","Price": 650},
+                {"Name":"black russian","Price": 550},
+                {"Name":"cosmopolitan","Price": 600},
+                {"Name":"camino al cielo","Price": 550},
+                {"Name":"blue hawaii","Price": 550},
+                {"Name":"vodka tonic","Price": 750},
+                {"Name":"bloody mary","Price": 550},
+                {"Name":"moscú mule","Price": 500},
+                {"Name":"long islad","Price": 800},
+                {"Name":"vodka martini","Price": 700},
+                {"Name":"charro negro","Price": 550},
+                {"Name":"margarita","Price": 750},
+                {"Name":"acapulco de noche","Price": 600},
+                {"Name":"bloody mariachi","Price": 600},
+                {"Name":"nieblas del caribe","Price": 650},
+                {"Name":"submarino","Price": 700},
+                {"Name":"long island ice tea","Price": 800},
+                {"Name":"tom collins","Price": 600},
+                {"Name":"caruso","Price": 600},
+                {"Name":"gin and sin","Price": 600},
+                {"Name":"gin tonic","Price": 750},
+                {"Name":"martini","Price": 800},
+                {"Name":"santiago 8","Price": 600},
+                {"Name":"hc pacto de navio","Price": 1000},
+                {"Name":"santiago 11","Price": 1000},
+                {"Name":"santiago 12","Price": 1200},
+                {"Name":"monte de la rosa","Price": 400},
+                {"Name":"olmeca blanco","Price": 550},
+                {"Name":"olmeca reposado","Price": 600},
+                {"Name":"don ramón","Price": 800},
+                {"Name":"gin beefeater","Price": 500},
+                {"Name":"gin q spades","Price": 600},
+                {"Name":"gin q rosse","Price": 600},
+                {"Name":"gin master","Price": 650},
+                {"Name":"old fashion","Price": 700},
+                {"Name":"mini julep","Price": 800},
+                {"Name":"jhon collins","Price": 800},
+                {"Name":"sangria","Price": 750},
+                {"Name":"calimocho","Price": 600},
+                {"Name":"tinto verano","Price": 600},
+                {"Name":"medusa","Price": 450},
+                {"Name":"derrame cerebral","Price": 450},
+                {"Name":"B52","Price": 600},
+                {"Name":"orgasmo","Price": 600},
+                {"Name":"orgasmos multiples","Price": 900},
+                {"Name":"submarino","Price": 700},
+                {"Name":"chelada","Price": 620},
+                {"Name":"michelada","Price": 750},
+                {"Name":"clan campbell","Price": 550},
+                {"Name":"jameson","Price": 550},
+                {"Name":"JW red label","Price": 650},
+                {"Name":"ballantines","Price": 650},
+                {"Name":"chiva 12","Price": 800},
+                {"Name":"jack daniel","Price": 1000},
+                {"Name":"JW black lavel","Price": 1100},
+                {"Name":"HC añejo blanco","Price": 250},
+                {"Name":"HC añejo 3 años","Price": 300},
+                {"Name":"HC añejo 7 años","Price": 500},
+                {"Name":"HC ritual","Price": 400}
+            ]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"agua 500 ml","Price": 200},
+                {"Name":"agua tónica 330 ml","Price": 220},
+                {"Name":"energizante","Price": 350},
+                {"Name":"refresco limón","Price": 300},
+                {"Name":"refresco cola","Price": 200},
+                {"Name":"limonada frappe","Price": 600},
+                {"Name":"limonada blue","Price": 600},
+                {"Name":"limonada roja","Price": 600},
+                {"Name":"limonada natural","Price": 600},
+                {"Name":"limonada frescura","Price": 700}
+            ]
+        }
+    ],
+    "House Specialty": "Cocteleria",
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": true,
+        "Bar": true,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": true,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": true,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": [58723821],
+    "Payment Options": {
+        "Online payments": true,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": false,
+            "USD": true,
+            "Bitcoin": false
+        }
+    },
+    "Social Media": {
+        "Facebook": "Cafe bar macarena",
+        "Instagram": "@cafe_bar_macarena"
+    }
+}

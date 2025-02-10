@@ -1,0 +1,251 @@
+{
+    "Name": "Ranchon El Pinareño",
+    "Zone": "Boyeros",
+    "Location": "Calle 16(202) % Calle 9(405) & Calle 7(403), Boyeros",
+    "Place Type": "Restaurante",
+    "Food Type": "Internacional",
+    "Schedule":[
+        {"day": "monday", "open": "11:00", "close": "23:00"},
+        {"day": "tuesday", "open": "11:00", "close": "23:00"},
+        {"day": "wednesday", "open": "11:00", "close": "23:00"},
+        {"day": "thursday", "open": "11:00", "close": "23:00"},
+        {"day": "friday", "open": "11:00", "close": "23:00"},
+        {"day": "saturday", "open": "11:00", "close": "23:00"},
+        {"day": "sunday", "open": "11:00", "close": "23:00"}
+    ],
+    "Menu": [
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"Coctel de langosta","Price": 1000},
+                {"Name":"Tostones rellenos con carnero","Price": 360},
+                {"Name":"Maripositas de la casa","Price": 400},
+                {"Name":"Fritura de malanga","Price": 350},
+                {"Name":"Croquetas","Price": 400},
+                {"Name":"Bolita de carne","Price": 500},
+                {"Name":"Coctel de camaron","Price": 600},
+                {"Name":"Fajitas de pollo","Price": 700},
+                {"Name":"Fajitas de cerdo","Price": 700},
+                {"Name":"Eperlan","Price": 600},
+                {"Name":"Tamal","Price": 600}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    "Meat, Poultry and Game": [
+                        {"Name":"Ropa vieja de res","Price": 500},
+                        {"Name":"Bistec de res grille","Price": 900},
+                        {"Name":"Bistec de res encebollado","Price": 960},
+                        {"Name":"Uruguayo de res","Price": 1300},
+                        {"Name":"Estofado de res","Price": 1100},
+                        {"Name":"Picadillo a la Habanera","Price": 650},
+                        {"Name":"Fricase de cerdo","Price": 1200},
+                        {"Name":"Ropa vieja de cerdo","Price": 500},
+                        {"Name":"Bistec de cerdo","Price": 800},
+                        {"Name":"Bistec de cerdo encebollado","Price": 850},
+                        {"Name":"Escalope de cerdo","Price": 850},
+                        {"Name":"Fajitas de cerdo salteadas","Price": 700},
+                        {"Name":"Masa frita","Price": 1200},
+                        {"Name":"Bistec uruguayo de cerdo","Price": 1200},
+                        {"Name":"Lonjas de cerdo","Price": 1000},
+                        {"Name":"Costillas","Price": 1200},
+                        {"Name":"Costillas al ajillo","Price": 1280},
+                        {"Name":"Costillas encebolladas","Price": 1300},
+                        {"Name":"Chuletas","Price": 1200},
+                        {"Name":"Chuletas al ajillo","Price": 1280},
+                        {"Name":"Chuleta encebollada","Price": 1300},
+                        {"Name":"Lonjas de cerdo a la parilla","Price": 1000},
+                        {"Name":"Bistec de pollo","Price": 800},
+                        {"Name":"Pollo a la juliana","Price": 830},
+                        {"Name":"Pollo gratinado","Price": 900},
+                        {"Name":"Corden Bleu de pollo","Price": 1000},
+                        {"Name":"Ropa vieja de carnero","Price": 400},
+                        {"Name":"Chilindron de carnero","Price": 1200}
+                    ]
+                },
+                {
+                    "Fish and Seafood":[
+                        {"Name":"Camaron a su eleccion","Price": 1200},
+                        {"Name":"Langosta enchilada","Price": 2000},
+                        {"Name":"Langosta a la mariposa","Price": 2000},
+                        {"Name":"Pescado grille","Price": 900},
+                        {"Name":"Pescado empanizado","Price": 950},
+                        {"Name":"Canciller","Price": 1200}
+                    ]
+                },
+                {
+                    "Tacos":[null]
+                }
+            ]
+        },
+        {
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta",
+            "Products":[null]
+        },
+        {
+            "Category":"Pizzas",
+            "Products":[null]
+        },
+        {
+            "Category":"Sandwich",
+            "Products":[null]
+        },
+        {
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                {"Name":"Arroz blanco","Price": 100},
+                {"Name":"Arroz moro","Price": 160},
+                {"Name":"Arroz frito","Price": 700},
+                {"Name":"Ensalada mixta","Price": 200},
+                {"Name":"Chicharita","Price": 150},
+                {"Name":"Yuca","Price": 200},
+                {"Name":"Papas fritas","Price": 500},
+                {"Name":"Toston chatino","Price": 200},
+                {"Name":"Garbanzo frito","Price": 800},
+                {"Name":"Frijol negro","Price": 200}
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"Flan","Price": 250},
+                {"Name":"Cake","Price": 350}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+                {"Name":"Cafe americano","Price": 150},
+                {"Name":"Cafe bombom","Price": 350},
+                {"Name":"Cafe con leche","Price": 300},
+                {"Name":"Carajillo","Price": 350},
+                {"Name":"Cortadito","Price": 250},
+                {"Name":"Expreso","Price": 150},
+                {"Name":"Frapuchino","Price": 350},
+                {"Name":"Rocio Criollo","Price": 350}
+            ]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"7 Años Havana Club","Price": 500},
+                {"Name":"Barceló Añejo","Price": 1000},
+                {"Name":"Barceló Blanco","Price": 800},
+                {"Name":"Barceló Dorado","Price": 1000},
+                {"Name":"Barceló Extra Añejo","Price": 1000},
+                {"Name":"Especial Havana Club","Price": 450},
+                {"Name":"Pacto de Navio Havana Club","Price": 500},
+                {"Name":"Reserva Havana Club","Price": 450},
+                {"Name":"Ritual Havana Club","Price": 450},
+                {"Name":"Ron Blanco Havana Club","Price": 400},
+                {"Name":"Ron Blanco Santiago","Price": 400},
+                {"Name":"Ron Santiago 12 Años","Price": 1000},
+                {"Name":"Smoky Havana Club","Price": 500},
+                {"Name":"Aguardiente","Price": 500},
+                {"Name":"Ballantines","Price": 1000},
+                {"Name":"Brandy Torres","Price": 1000},
+                {"Name":"Chivas 12 Años","Price": 1000},
+                {"Name":"Crema de Baileys","Price": 1000},
+                {"Name":"Crema de Wiscky","Price": 600},
+                {"Name":"Ginebra","Price": 500},
+                {"Name":"JW Etiqueta Roja","Price": 1000},
+                {"Name":"Jamerson","Price": 1000},
+                {"Name":"Old Star","Price": 1000},
+                {"Name":"Tequila","Price": 500},
+                {"Name":"Tequila Reposado","Price": 500},
+                {"Name":"Vino Tinto","Price": 400},
+                {"Name":"Vodka","Price": 1000},
+                {"Name":"Blood Mary","Price": 550},
+                {"Name":"Caipirisima","Price": 550},
+                {"Name":"caipirina","Price": 550},
+                {"Name":"Caipiroska","Price": 550},
+                {"Name":"Chelada","Price": 550},
+                {"Name":"Gintonic","Price": 550},
+                {"Name":"Ron collins","Price": 550},
+                {"Name":"Sangria","Price": 550},
+                {"Name":"Cubalibre","Price": 550},
+                {"Name":"Cubanito","Price": 550},
+                {"Name":"Cubata","Price": 550}
+            ]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"Malta Bucanero","Price": 300},
+                {"Name":"Cristal Lata","Price": 300},
+                {"Name":"Cristal botella","Price": 300},
+                {"Name":"Corono botella","Price": 380},
+                {"Name":"Sol","Price": 350},
+                {"Name":"Bucanero Botella","Price": 300},
+                {"Name":"Tigon","Price": 300},
+                {"Name":"Malta Bucanero","Price": 300},
+                {"Name":"Pepsi","Price": 250},
+                {"Name":"7 Up","Price": 250},
+                {"Name":"Agua natural","Price": 180},
+                {"Name":"Red Bull","Price": 500},
+                {"Name":"Jugo de lata","Price": 250},
+                {"Name":"Jugo de caja","Price": 180},
+                {"Name":"Limonada frape","Price": 450},
+                {"Name":"Limonada frecura","Price": 550},
+                {"Name":"Limonada natural","Price": 450},
+                {"Name":"Malteada","Price": 600},
+                {"Name":"Michelada","Price": 600}
+            ]
+        }
+    ], 
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": null,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": true,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": true,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": true
+    },
+    "State or Private": "Private",
+    "Phone": ["76837836"],
+    "Payment Options":{
+        "Online payments":false,
+        "Credit Card":false,
+        "Cash":{
+        "CUP":true,
+        "EUR":false,
+        "USD":false
+    }} , 
+    "Social Media":{
+        "Facebook": "https://www.facebook.com/restaurante.el.pinareno/",
+        "Instagram":false
+    }
+}

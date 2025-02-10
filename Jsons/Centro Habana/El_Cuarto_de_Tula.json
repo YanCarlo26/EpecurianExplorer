@@ -1,0 +1,310 @@
+{
+    "Name": "El cuarto de Tula",
+    "Zone": "ch",
+    "Location": "San Lazaro entre San Fransico y Espada",
+    "Place Type": "Bar-Restaurante",
+    "Food Type": "Comida Internacional",
+    "Schedule":[
+        {"day": "monday", "open": "0800", "close": "2300"},
+        {"day": "tuesday", "open": "0800", "close": "2300"},
+        {"day": "wednesday", "open": "0800", "close": "2300"},
+        {"day": "thursday", "open": "0800", "close": "2300"},
+        {"day": "friday", "open": "0800", "close": "2300"},
+        {"day": "saturday", "open": "0800", "close": "2300"},
+        {"day": "sunday", "open": "0800", "close": "2300"}
+    ],
+    "Menu": [
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"Croquetas de espinaca","Price": 505.00},
+                {"Name":"Croquetas de jamón serrano","Price": 690.00},
+                {"Name":"Croquetas de pescado","Price": 600.00},
+                {"Name":"Frituras de malanga","Price": 500.00},
+                {"Name":"Adobo de Pescado","Price": 2700.00},
+                {"Name":"Adobo de Pollo","Price": 1350.00},
+                {"Name":"Tabla de Jamón Serrano (2pax)","Price": 3000.00},
+                {"Name":"Berenjena a la crema con queso parmesano","Price": 1400.00},
+                {"Name":"Ceviche de pescado al estilo mediterráneo","Price": 2400.00},
+                {"Name":"Tartar de Res","Price": 4500.00}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"Ropa vieja con plátano frito","Price": 3700.00},
+                        {"Name":"Picadillo a la Cubana","Price": 3300.00},
+                        {"Name":"Pollo Grillé","Price": 1600.00},
+                        {"Name":"Pollo en crema de coco y curry","Price": 2800.00},
+                        {"Name":"Fajas de pollo con bacon, hongos y frutos secos","Price": 2400.00},
+                        {"Name":"Cerdo Asado a la abuela","Price": 2900.00},
+                        {"Name":"Mechado de Salomillo de cerdo","Price": 3500.00},
+                        {"Name":"Solomillo de res al orégano en salsa de champiñón y queso azul","Price": 6500.00},
+                        {"Name":"Bistec de res en Salsa Chimichurri y Vegetales Salteados","Price": 8000.00},
+                        {"Name":"Fajas de res al sésamo","Price": 7000.00},
+                        {"Name":"Cordero a las cinco pimientas","Price": 5000.00}
+                    ]
+                },{
+                    "Fish and Seafood":[
+                        {"Name":"Arroz negro (Pulpo y Camarones)","Price": 5800.00},
+                        {"Name":"Pescado Grillé","Price": 3000.00},
+                        {"Name":"Pescado con toque orgánico","Price": 3600.00},
+                        {"Name":"Pescado con aroma del trópico","Price": 3500.00},
+                        {"Name":"Filete de Pescado con salsa de alcaparras y limón","Price": 3600.00},
+                        {"Name":"Filete de pescado en salsa de perejil, almejas y vino blanco","Price": 3600.00},
+                        {"Name":"Filete de Pescado con arroz negros","Price": 4300.00},
+                        {"Name":"Filete de pescado en salsa de kahlua y coco","Price": 5500.00},
+                        {"Name":"Caldereta de Mariscos","Price": 5400.00},
+                        {"Name":"Langosta Tropical","Price": 4500.00}
+                    ]
+                },{
+                    "Tacos":[
+                        {"Name":"Tacos de Punta de Res","Price": 7200.00},
+                        {"Name":"Tacos de Cerdo","Price": 3300.00},
+                        {"Name":"Tacos Ropa Vieja","Price": 4250.00}
+                    ]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta",
+            "Products":[
+                {"Name":"Al Pesto","Price": 1700.00},
+                {"Name":"Carbonara","Price": 2800.00},
+                {"Name":"Bolognesa","Price": 3000.00},
+                {"Name":"Amatriciana","Price": 2100.00},
+                {"Name":"Puttanesca","Price": 3000.00},
+                {"Name":"Pasta Fungi","Price": 4200.00},
+                {"Name":"Pescador","Price": 6000.00}
+            ]
+        },{
+            "Category":"Pizzas",
+            "Products":[null]
+        },{
+            "Category":"Sandwich",
+            "Products":[null]
+        },{
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                {"Name":"Frijoles negros","Price": 500.00},
+                {"Name":"Arroz blanco","Price": 200.00},
+                {"Name":"Arroz negro","Price": 1100.00},
+                {"Name":"Plátano maduro frito","Price": 325.00},
+                {"Name":"Plátano Tostones","Price": 325.00},
+                {"Name":"Ensalada de vegetales","Price": 500.00},
+                {"Name":"Vegetales salteados","Price": 700.00}
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"Cheesecake","Price": 2400.00},
+                {"Name":"Helado de frutas","Price": 650.00}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+                {"Name":"Café","Price": 200},
+                {"Name":"Café con leche","Price": 310},
+                {"Name":"Capuchino","Price": 310},
+                {"Name":"Café Bombón","Price": 450},
+                {"Name":"Té","Price": 200}
+            ]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"Tequila Don Julio blanco","Price": 2400},
+                {"Name":"Tequila Don Julio reposado","Price": 4500},
+                {"Name":"Tequila Olmeca blanco","Price": 850},
+                {"Name":"Tequila Olmeca reposado","Price": 900},
+                {"Name":"Aguardiente","Price": 290},
+                {"Name":"Havana Club 3 años","Price": 450},
+                {"Name":"Havana Club ritual","Price": 520},
+                {"Name":"Havana Club 7 años","Price": 540},
+                {"Name":"Havana Club especial","Price": 480},
+                {"Name":"Havana Club reserva","Price": 500},
+                {"Name":"Havana Club Selección de maestros","Price": 900},
+                {"Name":"Santiago Añejo","Price": 600},
+                {"Name":"Santiago 8","Price": 850},
+                {"Name":"Santiago 11","Price": 1780},
+                {"Name":"Santiago 12","Price": 1980},
+                {"Name":"Brandy","Price": 800},
+                {"Name":"Hennessy","Price": 1800},
+                {"Name":"Oporto","Price": 310},
+                {"Name":"Elixir Legendario","Price": 500},
+                {"Name":"Amaretto","Price": 650},
+                {"Name":"Baileys","Price": 950},
+                {"Name":"Frangelico","Price": 1700},
+                {"Name":"Kalhua","Price": 500},
+                {"Name":"Malibu","Price": 310},
+                {"Name":"Campari","Price": 310},
+                {"Name":"Moscatel","Price": 200},
+                {"Name":"Sambuca","Price": 650},
+                {"Name":"Anís del mono","Price": 285},
+                {"Name":"Gin Beefeater","Price": 400},
+                {"Name":"Gin Tanqueray","Price": 1170},
+                {"Name":"Gin Fifty Pounds","Price": 1300},
+                {"Name":"Gin Hendrick's","Price": 1900},
+                {"Name":"Vodka","Price": 160},
+                {"Name":"Vodka Stolichnaya","Price": 310},
+                {"Name":"Vodka Absolut","Price": 800},
+                {"Name":"Vodka Absolut Citron","Price": 845},
+                {"Name":"Vodka Grey Goose","Price": 1900},
+                {"Name":"Vodka Titos","Price": 1100},
+                {"Name":"Vermut Rosso","Price": 400},
+                {"Name":"Vermut Blanco","Price": 400},
+                {"Name":"Vermut Extra Dry","Price": 400},
+                {"Name":"Whisky Clan Campbell","Price": 450},
+                {"Name":"Whisky Ballantines","Price": 700},
+                {"Name":"Whisky The Glenlivet","Price": 900},
+                {"Name":"Whisky Chivas 12","Price": 1800},
+                {"Name":"Whisky Chivas 18","Price": 4500},
+                {"Name":"Whisky Jack Daniels","Price": 2000},
+                {"Name":"Whisky Jameson","Price": 1500},
+                {"Name":"Whisky J&B","Price": 850},
+                {"Name":"Whisky Jw red","Price": 1000},
+                {"Name":"Whisky Jim Beam","Price": 1000},
+                {"Name":"Whisky Jw black","Price": 1370},
+                {"Name":"Whisky Jw double black","Price": 3000},
+                {"Name":"Martini seco","Price": 1200},
+                {"Name":"Mojito","Price": 900},
+                {"Name":"Piña colada","Price": 800},
+                {"Name":"Margarita","Price": 1000},
+                {"Name":"Daiquiri","Price": 850},
+                {"Name":"Whiskey Sour","Price": 1100},
+                {"Name":"Jugos naturales","Price": 450},
+                {"Name":"Refrescos","Price": 450},
+                {"Name":"Coca-Cola","Price": 650},
+                {"Name":"Malta","Price": 580},
+                {"Name":"Agua natural nacional","Price": 300},
+                {"Name":"Agua natural importada","Price": 420},
+                {"Name":"Agua gasificada importada","Price": 500},
+                {"Name":"Energética","Price": 700},
+                {"Name":"Batido de frutas","Price": 750},
+                {"Name":"Limonada natural o frapé","Price": 380},
+                {"Name":"Limonada frescura","Price": 500},
+                {"Name":"Cerveza Nacional","Price": 600.00},
+                {"Name":"Cerveza Importada","Price": 800.00},
+                {"Name":"Michelada con Cerveza Nacional","Price": 1150.00},
+                {"Name":"Michelada con Cerveza Importada","Price": 1280.00},
+                {"Name":"Chelada con Cerveza Nacional","Price": 900.00},
+                {"Name":"Chelada con Cerveza Importada","Price": 1080.00},
+                {"Name":"Kermato","Price": 850.00},
+                {"Name":"El cubetazo (5 cervezas bien frías)","Price": 2750.00},
+                {"Name":"El tulazo","Price": 1000.00},
+                {"Name":"Mojito de frutas","Price": 900.00},
+                {"Name":"Mojito se chorrea","Price": 970.00},
+                {"Name":"Cuba Libre","Price": 650.00},
+                {"Name":"Cubanito","Price": 1055.00},
+                {"Name":"Daiquirí","Price": 920.00},
+                {"Name":"Daiquirí de frutas","Price": 1045.00},
+                {"Name":"Daiquirí de fresa","Price": 1260.00},
+                {"Name":"Cachanchara","Price": 455.00},
+                {"Name":"Caipirinha","Price": 500.00},
+                {"Name":"Caipiríssima","Price": 650.00},
+                {"Name":"Caipiroska","Price": 500.00},
+                {"Name":"Cubata","Price": 750.00},
+                {"Name":"Piña Colada","Price": 1400.00},
+                {"Name":"Copa de Vino","Price": 750.00},
+                {"Name":"Sangría","Price": 1450.00},
+                {"Name":"Screwdriver","Price": 500.00},
+                {"Name":"Gin Beefeater Tonic","Price": 1200.00},
+                {"Name":"Gin Tanqueray Tonic","Price": 1800.00},
+                {"Name":"Gin Bombay Tonic","Price": 1750.00},
+                {"Name":"Gin Fifty Pounds Tonic","Price": 2200.00},
+                {"Name":"Gin Hendrick's Tonic","Price": 2600.00},
+                {"Name":"Gin Mojito","Price": 1100.00},
+                {"Name":"B52","Price": 1000.00},
+                {"Name":"Mary Pickford","Price": 500.00},
+                {"Name":"Old-Fashioned","Price": 880.00},
+                {"Name":"Sex on the Beach","Price": 400.00},
+                {"Name":"Tequila Sunrise","Price": 830.00},
+                {"Name":"Tom Collins","Price": 580.00},
+                {"Name":"Ron Collins","Price": 680.00},
+                {"Name":"Vodka Tonic","Price": 1000.00},
+                {"Name":"Alexander","Price": 450.00},
+                {"Name":"Orgasmo","Price": 2800.00},
+                {"Name":"Negroni","Price": 1300.00},
+                {"Name":"Martini Blanco","Price": 750.00},
+                {"Name":"Martini Dry","Price": 800.00},
+                {"Name":"Martini Rosa","Price": 800.00},
+                {"Name":"Bloody Mary","Price": 980.00},
+                {"Name":"Long Island ice tea","Price": 1100}
+            ]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"Jugos naturales","Price": 450},
+                {"Name":"Refrescos","Price": 450},
+                {"Name":"Coca-Cola","Price": 650},
+                {"Name":"Malta","Price": 580},
+                {"Name":"Agua natural nacional","Price": 300},
+                {"Name":"Agua natural importada","Price": 420},
+                {"Name":"Agua gasificada importada","Price": 500},
+                {"Name":"Energética","Price": 700},
+                {"Name":"Batido de frutas","Price": 750},
+                {"Name":"Limonada natural o frapé","Price": 380},
+                {"Name":"Limonada frescura","Price": 500}
+            ]
+        }
+    ],
+    "House Specialty": "Comida Internacional",
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Particular",
+    "Phone": [],
+    "Payment Options": {
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": "true",
+            "EUR": false,
+            "USD": "true",
+            "Bitcoin": "true"
+        }
+    },
+    "Social Media": {
+        "Facebook": false,
+        "Instagram": false
+    }
+}

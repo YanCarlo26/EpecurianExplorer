@@ -1,0 +1,230 @@
+{
+    "Name": "Cohmar Cafe",
+    "Zone": "Centro Habana",
+    "Location": "23.136810792066857, -82.36139565096036",
+    "Place Type": "Restaurante",
+    "Food Type": "criolla, internacional, cubana",
+    "Schedule":[
+        {"day": "monday", "open": "1000", "close": "2200"},
+        {"day": "tuesday", "open": "1000", "close": "2200"},
+        {"day": "wednesday", "open": "1000", "close": "2200"},
+        {"day": "thursday", "open": "1000", "close": "2200"},
+        {"day": "friday", "open": "1000", "close": "2200"},
+        {"day": "saturday", "open": "1000", "close": "2200"},
+        {"day": "sunday", "open": "1000", "close": "2200"}
+    ],
+    "Menu": [
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"croquetas de jamón","Price": 650},
+                {"Name":"frituras de malanga","Price": 550},
+                {"Name":"tostones rellenos","Price": 725},
+                {"Name":"brusqueta de queso","Price": 695},
+                {"Name":"brusqueta de serrano","Price": 1350},
+                {"Name":"picadera mixta","Price": 1825}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[
+                {"Name":"sandwich mixto","Price": 650}
+            ]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {"Name":"fajitas de pollo naturales","Price": 1950},
+                {"Name":"pechuga de pollo grille","Price": 1950},
+                {"Name":"lonjas de cerdo en salsa agridulce","Price": 1965},
+                {"Name":"bistec de cerdo encebollado","Price": 1965},
+                {"Name":"vaca frita de cerdo","Price": 1965},
+                {"Name":"ropa vieja de cerdo","Price": 1965},
+                {"Name":"lomo ahumado al mojo criollo","Price": 1975},
+                {"Name":"arroz moro","Price": 350},
+                {"Name":"arroz blanco","Price": 325},
+                {"Name":"arroz pilaf","Price": 325},
+                {"Name":"tostón natural","Price": 325},
+                {"Name":"bocata de jamón","Price": 570},
+                {"Name":"bocata de queso","Price": 585},
+                {"Name":"bocata de j/queso","Price": 650},
+                {"Name":"bocata de j. pierna","Price": 695},
+                {"Name":"bocata de j. pierna/q","Price": 695},
+                {"Name":"bocata de chorizo","Price": 570},
+                {"Name":"bocata de chorizo/q","Price": 650},
+                {"Name":"bocata mixto","Price": 785},
+                {"Name":"bocata cubano","Price": 1375},
+                {"Name":"sandwich de jamón","Price": 460},
+                {"Name":"sandwich de queso","Price": 465},
+                {"Name":"sandwich de j/queso","Price": 535},
+                {"Name":"sandwich de j. pierna","Price": 650},
+                {"Name":"sandwich de j. pierna/q","Price": 695},
+                {"Name":"sandwich de chorizo","Price": 465},
+                {"Name":"sandwich de chorizo/q","Price": 535},
+                {"Name":"sandwich mixto","Price": 655},
+                {"Name":"sandwich cubano","Price": 1085},
+                {"Name":"espagueti con jamón","Price": 950},
+                {"Name":"espagueti con queso","Price": 980},
+                {"Name":"espagueti con j/queso","Price": 1130},
+                {"Name":"espagueti con atún","Price": 1185},
+                {"Name":"pasta carbonara","Price": 1225}
+            ]
+        },
+        {
+            "Category":"Additions",
+            "Products":[
+                {"Name":"Adición de jamón","Price": 250},
+                {"Name":"Adición de queso","Price": 300}
+            ]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[null]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[
+                {"Name":"Crema de queso","Price": 700},
+                {"Name":"Sopa de pollo","Price": 850},
+                {"Name":"Sopa de cerdo","Price": 800}
+            ]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"Pudin","Price": 250},
+                {"Name":"Flan","Price": 450},
+                {"Name":"Arroz con leche","Price": 300},
+                {"Name":"copa 4 bolas","Price": 450},
+                {"Name":"copa 3 bolas","Price": 350}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+                {"Name":"café expresso","Price": 195},
+                {"Name":"café americano","Price": 205},
+                {"Name":"café cortado","Price": 240},
+                {"Name":"café con leche","Price": 350},
+                {"Name":"café capuccino","Price": 365},
+                {"Name":"café bombón","Price": 385},
+                {"Name":"café frapuccino","Price": 600},
+                {"Name":"café frapuccino de chocolate","Price": 650},
+                {"Name":"té variado","Price": 150},
+                {"Name":"Capuchino","Price": 100},
+                {"Name":"café carajillo","Price": 450},
+                {"Name":"café daiquirí","Price": 500},
+                {"Name":"café al licor","Price": 460},
+                {"Name":"café rocío de gallo","Price": 375},
+                {"Name":"café mazagran","Price": 450},
+                {"Name":"café fariseo","Price": 750},
+                {"Name":"café napolitano","Price": 500},
+                {"Name":"café ruso","Price": 580},
+                {"Name":"café miss ochun","Price": 560},
+                {"Name":"café habano","Price": 540},
+                {"Name":"café irlandés","Price": 450},
+                {"Name":"café bella cubana","Price": 650}
+            ]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"Ron Habana Club Añejo 3 años","Price": 450},
+                {"Name":"Ron Habana Club Especial","Price": 550},
+                {"Name":"Ron Habana Club 7 años","Price": 650},
+                {"Name":"Whisky nacional","Price": 700},
+                {"Name":"Vodka nacional","Price": 750},
+                {"Name":"Tequila nacional","Price": 750},
+                {"Name":"cerveza nacional","Price": 420},
+                {"Name":"cerveza importada","Price": 350},
+                {"Name":"tinto","Price": 400},
+                {"Name":"blanco","Price": 400},
+                {"Name":"rosado","Price": 400},
+                {"Name":"michelada","Price": 225},
+                {"Name":"chelada","Price": 225},
+                {"Name":"piña colada","Price": 650},
+                {"Name":"mojito","Price": 600},
+                {"Name":"cuba libre","Price": 560},
+                {"Name":"cubata","Price": 575},
+                {"Name":"daiquiri","Price": 600},
+                {"Name":"daiquiri rebelde","Price": 650},
+                {"Name":"daiquiri fresa","Price": 650},
+                {"Name":"daiquiri platano","Price": 650},
+                {"Name":"cubanito","Price": 600},
+                {"Name":"caipirissima","Price": 600},
+                {"Name":"havana special","Price": 600},
+                {"Name":"churry","Price": 650},
+                {"Name":"canchanchara","Price": 500},
+                {"Name":"old fashioned","Price": 600},
+                {"Name":"gin tonic","Price": 850},
+                {"Name":"vodka tonic","Price": 850},
+                {"Name":"margarita","Price": 600},
+                {"Name":"sangria","Price": 650},
+                {"Name":"tinto de verano","Price": 600},
+                {"Name":"ron collins","Price": 550},
+                {"Name":"dapirina","Price": 600},
+                {"Name":"caipiroska","Price": 600},
+                {"Name":"bloody mary","Price": 650},
+                {"Name":"ron punch","Price": 550}
+            ]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"agua natural","Price": 195},
+                {"Name":"agua tonica importada","Price": 550},
+                {"Name":"malta","Price": 385},
+                {"Name":"refresco cola","Price": 275},
+                {"Name":"refresco limon","Price": 275},
+                {"Name":"refresco naranja","Price": 275},
+                {"Name":"energizantes","Price": 400},
+                {"Name":"malteada frappe","Price": 660},
+                {"Name":"malteada","Price": 500},
+                {"Name":"limonada frappe","Price": 400},
+                {"Name":"limonada natural","Price": 400},
+                {"Name":"fruit punch","Price": 400},
+                {"Name":"piña colada","Price": 450},
+                {"Name":"batido de frutas","Price": 500},
+                {"Name":"sueño de helado","Price": 560}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "media",
+    "Phone": [""],
+    "Payment Options": {
+        "Online payments": true,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": false,
+            "USD": true
+        }
+    },
+    "Social Media": {
+        "Facebook": false,
+        "Instagram": "@comhar_cafe"
+    }
+}

@@ -1,0 +1,206 @@
+{
+    "Name": "Pasos Habaneros",
+    "Zone": "Santos Suárez, 10 de Octubre",
+    "Location": "Calle Santos Suárez 464 e/ Gómez y Mendoza. Santos Suárez. 10 de Octubre",
+    "Place Type": "Cafeteria-Heladeria",
+    "Food Type": "Internacional, Helados",
+    "Schedule":[
+        {"day": "monday", "open": "0900", "close": "1800"},
+        {"day": "tuesday", "open": "0900", "close": "1800"},
+        {"day": "wednesday", "open": "0900", "close": "1800"},
+        {"day": "thursday", "open": "0900", "close": "1800"},
+        {"day": "friday", "open": "0900", "close": "1800"},
+        {"day": "saturday", "open": "0900", "close": "1800"},
+        {"day": "sunday", "open": "0900", "close": "1300"}
+    ],
+    "Menu":[
+    {
+        "Category":"Entrants(tapas)",
+        "Products":[
+            {"Name": "Croquetas", "Price": 280},
+            {"Name": "Coctel de Camarón sencillo", "Price": 400},
+            {"Name": "Coctel de Camarón doble", "Price": 800}
+        ]
+    },
+    {
+        "Category":"Chef's Recommendation",
+        "Products":[null]
+    },
+    {
+        "Category":"Main courses",
+        "Products":[
+            {
+                "Meat, Poultry and Game": [
+                {"Name": "Pollo Asado Muslo o Contra muslo", "Price": 275},
+                {"Name": "Pollo Asado 1/2", "Price": 550},
+                {"Name": "Bistec de Cerdo", "Price": 750},
+                {"Name": "Bistec de Cerdo Empanado", "Price": 850},
+                {"Name": "Ropa Vieja de Res", "Price": 880},
+                {"Name": "Lomo de Cerdo", "Price": 950},
+                {"Name": "Carne de Cerdo Asada", "Price": 950},
+                {"Name": "Lomo Ahumado", "Price": 950},
+                {"Name": "Masa de Cerdo Frita", "Price": 950},
+                {"Name": "Chuleta de Cerdo", "Price": 1000},
+                {"Name": "Bistec Uruguayo de Cerdo", "Price": 1000},
+                {"Name": "Alitas de pollo (1/2 libra)", "Price": 430},
+                {"Name": "Picadera \"Mi Habana\"", "Price": 750},
+                {"Name": "Picadera \"Pasos Habaneros\"", "Price": 850},
+                {"Name": "Alitas de pollo (1 libra)", "Price": 860},
+                {"Name": "Super Picadera Especial", "Price": 1500},
+                {"Name": "Fajitas de Cerdo Pasos Habaneros", "Price": 950}
+                ]
+            },{
+                "Fish and Seafood":[null]
+            },{
+                "Tacos":[null]
+            }
+        ]
+    },{
+        "Category":"For Your Diet",
+        "Products":[null]
+    },
+        {
+            "Category":"Pasta",
+            "Products":[
+                {"Name": "Napolitana", "Price": 250},
+                {"Name": "Doble Queso", "Price": 300},
+                {"Name": "Mayonesa", "Price": 300},
+                {"Name": "Jamón y Queso", "Price": 430},
+                {"Name": "Doble Queso y Jamón", "Price": 540},
+                {"Name": "Lasaña", "Price": 500}
+            ]
+        },
+        {
+            "Category":"Pizzas",
+            "Products":[
+                {"Name": "Napolitano", "Price": 380},
+                {"Name": "Doble Queso", "Price": 440},
+                {"Name": "Jamón y Queso", "Price": 475},
+                {"Name": "Doble Queso y Jamón", "Price": 540}
+            ]
+        },
+        {
+            "Category":"Sandwich",
+            "Products":[ 
+                {"Name": "Pan con queso blanco", "Price": 135},
+                {"Name": "Pan con croquetas", "Price": 180},
+                {"Name": "Pan con 2 Croquetas y Jamón", "Price": 280},
+                {"Name": "Bocadito Jamón", "Price": 240},
+                {"Name": "Bocadito de Jamón y Queso", "Price": 350},
+                {"Name": "Super Pan Pasos Habaneros", "Price": 600}
+            ]
+        },
+        {
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                {"Name": "Arroz Blanco", "Price": 150},
+                {"Name": "Arroz Moro", "Price": 200},
+                {"Name": "Arroz Cardelnal", "Price": 260},
+                {"Name": "Ensalada de Estación", "Price": 250},
+                {"Name": "Vianda con Mojo", "Price": 250},
+                {"Name": "Vianda Frita", "Price": 300}
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name": "Helado \"Futbolito\"", "Price": 170},
+                {"Name": "Helado \"Ciudad Deportiva\"", "Price": 225},
+                {"Name": "Helado \"Jimagua Mónaco\"", "Price": 290},
+                {"Name": "Helado \"Vaca Negra o Blanca\"", "Price": 320},
+                {"Name": "Helado \"Sabor a Mi\"", "Price": 345},
+                {"Name": "Helado \"Capitolio\"", "Price": 400},
+                {"Name": "Helado \"Esquina de Tejas\"", "Price": 450},
+                {"Name": "Helado \"Esquina de Toyo\"", "Price": 590},
+                {"Name": "Helado \"Ensalada Parque Central\"", "Price": 660},
+                {"Name": "Helados \"Pasos Habaneros\"", "Price": 710},
+                {"Name": "Barquillo de Helado", "Price": 135},
+                {"Name": "Potes de Helados (200 ml) sin montaje", "Price": 280},
+                {"Name": "Potes de Helados (200 ml) con montaje", "Price": 300},
+                {"Name": "Potes de Helados (400 ml) sin montaje", "Price": 400},
+                {"Name": "Potes de Helados (400 ml) con montaje", "Price": 430}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+                {"Name": "Cafe Expresso", "Price": 200},
+                {"Name": "Cafe Cortado", "Price": 250},
+                {"Name": "Capuchino", "Price": 500}
+            ]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name": "Vino Dulce", "Price": 100},
+                {"Name": "Whiskey 5Shot", "Price": 100},
+                {"Name": "Silver dry", "Price": 110},
+                {"Name": "Vino Tinto", "Price": 150},
+                {"Name": "Chisckiller", "Price": 170},
+                {"Name": "Black Tears (Brujo)", "Price": 170},
+                {"Name": "Habana Club", "Price": 170},
+                {"Name": "Cerveza dispensada (500ml)", "Price": 290},
+                {"Name": "Cerveza dispensada (300ml)", "Price": 200},
+                {"Name": "Termo de cerveza cristal de 6 jarras", "Price": 1700}
+            ]
+        },
+        {
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name": "Agua mineral", "Price": 120},
+                {"Name": "Refresco (pomu)", "Price": 235},
+                {"Name": "Refresco lata (330ml)", "Price": 230},
+                {"Name": "Cerveza lata (330ml)", "Price": 200},
+                {"Name": "Malta", "Price": 235},
+                {"Name": "Energizante(250ml)", "Price": 250}
+            ]
+        }
+    ],
+    "House Specialty": "",
+    "Head Chef": "",
+    "Price Range": "",
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": 0,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": [null],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+            "CUP": true,
+            "EUR": false,
+            "USD": true
+        }
+    },
+    "Social Media":{
+        "Facebook": null,
+        "Instagram": null
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "Name": "Dona Carmela",
+    "Zone": "Habana del Este",
+    "Location": "Casa #10, Comunidad 1, Complejo Morro Cabana, Via Monumental",
+    "Place Type": "Bar-Restaurante",
+    "Food Type": "Criolla",
+    "Schedule":[
+        {"day": "monday", "open": "1200", "close": "2300"},
+        {"day": "tuesday", "open": "1200", "close": "2300"},
+        {"day": "wednesday", "open": "1200", "close": "2300"},
+        {"day": "thursday", "open": "1200", "close": "2300"},
+        {"day": "friday", "open": "1200", "close": "2300"},
+        {"day": "saturday", "open": "1200", "close": "2300"},
+        {"day": "sunday", "open": "1200", "close": "2300"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"Frituras de malanga y miel", "Price": 600},
+                {"Name":"Croquetas de la casa", "Price": 600},
+                {"Name":"Caldo de pescado", "Price": 600},
+                {"Name":"Caldo de pollo", "Price": 600},
+                {"Name":"Caldo de mariscos", "Price": 700},
+                {"Name":"Coctel de camarones", "Price": 1000},
+                {"Name":"Coctel de pescado", "Price": 900},
+                {"Name":"Pulpitos para picar", "Price": 1200}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"Pollo Asado", "Price": 1800},
+                        {"Name":"Pollo frito", "Price": 1800},
+                        {"Name":"Bistec de cerdo encebollado", "Price": 2200},
+                        {"Name":"Costillas fritas", "Price": 2400},
+                        {"Name":"Milanesa de cerdo", "Price": 2500},
+                        {"Name":"Ropa Vieja de cerdo", "Price": 2200},
+                        {"Name":"Cordero al gusto", "Price": 3000}
+                    ]
+                },{
+                    "Fish and Seafood":[
+                        {"Name":"Filete de pescado grille", "Price": 2200},
+                        {"Name":"Filete de pescado gratinado", "Price": 2400},
+                        {"Name":"Camaron al ajillo", "Price": 2500},
+                        {"Name":"Camaron a la criolla", "Price": 2500},
+                        {"Name":"Pulpo al ajillo", "Price": 2700},
+                        {"Name":"Pulpo a la criolla", "Price": 2700},
+                        {"Name":"Combinacion Carmela", "Price": 4000},
+                        {"Name":"Langosta al gusto", "Price": 6000},
+                        {"Name":"Mariscada", "Price": 6000}
+                    ]
+                },{
+                    "Tacos":[null]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta",
+            "Products":[null]
+        },{
+            "Category":"Pizzas",
+            "Products":[null]
+        },{
+            "Category":"Sandwich",
+            "Products":[null]
+        },{
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                {"Name":"Arroz blanco", "Price": 300},
+                {"Name":"Arroz moro", "Price": 300},
+                {"Name":"Ensalada mixta", "Price": 300},
+                {"Name":"Frijoles negros", "Price": 300},
+                {"Name":"Yuca", "Price": 300}
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"Postre del dia", "Price": 1000}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+            {"Name":"Cappuccino", "Price": 350},
+            {"Name":"Cafe Cortado", "Price": 250},
+            {"Name":"Cafe Expresso", "Price": 200},
+            {"Name":"Cafe con leche", "Price": 300}]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+            {"Name":"Cervezas", "Price": 500},
+            {"Name":"Mojito de la casa", "Price": 900},
+            {"Name":"Cuba Libre", "Price": 700},
+            {"Name":"Sangria", "Price": 800},
+            {"Name":"Cubata", "Price": 700},
+            {"Name":"Pina Colada", "Price": 900},
+            {"Name":"Daiquiri natural", "Price": 700},
+            {"Name":"Daiquiri", "Price": 800}]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"Refrescos nacionales", "Price": 350},
+                {"Name":"Refrescos importados", "Price": 350},
+                {"Name":"Agua natural de 500ml", "Price": 250},
+                {"Name":"Agua narural de 1.5L", "Price": 600},
+                {"Name":"Mojito natural", "Price": 700}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": true,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": ["78636048"],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": true,
+        "Cash":{
+        "CUP": true,
+        "EUR": true,
+        "USD": true
+    }},
+    "Social Media":{
+        "Facebook": false,
+        "Instagram": false
+    }
+}

@@ -1,0 +1,173 @@
+{
+    "Name": "Magic's Cream & Burguer",
+    "Zone": "Arroyo Naranjo",
+    "Location": "Calzada de 10 de Octubre, % Santa Amalia y Arnao, Arroyo Naranjo",
+    "Place Type": "Cafeteria",
+    "Food Type": "comida rapida",
+    "Schedule": [
+        {"day": "monday", "open": "11:00", "close": "22:00"},
+        {"day": "tuesday", "open": "11:00", "close": "22:00"},
+        {"day": "wednesday", "open": "11:00", "close": "22:00"},
+        {"day": "thursday", "open": "11:00", "close": "22:00"},
+        {"day": "friday", "open": "11:00", "close": "22:00"},
+        {"day": "saturday", "open": "11:00", "close": "22:00"},
+        {"day": "sunday", "open": "11:00", "close": "22:00"}
+    ],
+    "Menu": [
+            {
+                "Category": "Entrants(tapas)",
+                "Products": [
+                    {"Name": "croquetas magic's", "Price": 400},
+                    {"Name": "fritura de malanga", "Price": 400},
+                    {"Name": "fajas de pollo", "Price": 600},
+                    {"Name": "bolitas de queso", "Price": 500},
+                    {"Name": "papas fritas", "Price": 500}
+                ]
+            },
+            {
+                "Category": "Chef's Recommendation",
+                "Products":[ null]
+            },
+            {
+                "Category": "Main courses",
+                "Products": [
+                    {
+                        " Meat, Poultry and Game ":[ null]
+                    },
+                    {
+                        "Fish and Seafood":[ null]
+                    },
+                    {
+                        "Tacos": [
+                            {"Name": "tacos de pollo", "Price": 700},
+                            {"Name": "tacos de cerdo", "Price": 800}
+                        ]
+                    }
+                ]
+            },
+            {
+                "Category": "For Your Diet",
+                "Products": [null]
+            },
+            {
+                "Category": "Pasta",
+                "Products": [null]
+            },
+            {
+                "Category": "Pizzas",
+                "Products":[ null]
+            },
+            {
+                "Category": "Sandwich",
+                "Products": [
+                    {"Name": "hamburguesas de cerdo", "Price": 430},
+                    {"Name": "hamburguesas de pollo", "Price": 430},
+                    {"Name": "hamburguesas doble", "Price": 1000},
+                    {"Name": "hamburguesas super magic's", "Price": 1500}
+                ]
+            },
+            {
+                "Category": "Additions",
+                "Products": [
+                    {"Name": "jamon", "Price": 100},
+                    {"Name": "queso", "Price": 100},
+                    {"Name": "vegetales", "Price": 100},
+                    {"Name": "papas", "Price": 500}
+                ]
+            },
+            {
+                "Category": "Fittings(guarniciones)",
+                "Products": [null]
+            },
+            {
+                "Category": "Soups and Creams",
+                "Products": [null]
+            },
+            {
+                "Category": "Desserts",
+                "Products": [
+                    {"Name": "bola de helado", "Price": 70},
+                    {"Name": "jimaguas", "Price": 195},
+                    {"Name": "ensalada de helado", "Price": 350},
+                    {"Name": "batido de helado", "Price": 395},
+                    {"Name": "tres gracias", "Price": 245}
+                ]
+            },
+            {
+                "Category": "Coffees & Infusions",
+                "Products": [null]
+            },
+            {
+                "Category": "Alcoholic Beverages",
+                "Products": [
+                    {"Name": "cervezas importadas", "Price": 220},
+                    {"Name": "cervezaas nacionales", "Price": 300},
+                    {"Name": "limonada frappe", "Price": 250},
+                    {"Name": "michelada", "Price": 250},
+                    {"Name": "pinna colada con alcohol", "Price": 575},
+                    {"Name": "cuba libre", "Price": 500},
+                    {"Name": "mojito", "Price": 500},
+                    {"Name": "botella label 5", "Price": 3500},
+                    {"Name": "jw red label", "Price": 600},
+                    {"Name": "ballantine's", "Price": 550},
+                    {"Name": "howells", "Price": 300},
+                    {"Name": "gran marchell", "Price": 300},
+                    {"Name": "pacto navio", "Price": 700},
+                    {"Name": "havana club annejo reserva", "Price": 400},
+                    {"Name": "havana club annejo 3 annos", "Price": 350},
+                    {"Name": "ginebra", "Price": 300},
+                    {"Name": "vodka", "Price": 300},
+                    {"Name": "copa vino tinto", "Price": 600},
+                    {"Name": "copa vino blanco", "Price": 550}
+                ]
+            },
+            {
+                "Category": "Non-Alcoholic Beverages",
+                "Products": [
+                    {"Name": "malta", "Price": 300},
+                    {"Name": "pepsi", "Price": 300},
+                    {"Name": "pinna colada sin alcohol", "Price": 500},
+                    {"Name": "refresco de lata", "Price": 210}
+                ]
+            }
+        ],
+    "House Specialty": "hamburguesas super magic's",
+    "Head Chef": null,
+    "Price Range":null,
+    "Place Options": {
+        "Accessible": null,
+        "Executive Lunch": null,
+        "Smoking Area": null,
+        "Bar": true,
+        "Event Buffet":null,
+        "Wine List": null,
+        "Air Conditioning":null,
+        "Service Charge %": false,
+        "Dress Code": null,
+        "Takeaway Food": null,
+        "Breakfast": null,
+        "Home Delivery":false,
+        "Reserved Space": null,
+        "Karaoke": null,
+        "Recorded Music": true,
+        "Playground": null,
+        "Parking": null,
+        "Live Performances":null,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": [null],
+    "Payment Options": {
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+        }
+    },
+    "Social Media": {
+        "Facebook": null,
+        "Instagram": null
+    }
+}

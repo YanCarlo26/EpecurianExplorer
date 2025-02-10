@@ -1,0 +1,146 @@
+{
+    "Name": "Los Doce Apostoles",
+    "Zone": "Habana Del Este",
+    "Location": "Complejo Morro Cabana,Via Monumental",
+    "Place Type": "Bar-Restaurant",
+    "Food Type": "Criolla",
+    "Schedule":[
+        {"day": "monday", "open": "1200", "close": "2400"},
+        {"day": "tuesday", "open": "1200", "close": "2400"},
+        {"day": "wednesday", "open": "1200", "close": "2400"},
+        {"day": "thursday", "open": "1200", "close": "2400"},
+        {"day": "friday", "open": "1200", "close": "2400"},
+        {"day": "saturday", "open": "1200", "close": "2400"},
+        {"day": "sunday", "open": "1200", "close": "2400"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"Entremes de jamon y queso", "Price": 400},
+                {"Name":"Eperlan de pescado", "Price": 550},
+                {"Name":"Anillas de calamar", "Price": 550},
+                {"Name":"Alitas de pollo", "Price": 450},
+                {"Name":"Nuggets de pollo", "Price": 250},
+                {"Name":"Picadera especial", "Price": 600}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"Pollo grille", "Price": 700},
+                        {"Name":"Fajitas de res", "Price": 950},
+                        {"Name":"Steak de res", "Price": 950},
+                        {"Name":"Fajitas de cerdo", "Price": 800},
+                        {"Name":"Masas de cerdo", "Price": 900}
+                    ]
+                },{
+                    "Fish and Seafood":[
+                        {"Name":"Filete de pescado", "Price": 900},
+                        {"Name":"Pescado del Chef", "Price": 1100},
+                        {"Name":"Gambas al grill", "Price": 1200}
+                    ]
+                },{
+                    "Tacos":[null]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta",
+            "Products":[null]
+        },{
+            "Category":"Pizzas",
+            "Products":[null]
+        },{
+            "Category":"Sandwich",
+            "Products":[null]
+        },{
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[null]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[null]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[null]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"Cerveza dispensada", "Price": 190},
+                {"Name":"Cerveza importada", "Price": 220},
+                {"Name":"Cerveza nacional", "Price": 215},
+                {"Name":"Vino tinto (copa)", "Price": 200},
+                {"Name":"Ron Habana Club Anejo Blanco (shot)", "Price": 80},
+                {"Name":"Ron Habana Club profundo (shot)", "Price": 160},
+                {"Name":"Ron Habana Club Selección de Maestro (shot)", "Price": 350},
+                {"Name":"Ron Cubay carta blanca (shot)", "Price": 100}
+            ]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"Maltas", "Price": 210},
+                {"Name":"Maltina Perla Negra", "Price": 180},
+                {"Name":"Jugo natural en caja", "Price": 300},
+                {"Name":"Refrescos nacionales", "Price": 280}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": true,
+        "Smoking Area": true,
+        "Bar":true,
+        "Event Buffet":true,
+        "Wine List":true,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space":true,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": true
+    },
+    "State or Private": "Estatal",
+    "Phone": ["77937733"],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": true,
+        "Cash":{
+        "CUP": true,
+        "EUR": false,
+        "USD": false
+    }},
+    "Social Media":{
+        "Facebook": "Restaurante Doce Apostoles",
+        "Instagram": false
+    }
+}

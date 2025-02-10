@@ -1,0 +1,185 @@
+{
+    "Name": "VenaVento",
+    "Zone": "false",
+    "Location": "Calle 10, esq. Vento, Boyeros",
+    "Place Type": "Restaurante",
+    "Food Type": "cubana, internacional",
+    "Schedule":[
+        {"day": "monday", "open": "12:00", "close": "24:00"},
+        {"day": "tuesday", "open": "12:00", "close": "24:00"},
+        {"day": "wednesday", "open": "12:00", "close": "24:00"},
+        {"day": "thursday", "open": "12:00", "close": "24:00"},
+        {"day": "friday", "open": "12:00", "close": "24:00"},
+        {"day": "saturday", "open": "12:00", "close": "24:00"},
+        {"day": "sunday", "open": "12:00", "close": "24:00"}
+    ],
+    "Menu":[
+            {
+                "Category":"Entrants(tapas)",
+                "Products":[
+                    {"Name":"Ensalada tibia de langosta", "Price": 1600},
+                    {"Name":"Tabla ibérica mix", "Price": 3600},
+                    {"Name":"Tabla ibérica", "Price": 2600},
+                    {"Name":"Coctel de gambas", "Price": 1300},
+                    {"Name":"Coctel de anzuelos", "Price": 1300},
+                    {"Name":"Ensalada caprese", "Price": 1250},
+                    {"Name":"Ensalada César", "Price": 1250}
+                ]
+            },
+            {
+                "Category":"Chef's Recommendation",
+                "Products":[null]
+            },
+            {
+                "Category":"Main courses",
+                "Products":[
+                    {
+                        " Meat, Poultry and Game ": [
+                            {"Name":"Pasto veranennto", "Price": 2600},
+                            {"Name":"Pasta carbonara", "Price": 2500},
+                            {"Name":"Suprema de Pollo", "Price": 2500},
+                            {"Name":"Pollo al carbon", "Price": 1850},
+                            {"Name":"Salmón al Ajillo", "Price": 3500},
+                            {"Name":"Salmón de cerdo", "Price": 3800},
+                            {"Name":"Cachopo de cerdo", "Price": 2600},
+                            {"Name":"Cochino al jugoso", "Price": 2420}
+                        ]
+                    },{
+                        "Fish and Seafood":[
+                            {"Name":"Fruti de Mare", "Price": 3200},
+                            {"Name":"Nero di Sejia", "Price": 3000},
+                            {"Name":"Salmón a la parrilla", "Price": 4500},
+                            {"Name":"Langosta Mariscossa", "Price": 3600},
+                            {"Name":"Filete de pescado Montadoro", "Price": 2620},
+                            {"Name":"Filete de pescado Carriller", "Price": 2770},
+                            {"Name":"Filete de pescado Don Pello", "Price": 2770},
+                            {"Name":"Filete de pescado Flor Blue", "Price": 2800},
+                            {"Name":"Cacerola de pescado y marisco", "Price": 3500},
+                            {"Name":"Zarzuela de pescado y mariscos", "Price": 3500},
+                            {"Name":"Camarones al gusto", "Price": 3500},
+                            {"Name":"Congrejo Enchilado", "Price": 3000},
+                            {"Name":"Langosta Enchilada", "Price": 3100},
+                            {"Name":"Langosta Batabano", "Price": 3300}
+                        ]
+                    },{
+                        "Tacos":[null]
+                    }
+                ]
+            },{
+                "Category":"For Your Diet",
+                "Products":[null]
+            },
+            {
+                "Category":"Pasta ",
+                "Products":[null]
+            },{
+                "Category":"Pizzas ",
+                "Products":[null]
+            },{
+                "Category":"Sandwich",
+                "Products":[null]
+            },{
+                "Category":"Additions",
+                "Products":[null]
+            },{
+                "Category":"Fittings(guarniciones)",
+                "Products":[
+                    {"Name":"Ensalada estación", "Price": 750},
+                    {"Name":"Arroz blanco", "Price": 580},
+                    {"Name":"Frijoles de la casa", "Price": 800},
+                    {"Name":"Ensalada de tomate", "Price": 1000},
+                    {"Name":"Moros y Cristianos", "Price": 800},
+                    {"Name":"Fufuce platano", "Price": 1200},
+                    {"Name":"Pure de Papa", "Price": 1500}
+                ]
+            },
+                    {
+                        "Category":"Soups and Creams",
+                        "Products":[null]
+                    },
+                    {
+                        "Category":"Desserts",
+                        "Products":[
+                            {"Name":"Copa de helado", "Price": 500},
+                            {"Name":"Crema Volia", "Price": 850},
+                            {"Name":"Flan de caramelo", "Price": 750},
+                            {"Name":"Quesadillas", "Price": 1200},
+                            {"Name":"Tacos de Camaron", "Price": 1800},
+                            {"Name":"Tostones de Cangrejo", "Price": 1650},
+                            {"Name":"Tortillas rellenas", "Price": 1500},
+                            {"Name":"Frutas de malanga", "Price": 1400},
+                            {"Name":"Flanada", "Price": 1000},
+                            {"Name":"Garanitos fritos", "Price": 1500}
+                        ]
+                    },
+                    {
+                        "Category":"Coffees & Infusions",
+                        "Products":[
+                            {"Name":"Cafe expresso", "Price": 200},
+                            {"Name":"Cafe Nespreso", "Price": 220},
+                            {"Name":"Cafe cortadito", "Price": 280},
+                            {"Name":"Cafe con leche", "Price": 280},
+                            {"Name":"Cafe Frappucino", "Price": 400},
+                            {"Name":"Cafe Amaretto", "Price": 550},
+                            {"Name":"Cafe Español", "Price": 500}
+                        ]
+                    },
+                    {
+                        "Category":"Alcoholic Beverages",
+                        "Products":[
+                            {"Name":"Cerveza Nacional", "Price": 250},
+                            {"Name":"Cerveza Importada", "Price": 290},
+                            {"Name":"Servicio de Chinchada", "Price": 350},
+                            {"Name":"Servicio de Vinireda", "Price": 350}
+                        ]
+                    },{
+                        "Category":"Non-Alcoholic Beverages",
+                        "Products":[
+                            {"Name":"Aguas naturales", "Price": 400},
+                            {"Name":"Batido de frutas", "Price": 500},
+                            {"Name":"San Francisco", "Price": 850},
+                            {"Name":"Jarra", "Price": 900},
+                            {"Name":"Refresco", "Price": 300},
+                            {"Name":"Energizante Tacon", "Price": 480}
+                        ]
+                    }
+                ],
+    "House Specialty": false,
+    "Head Chef": "false",
+    "Price Range": "false",
+    "Place Options": {
+        "Accessible": "false",
+        "Executive Lunch": "false",
+        "Smoking Area": "false",
+        "Bar": "false",
+        "Event Buffet": "false",
+        "Wine List": "false",
+        "Air Conditioning": "false",
+        "Service Charge %": "10",
+        "Dress Code": "false",
+        "Takeaway Food": "false",
+        "Breakfast": "false",
+        "Home Delivery": "false",
+        "Reserved Space": "false",
+        "Karaoke": "false",
+        "Recorded Music": "false",
+        "Playground": "false",
+        "Parking": "true",
+        "Live Performances": "false",
+        "Room Reservation": "false"
+    },
+    "State or Private": "false",
+    "Phone": ["52743762"],
+    "Payment Options":{
+        "Online payments":"false",
+        "Credit Card":"false",
+        "Cash":{
+        "CUP":"true",
+        "EUR":"false",
+        "USD":"true"
+    }} , 
+    "Social Media":{
+        "Facebook": "URL de la página de Facebook",
+        "Instagram":"false"
+    }
+}

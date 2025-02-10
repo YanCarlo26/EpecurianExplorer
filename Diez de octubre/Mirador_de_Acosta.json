@@ -1,0 +1,230 @@
+{
+    "Name": "Mirador de Acosta",
+    "Zone": "Víbora, Diez De Octubre",
+    "Location": "Calle Acosta esq. Vista Alegre, Víbora, Diez De Octubre",
+    "Place Type": "Restaurante",
+    "Food Type": "cubana, italiana",
+    "Schedule":[
+        {"day": "monday", "open": "10:00", "close": "23:30"},
+        {"day": "tuesday", "open": "10:00", "close": "23:30"},
+        {"day": "wednesday", "open": "10:00", "close": "23:30"},
+        {"day": "thursday", "open": "10:00", "close": "23:30"},
+        {"day": "friday", "open": "10:00", "close": "23:30"},
+        {"day": "saturday", "open": "10:00", "close": "23:30"},
+        {"day": "sunday", "open": "10:00", "close": "23:30"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name": "Croquetas de la casa", "Price": 630},
+                {"Name": "Frituras de Malanga", "Price": 690},
+                {"Name": "Picadillo Mirador", "Price": 1650},
+                {"Name": "Coctel de Camarones", "Price": 1400},
+                {"Name": "Coctel de Langosta", "Price": 1650},
+                {"Name": "Eperlan de Pescado", "Price": 1100},
+                {"Name": "Galianosa Frita", "Price": 1200},
+                {"Name": "Tamal en cazuela", "Price": 1320}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    "Meat, Poultry and Game": [
+                    {"Name": "Pollo Frito", "Price": 1200},
+                    {"Name": "Bistec de Pollo", "Price": 1550},
+                    {"Name": "Pollo Golden Blue", "Price": 2500},
+                    {"Name": "Bistec de Cerdo Grille", "Price": 1400},
+                    {"Name": "Lomo Ahumado de Cerdo", "Price": 1700},
+                    {"Name": "Chuleta de Cerdo", "Price": 1540},
+                    {"Name": "Fricasé de Cerdo", "Price": 1950},
+                    {"Name": "Bistec Uruguayo", "Price": 2000},
+                    {"Name": "Vaca Frita", "Price": 1900},
+                    {"Name": "Ropa Vieja de Res", "Price": 2000},
+                    {"Name": "Bistec de Res", "Price": 2420}
+                    ]
+                },{
+                    "Fish and Seafood":[
+                    {"Name": "Filete de Pescado Grillé", "Price": 1760},
+                    {"Name": "Filete de Pescado Jonville", "Price": 2090},
+                    {"Name": "Rueda de Pescado", "Price": 2090},
+                    {"Name": "Pescado Canario", "Price": 3000},
+                    {"Name": "Camarón al Gusto", "Price": 2200},
+                    {"Name": "Langosta en sus variedades", "Price": 2600},
+                    {"Name": "Langosta Thermidor", "Price": 2750},
+                    {"Name": "Grillada Mirador", "Price": 3600}
+                    ]
+                },{
+                    "Tacos":[null]
+                }
+            ]
+        },
+        {
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta",
+            "Products":[
+                {"Name": "Lasana", "Price": 1280},
+                {"Name": "Spaghetti Napolitano", "Price": 1100},
+                {"Name": "Spaghetti de Jamón", "Price": 1240},
+                {"Name": "Amatriciana", "Price": 1320},
+                {"Name": "Frutti di Mare", "Price": 2400}
+            ]
+        },
+        {
+            "Category":"Pizzas",
+            "Products":[null]
+        },
+        {
+            "Category":"Sandwich",
+            "Products":[null]
+        },
+        {
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                {"Name": "Arroz Blanco", "Price": 250},
+                {"Name": "Arroz Moro", "Price": 300},
+                {"Name": "Arroz Pilaf", "Price": 400},
+                {"Name": "Vianda Hervida", "Price": 300},
+                {"Name": "Ensalada Mixta", "Price": 300},
+                {"Name": "Vianda Frita", "Price": 320},
+                {"Name": "Tostones tradicionales", "Price": 400}
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[{"Name": "Crema de queso", "Price": 600}]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name": "Postre del Dia", "Price": 650}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+                {"Name": "Café Expresso", "Price": 250},
+                {"Name": "Café Cortadito", "Price": 300}
+            ]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name": "Cerveza Importada", "Price": 300},
+                {"Name": "Cerveza Nacional", "Price": 320},
+                {"Name": "Cerveza Corona y Heineken", "Price": 420},
+                {"Name": "Cuba Libre", "Price": 600},
+                {"Name": "Daiquiri", "Price": 600},
+                {"Name": "Daiquiri Rebelde", "Price": 600},
+                {"Name": "Mojito", "Price": 650},
+                {"Name": "Piña Colada", "Price": 650},
+                {"Name": "Piña Colada sin Alcohol", "Price": 550},
+                {"Name": "Caipiriña", "Price": 660},
+                {"Name": "Caipirisima", "Price": 660},
+                {"Name": "Caipiroska", "Price": 660},
+                {"Name": "Screwdriver", "Price": 630},
+                {"Name": "Bloody Mary", "Price": 770},
+                {"Name": "Cubata", "Price": 660},
+                {"Name": "Sangria", "Price": 750},
+                {"Name": "Tinto Verano", "Price": 560},
+                {"Name": "Limonada Clarete", "Price": 460},
+                {"Name": "Chelada", "Price": 600},
+                {"Name": "Michelada", "Price": 750},
+                {"Name": "Chelada c/ Corona", "Price": 600},
+                {"Name": "Michelada c/ Corona", "Price": 800},
+                {"Name": "Dry Martini", "Price": 750},
+                {"Name": "Sweet Martini", "Price": 750},
+                {"Name": "Margarita", "Price": 750},
+                {"Name": "Vodka Tonic", "Price": 600},
+                {"Name": "Gin Tonic", "Price": 650},
+                {"Name": "Ron H.C. 3 años", "Price": 360},
+                {"Name": "Ron H.C. 7 años", "Price": 600},
+                {"Name": "Ron H.C. Especial", "Price": 520},
+                {"Name": "Ron H.C. Reserva", "Price": 530},
+                {"Name": "Selección de Maestros", "Price": 1140},
+                {"Name": "Ron Santiago 8 años", "Price": 550},
+                {"Name": "Tequila Olmeta Blanco", "Price": 650},
+                {"Name": "Tequila Olmeta Reposado", "Price": 720},
+                {"Name": "Vodka Absolut", "Price": 470},
+                {"Name": "Vodka Absolut Mandarin", "Price": 470},
+                {"Name": "Ginebra Bombay Sapphire", "Price": 470},
+                {"Name": "Whisky J.B", "Price": 600},
+                {"Name": "Whisky Clan Campbell", "Price": 690},
+                {"Name": "Whisky Jameson", "Price": 690},
+                {"Name": "Whisky Ballentines", "Price": 570},
+                {"Name": "Whisky Ballentines 12 años", "Price": 1000},
+                {"Name": "Whisky Jim Beam", "Price": 570},
+                {"Name": "Whisky Oxford", "Price": 710},
+                {"Name": "Whisky Dewars White Label", "Price": 710},
+                {"Name": "Chivas Regal 12 años", "Price": 1080},
+                {"Name": "Whisky JW Red Label", "Price": 750},
+                {"Name": "Whisky JW Doble Black", "Price": 1270}
+            ]
+        },
+        {
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name": "Energizante", "Price": 200},
+                {"Name": "Kermato", "Price": 430},
+                {"Name": "Agua", "Price": 120},
+                {"Name": "Refresco Enlatado", "Price": 250},
+                {"Name": "Jugo de Lata", "Price": 500},
+                {"Name": "Malta Nacional", "Price": 250},
+                {"Name": "Malta Importada", "Price": 290},
+                {"Name": "Jugo Natural", "Price": 200},
+                {"Name": "Batido de Frutas", "Price": 250}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": true,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": 10,
+        "Dress Code": false,
+        "Takeaway Food": true,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space": true,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": true
+    },
+    "State or Private": "Privado",
+    "Phone": ["76984009"],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+            "CUP": true,
+            "EUR": false,
+            "USD": true
+        }
+    },
+    "Social Media":{
+        "Facebook": "https://www.facebook.com/MIRADORACOSTA/",
+        "Instagram": "@mirador_de_acosta"
+    }
+}

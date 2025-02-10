@@ -1,0 +1,158 @@
+{
+    "Name": "La Gordy",
+    "Zone": "Boyeros",
+    "Location": "Calle 184 #41308 % 413 & 415, Santiago de las Vegas, GPS: 22.966632,-82.384596",
+    "Place Type": "Restaurnte",
+    "Food Type": "Criolla",
+    "Schedule":[
+        {"day": "monday", "open": null, "close": null},
+        {"day": "tuesday", "open": null, "close": null},
+        {"day": "wednesday", "open": "11:30", "close": "21:00"},
+        {"day": "thursday", "open": "11:30", "close": "21:00"},
+        {"day": "friday", "open": "11:30", "close": "21:00"},
+        {"day": "saturday", "open": "11:30", "close": "21:00"},
+        {"day": "sunday", "open": "11:30", "close": "21:00"}
+    ],
+    "Menu": [
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"Tostones Criollos","Price": 350},
+                {"Name":"Fritura de Malanga","Price": 400},
+                {"Name":"Garbanzos Fritos","Price": 750},
+                {"Name":"Garbanzos Fritos La Gordy","Price": 800}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"Fajitas de Pollo Encebollada","Price": 950},
+                        {"Name":"Fajitas de Pollo Empanadas","Price": 110},
+                        {"Name":"Fajitas de Pollo Grille","Price": 950},
+                        {"Name":"Pollo a la Piña","Price": 1100},
+                        {"Name":"Pollo Deshuesado Empanado","Price": 1050},
+                        {"Name":"Pollo Deshuesado Gratinado","Price": 1250},
+                        {"Name":"Fajitas de Pechuga Encebolladas","Price": 1200},
+                        {"Name":"Fajitas de Pechuga Empanadas","Price": 1350},
+                        {"Name":"Pechuga de Pollo Grille","Price": 1200},
+                        {"Name":"Pechuga de Pollo a la Piña","Price": 1300},
+                        {"Name":"Pechuga de Pollo Empanada","Price": 1350},
+                        {"Name":"Pechuga de Pollo Gratinada","Price": 1500},
+                        {"Name":"Pechuga Gordon Blue","Price": 2000},
+                        {"Name":"Bistec de Higado de Cerdo","Price": 800},
+                        {"Name":"Higado de Cerdo a la Italiana","Price": 850},
+                        {"Name":"Fricase de Cerdo","Price": 1200},
+                        {"Name":"Fajitas de Cerdo Encebolladas","Price": 1200},
+                        {"Name":"Fajitas de Cerdo Empanadas","Price": 1350},
+                        {"Name":"Masa de Cerdo Fritas","Price": 1250},
+                        {"Name":"Bistec de Cerdo Grille","Price": 1200},
+                        {"Name":"Bistec de Cerdo a la Piña","Price": 1300},
+                        {"Name":"Bistec de Cerdo Empanado","Price": 1350},
+                        {"Name":"Bistec de Cerdo Gratinado","Price": 1500},
+                        {"Name":"Bistec Uruguayo de Cerdo","Price": 2000},
+                        {"Name":"Chuleta Ahumada de Cerdo","Price": 1300},
+                        {"Name":"Chuleta Ahumada de Cerdo Gratinada","Price": 1500},
+                        {"Name":"Ropa Vieja de Cordero","Price": 950},
+                        {"Name":"Ropa Vieja de Res","Price": 1300},
+                        {"Name":"Vaca Frita","Price": 1300}
+                    ]
+                },{
+                    "Fish and Seafood":[
+                        {"Name":"Eperlan de Pescado","Price": 1400},
+                        {"Name":"Filete de Pescado Grille","Price": 1250},
+                        {"Name":"Filete de Pescado Empanado","Price": 1400},
+                        {"Name":"Filete de Pescado Gratinado","Price": 1800},
+                        {"Name":"Filete Canciller","Price": 2000}
+                    ]
+                },{
+                    "Tacos":[null]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta",
+            "Products":[null]
+        },{
+            "Category":"Pizzas",
+            "Products":[null]
+        },{
+            "Category":"Sandwich",
+            "Products":[null]
+        },{
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[null]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[null]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[null]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[null]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[null]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": true,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": true,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": true
+    },
+    "State or Private": "Private",
+    "Phone": ["76837364","53871899","59213182"],
+    "Payment Options":{
+        "Online payments":false,
+        "Credit Card":false,
+        "Cash":{
+            "CUP":true,
+            "EUR":false,
+            "USD":false
+        }
+    },
+    "Social Media":{
+        "Facebook": false,
+        "Instagram": false
+    }
+}
+

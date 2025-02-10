@@ -1,0 +1,157 @@
+{
+    "Name": "Tu Tiempo",
+    "Zone": "Centro Habana",
+    "Location": "23.1401557660662, -82.37586279184762",
+    "Place Type": "Restaurante",
+    "Food Type": "cubana",
+    "Schedule":[
+        {"day": "monday", "open": "0800", "close": "2000"},
+        {"day": "tuesday", "open": "0800", "close": "2000"},
+        {"day": "wednesday", "open": "0800", "close": "2000"},
+        {"day": "thursday", "open": "0800", "close": "2000"},
+        {"day": "friday", "open": "0800", "close": "2000"},
+        {"day": "saturday", "open": "0800", "close": "2000"},
+        {"day": "sunday", "open": "0800", "close": "2000"}
+    ],
+    "Menu": [
+        {
+            "Category": "Entrants(tapas)",
+            "Products": [null]
+        },
+        {
+            "Category": "Chef's Recommendation",
+            "Products": [null]
+        },
+        {
+            "Category": "Main courses",
+            "Products": [
+                {
+                    "Meat, Poultry and Game": [
+                        {"Name":"combo 17", "Price": 2000},
+                        {"Name":"combo 18", "Price": 2000},
+                        {"Name":"combo 19", "Price": 2300},
+                        {"Name":"combo 20", "Price": 2300},
+                        {"Name":"combo 21", "Price": 3000},
+                        {"Name":"combo 22", "Price": 3000},
+                        {"Name":"combo 23", "Price": 3000},
+                        {"Name":"combo 24", "Price": 2000},
+                        {"Name":"combo 25", "Price": 2500},
+                        {"Name":"combo 26 (tu tiempo)", "Price": 5000},
+                        {"Name":"fricase de pollo", "Price": 2000},
+                        {"Name":"bistec de res", "Price": 3300},
+                        {"Name":"arroz con pollo", "Price": 2000},
+                        {"Name":"combo 1", "Price": 1500},
+                        {"Name":"combo 2", "Price": 1800},
+                        {"Name":"combo 3", "Price": 2000},
+                        {"Name":"combo 4", "Price": 2000},
+                        {"Name":"combo 5", "Price": 2300},
+                        {"Name":"combo 6", "Price": 2600},
+                        {"Name":"combo 7", "Price": 3000},
+                        {"Name":"combo 8", "Price": 2000},
+                        {"Name":"combo 9", "Price": 2000},
+                        {"Name":"combo 10", "Price": 2100},
+                        {"Name":"combo 11", "Price": 2000},
+                        {"Name":"combo 12", "Price": 2000},
+                        {"Name":"combo 13", "Price": 2000},
+                        {"Name":"combo 14", "Price": 2000},
+                        {"Name":"combo 15", "Price": 2000},
+                        {"Name":"combo 16", "Price": 2300}
+                    ]
+                },
+                {
+                    "Fish and Seafood": [null]
+                },
+                {
+                    "Tacos": [null]
+                }
+            ]
+        },
+        {
+            "Category": "For Your Diet",
+            "Products": [null]
+        },
+        {
+            "Category": "Pasta",
+            "Products": [null]
+        },
+        {
+            "Category": "Pizzas",
+            "Products": [null]
+        },
+        {
+            "Category": "Sandwich",
+            "Products": [null]
+        },
+        {
+            "Category": "Additions",
+            "Products": [null]
+        },
+        {
+            "Category": "Fittings(guarniciones)",
+            "Products": [null]
+        },
+        {
+            "Category": "Soups and Creams",
+            "Products": [null]
+        },
+        {
+            "Category": "Desserts",
+            "Products": [
+                {"Name":"arroz con leche", "Price": 300},
+                {"Name":"coctel de frutas", "Price": 150}
+            ]
+        },
+        {
+            "Category": "Coffees & Infusions",
+            "Products": [null]
+        },
+        {
+            "Category": "Alcoholic Beverages",
+            "Products": [null]
+        },
+        {
+            "Category": "Non-Alcoholic Beverages",
+            "Products": [
+                {"Name":"batido de helado", "Price": 400}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": true,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": false,
+    "Phone": ["78737259", "52701451"],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+        "CUP": "true",
+        "EUR": false,
+        "USD": "true"
+    }} , 
+    "Social Media":{
+        "Facebook": false,
+        "Instagram": false
+    }
+}

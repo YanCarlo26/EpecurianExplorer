@@ -1,0 +1,583 @@
+{
+    "Name": "Ernest Place",
+    "Zone": "Habana del Este ",
+    "Location": "5P83+796,La Habana",
+    "Place Type": "Bar-Restaurante",
+    "Food Type": "Criolla",
+    "Schedule": [
+        {"day": "monday", "open": "1200", "close": "1200"},
+        {"day": "tuesday", "open": "1200", "close": "1200"},
+        {"day": "wednesday", "open": "1200", "close": "1200"},
+        {"day": "thursday", "open": "1200", "close": "1200"},
+        {"day": "friday", "open": "1200", "close": "1200"},
+        {"day": "saturday", "open": "1200", "close": "1200"},
+        {"day": "sunday", "open": "1200", "close": "1200"}
+    ],
+    "Menu":[
+        {
+            "Category":"Alcoholic Beverage",
+            "Products": [
+                {
+                    "Name":"Heniken",
+                    "Price": 500
+                },{
+                    "Name":"Cerveza Corana",
+                    "Price": 520
+                },{
+                    "Name":"Cerveza Cristal-Bucanero",
+                    "Price": 350
+                },{
+                    "Name":"Cerveza Widmill-Holanda-Bavaria",
+                    "Price": 280
+                },{
+                    "Name":"Cerveza Importada",
+                    "Price": 280
+                },{
+                    "Name":"Servicio Chelada(+precio de la Ceraveza)",
+                    "Price": 200
+                },{
+                    "Name":"Servico Michelada(+precio de la cerveza)",
+                    "Price":280
+                },{
+                    "Name":"Servicio Michelada Clasico (+precio de la cerveza)",
+                    "Price": 410
+                },{
+                    "Name":"Copa de la casa",
+                    "Price": 600
+                },
+                {
+                    "Name":"Caipiroska( azucar, limon, vodka)",
+                    "Price": 480
+                },{
+                    "Name":"Vodka Cranberry",
+                    "Price": 800
+                },{
+                    "Name":"Kamikaze(Vodka, triple c, zumo de limon)",
+                    "Price": 410
+                },{
+                    "Name":"Vodka Tonic (vodka, agua tonica)",
+                    "Price": 410
+                },{
+                    "Name":"Screwdriver(vodka, jugo de naranja)",
+                    "Price": 420
+                },{
+                    "Name":"Blue lagon( limon, curado azul, vodka)",
+                    "Price":600
+                },{
+                    "Name":"Blody mary( sal, liomon, salsa ingkesa, vodka, pimienta blanca,jugo detomate)",
+                    "Price": 420
+                },{
+                    "Name":"madras(vodka, jugo de arandanos )",
+                    "Price": 460
+                },{
+                    "Name":"Sex on the Beach (vodka, sumocranberry, manzana, melocoton, grandina)",
+                    "Price": 650
+                },{
+                    "Name":"Long Island Ice Tea (vodka, tequila, ginebra, 3 anos, refresco cola, limon, triple sec)",
+                    "Price": 540
+                },{
+                    "Name":"Canchanchara() miel, limon, aguerdiente ",
+                    "Price": 540
+                },{
+                    "Name":"caipirina (azucar, limon, agruardiente)",
+                    "Price": 520
+                },{
+                    "Name":"Tom Coller ( ginebra, azucar, limon)",
+                    "Price": 630
+                },{
+                    "Name":"Gin Tonic( ginebra y agua tonica )",
+                    "Price": 630
+                },{
+                    "Name":"Martini(ginebra o vodka, vermouth blanco )",
+                    "Price": 480 
+                },{
+                    "Name":"Sweet martini",
+                    "Price": 650
+                },{
+                    "Name":"Charro negro (tequila, refresco cola, limon)",
+                    "Price": 540
+                },{
+                    "Name":"Margarita() sal, limon,triple sec, tequila",
+                    "Price": 540
+                },{
+                    "Name":"Tequila sunrise(equila, jugo de naranja, granadina)",
+                    "Price":550
+                },{
+                    "Name":"Old Fashion (azucar, angostura, wisky)",
+                    "Price": 1250
+                },{
+                    "Name":"Manhattan(vermouth dulce, angostura, wisky)",
+                    "Price": 1600
+                },{
+                    "Name":"Sangria (azucar, limon, agua gas, vino tinto)",
+                    "Price":950
+                },{
+                    "Name":"Tinto de verano (refresco de limon, vino tinto)",
+                    "Price": 750
+                },{
+                    "Name":"calimocho ( refresco de cola, vino tinto)",
+                    "Price": 750
+                },
+                {
+                    "Name":"Caipirissima (azucar, limon,anejo 3 anos)",
+                    "Price": 460
+                },{
+                    "Name":"Habana Special( jugo de pina, anejo 3 anos y marrasquino )",
+                    "Price": 380
+                },{
+                    "Name":"Mary pickford( jugo de pina, anejo 3 anos y granadina )",
+                    "Price": 380
+                },{
+                    "Name":"Cuba libre (anejo 3 anaos, y refresco cola)",
+                    "Price": 360
+                },{
+                    "Name":"Ron Collins(azucar, limon,agua gas, anejo 3 anos)",
+                    "Price": 480
+                },{
+                    "Name":"Daiquiri(azucar, limon,anejo 3 anos )",
+                    "Price": 500
+                },{
+                    "Name":"Presidente(Vermouth russo, 3 anos, granadina)",
+                    "Price": 420
+                },{
+                    "Name":"Cubanito(sal, limon, salsa inglesa, picante, anejo 3 anos, jugos de tomate)",
+                    "Price": 450
+                },{
+                    "Name":"Cubata( anajo 7 anos, refresco cola )",
+                    "Price": 500
+                },{
+                    "Name":"Mojito( azucar, limon, agua gas, hierba buena , anejo 3 anos anejo espesial)",
+                    "Price": 520
+                },{
+                    "Name":"Dark Sea(curacaoazul, granadina, vodka, anejo, especial, refresco limon)",
+                    "Price": 550
+                },{
+                    "Name":"Limonada",
+                    "Price": 400
+                },{
+                    "Name":"Pina Colada de Fresa Virgen(sin alcohol)",
+                    "Price": 800
+                },{
+                    "Name":"Pina Colada de Fresa(con alcohol)",
+                    "Price": 850
+                },{
+                    "Name":"Pina Colada Virgen (sin alcohol)",
+                    "Price": 750
+                },{
+                    "Name":"Piba Colada(con alcohol)",
+                    "Price": 800
+                },
+                {
+                    "Name":"Habana Club 3 anos",
+                    "Price": 200
+                },{
+                    "Name":"Hbana Club anejo especial",
+                    "Price": 300
+                },{
+                    "Name":"Habana Club Ritual",
+                    "Price": 300
+                },{
+                    "Name":"Habana Club Reserva",
+                    "Price": 350
+                },{
+                    "Name":"Habana Club 7 anos",
+                    "Price": 480
+                },{
+                    "Name":"snatiago anejo 8 anos",
+                    "Price": 600
+                },{
+                    "Name":"Salva Rey (sabor de chocolate)",
+                    "Price": 600
+                },{
+                    "Name":"Ron santiago",
+                    "Price": 500
+                },
+                {
+                    "Name":"Clan campbell",
+                    "Price": 520
+                },{
+                    "Name":"Ballentines",
+                    "Price": 650
+                },{
+                    "Name":"J&B",
+                    "Price": 710
+                },{
+                    "Name":"Jamenson",
+                    "Price": 710
+                },{
+                    "Name":"J&W Red Label",
+                    "Price": 740
+                },{
+                    "Name":"Jamenson Black",
+                    "Price": 750
+                },{
+                    "Name":"Chivas",
+                    "Price": 750
+                },{
+                    "Name":"Ballintines",
+                    "Price": 710
+                },
+                {
+                    "Name":"Tequila Blanco New",
+                    "Price":250
+                },{
+                    "Name":"Tequila Reposado",
+                    "Price": 280
+                },{
+                    "Name":"Tequila Alto ",
+                    "Price": 280
+                },{
+                    "Name":"Olmeca Blanco",
+                    "Price": 600
+                },{
+                    "Name":"omelca reposado",
+                    "Price": 650    
+                },{
+                    "Name":"Tequila Mango",
+                    "Price": 450
+                },
+                {
+                    "Name":"Igor/Tabarish",
+                    "Price": 260
+                },
+                {
+                    "Name":"Melocoton",
+                    "Price": 300
+                },{
+                    "Name":"Granadina",
+                    "Price": 300
+                },{
+                    "Name":"Naranja",
+                    "Price": 300
+                },{
+                    "Name":"Coco",
+                    "Price": 300
+                },{
+                    "Name":"Menta",
+                    "Price": 300
+                },{
+                    "Name":"Limoncello",
+                    "Price":300
+                },{
+                    "Name":"Cubacao",
+                    "Price": 300
+                },{
+                    "Name":"Marrasquino",
+                    "Price": 300
+                },{
+                    "Name":"Triple Sec",
+                    "Price": 330
+                },{
+                    "Name":"Crema De Wisky",
+                    "Price": 500
+                }
+        ]},
+            {
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {
+                    "Name":"Agua",
+                    "Price": 200
+                },{
+                    "Name":"Jugo de Lata",
+                    "Price": 300
+                },{
+                    "Name":"Refreescos Nacionales",
+                    "Price": 280
+                },{
+                    "Name":"Refresco de pomito",
+                    "Price": 200
+                },{
+                    "Name":"refrescos Importados",
+                    "Price": 350
+                },{
+                    "Name":"Refrescos energizantes",
+                    "Price": 420
+                },{
+                    "Name":"Malta",
+                    "Price":300
+                },{
+                    "Name":"Malta Bucanero",
+                    "Price": 350
+                }
+            ]
+        },{
+            "Category":"Coffees and Infusions",
+            "Products":[
+                {
+                    "Name":"Cafe expreso",
+                    "Price": 150
+                },{
+                    "Name":"Cafe Cortado",
+                    "Price": 200
+                }
+            ]
+        },{
+            "Category":"Entrants",
+            "Products":[
+                {
+                    "Name":"Chicharritas (platano, malanga, bomatal)",
+                    "Price": 100
+                },{
+                    "Name":"Mani Natural",
+                    "Price": 120
+                },{
+                    "Name":"Mani Picante",
+                    "Price": 150
+                },{
+                    "Name":"Tamales",
+                    "Price": 250
+                },{
+                    "Name":"Tostones Naturales",
+                    "Price": 170
+                },{
+                    "Name":"Tostones de ajo",
+                    "Price": 190
+                },{
+                    "Name":"Croquetas de Pollo",
+                    "Price": 320
+                },{
+                    "Name":"Croquetas de Pescado",
+                    "Price": 350
+                },{
+                    "Name":"Frituras de Malanga",
+                    "Price": 320
+                },{
+                    "Name":"Ppas Fritas",
+                    "Price": 450
+                },{
+                    "Name":"Tostones Rellenos de Jamon y Queso",
+                    "Price": 550
+                },{
+                    "Name":"Tostones Gratinados",
+                    "Price": 480
+                },{
+                    "Name":"Fajitas de Pollo",
+                    "Price": 1000
+                },{
+                    "Name":"Pica-Pica 3lascas de jamon, 3lascas de queso 5 frituras malanga, 5 croquetas",
+                    "Price": 800
+                },{
+                    "Name":"Rorrito de jamon/queso",
+                    "Price": 920
+                },{
+                    "Name":"Cevish",
+                    "Price": 1300
+                },{
+                    "Name":"Eperlan",
+                    "Price":1350
+                },{
+                    "Name":"Rollito de jamon/queso/chorizo",
+                    "Price": 1000
+                },{
+                    "Name":"Fajitas de Cerdo",
+                    "Price": 1280
+                },{
+                    "Name":"Fajitas de Pechuga",
+                    "Price": 1250
+                }
+            ]
+        },{
+            "Category": "Main Courses",
+            "Products": [
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"Grille", "Price": 1200},
+                        {"Name":"Salteado", "Price": 1300},
+                        {"Name":"Fajitas", "Price": 1300},
+                        {"Name":"Empanado", "Price": 1300},
+                        {"Name":"Encebollado", "Price": 1330},
+                        {"Name":"Al Ajillo", "Price": 1300},
+                        {"Name":"POllo Frito", "Price": 1280},
+                        {"Name":"Gratinada", "Price": 1380},
+                        {"Name":"Milanesa", "Price": 1450},
+                        {"Name":"Suprema de Jamon y Queso", "Price": 1480},
+                        {"Name":"Gordon Blue", "Price": 1530},
+                        {"Name":"Bistec Grille", "Price": 1380},
+                        {"Name":"Fajitas", "Price": 1480},
+                        {"Name":"Empanado", "Price": 1480},
+                        {"Name":"Bistec A Ajo", "Price": 1580},
+                        {"Name":"Bistec Encebollado", "Price": 1680},
+                        {"Name":"Salteado", "Price": 1460},
+                        {"Name":"Gratinado", "Price": 1600},
+                        {"Name":"Montado Jam/Queso Uruguayo", "Price": 1720},
+                        {"Name":"Suprema Gratinada", "Price": 1750},
+                        {"Name":"Uruguayo", "Price": 1900},
+                        {"Name":"Grille", "Price": 1340},
+                        {"Name":"Salteado", "Price": 1370},
+                        {"Name":"Fajitas", "Price": 1450},
+                        {"Name":"Empanado", "Price": 1450},
+                        {"Name":"Encebollado", "Price": 1620},
+                        {"Name":"Al Ajillo", "Price": 1500},
+                        {"Name":"Gratinada", "Price": 1500},
+                        {"Name":"Milanesa", "Price": 1700},
+                        {"Name":"Suprema Gratinada", "Price": 1700},
+                        {"Name":"Montado de Jamon/Queso", "Price": 1650},
+                        {"Name":"Hígado a la Italiana", "Price": 1800},
+                        {"Name":"Cordero", "Price": 2200},
+                        {"Name":"Lonjas de Cerdo desh. ahumada", "Price": 1500},
+                        {"Name":"Lonjas de Cerdo a la Avileña", "Price": 2100},
+                        {"Name":"Masas Fritas", "Price": 3000},
+                        {"Name":"Chuleton de Cerdo Ahumado", "Price": 2800},
+                        {"Name":"Costilla", "Price": 2800},
+                        {"Name":"Gordon Blue", "Price": 1820}
+                    ]
+                },
+                {
+                    "Fish and Seafood": [
+                        {"Name":"A la Plancha", "Price": 1620},
+                        {"Name":"Eperlan", "Price": 1730},
+                        {"Name":"Empanado", "Price": 1730},
+                        {"Name":"Encebollado", "Price": 19250},
+                        {"Name":"Al Ajo", "Price": 1850},
+                        {"Name":"Montetoro", "Price": 1980},
+                        {"Name":"Gratinado", "Price": 19300},
+                        {"Name":"Montado de Jamon/Queso", "Price": 1930},
+                        {"Name":"Canciller", "Price": 2150}
+                    ]
+                },
+                {
+                    "Tacos": [
+                        {"Name":"Bulida Queso Tacos", "Price": 450},
+                        {"Name":"Tacos de Vegetales", "Price": 620},
+                        {"Name":"Quesadilla", "Price": 750},
+                        {"Name":"Taco de Jamon y Queso", "Price": 700},
+                        {"Name":"Taco de Polo salteado", "Price": 1050},
+                        {"Name":"Taco de Cerdo Salteado", "Price": 1190},
+                        {"Name":"Taco de Pechuga Salteado", "Price": 1170},
+                        {"Name":"Taco Hawaiano de Pollo", "Price": 11700},
+                        {"Name":"Taco de Pechuga", "Price": 1680},
+                        {"Name":"Taco Hawaiano de Cerdo", "Price": 1700},
+                        {"Name":"Taco Hawaiano de Pescado", "Price": 2000},
+                        {"Name":"Taco Imperial de Cerdo", "Price": 1720},
+                        {"Name":"Taco Imperial de Pechuga", "Price": 1700},
+                        {"Name":"Taco Imperial de Pescado", "Price": 2000},
+                        {"Name":"Tacos Ernet Place", "Price": 2300}
+                    ]
+                }
+            ]
+        },{
+            "Category":"Pastas",
+            "Products":[
+                {
+                    "Name":"Spaguetis Napolitano",
+                    "Price": 1100
+                },{
+                    "Name":"Spaguetis de Jamon y Queso",
+                    "Price": 1300
+                },{
+                    "Name":"Spaguetis Carbonada",
+                    "Price": 1320
+                }]
+        },{
+            "Category":"Pizas",
+            "Products":[
+                {"Name":"Pizza de Queso","Price": 800},
+                {"Name":"Pizza Hawaiana", "Price": 1100}
+                ]
+        },{
+            "Category":"Adittions",
+            "Products":[
+                {
+                    "Name":"Cebolla",
+                    "Price": 300
+                },{
+                    "Name":"Ajo",
+                    "Price": 150
+                },{
+                    "Name":"Pimiento",
+                    "Price": 350
+                },{
+                    "Name":"Ensalada Mixta",
+                    "Price": 250
+                },{
+                    "Name":"Jamon",
+                    "Price": 270
+                },{
+                    "Name":"Chorizo",
+                    "Price": 300
+                },{
+                    "Name":"Queso",
+                    "Price": 350
+                },{
+                    "Name":"Queso Especial",
+                    "Price": 450
+                },{
+                    "Name":"Pina",
+                    "Price": 200
+                }
+            ]
+        },{
+            "Category":"Fittings",
+            "Products":[
+                    {
+                    "Name":"Arroz Blanco",
+                    "Price": 200
+                },{
+                    "Name":"Arroz Moro",
+                    "Price": 250
+                },{
+                    "Name":"Arroz Frito",
+                    "Price":1100
+                }
+            ]
+        },{
+            "Category":"Desserts",
+            "Products":[
+                {
+                    "Name":"Helado",
+                    "Price": 350
+                },{
+                    "Name":"Flan",
+                    "Price": 420
+                }
+            ]
+        },{
+            "Category":"Soups y Creams",
+            "Products":[null]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        }
+            ],
+    "House Specialty": "Tacos Ernest Place",
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": true,
+        "Bar":  true,
+        "Event Buffet": true,
+        "Wine List": false,
+        "Air Conditioning":  true,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food":  true,
+        "Breakfast": false,
+        "Home Delivery":  true,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music":  true,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances":  true,
+        "Room Reservation":  true,
+        "Outdoor Services": true
+    },
+    "State or Private": " Private",
+    "Phone": "77664603",
+    "Payment Options":{
+        "Online payments": true,
+        "Credit Card": true,
+        "Cash":{
+        "CUP": true,
+        "EUR": true,
+        "USD": true
+    }} , 
+    "Social Media":{
+        "Facebook": false,
+        "Instagram":false
+        
+    }
+}

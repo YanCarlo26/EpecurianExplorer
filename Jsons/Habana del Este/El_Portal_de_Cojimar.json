@@ -1,0 +1,285 @@
+{
+    "Name": "El Portal de Cojimar",
+    "Zone": "Habana del Este",
+    "Location": "Calle Morro #8001,Esquina,K,La Habana",
+    "Place Type": "Bar-Restaurante",
+    "Food Type": "Internacional",
+    "Schedule":[
+        {"day": "monday", "open": "1200", "close": "1100"},
+        {"day": "tuesday", "open": "1200", "close": "1100"},
+        {"day": "wednesday", "open": "1200", "close": "1100"},
+        {"day": "thursday", "open": "", "close": "1100"},
+        {"day": "friday", "open": "1200", "close": "1100"},
+        {"day": "saturday", "open": "1200", "close": "1100"},
+        {"day": "sunday", "open": "1200", "close": "1100"}
+    ] ,
+    "Menu":[
+        {
+            "Category":"Entrants",
+            "Products":[
+                {"Name":"Chupa Chupa", "Price": 50},
+                {"Name":"Rollito de Jamon y Queso ","Price": 1300},
+                {"Name":"Papas Locas","Price": 1300},
+                {"Name":"Picadera Mixta","Price": 2500},
+                {"Name":"Surtido Parrillero","Price": 2950},
+                {"Name":"Tostones (6 unidades)","Price": 500},
+                {"Name":"Taco de Cerdo","Price": 1750}
+            ]
+        },{
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },{
+            "Category":"Pasta",
+            "Products":[null]
+        },{
+            "Category":"Pizzas",
+            "Products":[
+                {"Name":"Pizza de Queso Gouda","Price": 960}
+            ]
+        },{
+            "Category":"Adittions",
+            "Products":[
+                {"Name":"Agrego de Aceitunas","Price": 350},
+                {"Name":"Agrego de Queso Gouda","Price": 300},
+                {"Name":"Agrego de Jamon","Price": 370},
+                {"Name":"Agrego de Chorizo","Price": 320},
+                {"Name":"Agrego de Atun","Price": 580},
+                {"Name":"Queso Lasqueado","Price": 250}
+            ]
+        },{
+            "Category":"Main Courses",
+            "Products":[
+                {"Name":"Parrillon Mixto","Price": 6750},
+                {"Name":"Esquisitez del Portal","Price": 4800},
+                {"Name":"Fiestas Canarias ","Price": 3950},
+                {"Name":"Bistec Uruguayo","Price": 2550},
+                {"Name":"Filete de Cerdo a la Brasa","Price": 3500},
+                {"Name":"Costilla a la Brasa","Price": 5400},
+                {"Name":"Brocheta de Cerdo","Price": 3000},
+                {"Name":"Espada del Portal","Price": 5500},
+                {"Name":"Bistec de Res Encebollado","Price": 2200}
+            ]
+        },{
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },{
+            "Category":"Fittings",
+            "Products":[
+                {"Name":"Arroz Blanco","Price": 200},
+                {"Name":"Moros y Cristianos","Price": 250},
+                {"Name":"Ensalada Estacion","Price": 500}
+            ]
+        },{
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"Batido de Helado","Price": 700},
+                {"Name":"Cake Tres Leches y Merengue","Price": 3750},
+                {"Name":"Cake Bombon de Nata","Price": 5750},
+                {"Name":"Copa de Chocolate y Leche","Price": 500},
+                {"Name":"Mini Mocca Tres Leches","Price": 500}
+            ]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"Agua Mineral Natural 330ML","Price": 260},
+                {"Name":"Habana Club Especial (Botella)","Price": 3000},
+                {"Name":"Malta Importada","Price": 370},
+                {"Name":"Refresco de Naranja (Lata)","Price": 350},
+                {"Name":"Isla del Tesoro","Price": 200000},
+                {"Name":"Pepsi-Cola","Price": 350},
+                {"Name":"Refresco de Piñita","Price": 350},
+                {"Name":"Bebida Energetica","Price": 550},
+                {"Name":"Jugo de Caja ","Price": 260},
+                {"Name":"Jugo de Guayaba","Price": 300},
+                {"Name":"Jugo de Naranja","Price": 300},
+                {"Name":"Pepsi-Cola Dietetica","Price": 350},
+                {"Name":"Refresco de Limon (Seven Up 330ML)","Price": 350}
+            ]
+        },{
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"Botella Cava Campo Viejo","Price": 5000},
+                {"Name":"Copa de Vino Blanco","Price": 925},
+                {"Name":"Copa de Vino Tinto","Price": 925},
+                {"Name":"Freixenet Ice Caba","Price": 600},
+                {"Name":"Freixenet Negro","Price": 6000},
+                {"Name":"Vino Blanco Campo Viejo","Price": 3700},
+                {"Name":"Vino Tinto Campo Viejo Tempranillo ","Price": 3700},
+                {"Name":"Cerveza Belga","Price": 300},
+                {"Name":"Cubay Extra Viejo","Price": 16000},
+                {"Name":"Chivas Regal 25 Años","Price": 64000},
+                {"Name":"Gin Tonic de la Casa ", "Price": 1100},
+                {"Name":"Coctel Guava","Price": 550},
+                {"Name":"Appletini","Price": 500},
+                {"Name":"Blue Lagos","Price": 500},
+                {"Name":"Cosmopolitan","Price": 500},
+                {"Name":"Coctel Cooler","Price": 500},
+                {"Name":"Coctel Presidente","Price": 500},
+                {"Name":"Coctel Mulata","Price": 500},
+                {"Name":"Coctel Santiago", "Price": 500},
+                {"Name":"White Russian","Price": 600},
+                {"Name":"Cuba Libre","Price": 500},
+                {"Name":"Margarita","Price": 500},
+                {"Name":"Daiquiri Frappe","Price": 500},
+                {"Name":"Mojito","Price": 500 },
+                {"Name":"Negroni","Price": 800},
+                {"Name":"Dry Martini","Price": 500},
+                {"Name":"Gregorio","Price": 500},
+                {"Name":"Caipiriña","Price": 670},
+                {"Name":"Caipiroska","Price": 680},
+                {"Name":"Caipirisima ","Price": 500},
+                {"Name":"Blody Mary","Price": 700},
+                {"Name":"Habana Esoecial(Coctel)","Price": 500},
+                {"Name":"Mary Picford","Price": 500},
+                {"Name":"Ron Alexander","Price": 500},
+                {"Name":"Tequila Sunrise","Price": 500},
+                {"Name":"Americano","Price": 700},
+                {"Name":"Campari Orange","Price": 500},
+                {"Name":"Ron Collins","Price": 500},
+                {"Name":"Manhattan", "Price": 650},
+                {"Name":"Vodka Tonic", "Price": 700},
+                {"Name":"B 52,","Price": 500},
+                {"Name":"Cubata","Price": 500},
+                {"Name":"Cubanito","Price": 600},
+                {"Name":"Aperol Spritz","Price": 750},
+                {"Name":"Black Russian","Price": 600},
+                {"Name":"Campari Tonic ","Price": 500},
+                {"Name":"Canchanchara 7","Price": 500},
+                {"Name":"Chelada Plus","Price": 410},
+                {"Name":"Daiquiri de Fruta","Price": 600},
+                {"Name":"Expresso Martini","Price": 800},
+                {"Name":"Gin Tonic Absenthe","Price": 820},
+                {"Name":"Gin Tonic Gordon","Price": 600},
+                {"Name":"Gin Tonic Mares","Price": 1000},
+                {"Name":"Gin Tonic Reythor","Price": 500},
+                {"Name":"Good Father","Price": 400},
+                {"Name":"Limonada Frescura ","Price": 380},
+                {"Name":"Long Island Ice Tea","Price": 400},
+                {"Name":"Mai Tai","Price": 700},
+                {"Name":"Michelada Plus","Price": 440},
+                {"Name":"Orgasmo","Price": 700 },
+                {"Name":"San Francisco","Price": 300},
+                {"Name":"Sangria","Price": 900},
+                {"Name":"Screwdriver Plus","Price": 700},
+                {"Name":"Servicio de Michelada","Price": 200},
+                {"Name":"Sex on the Beach","Price": 600},
+                {"Name":"Tinto de Verano","Price": 900},
+                {"Name":"Tom Collins","Price": 400},
+                {"Name":"Whiskey Sour","Price": 600},
+                {"Name": "Chivas Regal 15 Años", "Price": 1500},
+                {"Name": "Licor de Chocolate Rua Vieja", "Price": 250},
+                {"Name": "Licor de Leche Rua Vieja", "Price": 250},
+                {"Name": "Caipiroska Stolish", "Price": 750},
+                {"Name": "Gin Gordons", "Price": 350},
+                {"Name": "Pacto Navio", "Price": 600},
+                {"Name": "Absente", "Price": 370},
+                {"Name": "Amaretto", "Price": 350},
+                {"Name": "Aperol", "Price": 400},
+                {"Name": "Ballantines", "Price": 400},
+                {"Name": "Ballantines 12 Años", "Price": 600},
+                {"Name": "Beefeater", "Price": 200},
+                {"Name": "Black and White", "Price": 400},
+                {"Name": "Black Tear Super Dry", "Price": 90},
+                {"Name": "Black Tear Super Dry Roble Superior", "Price": 95},
+                {"Name": "Black Tear Super Dry Spice", "Price": 140},
+                {"Name": "Campari", "Price": 290},
+                {"Name": "Canadian Mist", "Price": 18400},
+                {"Name": "Disaronno", "Price": 350},
+                {"Name": "Drambuie", "Price": 400},
+                {"Name": "Felipe II", "Price": 300},
+                {"Name": "Gin Bulldog", "Price": 500},
+                {"Name": "Gin Strange Love", "Price": 350},
+                {"Name": "Glenlivent 18", "Price": 800},
+                {"Name": "Grand Marnier", "Price": 2300},
+                {"Name": "Grappa Caballina Bianca", "Price": 290},
+                {"Name": "Havana C Seleccion Maestro", "Price": 620},
+                {"Name": "Havana Club 3 Años", "Price": 170},
+                {"Name": "Havana Club 7 Años", "Price": 400},
+                {"Name": "Havana Club Añejo Blanco", "Price": 150},
+                {"Name": "Havana Club Especial", "Price": 300},
+                {"Name": "Havana Club Profundo", "Price": 150},
+                {"Name": "Havana Club Reserva", "Price": 350},
+                {"Name": "Havana Club Ritual", "Price": 150},
+                {"Name": "HC Smoky", "Price": 500},
+                {"Name": "Hennessy V.S.O.P", "Price": 2575},
+                {"Name": "Jameson", "Price": 400},
+                {"Name": "Jim Beam", "Price": 600},
+                {"Name": "Johnni Walker Red Label", "Price": 550},
+                {"Name": "Knockando Single 12", "Price": 560},
+                {"Name": "Licor 43", "Price": 400},
+                {"Name": "Licor Especial Jager Master", "Price": 510},
+                {"Name": "Marshal", "Price": 400},
+                {"Name": "Martell V.S", "Price": 480},
+                {"Name": "Ron Barcelo", "Price": 220},
+                {"Name": "Sambuca Molinari", "Price": 350},
+                {"Name": "Santa Teresa", "Price": 300},
+                {"Name": "Santiago 11", "Price": 570},
+                {"Name": "Santiago 12", "Price": 710},
+                {"Name": "Santiago 8 Años", "Price": 540},
+                {"Name": "Santiago Añejo", "Price": 300},
+                {"Name": "Santiago Extra Seco", "Price": 530},
+                {"Name": "Tequila Olmeca Blanco", "Price": 300},
+                {"Name": "Tequila Olmeca Reposado", "Price": 320},
+                {"Name": "Tia Maria Frozen", "Price": 250},
+                {"Name": "Tito'S Vodka", "Price": 600},
+                {"Name": "Torre 5", "Price": 400},
+                {"Name": "Varadero 7 Años", "Price": 150},
+                {"Name": "Vodka Belvedere", "Price": 860},
+                {"Name": "Vodka Igor", "Price": 200}
+            ]
+        },{
+            "Category": "Coffees and Infusions",
+            "Products": [
+                    {"Name": "Cafe Americano", "Price": 160},
+                    {"Name": "Cafe Cappuccino", "Price": 500},
+                    {"Name": "Cafe Cortado", "Price": 300},
+                    {"Name": "Cafe Expresso", "Price": 210},
+                    {"Name": "Carajillo", "Price": 190},
+                    {"Name": "Hot Margarita", "Price": 400},
+                    {"Name": "Te", "Price": 60},
+                    {"Name": "Te Frio", "Price": 30}
+            ]
+            }
+            
+    ],
+    "House Specialty": false,
+    "Head Chef":  false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": true,
+        "Executive Lunch": false,
+        "Smoking Area":  true,
+        "Bar": true,
+        "Event Buffet": false,
+        "Wine List":  true,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast":  false,
+        "Home Delivery": false,
+        "Reserved Space":  true,
+        "Karaoke": false,
+        "Recorded Music":  true,
+        "Playground":  false,
+        "Parking":  true,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": [" 58385050"] ,
+    "Payment Options":{
+        "Online Payments":false,
+        "Credit Card":false ,
+        "Cash":{
+        "CUP":true,
+        "EUR":false,
+        "USD":false
+        }},
+    "Social Media":{
+        "Facebook": false,
+        "Instagram":false
+    }}

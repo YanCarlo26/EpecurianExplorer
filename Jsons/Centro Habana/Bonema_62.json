@@ -1,0 +1,245 @@
+{
+    "Name": "Bone'Ma 62",
+    "Zone": "Centro Habana",
+    "Location": "Esquina 21 y M, Vedado, Havana 10400 ",
+    "Place Type": "bar - restaurante",
+    "Food Type": "Internacional",
+    "Schedule":[
+        {"day": "monday", "open": "0900", "close": "2400"},
+        {"day": "tuesday", "open": "0900", "close": "2400"},
+        {"day": "wednesday", "open": "0900", "close": "2400"},
+        {"day": "thursday", "open": "0900", "close": "2400"},
+        {"day": "friday", "open": "0900", "close": "2400"},
+        {"day": "saturday", "open": "0900", "close": "2400"},
+        {"day": "sunday", "open": "0900", "close": "2400"}
+    ],
+    "Menu": [
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"papas fritas","Price": 1050},
+                {"Name":"falafel","Price": 1050},
+                {"Name":"sopa de lentejas","Price": 1350},
+                {"Name":"ensalada mixta","Price": 950},
+                {"Name":"coban salata","Price": 1200},
+                {"Name":"caprese","Price": 1450},
+                {"Name":"ensalada nizarda","Price": 1800}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"hamburguesa natural smash","Price": 2150},
+                        {"Name":"hamburguesa de falafel","Price": 1900},
+                        {"Name":"hamburguesa smash con aguacate","Price": 2250},
+                        {"Name":"hamburguesa smash con bacon y huevo frito","Price": 2500},
+                        {"Name":"döner kebab (pan)","Price": 1700},
+                        {"Name":"dürüm kebab (tortilla)","Price": 1750},
+                        {"Name":"döner falafel","Price": 1300},
+                        {"Name":"dürüm köfte","Price": 1750},
+                        {"Name":"plato de döner kebab","Price": 2300},
+                        {"Name":"iskender kebab","Price": 2400},
+                        {"Name":"plato de köfte de res","Price": 2500}
+                    ]
+                },{
+                    "Fish and Seafood":[null]
+                },{
+                    "Tacos":[null]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta",
+            "Products":[
+                {"Name":"pasta napolitana","Price": 1900},
+                {"Name":"pasta arrabiata","Price": 2000},
+                {"Name":"pasta pesto","Price": 2200},
+                {"Name":"pasta bolognesa","Price": 2800},
+                {"Name":"pasta carbonara","Price": 2650}
+            ]
+        },{
+            "Category":"Pizzas",
+            "Products":[
+                {"Name":"pizza margarita","Price": 2000},
+                {"Name":"pizza friarielli y salchicha italiana","Price": 3000},
+                {"Name":"pizza funghi","Price": 2200},
+                {"Name":"pizza vegetariana","Price": 2300},
+                {"Name":"pizza 4 quesos","Price": 2600},
+                {"Name":"pizza hawaiana","Price": 2600},
+                {"Name":"pizza pepperoni / diabola","Price": 2700},
+                {"Name":"pizza de salami","Price": 2800},
+                {"Name":"pizza de jamón serrano, rúcula y parmesano","Price": 3200},
+                {"Name":"pizza de atún y cebolla","Price": 2600}
+            ]
+        },{
+            "Category":"Sandwich",
+            "Products":[
+                {"Name":"sándwich de vegetales","Price": 1400},
+                {"Name":"sándwich de jamón y queso","Price": 1650},
+                {"Name":"sándwich de res","Price": 1800},
+                {"Name":"sándwich de atún","Price": 1700},
+                {"Name":"sándwich de jamón serrano","Price": 2250}]
+        },{
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[null]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"flan","Price": 700},
+                {"Name":"copa de helado","Price": 900},
+                {"Name":"copa lolita","Price": 1050},
+                {"Name":"cheesecake","Price": 1150}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+                {"Name":"té","Price": 400},
+                {"Name":"café expreso","Price": 380},
+                {"Name":"espresso macchiato (cortado)","Price": 400},
+                {"Name":"americano","Price": 420},
+                {"Name":"cappuccino","Price": 650},
+                {"Name":"café con leche","Price": 700},
+                {"Name":"leche con chocolate","Price": 700}
+            ]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"ginger ale","Price": 700},
+                {"Name":"cerveza cristal","Price": 600},
+                {"Name":"cerveza heineken","Price": 750},
+                {"Name":"cerveza corona","Price": 800},
+                {"Name":"chelada (servicio)","Price": 250},
+                {"Name":"michelada (servicio)","Price": 300},
+                {"Name":"cuba libre","Price": 1500},
+                {"Name":"mojito","Price": 1600},
+                {"Name":"gin basil smash","Price": 1700},
+                {"Name":"caipirinha","Price": 1400},
+                {"Name":"strawberry caipi","Price": 1550},
+                {"Name":"daiquiri","Price": 1500},
+                {"Name":"strawberry daiquiri","Price": 1600},
+                {"Name":"piña colada","Price": 1700},
+                {"Name":"strawberry colada","Price": 1800},
+                {"Name":"margarita","Price": 1600},
+                {"Name":"whisky sour","Price": 1650},
+                {"Name":"espresso martini","Price": 1650},
+                {"Name":"sangría","Price": 1500},
+                {"Name":"yeni raki","Price": 1300},
+                {"Name":"aperol spritz","Price": 1700},
+                {"Name":"campari spritz","Price": 1700},
+                {"Name":"campari soda","Price": 1600},
+                {"Name":"vino tinto (copa)","Price": 950},
+                {"Name":"vino blanco (copa)","Price": 950},
+                {"Name":"beefeater gin tonic","Price": 1500},
+                {"Name":"gordons gin tonic","Price": 1500},
+                {"Name":"tanqueray gin tonic","Price": 1600},
+                {"Name":"tanqueray 10 gin tonic","Price": 1800},
+                {"Name":"gin mare gin tonic","Price": 1950},
+                {"Name":"malfy gin tonic","Price": 2000},
+                {"Name":"botanist gin tonic","Price": 2100},
+                {"Name":"london no. 1 gin tonic","Price": 1900},
+                {"Name":"jameson whisky","Price": 1400},
+                {"Name":"ballantine's whisky","Price": 1100},
+                {"Name":"ballantine's 12 whisky","Price": 1400}, 
+                {"Name":"jack daniels whisky","Price": 1650},
+                {"Name":"johnnie walker red label whisky","Price": 1400},
+                {"Name":"johnnie walker black label whisky","Price": 1600},
+                {"Name":"chivas regal 12 años whisky","Price": 1500},
+                {"Name":"glenlivet 15 whisky","Price": 1800},
+                {"Name":"bruichladdich whisky","Price": 1900},
+                {"Name":"highland park whisky","Price": 2250},
+                {"Name":"laphroaig whisky","Price": 2450},
+                {"Name":"woodford reserve whisky","Price": 2250},
+                {"Name":"havana club añejo 3 años ron","Price": 800},
+                {"Name":"havana club añejo especial ron","Price": 1050},
+                {"Name":"havana club añejo reserva ron","Price": 1100},
+                {"Name":"havana club añejo 7 años ron","Price": 900},
+                {"Name":"ron santiago añejo ron","Price": 1200},
+                {"Name":"ron santiago 8 años ron","Price": 1650},
+                {"Name":"ron santiago 11 años ron","Price": 2200},
+                {"Name":"selección de maestros ron","Price": 1800},
+                {"Name":"olmeca blanco tequila","Price": 750},
+                {"Name":"olmeca reposado tequila","Price": 850},
+                {"Name":"don ramón punta plateau tequila","Price": 1050},
+                {"Name":"don ramón punta dorada tequila","Price": 1150},
+                {"Name":"don julio reposado tequila","Price": 1500},
+                {"Name":"baileys licores & cremas","Price": 1100},
+                {"Name":"jägermeister licores & cremas","Price": 1800}
+            ]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"agua natural","Price": 450},
+                {"Name":"agua gaseada","Price": 950},
+                {"Name":"agua tónica mg","Price": 700},
+                {"Name":"coca cola","Price": 800},
+                {"Name":"coca cola zero","Price": 800},
+                {"Name":"sprite","Price": 800},
+                {"Name":"energy drink","Price": 850},
+                {"Name":"jugo de fruta nat.","Price": 600},
+                {"Name":"limonada natural","Price": 500},
+                {"Name":"limonada frappe","Price": 550},
+                {"Name":"ayran","Price": 500},
+                {"Name":"suero de helado","Price": 1500}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": true,
+        "Bar": true,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": ["78602134"],
+    "Payment Options": {
+        "Online payments": true,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": false,
+            "USD": true
+        }
+    },
+    "Social Media": {
+        "Facebook": "Bone Ma 62",
+        "Instagram": "@bonema_62"
+    }
+}

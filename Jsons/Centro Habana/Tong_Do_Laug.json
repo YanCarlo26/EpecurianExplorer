@@ -1,0 +1,154 @@
+{
+    "Name": "Tong Do Laug",
+    "Zone": "ch",
+    "Location": "Cuchillo entre San Nicolás y Rayo",
+    "Place Type": "Restaurante",
+    "Food Type": "Comida China",
+    "Schedule":[
+        {"day": "monday", "open": "1000", "close": "2100"},
+        {"day": "tuesday", "open": "1000", "close": "2100"},
+        {"day": "wednesday", "open": "1000", "close": "2100"},
+        {"day": "thursday", "open": "1000", "close": "2100"},
+        {"day": "friday", "open": "1000", "close": "2100"},
+        {"day": "saturday", "open": "1000", "close": "2100"},
+        {"day": "sunday", "open": "1000", "close": "2100"}
+    ],
+    "Menu": [
+            {
+                "Category": "Entrants(tapas)",
+                "Products": [null]
+            },
+            {
+                "Category": "Chef's Recommendation",
+                "Products": [null]
+            },
+            {
+                "Category": "Main courses",
+                "Products": [
+                    {
+                        "Meat, Poultry and Game": [
+                            {"Name":"Jiaozi Ravioles", "Price": 1350},
+                            {"Name":"Bao", "Price": 700},
+                            {"Name":"Lomo Ahumado", "Price": 2000},
+                            {"Name":"Fajitas de Pechuga", "Price": 2200}
+                        ]
+                    },
+                    {
+                        "Fish and Seafood": [
+                            {"Name":"Mariscos", "Price": 2500},
+                            {"Name":"Mar y Tierra", "Price": 3850},
+                            {"Name":"Pescado", "Price": 1650},
+                            {"Name":"Camarones", "Price": 3600}
+                        ]
+                    },
+                    {
+                        "Tacos": [null]
+                    }
+                ]
+            },
+            {
+                "Category": "For Your Diet",
+                "Products": [null]
+            },
+            {
+                "Category": "Pasta",
+                "Products": [
+                    {"Name":"Mia Especial Tallarines", "Price": 1100},
+                    {"Name":"Arroz Frito Especial", "Price": 1100},
+                    {"Name":"Siumi", "Price": 1200},
+                    {"Name":"Chunkun Rollitos de Primavera", "Price": 1050}
+                ]
+            },
+            {
+                "Category": "Pizzas",
+                "Products": [null]
+            },
+            {
+                "Category": "Sandwich",
+                "Products": [null]
+            },
+            {
+                "Category": "Additions",
+                "Products": [null]
+            },
+            {
+                "Category": "Fittings(guarniciones)",
+                "Products": [null]
+            },
+            {
+                "Category": "Soups and Creams",
+                "Products": [
+                    {"Name":"Sopa China", "Price": 990}
+                ]
+            },
+            {
+                "Category": "Desserts",
+                "Products": [null]
+            },
+            {
+                "Category": "Coffees & Infusions",
+                "Products": [
+                    {"Name":"Café", "Price": 390},
+                    {"Name":"Té", "Price": 170}
+                ]
+            },
+            {
+                "Category": "Alcoholic Beverages",
+                "Products": [
+                    {"Name":"Cocteles", "Price": 660},
+                    {"Name":"Cerveza", "Price": 300},
+                    {"Name":"Cerveza Nacional", "Price": 500}
+                ]
+            },
+            {
+                "Category": "Non-Alcoholic Beverages",
+                "Products": [
+                    {"Name":"Cerveza", "Price": 300},
+                    {"Name":"Cerveza Nacional", "Price": 500},
+                    {"Name":"Refresco", "Price": 300},
+                    {"Name":"Jugo", "Price": 330},
+                    {"Name":"Frapeado", "Price": 330},
+                    {"Name":"Agua", "Price": 220},
+                    {"Name":"Agua caliente", "Price": 220}
+                ]
+            }
+        ],
+    "House Specialty": "Comida China",
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Particular",
+    "Phone": ["+53 55100355"],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+        "CUP": "true",
+        "EUR": false,
+        "USD": "true"
+    }} , 
+    "Social Media":{
+        "Facebook": null,
+        "Instagram": null
+    }
+}

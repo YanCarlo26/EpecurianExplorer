@@ -1,0 +1,163 @@
+{
+    "Name": "San Rafael 1051",
+    "Zone": "Centro Habana",
+    "Location": "23.11380465355718, -82.36663315102301",
+    "Place Type": "Restaurante",
+    "Food Type": "americana",
+    "Schedule":[
+        {"day": "monday", "open": "1200", "close": "2400"},
+        {"day": "tuesday", "open": "1200", "close": "2400"},
+        {"day": "wednesday", "open": "1200", "close": "2400"},
+        {"day": "thursday", "open": "1200", "close": "2400"},
+        {"day": "friday", "open": "1200", "close": "2400"},
+        {"day": "saturday", "open": "1200", "close": "2400"},
+        {"day": "sunday", "open": "1200", "close": "2400"}
+    ],
+    "Menu": [
+        {
+            "Category": "Entrants(tapas)",
+            "Products": [
+                {"Name":"croquetas de la casa", "Price": 850},
+                {"Name":"tabla de serrano y queso", "Price": 1450},
+                {"Name":"nuggets de pollo", "Price": 950},
+                {"Name":"tacos", "Price": 1150},
+                {"Name":"brusquetas mixtas", "Price": 850},
+                {"Name":"ensalada de atún", "Price": 1100},
+                {"Name":"ensalada de pollo", "Price": 1100},
+                {"Name":"ensalada del mar", "Price": 1300}
+            ]
+        },
+        {
+            "Category": "Chef's Recommendation",
+            "Products": [null]
+        },
+        {
+            "Category": "Main courses",
+            "Products": [
+                {
+                    "Meat, Poultry and Game": [
+                        {"Name":"entrepan clasico", "Price": 1300},
+                        {"Name":"entrepan cubano", "Price": 1500},
+                        {"Name":"entrepan marinero", "Price": 1300},
+                        {"Name":"entrepan iberico", "Price": 1500},
+                        {"Name":"entrepan vaquero", "Price": 1300},
+                        {"Name":"entrepan de crispy chicken", "Price": 1500},
+                        {"Name":"hamburguesa black panther", "Price": 2400},
+                        {"Name":"hamburguesa megaburger", "Price": 2750},
+                        {"Name":"hamburguesa hawaiana", "Price": 1650},
+                        {"Name":"hamburguesa 1051", "Price": 2000},
+                        {"Name":"hamburguesa parrillera", "Price": 1920},
+                        {"Name":"hamburguesa sweet burger", "Price": 1100},
+                        {"Name":"hamburguesa deluxe", "Price": 1550},
+                        {"Name":"hamburguesa cheese burger", "Price": 1790},
+                        {"Name":"hamburguesa cubana", "Price": 2140}
+                    ]
+                },
+                {
+                    "Fish and Seafood": [null]
+                },
+                {
+                    "Tacos": [null]
+                }
+            ]
+        },
+        {
+            "Category": "For Your Diet",
+            "Products": [null]
+        },
+        {
+            "Category": "Pasta",
+            "Products": [null]
+        },
+        {
+            "Category": "Pizzas",
+            "Products": [null]
+        },
+        {
+            "Category": "Sandwich",
+            "Products": [null]
+        },
+        {
+            "Category": "Additions",
+            "Products": [null]
+        },
+        {
+            "Category": "Fittings(guarniciones)",
+            "Products": [null]
+        },
+        {
+            "Category": "Soups and Creams",
+            "Products": [null]
+        },
+        {
+            "Category": "Desserts",
+            "Products": [null]
+        },
+        {
+            "Category": "Coffees & Infusions",
+            "Products": [null]
+        },
+        {
+            "Category": "Alcoholic Beverages",
+            "Products": [
+                {"Name":"caipiriña", "Price": 580},
+                {"Name":"caipiroska", "Price": 580},
+                {"Name":"gin tonic", "Price": 650},
+                {"Name":"sangria", "Price": 650},
+                {"Name":"mojito", "Price": 580},
+                {"Name":"cuba libre", "Price": 580},
+                {"Name":"vodka tonic", "Price": 650},
+                {"Name":"cerveza", "Price": 450},
+                {"Name":"cerveza cristal, heineken, corona", "Price": 650},
+                {"Name":"servicio michelada", "Price": 250}
+            ]
+        },
+        {
+            "Category": "Non-Alcoholic Beverages",
+            "Products": [
+                {"Name":"agua natural", "Price": 300},
+                {"Name":"refresco importado", "Price": 380},
+                {"Name":"jugo natural", "Price": 390},
+                {"Name":"batido de fruta", "Price": 530}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": true,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": true,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": false,
+    "Phone": ["58058576"],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+        "CUP": "true",
+        "EUR": false,
+        "USD": "true"
+    }} , 
+    "Social Media":{
+        "Facebook": "san_rafael1051",
+        "Instagram": "@san_rafael1051"
+    }
+}

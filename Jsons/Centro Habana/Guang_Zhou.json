@@ -1,0 +1,205 @@
+{
+    "Name": "Guang Zhou",
+    "Zone": "ch",
+    "Location": "Cuchillo entre San Nicolás y Rayo",
+    "Place Type": "Restaurante",
+    "Food Type": "Comida China",
+    "Schedule":[
+        {"day": "monday", "open": "1100", "close": "0000"},
+        {"day": "tuesday", "open": "1100", "close": "0000"},
+        {"day": "wednesday", "open": "1100", "close": "0000"},
+        {"day": "thursday", "open": "1100", "close": "0000"},
+        {"day": "friday", "open": "1100", "close": "0000"},
+        {"day": "saturday", "open": "1100", "close": "0000"},
+        {"day": "sunday", "open": "1100", "close": "0000"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[null]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"Pollo a la plancha","Price": 1800},
+                        {"Name":"Cerdo a la plancha","Price": 2000},
+                        {"Name":"Res a la plancha","Price": 2100},
+                        {"Name":"Pollo Grille","Price": 1500},
+                        {"Name":"Cerdo Grille","Price": 1650}
+                    ]
+                },{
+                    "Fish and Seafood":[
+                        {"Name":"Pescado a la plancha","Price": 2100},
+                        {"Name":"Pescado Grille","Price": 1500},
+                        {"Name":"Marisco a la plancha","Price": 3100},
+                        {"Name":"De la Tierra","Price": 4200},
+                        {"Name":"Del Mar","Price": 5500},
+                        {"Name":"Mar y Tierra","Price": 5900},
+                        {"Name":"Cazuela de Mariscos","Price": 5575}
+                    ]
+                },{
+                    "Tacos":[null]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta",
+            "Products":[
+                {"Name":"Espaguetis Napolitanos","Price": 1080.00}
+            ]
+        },{
+            "Category":"Pizzas",
+            "Products":[
+                {"Name":"Pizza Napolitana con queso blanco","Price": 1150.00},
+                {"Name":"Pizza Napolitana con queso Gouda","Price": 1250.00}
+            ]
+        },{
+            "Category":"Sandwich",
+            "Products":[null]
+        },{
+            "Category":"Additions",
+            "Products":[
+                {"Name":"Tomate natural","Price": 200.00},
+                {"Name":"Pimiento","Price": 200.00},
+                {"Name":"Cebolla","Price": 200.00},
+                {"Name":"Piña","Price": 200.00},
+                {"Name":"Jamón","Price": 450.00},
+                {"Name":"Chorizo","Price": 300.00},
+                {"Name":"Bacon","Price": 300.00},
+                {"Name":"Champiñones","Price": 300.00},
+                {"Name":"Aceitunas","Price": 250.00},
+                {"Name":"Atún","Price": 500.00},
+                {"Name":"Queso Blanco","Price": 250.00},
+                {"Name":"Marisco","Price": 750.00},
+                {"Name":"Jamón Serrano","Price": 500.00}
+            ]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                {"Name":"Arroz blanco","Price": 315},
+                {"Name":"Arroz frito","Price": 1710},
+                {"Name":"Arroz Moro","Price": 415},
+                {"Name":"Arroz frito especial","Price": 2110},
+                {"Name":"Arroz frito familiar","Price": 2970},
+                {"Name":"Chao mian (Fideos fritos)","Price": 900},
+                {"Name":"Chop Suey de Pollo","Price": 1700},
+                {"Name":"Chop Suey de Cerdo","Price": 1900},
+                {"Name":"Chop Suey de vegetales","Price": 800.00},
+                {"Name":"Viandas fritas del día","Price": 300},
+                {"Name":"Yuca con mojo","Price": 250.00},
+                {"Name":"Ensalada mixta","Price": 300.00}
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[null]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+                {"Name":"Café Expreso","Price": 100.00},
+                {"Name":"Café Americano","Price": 150.00},
+                {"Name":"Café Cortado","Price": 150.00},
+                {"Name":"Café Capsula","Price": 300.00},
+                {"Name":"Té","Price": 60.00}
+            ]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"Havana Club 3 años","Price": 350},
+                {"Name":"Havana Club Especial","Price": 250},
+                {"Name":"Havana Club Reserva","Price": 400},
+                {"Name":"Havana Club 7 años","Price": 450},
+                {"Name":"Whisky","Price": 400},
+                {"Name":"Vodka","Price": 500},
+                {"Name":"Tequila Blanco","Price": 500},
+                {"Name":"Tequila Reposado","Price": 500},
+                {"Name":"Ginebra","Price": 500},
+                {"Name":"Vino tinto","Price": 500},
+                {"Name":"Vino blanco","Price": 500},
+                {"Name":"Michelada","Price": 200},
+                {"Name":"Mojito","Price": 400},
+                {"Name":"Cuba Libre","Price": 400},
+                {"Name":"Ron Collins","Price": 400},
+                {"Name":"Limonada Frappe","Price": 350},
+                {"Name":"Daiquiri Frappe","Price": 400},
+                {"Name":"Piña Colada","Price": 600},
+                {"Name":"Cubata","Price": 400},
+                {"Name":"Sangría","Price": 600},
+                {"Name":"Gin Tonic","Price": 550},
+                {"Name":"Margarita","Price": 550},
+                {"Name":"Caipiriña","Price": 450},
+                {"Name":"Caipiroska","Price": 550}
+            ]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"Cerveza Nacional","Price": 385.00},
+                {"Name":"Cerveza Importada","Price": 300.00},
+                {"Name":"Kermato (Jugo de tomate)","Price": 200.00},
+                {"Name":"Refresco Nacional","Price": 350.00},
+                {"Name":"Refresco Importado","Price": 350.00},
+                {"Name":"Malta","Price": 400.00},
+                {"Name":"Malteada (Malta con leche)","Price": 550.00},
+                {"Name":"Agua","Price": 190.00},
+                {"Name":"Agua 1.5L","Price": 280.00},
+                {"Name":"Jugo Natural","Price": 325.00},
+                {"Name":"Jugo en conserva","Price": 350.00}
+            ]
+        }
+    ],
+    "House Specialty": "Comida China",
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Particular",
+    "Phone": ["078615229"],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+            "CUP": true,
+            "EUR": false,
+            "USD": true
+        }
+    }, 
+    "Social Media":{
+        "Facebook": false,
+        "Instagram": false
+    }
+}

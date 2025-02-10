@@ -1,0 +1,214 @@
+{
+    "Name": "La Ronda",
+    "Zone": "10 de Octubre",
+    "Location": "Calle Guasabacoa, esquina de Calzada de Luyano",
+    "Place Type": "Restaurante",
+    "Food Type": "Cocina criolla",
+    "Schedule": [null],
+    "Menu":[
+        {
+            "Category": "Entrants(tapas)",
+            "Products": [
+                {"Name": "Vianda frita", "Price": 380},
+                {"Name": "Tostones naturales", "Price": 370},
+                {"Name": "Fajitas de cerdo salteadas", "Price": 980},
+                {"Name": "Tostones rellenos de jamon y queso", "Price": 620},
+                {"Name": "Fajitas de cerdo empanadas", "Price": 1180},
+                {"Name": "Tabla Ronda", "Price": 1200},
+                {"Name": "Alitas empanadas", "Price": 1100},
+                {"Name": "Croquetas de la casa", "Price": 380},
+                {"Name": "Coctel de pescado", "Price": 600},
+                {"Name": "Tamal en cazuela", "Price": 300},
+                {"Name": "Coctel de camarones", "Price": 1500},
+                {"Name": "Entremes de jamon, queso, chorizo y aceitunas", "Price": 1050},
+                {"Name": "Eperlan", "Price": 960},
+                {"Name": "Ensalada fria", "Price": 500}
+            ]
+        },{
+            "Category":"Chef's Recommendation",
+            "Products":[
+                null
+            ]
+        },{
+            "Category": "Main courses",
+            "Products": [
+                {
+                    "Meat, Poultry and Game": [
+                        {"Name": "Masa de cerdo frita", "Price": 1890},
+                        {"Name": "Lomo a la barbacoa", "Price": 1180},
+                        {"Name": "Bistec de cerdo grille", "Price": 1100},
+                        {"Name": "Fricase de cerdo", "Price": 1950},
+                        {"Name": "Cerdo salteado con vegetales", "Price": 1300},
+                        {"Name": "Cerdo agridulce", "Price": 1140},
+                        {"Name": "Bistec uruguayo de cerdo", "Price": 1450},
+                        {"Name": "Lonjas de cerdo asado", "Price": 1460},
+                        {"Name": "Brochetas de cerdo", "Price": 2350},
+                        {"Name": "Bistec de cerdo empanado", "Price": 1250},
+                        {"Name": "Bistec de cerdo encebollado", "Price": 1160},
+                        {"Name": "Lomo de cerdo a la pina", "Price": 1220},
+                        {"Name": "Pollo asado a la criolla", "Price": 1030},
+                        {"Name": "Pollo frito a la criolla", "Price": 1030},
+                        {"Name": "Pollo a la barbacoa", "Price": 1150},
+                        {"Name": "Arroz frito sin mariscos", "Price": 690},
+                        {"Name": "Monte Mary", "Price": 3500},
+                        {"Name": "Bistec de res encebollado", "Price": 1060}
+                    ]
+                },
+                {
+                    "Fish and Seafood": [
+                        {"Name": "Filete de pescado empanado", "Price": 1200},
+                        {"Name": "Enchilado de camarones", "Price": 1850},
+                        {"Name": "Camarones empanados", "Price": 1920},
+                        {"Name": "Camarones al ajillo", "Price": 1920},
+                        {"Name": "Grillada del mar", "Price": 2800},
+                        {"Name": "Paella Marinera para dos", "Price": 2100},
+                        {"Name": "Filete de pescado grille", "Price": 1090},
+                        {"Name": "Arroz frito con camarones", "Price": 1150}
+                    ]
+                }
+            ]
+        },{
+            "Category": "Pizzas",
+            "Products": [
+                {"Name": "Pizza Napolitana", "Price": 980},
+                {"Name": "Pizza Napolitana Doble Queso", "Price": 1300},
+                {"Name": "Pizza con jamon", "Price": 1220},
+                {"Name": "Pizza con chorizo", "Price": 1280},
+                {"Name": "Pizza con cebolla", "Price": 1080},
+                {"Name": "Pizza Hawaiana", "Price": 1450},
+                {"Name": "Pizza con aceitunas", "Price": 1380},
+                {"Name": "Pizza Super Ronda", "Price": 2100},
+                {"Name": "Pizza con camarones", "Price": 1750}
+            ]
+        },{
+            "Category": "Pasta",
+            "Products": [
+                {"Name": "Espaghettis Napolitanos", "Price": 780},
+                {"Name": "Espaghettis de Doble Queso", "Price": 950},
+                {"Name": "Espaghettis de jamon", "Price": 840},
+                {"Name": "Espaghettis de chorizo", "Price": 840},
+                {"Name": "Espaghettis de cebolla", "Price": 780},
+                {"Name": "Espaghettis de camarones", "Price": 1300},
+                {"Name": "Espaghettis a la Bolognesa", "Price": 980}
+            ]
+        },{
+            "Category": "Sandwich",
+            "Products": [
+                {"Name": "Pan con bistec", "Price": 580},
+                {"Name": "Pan con cerdo", "Price": 840},
+                {"Name": "Pan Cubano", "Price": 980},
+                {"Name": "Hamburguesa de cerdo", "Price": 640},
+                {"Name": "Hamburguesa de chorizo", "Price": 640}
+            ]
+        },{
+            "Category": "Additions",
+            "Products": [
+                {"Name": "Ketchup", "Price": 160},
+                {"Name": "Mostaza", "Price": 160},
+                {"Name": "Mayonesa", "Price": 160},
+                {"Name": "Lechuga", "Price": 160},
+                {"Name": "Tomate", "Price": 160},
+                {"Name": "Pepinillo", "Price": 170},
+                {"Name": "Cebolla", "Price": 210},
+                {"Name": "Pina", "Price": 240},
+                {"Name": "Aceitunas", "Price": 230},
+                {"Name": "Chorizo", "Price": 260},
+                {"Name": "Jamon", "Price": 260},
+                {"Name": "Queso Gouda", "Price": 380},
+                {"Name": "Pimiento", "Price": 210},
+                {"Name": "Camarones", "Price": 660}
+            ]
+        },{
+            "Category": "Fittings(guarniciones)",
+            "Products": [
+                {"Name": "Arroz blanco", "Price": 180},
+                {"Name": "Arroz moro", "Price": 290},
+                {"Name": "Vegetales salteados", "Price": 380},
+                {"Name": "Ensalada a la estacion", "Price": 370}
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[
+                null
+            ]
+        },{
+            "Category":"Soups and Creams",
+            "Products":[
+                null
+            ]
+        },{
+            "Category": "Desserts",
+            "Products": [
+                {"Name": "Helado sencillo", "Price": 170},
+                {"Name": "Helados jimaguas", "Price": 290},
+                {"Name": "Tres Gracias", "Price": 390},
+                {"Name": "Ensalada de helado", "Price": 620},
+                {"Name": "Batido de helado", "Price": 420},
+                {"Name": "Dulce de coco con queso", "Price": 240}
+            ]
+        },{
+            "Category": "Coffees & Infusions",
+            "Products": [
+                {"Name": "Cafe Express", "Price": 120}
+            ]
+        },{
+            "Category": "Non-Alcoholic Beverages",
+            "Products": [
+                {"Name": "Agua en pomo", "Price": 140},
+                {"Name": "Cerveza importada", "Price": 220},
+                {"Name": "Malta importada", "Price": 260},
+                {"Name": "Refresco de pomo Chico", "Price": 130},
+                {"Name": "Energizante", "Price": 230},
+                {"Name": "Jugo de caja", "Price": 200},
+                {"Name": "Refresco de pomo grande", "Price": 580},
+                {"Name": "Refresco de lata", "Price": 260}
+            ]
+        },{
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"Cerveza importada", "Price": 220}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": true,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": true
+    },
+    "State or Private": "privado",
+    "Phone": ["76990583"],
+    "Payment Options": {
+        "Online payments": "Transferencia",
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": true,
+            "USD": true
+        }
+    },
+    "Social Media": {
+        "Facebook": "La Ronda",
+        "Instagram": "@restaurante.laronda",
+        "Website": null,
+        "Email": null
+    }
+}

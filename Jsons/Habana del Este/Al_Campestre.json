@@ -1,0 +1,225 @@
+{
+    "Name": "Al Campestre",
+    "Zone": "Habana del Este",
+    "Location": "El Intermitente, Via Blanca, Alamar",
+    "Place Type": "Parrillada-Restaurant",
+    "Food Type": "Internacional",
+    "Schedule":[
+        {"day": "monday", "open": "0900", "close": "2300"},
+        {"day": "tuesday", "open": "0900", "close": "2300"},
+        {"day": "wednesday", "open": "0900", "close": "2300"},
+        {"day": "thursday", "open": "0900", "close": "2300"},
+        {"day": "friday", "open": "0900", "close": "2300"},
+        {"day": "saturday", "open": "0900", "close": "2300"},
+        {"day": "sunday", "open": "0900", "close": "2300"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"Vianda hervida", "Price": 180},
+                {"Name":"Vianda frita", "Price": 350},
+                {"Name":"Tostones criollos", "Price": 350},
+                {"Name":"Croquetas de la casa", "Price": 400},
+                {"Name":"Tostones en tapas", "Price": 560},
+                {"Name":"Firtura de malanga", "Price": 450},
+                {"Name":"Ensalada fria", "Price": 650},
+                {"Name":"Papas fritas", "Price": 700},
+                {"Name":"Ceviche", "Price": 1000},
+                {"Name":"Crema de queso", "Price": 400},
+                {"Name":"Crema aurora", "Price": 450},
+                {"Name":"Crema Virginia", "Price": 470},
+                {"Name":"Fajitas de pollo", "Price": 1560},
+                {"Name":"Eperlan", "Price": 2100},
+                {"Name":"Coctel de camarones", "Price": 2200},
+                {"Name":"Brusquetas", "Price": 650},
+                {"Name":"Tabla Charcutera", "Price": 1750}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"Ropa vieja de res", "Price": 2450},
+                        {"Name":"Vaca Frita", "Price": 2560},
+                        {"Name":"Filete de res a la Deuch", "Price": 2560},
+                        {"Name":"Estofado de conejo", "Price": 2750},
+                        {"Name":"Fricase de conejo", "Price": 2750},
+                        {"Name":"Entrecot", "Price": 4150},
+                        {"Name":"Churrasco de res", "Price": 4150},
+                        {"Name":"Chuleton de res", "Price": 5500},
+                        {"Name":"Paella Al Campestre", "Price": 10500}
+                    ]
+                },{
+                    "Fish and Seafood":[
+                        {"Name":"Calamar al ajillo", "Price": 4500},
+                        {"Name":"Calamar grille", "Price": 4500},
+                        {"Name":"Calamar en salsa de tomate", "Price": 4500},
+                        {"Name":"Pulpo grille", "Price": 5200},
+                        {"Name":"Pulpo enchilado", "Price": 5200},
+                        {"Name":"Pulpo al ajillo", "Price": 5200},
+                        {"Name":"Langosta grille", "Price": 4860},
+                        {"Name":"Langosta americana", "Price": 4860},
+                        {"Name":"Langosta termidor", "Price": 5000}
+                    ]
+                },{
+                    "Tacos":[
+                        {"Name":"Tacos al chili", "Price": 1600},
+                        {"Name":"Tacos de res", "Price": 2450},
+                        {"Name":"Tacos de pollo", "Price": 1960},
+                        {"Name":"Tacos de cerdo", "Price": 2500},
+                        {"Name":"Tacos del mar", "Price": 2650},
+                        {"Name":"Tacos de queso", "Price": 1400}
+                    ]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta",
+            "Products":[
+                {"Name":"Spaghetti con queso", "Price": 820},
+                {"Name":"Spaghetti Frutti di Mare", "Price": 2400},
+                {"Name":"Spaghetti Aioli", "Price": 960},
+                {"Name":"Spaghetti Al Pesto", "Price": 1200},
+                {"Name":"Spaghetti Bolonesa", "Price": 1890},
+                {"Name":"Spaghetti Carbonara", "Price": 1450},
+                {"Name":"Spaghetti Alfredo", "Price": 930},
+                {"Name":"Spaghetti Primavera", "Price": 1000}
+            ]
+        },{
+            "Category":"Pizzas",
+            "Products":[
+                {"Name":"Pizza Napolitana", "Price": 970},
+                {"Name":"Pizza Bambina", "Price": 550},
+                {"Name":"Pizza Al Campestre", "Price": 1960}
+            ]
+        },{
+            "Category":"Sandwich",
+            "Products":[null]
+        },{
+            "Category":"Additions",
+            "Products":[
+                {"Name":"Pina", "Price": 150},
+                {"Name":"Cebolla", "Price": 200},
+                {"Name":"Chorizo", "Price": 580},
+                {"Name":"Pimiento", "Price": 200},
+                {"Name":"Jamon", "Price": 350},
+                {"Name":"Bacon", "Price": 480},
+                {"Name":"Queso Gouda", "Price": 300},
+                {"Name":"Aceituna", "Price": 180},
+                {"Name":"Atun", "Price": 450},
+                {"Name":"Camarones", "Price": 780},
+                {"Name":"Ropa vieja de cerdo", "Price": 780},
+                {"Name":"Ropa vieja de res", "Price": 960},
+                {"Name":"Pepperoni", "Price": 350}
+            ]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                {"Name":"Ensalada de estacion", "Price": 100},
+                {"Name":"Arroz blanco", "Price": 150},
+                {"Name":"Arroz moro", "Price": 220},
+                {"Name":"Arroz con vegetales", "Price": 350},
+                {"Name":"Vegetales salteados", "Price": 250},
+                {"Name":"Frijoles negros", "Price": 350},
+                {"Name":"Frijoles colorados", "Price": 400}
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[
+                {"Name":"Crema de queso", "Price": 400},
+                {"Name":"Crema aurora", "Price": 450},
+                {"Name":"Crema Virginia", "Price": 470}
+            ]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"Dulces caseros", "Price": 380},
+                {"Name":"Torrejas de la casa", "Price": 500},
+                {"Name":"Cuna de Mousse", "Price": 570},
+                {"Name":"Tarta de Mousse", "Price": 4500},
+                {"Name":"Cuna Cheesecake", "Price": 650},
+                {"Name":"Tarta Cheesecake", "Price": 5000},
+                {"Name":"Tarta Tiramisu", "Price": 5000},
+                {"Name":"Cuna Tiramisu", "Price": 650}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[null]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"Alexander", "Price": 450},
+                {"Name":"Bloddy Marry", "Price": 450},
+                {"Name":"Cubanito", "Price": 450},
+                {"Name":"Daiquiri", "Price": 460},
+                {"Name":"Daiquiri rebelde", "Price": 500},
+                {"Name":"Martin", "Price": 450},
+                {"Name":"Mojito", "Price": 750},
+                {"Name":"Pina Colada", "Price": 720},
+                {"Name":"Sangria", "Price": 850},
+                {"Name":"Virgen Colada", "Price": 450},
+                {"Name":"Caipirina", "Price": 400},
+                {"Name":"Caipiroska", "Price": 400},
+                {"Name":"Caipirisima", "Price": 400},
+                {"Name":"Canchanchara", "Price": 400},
+                {"Name":"Margarita", "Price": 650},
+                {"Name":"Tinto Verano", "Price": 1100}
+            ]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[null]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": true,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space":true,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": ["58893858", "53236469"],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card":true,
+        "Cash":{
+        "CUP": true,
+        "EUR": true,
+        "USD": true
+    }},
+    "Social Media":{
+        "Facebook": "Alcampestre",
+        "Instagram": "alcampestre"
+    }
+}

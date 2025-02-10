@@ -1,0 +1,237 @@
+{
+    "Name": "Dominica Like",
+    "Zone": "Santiago de las Vegas, Boyeros",
+    "Location": "Calle 11. e/ 6 y 8, Santiago de las Vegas, Boyeros",
+    "Place Type": "Restaurante-Bar-Cafetería",
+    "Food Type": "Internacional",
+    "Schedule": [
+        {"day": "monday", "open": "12:00", "close": "24:00"},
+        {"day": "tuesday", "open": "12:00", "close": "24:00"},
+        {"day": "wednesday", "open": "12:00", "close": "24:00"},
+        {"day": "thursday", "open": "12:00", "close": "24:00"},
+        {"day": "friday", "open": "12:00", "close": "24:00"},
+        {"day": "saturday", "open": "12:00", "close": "24:00"},
+        {"day": "sunday", "open": "12:00", "close": "24:00"}
+    ],
+    "Menu": [
+            {
+                "Category": "Entrants(tapas)",
+                "Products": [
+                    {"Name": "COCTEL DE CAMARONES", "Price": 1100},
+                    {"Name": "PAPAS FRITAS", "Price": 450},
+                    {"Name": "TOSTONES RELLENOS (JAMÓN Y QUESO)", "Price": 550},
+                    {"Name": "CROQUETAS DE LA CASA (POLLO O PESCADO)", "Price": 500},
+                    {"Name": "FRITURAS DE MALANGA", "Price": 450},
+                    {"Name": "ENSALADA FRIA", "Price": 650},
+                    {"Name": "CREMA DE QUESO", "Price": 600},
+                    {"Name": "CREMA VIRGINIA", "Price": 600},
+                    {"Name": "CREMA AURORA", "Price": 500},
+                    {"Name": "CREMA REINA (POLLO)", "Price": 500},
+                    {"Name": "ENTREMES DE JAMÓN, QUESO Y ACEITUNAS", "Price": 800}
+                ]
+            },
+            {
+                "Category": "Chef's Recommendation",
+                "Products": [null]
+            },
+            {
+                "Category": "Main courses",
+                "Products": [
+                    {
+                        "Meat, Poultry and Game": [
+                            {"Name": "TERNERA AL VINO", "Price": 1900},
+                            {"Name": "BASTONES DE PECHUGA DE POLLO EMPANADOS", "Price": 1500},
+                            {"Name": "LOMO AHUMADO CON SALSA DE FRUTAS", "Price": 1200},
+                            {"Name": "BISTEC DE CERDO GRILLE ENCEBOLLADO", "Price": 1400},
+                            {"Name": "BISTEC URUGUAYO", "Price": 1800},
+                            {"Name": "ROPA VIEJA", "Price": 1600},
+                            {"Name": "VACA FRITA", "Price": 1600},
+                            {"Name": "CORDON BLUE DE PECHUGA DE POLLO", "Price": 1700},
+                            {"Name": "PECHUGA A LA PIÑA", "Price": 1400},
+                            {"Name": "BISTEC DE PECHUGA GRILLE", "Price": 1400}
+                        ]
+                    },
+                    {
+                        "Fish and Seafood": [
+                            {"Name": "ENCHILADO DE CANGREJO", "Price": 1200},
+                            {"Name": "FILETE DE PESCADO GRILLE", "Price": 1600},
+                            {"Name": "FILETE DE PESCADO CANCILLER", "Price": 1800}
+                        ]
+                    },
+                    {
+                        "Tacos": [null]
+                    }
+                ]
+            },
+            {
+                "Category": "For Your Diet",
+                "Products": [null]
+            },
+            {
+                "Category": "Pasta",
+                "Products": [
+                    {"Name": "ESPAGUETIS NAPOLITANA", "Price": 950},
+                    {"Name": "ESPAGUETIS A LA CREMA CON BACON", "Price": 1100}
+                ]
+            },
+            {
+                "Category": "Pizzas",
+                "Products": [
+                    {"Name": "PIZZA NAPOLITANA", "Price": 1000},
+                    {"Name": "PIZZA HAWAIANA", "Price": 1300},
+                    {"Name": "PIZZA DOMINICA", "Price": 1650}
+                ]
+            },
+            {
+                "Category": "Sandwich",
+                "Products": [null]
+            },
+            {
+                "Category": "Additions",
+                "Products": [null]
+            },
+            {
+                "Category": "Fittings(guarniciones)",
+                "Products": [
+                    {"Name": "ARROZ MORO", "Price": 300},
+                    {"Name": "ARROZ BLANCO", "Price": 200},
+                    {"Name": "ENSALADA DE VEGETALES MIXTO DE LA ESTACIÓN", "Price": 300},
+                    {"Name": "PLATANITO MADURO FRITO", "Price": 250},
+                    {"Name": "TOSTONES AL AJILLO", "Price": 250}
+                    ]
+            },{
+                "Category": "Soups and Creams",
+                "Products": [null]
+            },
+            {
+                "Category": "Desserts",
+                "Products": [
+                    {"Name": "COPA DE HELADO", "Price": 400},
+                    {"Name": "TARTA DE CHOCOLATE CON HELADO", "Price": 400}
+                ]
+            },
+            {
+                "Category": "Coffees & Infusions",
+                "Products": [
+                    {"Name": "CAFÉ Expreso", "Price": 120},
+                    {"Name": "Café Cortado", "Price": 150},
+                    {"Name": "Café Capuchino", "Price": 200},
+                    {"Name": "Café Frapuchino", "Price": 450},
+                    {"Name": "Café Bombón", "Price": 400}
+                ]
+            },
+            {
+                "Category": "Alcoholic Beverages",
+                "Products": [
+                    {"Name": "MOJITO", "Price": 600},
+                    {"Name": "CUBANITO", "Price": 800},
+                    {"Name": "CUBA LIBRE", "Price": 600},
+                    {"Name": "DAIQUIRI", "Price": 700},
+                    {"Name": "DAIQUIRI DE FRUTAS", "Price": 750},
+                    {"Name": "MARGARITA", "Price": 900},
+                    {"Name": "MARGARITA BLUE", "Price": 950},
+                    {"Name": "PIÑA COLADA", "Price": 850},
+                    {"Name": "BLOODY MARY", "Price": 750},
+                    {"Name": "BELLO MONTE", "Price": 750},
+                    {"Name": "CAIPIRIÑA", "Price": 750},
+                    {"Name": "CAIPIRISIMA", "Price": 750},
+                    {"Name": "CAIPIROSKA", "Price": 750},
+                    {"Name": "CANCHANCHARA", "Price": 850},
+                    {"Name": "MANHATAN", "Price": 700},
+                    {"Name": "CUBATA", "Price": 700},
+                    {"Name": "SHOT MEDUSA", "Price": 850},
+                    {"Name": "SCREW DRIVER", "Price": 750},
+                    {"Name": "SANGRIA", "Price": 950},
+                    {"Name": "TINTO VERANO", "Price": 750},
+                    {"Name": "COCTEL BARBIE", "Price": 850},
+                    {"Name": "BLUE LAGOON", "Price": 700},
+                    {"Name": "EXPRESSO MARTINI", "Price": 800},
+                    {"Name": "BLOW JOB", "Price": 850},
+                    {"Name": "HABANA CLUB PROFUNDO", "Price": 400},
+                    {"Name": "HABANA CLUB CUBAN SPICED", "Price": 450},
+                    {"Name": "HABANA CLUB SMOKY", "Price": 500},
+                    {"Name": "HABANA CLUB 7 AÑOS", "Price": 400},
+                    {"Name": "HABANA CLUB SELECCION DE MAESTROS", "Price": 950},
+                    {"Name": "SANTIAGO DE CUBA 8 AÑOS", "Price": 400},
+                    {"Name": "SANTIAGO DE CUBA 11 AÑOS", "Price": 700},
+                    {"Name": "SANTIAGO DE CUBA 12 AÑOS", "Price": 800},
+                    {"Name": "DON JULIO REPOSADO", "Price": 1500},
+                    {"Name": "JACK DANIELS", "Price": 1500},
+                    {"Name": "TEQUILA MONTE LA ROSA DORADO", "Price": 700},
+                    {"Name": "TEQUILA REINA DEL SUR FLOR SALVAJE", "Price": 750},
+                    {"Name": "TEQUILA OLMECA REPOSADO", "Price": 800},
+                    {"Name": "TEQUILA OLMECA SILVER", "Price": 850},
+                    {"Name": "TEQUILA ROSE", "Price": 1000},
+                    {"Name": "VODKA GREY GOOSE", "Price": 800},
+                    {"Name": "BAILEYS", "Price": 900},
+                    {"Name": "BEEFEATER", "Price": 900},
+                    {"Name": "TANQUERAY", "Price": 900},
+                    {"Name": "COPA DE VINO TINTO", "Price": 500},
+                    {"Name": "COPA DE VINO BLANCO", "Price": 500}
+                ]
+            },
+            {
+                "Category": "Non-Alcoholic Beverages",
+                "Products": [
+                    {"Name": "JUGOS NATURALES DE FRUTAS", "Price": 180},
+                    {"Name": "LIMONADA NATURAL", "Price": 400},
+                    {"Name": "LIMONADA FRAPE", "Price": 400},
+                    {"Name": "LIMONADA FRESCURA", "Price": 450},
+                    {"Name": "BATIDOS DE HELADO", "Price": 600},
+                    {"Name": "SERVICIO DE MALTEADA", "Price": 200},
+                    {"Name": "REFRESCO COLA", "Price": 250},
+                    {"Name": "REFRESCO NARANJA", "Price": 250},
+                    {"Name": "REFRESCO LIMON", "Price": 250},
+                    {"Name": "REFRESCO 7 UP", "Price": 280},
+                    {"Name": "MALTA BUCAÑERO", "Price": 350},
+                    {"Name": "ENERGIZANTE", "Price": 280},
+                    {"Name": "AGUA NATURAL IMPORTADA", "Price": 200},
+                    {"Name": "AGUA GASEADA CARCI CRESPQ", "Price": 300},
+                    {"Name": "CERVEZA HEINEKEN", "Price": 450},
+                    {"Name": "CERVEZA NACIONAL", "Price": 350},
+                    {"Name": "CERVEZA IMPORTADA", "Price": 280},
+                    {"Name": "SERVICIO DE MICHELADA", "Price": 300},
+                    {"Name": "SERVICIO DE CHELADA", "Price": 200}
+                ]
+            }
+        ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %":true,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": [ "53324796"],
+    "Payment Options": {
+        "Online payments": true,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": false,
+            "USD": true
+        }
+    },
+    "Social Media": {
+        "Facebook": false,
+        "Instagram": false
+    }
+}

@@ -1,0 +1,177 @@
+{
+    "Name": "Abuelo D'Oro",
+    "Zone": "Boyeros",
+    "Location": "Calzada Aldabo % 12 y 13, Aldabo, Boyeros",
+    "Place Type": "Restaurante",
+    "Food Type": "Internacional",
+    "Schedule": [
+        {"day": "monday", "open": "12:00", "close": "24:00"},
+        {"day": "tuesday", "open": "12:00", "close": "24:00"},
+        {"day": "wednesday", "open": "12:00", "close": "24:00"},
+        {"day": "thursday", "open": "12:00", "close": "24:00"},
+        {"day": "friday", "open": "12:00", "close": "24:00"},
+        {"day": "saturday", "open": "12:00", "close": "24:00"},
+        {"day": "sunday", "open": "12:00", "close": "24:00"}
+    ],
+    "Menu":[
+        {
+            "Category": "Entrants(tapas)",
+            "Products": [ 
+                {"Name": "Croquetas", "Price": 500},
+                {"Name": "Empanadas", "Price": 500},
+                {"Name": "Frituras", "Price": 500},
+                {"Name": "Tostones rellenos", "Price": 1000},
+                {"Name": "Papas bravas", "Price": 500},
+                {"Name": "Papas doradas", "Price": 450},
+                {"Name": "Ceviche", "Price": 2000},
+                {"Name": "Coctel de langosta", "Price": 2000},
+                {"Name": "Coctel de camarones", "Price": 2000},
+                {"Name": "Tabla surtida", "Price": 3000}
+            ]
+        },
+        {
+            "Category": "Chef's Recommendation",
+            "Products": [null]
+        },
+        {
+            "Category": "Main courses",
+            "Products": [
+                {
+                    "Meat, Poultry and Game": [
+                        {"Name": "Vaca frita", "Price": 3000},
+                        {"Name": "Ropa vieja", "Price": 3000},
+                        {"Name": "Bistec res cazuela", "Price": 3500},
+                        {"Name": "Picadillo habanera", "Price": 2900},
+                        {"Name": "Bistec encebollado", "Price": 2500},
+                        {"Name": "Cerdo salteado", "Price": 2800},
+                        {"Name": "Medalla con jamón y queso", "Price": 3800},
+                        {"Name": "Medalla con ropa vieja y queso", "Price": 3800},
+                        {"Name": "Chuletilla", "Price": 3000},
+                        {"Name": "Pechuga grillé", "Price": 3000},
+                        {"Name": "Pechuga salteada", "Price": 3500},
+                        {"Name": "Pollo frito", "Price": 2500}
+                    ]
+                },
+                {
+                    "Fish and Seafood": [
+                        {"Name": "Filete pescado grillé", "Price": 3000},
+                        {"Name": "Filete pescado montado", "Price": 4000},
+                        {"Name": "Gratín del mar", "Price": 4000},
+                        {"Name": "Langosta en sus variedades", "Price": 4800},
+                        {"Name": "Camarón variado", "Price": 4800}
+                    ]
+                },
+                {
+                    "Tacos": [
+                        {"Name": "Tacos ropa vieja", "Price": 1500},
+                        {"Name": "Tacos vaca frita", "Price": 1450},
+                        {"Name": "Tacos cerdo", "Price": 1200}
+                    ]
+                }
+            ]
+        },
+        {
+            "Category": "For Your Diet",
+            "Products": [null]
+        },
+        {
+            "Category": "Pasta",
+            "Products": [
+                {"Name": "Espaguetis napolitanos", "Price": 1200},
+                {"Name": "Espaguetis jamón", "Price": 1500}
+            ]
+        },
+        {
+            "Category": "Pizzas",
+            "Products": [
+                {"Name": "Pizza napolitana", "Price": 1000},
+                {"Name": "Pizza jamón", "Price": 1300},
+                {"Name": "Pizza hawaiana", "Price": 1400},
+                {"Name": "Pizza cebolla", "Price": 1100},
+                {"Name": "Pizza pimiento", "Price": 1100},
+                {"Name": "Pizza pepperoni", "Price": 1500}
+            ]
+        },
+        {
+            "Category": "Sandwich",
+            "Products": [
+                {"Name": "Sandwich jamón y queso", "Price": 1500},
+                {"Name": "Sandwich pechuga y queso", "Price": 1800}
+            ]
+        },
+        {
+            "Category": "Additions",
+            "Products": [
+                {"Name": "jamon", "Price": 220},
+                {"Name": "queso", "Price": 200},
+                {"Name": "cebolla", "Price": 170},
+                {"Name": "pinna", "Price": 100},
+                {"Name": "pimienta", "Price": 150},
+                {"Name": "atun", "Price": 250}
+            ]
+        },
+        {
+            "Category": "Fittings(guarniciones)",
+            "Products": [null]
+        },
+        {
+            "Category": "Soups and Creams",
+            "Products": [null]
+        },
+        {
+            "Category": "Desserts",
+            "Products": [null]
+        },
+        {
+            "Category": "Coffees & Infusions",
+            "Products": [null]
+        },
+        {
+            "Category": "Alcoholic Beverages",
+            "Products": [null]
+        },
+        {
+            "Category": "Non-Alcoholic Beverages",
+            "Products": [null]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef":false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": true,
+        "Bar":true,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code":false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space": true,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": true,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": ["76472100"],
+    "Payment Options": {
+        "Online payments": true,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": false,
+            "USD": true
+        }
+    },
+    "Social Media": {
+        "Facebook": "https://www.facebook.com/AbueloDOro?utm_source=restaurantguru&utm_medium=referral",
+        "Instagram": "@abuelo_de_oro_cuba"
+    }
+}

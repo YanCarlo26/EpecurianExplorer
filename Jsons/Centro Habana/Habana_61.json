@@ -1,0 +1,259 @@
+{
+    "Name": "Habana_61",
+    "Zone": "Centro Habana",
+    "Location": "Calle Habana #61, Havana, Cuba",
+    "Place Type": "Restaurante",
+    "Food Type": "Internacional",
+    "Schedule": [
+        {"day": "monday", "open": "12:00", "close": "12:00"},
+        {"day": "tuesday", "open": "12:00", "close": "12:00"}, 
+        {"day": "wednesday", "open": "12:00", "close": "12:00"}, 
+        {"day": "thursday", "open": null, "close": null }, 
+        {"day": "friday", "open": "12:00", "close": "12:00"}, 
+        {"day": "saturday", "open": "12:00", "close": "12:00"}, 
+        {"day": "sunday", "open": "12:00", "close": "12:00"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants",
+            "Products":[
+                {"Name":"Croquetas de la abuela","Price":850},
+                {"Name":"Frituras de Malanga","Price": 670},
+                {"Name":"Croquetas de Queso Azul ","Price": 990},
+                {"Name":"Croquetas de Jamon Serrano","Price": 1350},
+                {"Name":"Esperlan de Pescado","Price": 1200 },
+                {"Name":"Tabla de Embutidos ","Price": 1860},
+                {"Name":"Tabla de Jamon Serrano","Price": 2100},
+                {"Name":"Ceviche de Pescado","Price": 1750},
+                {"Name":"Picadera Mar y Tierra ","Price": 3450},
+                {"Name":"Picadera Mixta","Price": 2450}
+                
+            ]
+        },{
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"Arroz Frito","Price": 2300},
+                        {"Name":"Brochetas de Cerdo","Price": 2400},
+                        {"Name":"Costillas de Cerdo","Price": 2900},
+                        {"Name":"Fajitas de Cerdo","Price": 2100},
+                        {"Name":"Masas de Cerdo","Price": 2400},
+                        {"Name":"Cordero Estofado","Price": 2700},
+                        {"Name":"Ropa Vieja","Price": 2300},
+                        {"Name":"Fajitas de Pollo","Price": 1750},
+                        {"Name":"Vaca Frita","Price": 2100}
+                    ]
+                },
+                {
+                    "Fish and Seafood":[
+                        {"Name":"Camaron de Ajo","Price": 2500},
+                        {"Name":"Camaron Empanado","Price": 2500},
+                        {"Name":"Camaron Enchilado","Price": 2500},
+                        {"Name":"Filete de Pescado","Price": 2470},
+                        {"Name":"Filete Pescado Empanado","Price": 2600},
+                        {"Name":"Filete Pescado Limon","Price": 2600},
+                        {"Name":"Pulpo al Ajo","Price": 3200},
+                        {"Name":"Pulpo al Pesto","Price": 3200},
+                        {"Name":"Mariscada","Price": 3450},
+                        {"Name":"Garbanzo Frito","Price": 1800},
+                        {"Name":"Langosta Grille","Price": 2500},
+                        {"Name":"Langosta al Pesto","Price": 2600}
+                    ]
+                },
+                {
+                    "Tacos":[
+                        {"Name":"Tacos de Res","Price": 2100},
+                        {"Name":"Tacos de Cerdo","Price": 2100},
+                        {"Name":"Tacos de Pescado","Price": 2300},
+                        {"Name":"Tacos de Camarones","Price": 2500},
+                        {"Name":"Tacos de Langosta","Price": 2600},
+                        {"Name":"Tacos de Vegetales","Price": 1900},
+                        {"Name":"Tacos de Pulpo","Price": 3200},
+                        {"Name":"Tacos de Pollo","Price": 2100}
+                        ]
+                }]
+        },{
+            "Category":"Hamburguesas(al fianl entrante?)",
+            "Products":[
+                {"Name":"Baguette de Atun","Price": 1500},
+                {"Name":"Baguette con Jamon y Queso","Price": 1250},
+                {"Name":"Baguette con Lechon","Price": 1800},
+                {"Name":"Baguette con Ropa Vieja","Price": 1900},
+                {"Name":"Baguette de Jamon-Chorizo","Price": 1300},
+                {"Name":"Hamburguesa Clasica","Price": 1100},
+                {"Name":"Hamburguesa de Queso","Price": 1280},
+                {"Name":"Hamburguesa de Jamon y Queso","Price": 1450},
+                {"Name":"Hamburguesa Especial","Price": 1800}
+            ]
+        },{
+            "Category":"Pizzas",
+            "Products":[
+                {"Name":"Pizza Pepperoni","Price": 1850},
+                {"Name":"Pizza Margarita","Price": 1570},
+                {"Name":"Pizza Jamon y Queso","Price": 1570},
+                {"Name":"Pizza Hawaiana","Price": 1700},
+                {"Name":"Pizza Chorizo","Price": 1650},
+                {"Name":"Pizza Napoles","Price": 1370},
+                {"Name":"Pizza Camaron","Price": 2420},
+                {"Name":"Pizza Cubana","Price": 2320},
+                {"Name":"Pizza Jamon Serrano","Price": 2270},
+                {"Name":"Pizza Ropa Vieja","Price": 2520},
+                {"Name":"Pizza Vegetal","Price": 1900},
+                {"Name":"Pizza Nutella","Price":1350 },
+                {"Name":"Pizza Atun y Cebolla","Price": 1900},
+                {"Name":"Pizza 4 Quesos","Price": 2000},
+                {"Name":"Pizza Mixta","Price": 2470}
+                ]
+        },{
+            "Category":"Espaguettis",
+            "Products":[
+                {"Name":"Espaguettis Pomodoro","Price": 1300},
+                {"Name":"Espaguettis Amattricciana","Price": 1650},
+                {"Name":"Espaguettis Carbonara","Price": 1680},
+                {"Name":"Espaguettis Camarones","Price": 2500},
+                {"Name":"Espaguettis Jamon y Queso","Price": 1580},
+                {"Name":"Espaguettis Pesto","Price": 1500},
+                {"Name":"Espaguettis Salmon Ahumado","Price": 2000},
+                {"Name":"Espaguettis Atun","Price": 2100},
+                {"Name":"Espaguettis Aglio Olio","Price": 1300},
+                {"Name":"Espaguettis Arrabiatta","Price": 1300}
+                ]
+        },{
+            "Category":"Cafes e Infusiones",
+            "Products":[
+                {"Name":"Expresso","Price": 350},
+                {"Name":"Cortado","Price": 400},
+                {"Name":"Con Leche","Price": 550},
+                {"Name":"Cappuccino","Price": 550},
+                {"Name":"Americano","Price": 500},
+                {"Name":"Bombon","Price": 700},
+                {"Name":"Irlandes","Price": 1250},
+                {"Name":"Affogato","Price": 1000},
+                {"Name":"Frappuccino","Price": 780},
+                {"Name":"FrappuBailey","Price": 810}
+            ]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"Batido de Helado","Price": 650},
+                {"Name":"Batido de Frutas","Price": 550},
+                {"Name":"Jugo Natural","Price": 450},
+                {"Name":"Limonada Frappe","Price": 600},
+                {"Name":"Limonada Frappe con Pina","Price": 700},
+                {"Name":"Limonada Frappe XL","Price": 700},
+                {"Name":"San Francisco","Price": 500},
+                {"Name":"Malteada","Price": 750},
+                {"Name":"Agua Natural","Price": 350},
+                {"Name":"Agua Gaseada","Price": 450},
+                {"Name":"Agua Tonica MG","Price": 600},
+                {"Name":"Refresco Importado","Price": 400},
+                {"Name":"Malta","Price": 500},
+                {"Name":"Redbull","Price": 850}
+            ]
+        },{
+            "Category":" Alcoholic Beverages",
+            "Products":[
+                {"Name":"Cerveza Nacional","Price": 600},
+                {"Name":"Cerveza Importada","Price": 700},
+                {"Name":"Servicio Chelada","Price": 150},
+                {"Name":"Servicio Michelada","Price": 300},
+                {"Name":"Aperol Spritz","Price": 0},
+                {"Name":"Bloody Mary","Price": 0},
+                {"Name":"Caipirina","Price": 0},
+                {"Name":"Caipirina XL Fruit","Price": 0},
+                {"Name":"Caipirisima","Price": 0},
+                {"Name":"Caipirisima XL Fruit","Price": 0},
+                {"Name":"Caipiroska","Price": 0},
+                {"Name":"Caipiroska XL Fruit","Price": 0},
+                {"Name":"Caipiroska Premium","Price": 0},
+                {"Name":"Caipigin","Price": 0},
+                {"Name":"Caipiquila","Price": 0},
+                {"Name":"Caipirito","Price": 0},
+                {"Name":"Canchanchara","Price": 0},
+                {"Name":"Canchanchara Premium","Price": 0},
+                {"Name":"Cuba Libre","Price": 0},
+                {"Name":"Cubanito","Price": 0},
+                {"Name":"Cubata","Price": 0},
+                {"Name":"Cabata Santiago","Price": 0},
+                {"Name":"Daiquiri Clasico","Price": 0},
+                {"Name":"Daiquiri Fruit","Price": 0},
+                {"Name":"Expresso Martini","Price": 0},
+                {"Name":"Good Father","Price": 0},
+                {"Name":"Long Island","Price": 0},
+                {"Name":"Margarita","Price": 0},
+                {"Name":"Margarita Coronada","Price": 0},
+                {"Name":"Margarita Premium","Price": 0},
+                {"Name":"Martini","Price": 0},
+                {"Name":"Mojito","Price": 0},
+                {"Name":"Mojito Frappe XL","Price": 0},
+                {"Name":"Mojito Fruit","Price": 0},
+                {"Name":"Moscow Mule","Price": 0},
+                {"Name":"Moscow Mule Fruit","Price": 0},
+                {"Name":"Mother Fucker","Price": 0},
+                {"Name":"Negroni","Price": 0},
+                {"Name":"Orgasmo","Price": 0},
+                {"Name":"Pina Colada","Price": 0},
+                {"Name":"Ron Collins","Price": 0},
+                {"Name":"Tom Collins","Price": 0},
+                {"Name":"Sangria","Price": 0},
+                {"Name":"Screw Driver","Price": 0},
+                {"Name":"Sex On The Beach","Price": 0},
+                {"Name":"Tinto de Verano","Price": 0}
+            ]
+        },{
+            "Category":"Sopas y Cremas",
+            "Products":[null]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null ]
+        },{
+            "Category":"Sopas y Cremas",
+            "Products":[null]
+        },{
+            "Category":"Postres",
+            "Products":[null]
+        },{
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        }
+    ],
+    "House Specialty": "Mariscada Habana 61 ",
+    "Head Chef": null,
+    "Price Range": "",
+    "Place Options": {
+        "Accessible": true,
+        "Executive Lunch": true,
+        "Smoking Area":null,
+        "Bar": true,
+        "Event Buffet": null,
+        "Wine List": true,
+        "Air Conditioning": true,
+        "Service Charge %": true,
+        "Dress Code": null,
+        "Takeaway Food": true,
+        "Breakfast":null,
+        "Home Delivery": true,
+        "Reserved Space": true,
+        "Karaoke": null,
+        "Recorded Music": true,
+        "Playground": null,
+        "Parking":null,
+        "Live Performances": null,
+        "Room Reservation": true
+    },
+    "State or Private": "Private",
+    "Phone": "+(53) 7-8016433",
+    "Payment Options":{
+        "Online payments":true,
+        "Credit Card":null,
+        "Cash":{
+        "CUP":true,
+        "EUR":true,
+        "USD":true
+    } }, 
+    "Social Media":{
+        "Facebook": "https://www.facebook.com/Habana61/",
+        "Instagram":"https://www.instagram.com/habana61restaurante?fbclid=IwY2xjawHDVv9leHRuA2FlbQIxMAABHQjY6-RzJxJVshgfBFgppz2ROgc4WBEdlGMpc_8ijM07qcKUaGaebk8Aow_aem_N0QLpmkDVpsOUxsOyPv6EA"
+    }
+}

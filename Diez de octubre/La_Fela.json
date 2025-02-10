@@ -1,0 +1,282 @@
+{
+    "Name": "La Fela",
+    "Zone": "Diez de Octubre",
+    "Location": "#4, Nuestra Senora de Regla entre Remedios y Calzada de Luyano",
+    "Place Type": "Restaurante",
+    "Food Type": "Cubana e Italiana",
+    "Schedule": [
+        {"day": "monday", "open": "12:00", "close": "24:00"},
+        {"day": "tuesday", "open": "12:00", "close": "24:00"},
+        {"day": "wednesday", "open": "12:00", "close": "24:00"},
+        {"day": "thursday", "open": "12:00", "close": "24:00"},
+        {"day": "friday", "open": "12:00", "close": "24:00"},
+        {"day": "saturday", "open": "12:00", "close": "24:00"},
+        {"day": "sunday", "open": "12:00", "close": "24:00"}
+    ],
+    "Menu": [
+        {
+            "Category": "Entrants(tapas)",
+            "Products": [
+                {"Name": "Ensalada fría de jamón", "Price": 600},
+                {"Name": "Ceviche de pescado", "Price": 2000},
+                {"Name": "Tartar de salmón", "Price": 2000},
+                {"Name": "Ceviche de camarones", "Price": 2000},
+                {"Name": "Coctel de camarón", "Price": 2000},
+                {"Name": "Tabla mixta", "Price": 2600},
+                {"Name": "Tabla de jamón Serrano y queso azul", "Price": 2800},
+                {"Name": "Croquetas de la casa", "Price": 700},
+                {"Name": "Garbanzos fritos", "Price": 1800},
+                {"Name": "Frituras de malanga", "Price": 750},
+                {"Name": "Bolitas de queso con salsa agridulce", "Price": 750},
+                {"Name": "Tostones rellenos con ropa vieja de cerdo", "Price": 1300},
+                {"Name": "Eperlan de pescado con salsa rosa", "Price": 2000},
+                {"Name": "Fajitas de pollo", "Price": 1800},
+                {"Name": "Empanada de la casa en salsa agridulce", "Price": 600},
+                {"Name": "Tequenos (rollitos de queso)", "Price": 600}
+            ]
+        },
+        {
+            "Category": "Chef's Recommendation",
+            "Products": [null]
+        },
+        {
+            "Category": "Main courses",
+            "Products": [
+                {
+                    "Meat, Poultry and Game": [
+                        {"Name": "Masas de cerdo fritas encebolladas", "Price": 2800},
+                        {"Name": "Chuleta de cerdo", "Price": 2500},
+                        {"Name": "Bistec de cerdo grille", "Price": 2000},
+                        {"Name": "Bistec de cerdo encebollado", "Price": 2200},
+                        {"Name": "Bistec de cerdo gratinado con jamon y queso", "Price": 2400},
+                        {"Name": "Lonjas de cerdo con mojo criollo", "Price": 2800},
+                        {"Name": "Bistec de pollo grille", "Price": 1800},
+                        {"Name": "Suprema de pollo grille", "Price": 2200},
+                        {"Name": "Suprema de pollo gratinada con jamon y queso", "Price": 2400},
+                        {"Name": "Suprema de pollo a la crema", "Price": 2400},
+                        {"Name": "Cordero al chilindron o al vino tinto", "Price": 2800},
+                        {"Name": "Cordero estofado", "Price": 3000},
+                        {"Name": "Bistec de palomilla", "Price": 2500},
+                        {"Name": "Filet Mignon", "Price": 4000},
+                        {"Name": "Ropa vieja de res", "Price": 2500},
+                        {"Name": "Vaca frita con anillos de cebolla", "Price": 2700},
+                        {"Name": "Churrasco de res", "Price": 4000},
+                        {"Name": "Arroz con pollo a la chorrera", "Price": 2500},
+                        {"Name": "Arroz frito", "Price": 2500}
+                    ]
+                },
+                {
+                    "Fish and Seafood": [
+                        {"Name": "Filete de pescado grille", "Price": 2500},
+                        {"Name": "Filete de pescado gratinado con jamon y queso", "Price": 2800},
+                        {"Name": "Filete de pescado al limon", "Price": 2700},
+                        {"Name": "Filete de pescado La Fela", "Price": 3200},
+                        {"Name": "Filete de pescado John Bill", "Price": 3400},
+                        {"Name": "Pescado entero frito", "Price": 3000},
+                        {"Name": "Camaron Termidor", "Price": 3200},
+                        {"Name": "Camaron a su eleccion (enchilado o al ajillo)", "Price": 2800},
+                        {"Name": "Caldereta de mariscos", "Price": 3200},
+                        {"Name": "Brocheta mixta del Corral", "Price": 3200},
+                        {"Name": "Brocheta mixta del Mar", "Price": 3700},
+                        {"Name": "Grillada de la casa (cerdo, pollo, pescado y camaron)", "Price": 3800},
+                        {"Name": "Paella Marinera", "Price": 3500}
+                    ]
+                },
+                {
+                    "Tacos": [null]
+                }
+            ]
+        },
+        {
+            "Category": "For Your Diet",
+            "Products": [null]
+        },
+        {
+            "Category": "Pasta",
+            "Products": [
+                {"Name": "Lasagna", "Price": 1200},
+                {"Name": "Espaghettis napolitano de queso blanco", "Price": 700},
+                {"Name": "Espaghettis napolitanos de queso importado", "Price": 1100},
+                {"Name": "Espaghettis al Pesto con queso importado", "Price": 1500},
+                {"Name": "Espaghettis Frutti di Mare", "Price": 3200}
+            ]
+        },
+        {
+            "Category": "Pizzas",
+            "Products": [
+                {"Name": "Pizza npolitana", "Price": 1000},
+                {"Name": "Pizza La Fela", "Price": 2400},
+                {"Name": "Pizza de vegetales", "Price": 1700},
+                {"Name": "Super Pizza de queso blanco", "Price": 1600},
+                {"Name": "Super Pizza de queso importado", "Price": 2400},
+                {"Name": "Pizza de champignones", "Price": 1500},
+                {"Name": "Pizza Frutti di Mare", "Price": 2900},
+                {"Name": "Pizza Margarita", "Price": 1400},
+                {"Name": "Pizza de camarones", "Price": 2600},
+                {"Name": "Pizza napolitana con queso blanco", "Price": 600}
+            ]
+        },
+        {
+            "Category": "Sandwich",
+            "Products": [
+                {"Name": "Hamburguesa Especial", "Price": 1400},
+                {"Name": "Sandwich cubano", "Price": 2000},
+                {"Name": "Baguette de jamon y queso Gouda", "Price": 1000},
+                {"Name": "Baguette de atun y anillas de cebolla", "Price": 1400},
+                {"Name": "Baguette de jamon Serrano y queso Gouda", "Price": 1800},
+                {"Name": "Pan con bistec", "Price": 1600},
+                {"Name": "Hamburguesa de pollo", "Price": 350},
+                {"Name": "Hamburguesa de res", "Price": 500}
+            ]
+        },
+        {
+            "Category": "Additions",
+            "Products": [null]
+        },{
+            "Category": "Fittings(guarniciones)",
+            "Products": [
+                {"Name": "Cebolla", "Price": 200},
+                {"Name": "Pimiento", "Price": 200},
+                {"Name": "Jamon", "Price": 300},
+                {"Name": "Chorizo", "Price": 300},
+                {"Name": "Queso importado", "Price": 400},
+                {"Name": "Queso blanco", "Price": 200},
+                {"Name": "Jamon Serrano", "Price": 500},
+                {"Name": "Bacon", "Price": 400},
+                {"Name": "Aceitunas", "Price": 300},
+                {"Name": "Atun", "Price": 400},
+                {"Name": "Camaron", "Price": 800},
+                {"Name": "Ropa vieja", "Price": 500},
+                {"Name": "Pina", "Price": 200},
+                {"Name": "Champignones", "Price": 400},
+                {"Name": "Pepperoni", "Price": 500},
+                {"Name": "Arroz blanco", "Price": 150},
+                {"Name": "Arroz moros y cristianos", "Price": 300},
+                {"Name": "Arroz Pilaf", "Price": 300},
+                {"Name": "Vianda frita", "Price": 250},
+                {"Name": "Yuca con mojo criollo", "Price": 300},
+                {"Name": "Tamal en cazuela", "Price": 300},
+                {"Name": "Tostones al ajo estilo oriental", "Price": 300},
+                {"Name": "Ensalada de vegetales frescos", "Price": 400},
+                {"Name": "Papas fritas", "Price": 600},
+                {"Name": "Pure de malanga", "Price": 400}
+            ]
+        },{
+            "Category": "Soups and Creams",
+            "Products": [
+                {"Name": "Crema de queso", "Price": 550}
+            ]
+        },{
+            "Category": "Desserts",
+            "Products": [
+                {"Name": "Tres Gracias", "Price": 450},
+                {"Name": "Cake", "Price": 400},
+                {"Name": "Copa Lolita", "Price": 450},
+                {"Name": "Tarta", "Price": 400},
+                {"Name": "Flan", "Price": 200}
+            ]
+        },{
+            "Category": "Coffees & Infusions",
+            "Products": [
+                {"Name": "Café Carajillo", "Price": 350},
+                {"Name": "Cappuccino", "Price": 600},
+                {"Name": "Café Bombón", "Price": 600},
+                {"Name": "Express Jager", "Price": 500}
+            ]
+        },{
+            "Category": "Alcoholic Beverages",
+            "Products": [
+                {"Name": "Caipirinha", "Price": 650},
+                {"Name": "Caipiroska", "Price": 650},
+                {"Name": "Screwdriver", "Price": 600},
+                {"Name": "Jagerinha", "Price": 650},
+                {"Name": "Jager Mule", "Price": 650},
+                {"Name": "Sex on the beach", "Price": 600},
+                {"Name": "Tequila Sunrise", "Price": 650},
+                {"Name": "Gin & Tonic", "Price": 1000},
+                {"Name": "Bloody Mary", "Price": 650},
+                {"Name": "Margarita", "Price": 650},
+                {"Name": "Sangria", "Price": 700},
+                {"Name": "Black Russian", "Price": 600},
+                {"Name": "White Russian", "Price": 650},
+                {"Name": "Alexander", "Price": 650},
+                {"Name": "Mary Pickford", "Price": 550},
+                {"Name": "Piña Colada", "Price": 650},
+                {"Name": "Cubanito", "Price": 650},
+                {"Name": "Coctel La Fela", "Price": 600},
+                {"Name": "Coctel Buena Fe", "Price": 600},
+                {"Name": "Mojito La Fela", "Price": 600},
+                {"Name": "Daiquiri", "Price": 500},
+                {"Name": "Ron Expresso", "Price": 350},
+                {"Name": "Irish Coffee", "Price": 550},
+                {"Name": "Expresso Martini", "Price": 500},
+                {"Name": "Cerveza Cristal", "Price": 350},
+                {"Name": "Termo de cerveza Cristal", "Price": 2450},
+                {"Name": "Cerveza importada", "Price": 300},
+                {"Name": "Termo de cerveza importada", "Price": 2100},
+                {"Name": "Cerveza Heineken", "Price": 550},
+                {"Name": "Termo de cerveza Heineken", "Price": 3850},
+                {"Name": "Cerveza dispensada", "Price": 350},
+                {"Name": "Termo de dispensada", "Price": 1750}
+            ]
+        },{
+            "Category": "Non-Alcoholic Beverages",
+            "Products": [
+                {"Name": "Batido de mamey / Guayaba / Frutabomba", "Price": 400},
+                {"Name": "Suero de helado", "Price": 900},
+                {"Name": "Malteada", "Price": 550},
+                {"Name": "Agua natural", "Price": 150},
+                {"Name": "Jugo en conserva", "Price": 250},
+                {"Name": "Jugo de fruta", "Price": 250},
+                {"Name": "Refrescos", "Price": 250},
+                {"Name": "Refresco Pepsi / 7up / Fanta / Coca Cola", "Price": 300},
+                {"Name": "Malta Bucanero", "Price": 350},
+                {"Name": "Malta Holandia", "Price": 350},
+                {"Name": "Michelada", "Price": 400},
+                {"Name": "Chelada", "Price": 300},
+                {"Name": "Kermato", "Price": 600},
+                {"Name": "Energizantes", "Price": 300},
+                {"Name": "Red Bull", "Price": 350}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": 0,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": true
+    },
+    "State or Private": "privado",
+    "Phone": ["51950601"],
+    "Payment Options": {
+        "Online payments": "digital_transfer_national, usd_transfer",
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": false,
+            "USD": true
+        }
+    },
+    "Social Media": {
+        "Facebook": "https://www.facebook.com/lafelarestaurant/",
+        "Instagram": "@lafelarestaurant"
+    }
+}

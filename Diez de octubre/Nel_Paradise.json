@@ -1,0 +1,312 @@
+{
+    "Name": "Nel Paradiso",
+    "Zone": "10 de Octubre",
+    "Location": "Acosta #303 esquina Armas, 10 de Octubre",
+    "Place Type": "Restaurante",
+    "Food Type": "Internacional,Criolla",
+    "Schedule":[
+        {"day": "monday", "open": "1100", "close": "2330"},
+        {"day": "tuesday", "open": "1100", "close": "2330"},
+        {"day": "wednesday", "open": "1100", "close": "2330"},
+        {"day": "thursday", "open": "1100", "close": "2330"},
+        {"day": "friday", "open": "1100", "close": "2330"},
+        {"day": "saturday", "open": "1100", "close": "2330"},
+        {"day": "sunday", "open": "1100", "close": "2330"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name": "Croquetas de la casa con salsa rosa", "Price": 792},
+                {"Name": "Frituras de la casa con miel y mostaza", "Price": 880},
+                {"Name": "Bastones de Pollo con salsa rosa", "Price": 1760},
+                {"Name": "Bastones de Mar en salsa alioli", "Price": 1760},
+                {"Name": "Tamal en Cazuela", "Price": 1584},
+                {"Name": "Tamal Marinero", "Price": 2376},
+                {"Name": "Ensalada de Atún y Huevo", "Price": 1760},
+                {"Name": "Ceviche de Pescado", "Price": 1584},
+                {"Name": "Picadera Paraíso", "Price": 2992},
+                {"Name": "Coctel de Camarones", "Price": 1936},
+                {"Name": "Cóctel de Langosta", "Price": 2112},
+                {"Name": "Tabla de Quesos", "Price": 2816},
+                {"Name": "Lonjas de Jamón Serrano", "Price": 2640},
+                {"Name": "Tabla Mixta de Quesos y Jamón Serrano", "Price": 4048},
+                {"Name": "Salmón Paradiso", "Price": 2816}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                    {"Name": "Bistec de CERDO glaseado al Vino Tinto", "Price": 2112},
+                    {"Name": "Chuleta en salsa Verde", "Price": 2288},
+                    {"Name": "Solomillo de Cerdo al estilo del Chef", "Price": 2816},
+                    {"Name": "Entrecot de Cerdo", "Price": 3520},
+                    {"Name": "Lomo Ahumado", "Price": 2464},
+                    {"Name": "Estofado de Cerdo", "Price": 6600},
+                    {"Name": "Ropa Vieja de Res", "Price": 2552},
+                    {"Name": "Bistec de Res", "Price": 2904},
+                    {"Name": "Fajita de Res", "Price": 2464},
+                    {"Name": "Filete a la Douche", "Price": 2990},
+                    {"Name": "Filete Mignon/Churrasco", "Price": 3872},
+                    {"Name": "Chateaubriand", "Price": 5280},
+                    {"Name": "Striploin", "Price": 3872},
+                    {"Name": "Ropa Vieja de Cordero", "Price": 1848},
+                    {"Name": "Cabrito Picoso", "Price": 2640},
+                    {"Name": "Cordero al Vino Tinto", "Price": 2464},
+                    {"Name": "Pechuga Grille", "Price": 2112},
+                    {"Name": "Jardinera de Pechuga", "Price": 2464},
+                    {"Name": "Pechuga Roquefort", "Price": 2816},
+                    {"Name": "Pechuga Paraíso", "Price": 2992}
+                    ]
+                },{
+                    "Fish and Seafood":[
+                    {"Name": "Masa de Pescado Frita", "Price": 2640},
+                    {"Name": "Filete de Pescado Grille", "Price": 2288},
+                    {"Name": "Filete John Bill", "Price": 3256},
+                    {"Name": "Camarones a Elección", "Price": 2995},
+                    {"Name": "Pulpo al Gusto", "Price": 3500},
+                    {"Name": "Rueda a las Brasas", "Price": 3344},
+                    {"Name": "Rueda Hemingway", "Price": 4048},
+                    {"Name": "Langosta en Variantes", "Price": 3168},
+                    {"Name": "Langosta Termidor", "Price": 3520},
+                    {"Name": "Caldereta de Mariscos", "Price": 4480},
+                    {"Name": "MonteMari Paraíso", "Price": 4576}
+                    ]
+                },{
+                    "Tacos":[null]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta ",
+            "Products":[
+                {"Name": "Pasta Napolitana", "Price": 1230},
+                {"Name": "Pasta Amatriciana", "Price": 1936},
+                {"Name": "Carbonara", "Price": 2200},
+                {"Name": "Nero di Sepia", "Price": 3256},
+                {"Name": "Pasta al Pesto", "Price": 2756},
+                {"Name": "Lasaña", "Price": 1895}
+            ]
+        },{
+            "Category":"Pizzas ",
+            "Products":[
+                {"Name": "Napolitana", "Price": 1144},
+                {"Name": "Margarita", "Price": 1232},
+                {"Name": "De Cebolla", "Price": 1325},
+                {"Name": "Ortolana", "Price": 1496},
+                {"Name": "Hawaiana", "Price": 2288},
+                {"Name": "Jamón o Chorizo", "Price": 1760},
+                {"Name": "De Atún", "Price": 2640},
+                {"Name": "De Camarones", "Price": 2640},
+                {"Name": "De Jamón Serrano", "Price": 2816},
+                {"Name": "Pizza Nel Paraíso", "Price": 2992}
+            ]
+        },{
+            "Category":"Sandwich",
+            "Products":[null]
+        },{
+            "Category":"Additions",
+            "Products":[
+                {"Name": "Piña / Ají Pimiento", "Price": 330},
+                {"Name": "Tomate / Cebolla", "Price": 380},
+                {"Name": "Aceitunas / Bacon", "Price": 480},
+                {"Name": "Chorizo / Jamón", "Price": 490},
+                {"Name": "Champiñones", "Price": 730},
+                {"Name": "Gouda / Atún", "Price": 800},
+                {"Name": "Camarón / Serrano", "Price": 945}
+            ]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                {"Name": "Arroz Blanco", "Price": 422},
+                {"Name": "Arroz Moro", "Price": 636},
+                {"Name": "Arroz Pilaf", "Price": 880},
+                {"Name": "Puré de Malanga", "Price": 640},
+                {"Name": "Puré de Viandas", "Price": 528},
+                {"Name": "Viandas Fritas", "Price": 528},
+                {"Name": "Papas Fritas", "Price": 1010},
+                {"Name": "Ensalada de Vegetales", "Price": 633},
+                {"Name": "Vegetales Salteados", "Price": 675}
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name": "Flan de caramelo", "Price": 800},
+                {"Name": "Bola de Helado", "Price": 200},
+                {"Name": "Copa de Helado", "Price": 895},
+                {"Name": "Tarta del día", "Price": 980}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+                {"Name": "Expresso", "Price": 300},
+                {"Name": "Cortado", "Price": 375},
+                {"Name": "Americano", "Price": 350},
+                {"Name": "Capuchino", "Price": 400},
+                {"Name": "Frappuccino", "Price": 400},
+                {"Name": "Bombón", "Price": 725},
+                {"Name": "Irish Coffee", "Price": 750}
+            ]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name": "Havana Club 3 años", "Price": 500},
+                {"Name": "Havana Club Especial", "Price": 565},
+                {"Name": "Havana Club Reserva", "Price": 800},
+                {"Name": "Havana Club 7 años", "Price": 600},
+                {"Name": "Selección de Maestros", "Price": 1220},
+                {"Name": "Black Tears", "Price": 775},
+                {"Name": "Absolut", "Price": 850},
+                {"Name": "Grey Goose", "Price": 870},
+                {"Name": "Stolichnaya", "Price": 450},
+                {"Name": "Dewars", "Price": 800},
+                {"Name": "Oxford", "Price": 800},
+                {"Name": "J&B", "Price": 800},
+                {"Name": "Clan Campbell", "Price": 900},
+                {"Name": "Ballentines", "Price": 600},
+                {"Name": "Buchanans", "Price": 1200},
+                {"Name": "J.W Red Label", "Price": 850},
+                {"Name": "J.W Black Label", "Price": 1130},
+                {"Name": "J.W Double Black Label", "Price": 1230},
+                {"Name": "Patrón", "Price": 1400},
+                {"Name": "Don Julio", "Price": 925},
+                {"Name": "Olmeca", "Price": 850},
+                {"Name": "Centenario", "Price": 800},
+                {"Name": "Rose", "Price": 830},
+                {"Name": "Q", "Price": 900},
+                {"Name": "Beefeater", "Price": 900},
+                {"Name": "Tanqueray", "Price": 1320},
+                {"Name": "Campari", "Price": 800},
+                {"Name": "Dactari", "Price": 800},
+                {"Name": "Filipetti", "Price": 800},
+                {"Name": "Cinzano", "Price": 800},
+                {"Name": "Martini", "Price": 800},
+                {"Name": "Ricard", "Price": 800},
+                {"Name": "Triple Sec", "Price": 800},
+                {"Name": "Jagermeister", "Price": 970},
+                {"Name": "Carolans", "Price": 800},
+                {"Name": "Amarula", "Price": 800},
+                {"Name": "Baileys", "Price": 800},
+                {"Name": "Amaretto", "Price": 800},
+                {"Name": "Cóctel Paraíso", "Price": 870},
+                {"Name": "Manhattan", "Price": 720},
+                {"Name": "Daiikiri", "Price": 635},
+                {"Name": "Cubata", "Price": 746},
+                {"Name": "Cuba Libre", "Price": 599},
+                {"Name": "Cubanito", "Price": 645},
+                {"Name": "Ron Collins", "Price": 655},
+                {"Name": "Blody Mary", "Price": 825},
+                {"Name": "Tinto de Verano", "Price": 775},
+                {"Name": "Sangría", "Price": 765},
+                {"Name": "Mojito", "Price": 724},
+                {"Name": "Tom Collins", "Price": 950},
+                {"Name": "Long Island", "Price": 1275},
+                {"Name": "Michelada", "Price": 885},
+                {"Name": "Michelada Corona", "Price": 940},
+                {"Name": "Michelada Heineken", "Price": 950},
+                {"Name": "Chelada", "Price": 775},
+                {"Name": "Chelada Corona", "Price": 830},
+                {"Name": "Chelada Heineken", "Price": 850},
+                {"Name": "Pina Colada", "Price": 935},
+                {"Name": "Cairoska", "Price": 785},
+                {"Name": "Caipirinha", "Price": 725},
+                {"Name": "Caipiríssima", "Price": 730},
+                {"Name": "Gin Tonic", "Price": 987},
+                {"Name": "Vodka Tonic", "Price": 795},
+                {"Name": "Coctel Martini", "Price": 950},
+                {"Name": "Sreewdriver", "Price": 825},
+                {"Name": "Orgasmo", "Price": 1216},
+                {"Name": "Cerveza Nacional", "Price": 375},
+                {"Name": "Cerveza Importada", "Price": 330},
+                {"Name": "Corona / Heineken", "Price": 600},
+                {"Name": "Copa de Vino Tinto", "Price": 600},
+                {"Name": "Copa de Vino Blanco", "Price": 550},
+                {"Name": "Botellas de Vino Blanco", "Price": 4000},
+                {"Name": "Botellas de Vino Tinto", "Price": 5000},
+                {"Name": "Sidra", "Price": 3000},
+                {"Name": "Freixenet", "Price": 6000},
+                {"Name": "Margarita", "Price": 825}
+            ]
+        },
+        {
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name": "Jugos Naturales", "Price": 270},
+                {"Name": "Batido de Fruta Natural", "Price": 450},
+                {"Name": "Malteada", "Price": 675},
+                {"Name": "Batido de Helado", "Price": 987},
+                {"Name": "Piña Colada Virgen", "Price": 700},
+                {"Name": "Limonada Frappé", "Price": 600},
+                {"Name": "Limonada Frescura", "Price": 675},
+                {"Name": "Agua Natural", "Price": 260},
+                {"Name": "Agua Tónica / Gaseada", "Price": 280},
+                {"Name": "Agua Tónica MG", "Price": 600},
+                {"Name": "Refresco Nacional", "Price": 300},
+                {"Name": "Refresco Importado", "Price": 350},
+                {"Name": "Malta Nacional", "Price": 380},
+                {"Name": "Malta Importada", "Price": 350},
+                {"Name": "Jugo de Lata", "Price": 390},
+                {"Name": "Jugo de Caja", "Price": 300},
+                {"Name": "Energizante", "Price": 330},
+                {"Name": "Red Bull", "Price": 600},
+                {"Name": "Kermato", "Price": 600}
+            ]
+        }
+    ],
+    "House Specialty": "",
+    "Head Chef": "",
+    "Price Range": "",
+    "Place Options": {
+        "Accessible": true,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": 0,
+        "Dress Code": false,
+        "Takeaway Food": true,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space": true,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": true
+    },
+    "State or Private": "Privado",
+    "Phone": ["76967579", "52953716"],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+            "CUP": true,
+            "EUR": false,
+            "USD": true
+        }
+    },
+    "Social Media":{
+        "Facebook": "https://www.facebook.com/NELPARADISORESTAURANTE/",
+        "Instagram": "@nelparadiso"
+    }
+}

@@ -1,0 +1,232 @@
+{
+    "Name": "Tanokura",
+    "Zone": "false",
+    "Location": "Calle 403, esquina de Av Rancho Boyeros y Calle B, Santiago de las Vegas, Boyeros, Coordinates: XJC8+G2P",
+    "Place Type": "Restaurante",
+    "Food Type": "Comida mixta",
+    "Schedule":[
+        {"day": "monday", "open": "11h00", "close": "23h00"},
+        {"day": "tuesday", "open": "11h00", "close": "23h00"},
+        {"day": "wednesday", "open": "11h00", "close": "23h00"},
+        {"day": "thursday", "open": "11h00", "close": "23h00"},
+        {"day": "friday", "open": "11h00", "close": "23h00"},
+        {"day": "saturday", "open": "11h00", "close": "23h00"},
+        {"day": "sunday", "open": "11h00", "close": "23h00"}
+    ],
+    "Menu":[
+            {
+                "Category":"Entrants(tapas)",
+                "Products":[
+                    {"Name":"Maripositas chinas", "Price": 520},
+                    {"Name":"Frituras de malanga", "Price": 520},
+                    {"Name":"Tostones rellenos de jamon y queso", "Price": 750},
+                    {"Name":"Tostones rellenos de chorizo y queso", "Price": 770},
+                    {"Name":"Tostones rellenos de Ropa Vieja", "Price": 770},
+                    {"Name":"Tostones rellenos de atun", "Price": 770},
+                    {"Name":"Tostones rellenos de cangrejo", "Price": 770},
+                    {"Name":"Croquetas de Bechamel de pollo", "Price": 920},
+                    {"Name":"Croquetas de Bechamel de pescado", "Price": 920},
+                    {"Name":"Delicias Tanokura", "Price": 2000},
+                    {"Name":"Garbanzos fritos", "Price": 1220},
+                    {"Name":"Eperlan", "Price": 1020},
+                    {"Name":"Fajitas de cerdo", "Price": 920},
+                    {"Name":"Fajitas de pollo", "Price": 920},
+                    {"Name":"Coctel de camaron", "Price": 1020},
+                    {"Name":"Coctel de langosta", "Price": 1020},
+                    {"Name":"Ensalada fria de pollo", "Price": 720},
+                    {"Name":"Ensalada fria de jamon", "Price": 770},
+                    {"Name":"Ensalada fria de atun", "Price": 770},
+                    {"Name":"Enchilado de cangrejo con pan", "Price": 820}
+                ]
+            },
+            {
+                "Category":"Chef's Recommendation",
+                "Products":[
+                    [null]
+                ]
+            },
+            {
+                "Category":"Main courses",
+                "Products":[
+                    {
+                        " Meat, Poultry and Game ": [
+                            {"Name":"Rollo de pechuga con jamon, bacon y queso", "Price": 2500},
+                            {"Name":"Churrasco", "Price": 2930},
+                            {"Name":"Pechuga Parisien", "Price": 2250},
+                            {"Name":"Pechuga Cardenal", "Price": 2250},
+                            {"Name":"Suprema de pollo grille", "Price": 1330},
+                            {"Name":"Gordon Blue", "Price": 1930},
+                            {"Name":"Filete Mignon", "Price": 3530},
+                            {"Name":"Filete a la Deutch", "Price": 3030},
+                            {"Name":"Solomillo encebollado", "Price": 3230},
+                            {"Name":"Uruguayo de solomillo", "Price": 4030}
+                        ]
+                    },{
+                        "Fish and Seafood":[
+                            {"Name":"Pescado entero frito", "Price": 1800},
+                            {"Name":"Filete de pescado grille", "Price": 1980},
+                            {"Name":"Filete de pescado empanado", "Price": 2380},
+                            {"Name":"Filete de pescado a la muselina", "Price": 2430},
+                            {"Name":"Camarones Grille", "Price": 2030},
+                            {"Name":"Camarones al ajillo", "Price": 2030},
+                            {"Name":"Enchilado de camarones", "Price": 2030},
+                            {"Name":"Camarones empanados", "Price": 2330},
+                            {"Name":"Langosta Grille", "Price": 2030},
+                            {"Name":"Langosta enchilada", "Price": 2030}
+                        ]
+                    },{
+                        "Tacos":[
+                            null
+                        ]
+                    }
+                ]
+            },{
+                "Category":"For Your Diet",
+                "Products":[
+                    {"Name":"Ensalada de vegetales con pollo", "Price": 720}
+                ]
+            },
+            {
+                "Category":"Pasta ",
+                "Products":[
+                    {"Name":"Spaghettis Alfredo", "Price": 2400},
+                    {"Name":"Spaghettis Carbonara", "Price": 2600},
+                    {"Name":"Lasagna Tanokura", "Price": 1230}
+                ]
+            },{
+                "Category":"Pizzas ",
+                "Products":[
+                    {"Name":"Pizza de queso", "Price": 1430},
+                    {"Name":"Pizza Tanokura", "Price": 2680},
+                    {"Name":"Pizza de pepperoni", "Price": 1830}
+                ]
+            },{
+                "Category":"Sandwich",
+                "Products":[
+                    [null]
+                ]
+            },{
+                "Category":"Additions",
+                "Products":[
+                    {"Name":"Pina glaseada", "Price": 180},
+                    {"Name":"Queso", "Price": 280},
+                    {"Name":"Chorizo", "Price": 410},
+                    {"Name":"Aceitunas", "Price": 530},
+                    {"Name":"Bacon", "Price": 410},
+                    {"Name":"Langosta", "Price": 980}
+                ]
+            },
+            {
+                "Category":"Fittings(guarniciones)",
+                "Products":[
+                    {"Name":"Ensalada de estacion", "Price": 600},
+                    {"Name":"Arroz blanco", "Price": 270},
+                    {"Name":"Arroz moro", "Price": 320},
+                    {"Name":"Papas fritas", "Price": 490},
+                    {"Name":"Yuca con mojo", "Price": 300}
+                ]
+            },
+                    {
+                        "Category":"Soups and Creams",
+                        "Products":[
+                            {"Name":"Crema de queso", "Price": 410},
+                            {"Name":"Crema Aurora", "Price": 360},
+                            {"Name":"Crema Virginia", "Price": 520},
+                            {"Name":"Crema de malanga", "Price": 720},
+                            {"Name":"Crema Reina", "Price": 520},
+                            {"Name":"Crema de mariscos", "Price": 570}
+                        ]
+                    },
+                    {
+                        "Category":"Desserts",
+                        "Products":[
+                            {"Name":"Sundae de helado", "Price": 360},
+                            {"Name":"Cuna de cappuccino", "Price": 780},
+                            {"Name":"Cake a la moda", "Price": 780},
+                            {"Name":"Cuna de Tres Leches", "Price": 680},
+                            {"Name":"Flan", "Price": 400}
+                        ]
+                    },
+                    {
+                        "Category":"Coffees & Infusions",
+                        "Products":[
+                            {"Name":"Cafe Expresso", "Price": 100},
+                            {"Name":"Cafe Cortado", "Price": 150},
+                            {"Name":"Cafe bombon", "Price": 250},
+                            {"Name":"Cappuccino", "Price": 250}
+                        ]
+                    },
+                    {
+                        "Category":"Alcoholic Beverages",
+                        "Products":[
+                            {"Name":"Cerveza Corona", "Price": 500},
+                            {"Name":"Cerveza Cristal", "Price": 350},
+                            {"Name":"Red Label", "Price": 500},
+                            {"Name":"Ballantines", "Price": 400},
+                            {"Name":"Ballantines 12 anos", "Price": 700},
+                            {"Name":"Chivas Regal", "Price": 700},
+                            {"Name":"Black Label", "Price": 600},
+                            {"Name":"Jameson", "Price": 500},
+                            {"Name":"Pacto Navio", "Price": 600},
+                            {"Name":"Gin Tonic", "Price": 650},
+                            {"Name":"Cuba Libre", "Price": 650},
+                            {"Name":"Cubata", "Price": 650},
+                            {"Name":"Mojito", "Price": 650},
+                            {"Name":"Pina Colada", "Price": 800},
+                            {"Name":"Pina Colada sin alcohol", "Price": 700}
+                        ]
+                    },{
+                        "Category":"Non-Alcoholic Beverages",
+                        "Products":[
+                            {"Name":"Agua natural", "Price": 300},
+                            {"Name":"Agua gaseada", "Price": 600},
+                            {"Name":"Jugo de lata", "Price": 360},
+                            {"Name":"Malta", "Price": 320},
+                            {"Name":"Malteada", "Price": 650},
+                            {"Name":"Vaso de agua", "Price": 65},
+                            {"Name":"Refrescos variados", "Price": 300},
+                            {"Name":"Malta Bucanero", "Price": 385},
+                            {"Name":"Limonada", "Price": 550},
+                            {"Name":"Energizantes", "Price": 400}
+                        ]
+                    }
+                ],
+    "House Specialty": "false",
+    "Head Chef": "false",
+    "Price Range": "false",
+    "Place Options": {
+        "Accessible": "false",
+        "Executive Lunch": "false",
+        "Smoking Area": "true",
+        "Bar": "false",
+        "Event Buffet": "false",
+        "Wine List": "false",
+        "Air Conditioning": "false",
+        "Service Charge %": "false",
+        "Dress Code": "false",
+        "Takeaway Food": "false",
+        "Breakfast": "false",
+        "Home Delivery": "false",
+        "Reserved Space": "false",
+        "Karaoke": "false",
+        "Recorded Music": true,
+        "Playground": "false",
+        "Parking": "false",
+        "Live Performances": "false",
+        "Room Reservation": "true"
+    },
+    "State or Private": "Privado",
+    "Phone": ["76832173"],
+    "Payment Options":{
+        "Online payments":"false",
+        "Credit Card":"true",
+        "Cash":{
+        "CUP":"true",
+        "EUR":"true",
+        "USD":"true"
+    }} , 
+    "Social Media":{
+        "Facebook": "Cafe-Restaurant Tanokura",
+        "Instagram":"@restaurant_tanokura"
+    }
+}

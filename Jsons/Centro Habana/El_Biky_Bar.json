@@ -1,0 +1,243 @@
+{
+    "Name": "El Biky",
+    "Zone": "ch",
+    "Location": "Infanta Nº412 e/ San Lázaro y Concordia",
+    "Place Type": "Bar",
+    "Food Type": "Coctelería",
+    "Schedule":[
+        {"day": "monday", "open": "0800", "close": "2300"},
+        {"day": "tuesday", "open": "0800", "close": "2300"},
+        {"day": "wednesday", "open": "0800", "close": "2300"},
+        {"day": "thursday", "open": "0800", "close": "2300"},
+        {"day": "friday", "open": "0800", "close": "2300"},
+        {"day": "saturday", "open": "0800", "close": "2300"},
+        {"day": "sunday", "open": "0800", "close": "2300"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"Croqueticas de la casa","Price": 700.00},
+                {"Name":"Frituras de Malanga","Price": 500.00},
+                {"Name":"Tostones rellenos de jamón","Price": 2000.00},
+                {"Name":"Tostones rellenos de ropa vieja","Price": 2200.00},
+                {"Name":"Tostones rellenos mixtos","Price": 2200.00},
+                {"Name":"Tostones rellenos de atún","Price": 2200.00}
+            ]
+        },{
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },{
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"Bistec de Cerdo a la plancha","Price": 3500.00},
+                        {"Name":"Lomo de Cerdo Grille","Price": 3500.00},
+                        {"Name":"Masas de Cerdo Fritas","Price": 2800.00},
+                        {"Name":"Chuleta de Cerdo Frita","Price": 2300.00},
+                        {"Name":"Escalope de Cerdo","Price": 3900},
+                        {"Name":"Pollo Grille","Price": 1800},
+                        {"Name":"Gorden Blue","Price": 2400},
+                        {"Name":"Solomillo de Res","Price": 6800},
+                        {"Name":"Pulpo","Price": 5800}
+                    ]
+                },{
+                    "Fish and Seafood":[
+                        {"Name":"Filete de Pescado","Price": 3000},
+                        {"Name":"Filete de Salmón","Price": 5500},
+                        {"Name":"Zalzuela de Mariscos","Price": 6000},
+                        {"Name":"Ceviche de Pescado","Price": 2650.00},
+                        {"Name":"Esperlan de pescado","Price": 1300.00},
+                        {"Name":"Esperlan de langosta","Price": 2900.00},
+                        {"Name":"Rosa de salmón ahumado","Price": 4100.00}
+                    ]
+                },{
+                    "Tacos":[null]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },{
+            "Category":"Pasta ",
+            "Products":[
+                {"Name":"Lasaña Bolognesa","Price": 3800.00},
+                {"Name":"Espaguetis a la Carbonara","Price": 3000.00},
+                {"Name":"Espaguetis con Jamón y Queso","Price": 1250.00},
+                {"Name":"Espaguetis Napolitanos","Price": 970},
+                {"Name":"Espaguetis Bolognesa","Price": 2500.00},
+                {"Name":"Espaguetis con Atún","Price": 2400.00}
+            ]
+        },{
+            "Category":"Pizzas ",
+            "Products":[
+                {"Name":"Pizza de Queso","Price": 1300}
+            ]
+        },{
+            "Category":"Sandwich",
+            "Products":[
+                {"Name":"Sándwich de jamón en pan baguette (con viandas fritas)","Price": 700},
+                {"Name":"Sándwich de queso en pan baguette (con viandas fritas)","Price": 1400},
+                {"Name":"Sándwich de jamón y queso en pan baguette (con viandas fritas)","Price": 1200},
+                {"Name":"Baguette con lomo de cerdo (con viandas fritas)","Price": 3500.00},
+                {"Name":"Baguette de atún","Price": 1900.00},
+                {"Name":"Baguette catalana (jamón serrano con viandas fritas)","Price": 1800.00},
+                {"Name":"Baguette de pollo (pechuga de pollo con viandas fritas)","Price": 1900.00},
+                {"Name":"Baguette cubano (cerdo asado, jamón ahumado y queso)","Price": 1393.00},
+                {"Name":"Pepito de filete de res (filete de res con vegetales y viandas fritas)","Price": 5000.00}
+            ]
+        },{
+            "Category":"Additions",
+            "Products":[
+                {"Name":"Ración de Jamón","Price": 350.00},
+                {"Name":"Ración de Pimientos","Price": 250.00},
+                {"Name":"Ración de Bacón","Price": 1300.00},
+                {"Name":"Ración de Queso Gouda","Price": 750.00},
+                {"Name":"Ración de Salsa Boloñesa","Price": 1100.00},
+                {"Name":"Ración de Aceitunas","Price": 400.00},
+                {"Name":"Ración de Champiñones","Price": 400.00},
+                {"Name":"Ración de Jamón Serrano","Price": 1100.00},
+                {"Name":"Ración de Atún","Price": 1600.00},
+                {"Name":"Ración de Camarón","Price": 2150.00},
+                {"Name":"Ración de Chorizo Vela","Price": 2000.00},
+                {"Name":"Ración Queso Parmesano","Price": 950.00}
+            ]
+        },{
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                {"Name":"Ensalada de Vegetales, vegetales de estación","Price": 1000.00},
+                {"Name":"Ensalada Mixta Vegetal (Queso, atún, huevo y cebolla)","Price": 2300.00},
+                {"Name":"Ensalada Fría de Pasta (De la casa) Italiana","Price": 900.00},
+                {"Name":"Ración de Arroz Blanco","Price": 140.00},
+                {"Name":"Ración de Arroz Mongol","Price": 180.00},
+                {"Name":"Ensalada Verde","Price": 200.00},
+                {"Name":"Papas Fritas","Price": 1300.00},
+                {"Name":"Puré de Malanga","Price": 650.00}
+            ]
+        },{
+            "Category":"Soups and Creams",
+            "Products":[
+                    {"Name":"Crema de Queso","Price": 850.00},
+                    {"Name":"Crema Reina","Price": 850.00},
+                    {"Name":"Crema Aurora","Price": 850.00},
+                    {"Name":"Crema Virginia","Price": 850.00}
+            ]
+        },{
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"Flan de Caramelo","Price": 400.00},
+                {"Name":"Cheesecake","Price": 920.00},
+                {"Name":"Bizcocho con helado","Price": 720.00},
+                {"Name":"Copa Tres Leches","Price": 960.00},
+                {"Name":"Pie de Limón","Price": 1100.00},
+                {"Name":"Helado Sencillo","Price": 420.00},
+                {"Name":"Jimaguas","Price": 740.00},
+                {"Name":"Tres Gracias","Price": 680.00},
+                {"Name":"Copa Lolita (Helado con Flan)","Price": 860.00},
+                {"Name":"Ensalada de Helado","Price": 900.00},
+                {"Name":"Batido de Helado","Price": 850.00},
+                {"Name":"Suero de Helado","Price": 970.00}
+            ]
+        },{
+            "Category":"Coffees & Infusions",
+            "Products":[
+                    {"Name":"Café Expreso","Price": 170.00},
+                    {"Name":"Café Americano","Price": 170.00},
+                    {"Name":"Café Cortado","Price": 200.00},
+                    {"Name":"Café con Leche","Price": 270.00},
+                    {"Name":"Café Carajillo","Price": 400.00},
+                    {"Name":"Café Bombón","Price": 400.00},
+                    {"Name":"Capuchino","Price": 310.00},
+                    {"Name":"Té","Price": 150.00}
+            ]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"Ron Collis","Price": 750.00},
+                {"Name":"Limonada Clarete","Price": 2000.00},
+                {"Name":"Sangría","Price": 750.00},
+                {"Name":"Cuba Libre","Price": 1800.00},
+                {"Name":"Mary Pickford","Price": 750.00},
+                {"Name":"Cuba Bella","Price": 750.00},
+                {"Name":"Majto","Price": 750.00},
+                {"Name":"Daiquiri Rebelde","Price": 750.00},
+                {"Name":"Havana Special","Price": 750.00},
+                {"Name":"B-52","Price": 800.00},
+                {"Name":"Piña Colada","Price": 1000.00},
+                {"Name":"Bloody Mary","Price": 800.00},
+                {"Name":"Manhattan","Price": 900.00},
+                {"Name":"Cantharchars","Price": 750.00},
+                {"Name":"Martini","Price": 800.00},
+                {"Name":"Copa de Vino","Price": 1500.00},
+                {"Name":"Copa de vino digestivo dulce (50ml)","Price": 1200.00},
+                {"Name":"Michelada","Price": 250.00},
+                {"Name":"Chelada","Price": 200.00}
+            ]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"San Francisco","Price": 400.00},
+                {"Name":"Colada","Price": 400.00},
+                {"Name":"Miami Vice","Price": 400.00},
+                {"Name":"Virgin Maria","Price": 400.00},
+                {"Name":"47'S Frozen","Price": 400.00},
+                {"Name":"Agua Gaseosa Importada","Price": 550.00},
+                {"Name":"Agua Natural sin gas","Price": 440.00},
+                {"Name":"Agua Tónica","Price": 1000.00},
+                {"Name":"Refrescos","Price": 550.00},
+                {"Name":"Malta","Price": 650.00},
+                {"Name":"Cervezas","Price": 1200.00},
+                {"Name":"Jarra de Cerveza","Price": 400.00},
+                {"Name":"Vaso de Cerveza","Price": 350.00},
+                {"Name":"Red Bull","Price": 1200.00},
+                {"Name":"Kermato","Price": 1200.00},
+                {"Name":"Limonada","Price": 720.00},
+                {"Name":"Limonada Fresca","Price": 850.00},
+                {"Name":"Jugos de Frutas Naturales","Price": 500.00},
+                {"Name":"Batidos de Frutas Naturales","Price": 600.00},
+                {"Name":"Vaso de Leche","Price": 200.00}
+            ]
+        }
+    ],
+    "House Specialty": "Coctelería",
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": "true",
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": "true",
+        "Live Performances": false,
+        "Room Reservation": "true"
+    },
+    "State or Private": "Particular",
+    "Phone": ["(+53) 7870 6515"],
+    "Payment Options": {
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": "true",
+            "EUR": false,
+            "USD": "true"
+        }
+    },
+    "Social Media": {
+        "Facebook": false,
+        "Instagram": false
+    }
+}

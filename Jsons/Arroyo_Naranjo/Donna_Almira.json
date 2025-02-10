@@ -1,0 +1,166 @@
+{
+    "Name": "Donna Almira",
+    "Zone": "Arroyo Naranjo",
+    "Location": "Calle Finlay No.979 % Avenida de Los Pinos y Fernandez de Castro, Arroyo Naranjo",
+    "Place Type": "Restaurante",
+    "Food Type": "cubana",
+    "Schedule": [
+        {"day": "monday", "open": null, "close": null},
+        {"day": "tuesday", "open": null, "close": null},
+        {"day": "wednesday", "open": null, "close": null},
+        {"day": "thursday", "open": "12:00", "close": "23:00"},
+        {"day": "friday", "open": "12:00", "close": "23:00"},
+        {"day": "saturday", "open": "12:00", "close": "23:00"},
+        {"day": "sunday", "open": "12:00", "close": "23:00"}
+    ],
+    "Menu": [
+            {
+                "Category": "Entrants(tapas)",
+                "Products": [
+                    {"Name": "tostones rellenos", "Price": 850},
+                    {"Name": "tamal en cazuela", "Price": 785},
+                    {"Name": "vegetales rellenos", "Price": 895},
+                    {"Name": "racion de chicharrones", "Price": 300},
+                    {"Name": "aderezo donna almira", "Price": 385},
+                    {"Name": "salsa agridulce", "Price": 395},
+                    {"Name": "ensalada de chorizo", "Price": 1225},
+                    {"Name": "ceviche de pescado", "Price": 685}
+                ]
+            },
+            {
+                "Category": "Chef's Recommendation",
+                "Products":[ null]
+            },
+            {
+                "Category": "Main courses",
+                "Products": [
+                    {
+                        " Meat, Poultry and Game ": [
+                            {"Name": "bistec americano", "Price": 2430},
+                            {"Name": "nasobuco", "Price": 1860},
+                            {"Name": "bistec de higado", "Price": 1290},
+                            {"Name": "higado a la italiana", "Price": 1380},
+                            {"Name": "lomo rostizado", "Price": 2150},
+                            {"Name": "pollo donna almira", "Price": 1340},
+                            {"Name": "pollo barbacoa", "Price": 1195},
+                            {"Name": "pollo salsa agridulce", "Price": 1295},
+                            {"Name": "pollo grille", "Price": 1195},
+                            {"Name": "pollo en fricase", "Price": 1200},
+                            {"Name": "pollo a la pasa", "Price": 1220},
+                            {"Name": "pollo grille con camarones", "Price": 1375},
+                            {"Name": "cerdo enrrollado asado", "Price": 1545},
+                            {"Name": "cerdo enrollado salsa agridulce", "Price": 1570},
+                            {"Name": "cerdo enrollado glaseado", "Price": 1550},
+                            {"Name": "fricase de cerdo", "Price": 1520},
+                            {"Name": "picada a la habanera", "Price": 1290},
+                            {"Name": "ropa vieja", "Price": 1305},
+                            {"Name": "vaca frita", "Price": 1260}
+                        ]
+                    },
+                    {
+                        "Fish and Seafood": [
+                            {"Name": "mignnon de pescado grille", "Price": 1370},
+                            {"Name": "mignnon de pescado a las finas hierbas", "Price": 1410},
+                            {"Name": "mignnon de pescado donna almira", "Price": 1650},
+                            {"Name": "mignnon de pescado gratinado", "Price": 1585},
+                            {"Name": "mignnon de pescado con queso y bacon", "Price": 1720}
+                        ]
+                    },
+                    {
+                        "Tacos":[ null]
+                    }
+                ]
+            },
+            {
+                "Category": "For Your Diet",
+                "Products": [null]
+            },
+            {
+                "Category": "Pasta",
+                "Products":[ null]
+            },
+            {
+                "Category": "Pizzas",
+                "Products":[ null]
+            },
+            {
+                "Category": "Sandwich",
+                "Products":[ null]
+            },
+            {
+                "Category": "Additions",
+                "Products":[ null]
+            },
+            {
+                "Category": "Fittings(guarniciones)",
+                "Products": [
+                    {"Name": "Arroz Congris", "Price": 120},
+                    {"Name": "Ensalada Estacion", "Price": 285}
+                ]
+            },
+            {
+                "Category": "Soups and Creams",
+                "Products":[ null]
+            },
+            {
+                "Category": "Desserts",
+                "Products": [
+                    {"Name": "musse variados", "Price": 570}
+                ]
+            },
+            {
+                "Category": "Coffees & Infusions",
+                "Products": [
+                    {"Name": "cafe cubano", "Price": 150},
+                    {"Name": "cafe cortado", "Price": 180}
+                ]
+            },
+            {
+                "Category": "Alcoholic Beverages",
+                "Products": [null]
+            },
+            {
+                "Category": "Non-Alcoholic Beverages",
+                "Products": [null]
+            }
+        ],
+    "House Specialty": "",
+    "Head Chef": "",
+    "Price Range": "",
+    "Place Options": {
+        "Accessible": "",
+        "Executive Lunch": "",
+        "Smoking Area": "",
+        "Bar": "",
+        "Event Buffet": "",
+        "Wine List": "",
+        "Air Conditioning": "",
+        "Service Charge %": false,
+        "Dress Code": "",
+        "Takeaway Food": "",
+        "Breakfast": "",
+        "Home Delivery": false,
+        "Reserved Space": "",
+        "Karaoke": "",
+        "Recorded Music": "",
+        "Playground": "",
+        "Parking": "",
+        "Live Performances": "",
+        "Room Reservation":true
+    },
+    "State or Private": "privado",
+    "Phone": [""],
+    "Payment Options": {
+        "Online payments": true,
+        "Credit Card": false,
+        "Cash": {
+            "CUP":true,
+            "EUR": false,
+            "USD": false
+        }
+    },
+    "Social Media": {
+        "Facebook": "",
+        "Instagram": ""
+    }
+}

@@ -1,0 +1,206 @@
+{
+    "Name": "Entabla2",
+    "Zone": "Calixto Sanchez, Boyeros",
+    "Location": "Carretera Terminal 2, Aeropuerto Internacional J. Marti",
+    "Place Type": "Restaurant",
+    "Food Type": "Criolla",
+    "Schedule":[
+        {"day": "monday", "open": "open", "close": ""},
+        {"day": "tuesday", "open": "open", "close": ""},
+        {"day": "wednesday", "open": "open", "close": ""},
+        {"day": "thursday", "open": "open", "close": ""},
+        {"day": "friday", "open": "open", "close": ""},
+        {"day": "saturday", "open": "open", "close": ""},
+        {"day": "sunday", "open": "open", "close": ""}
+    ],
+    "Menu":[
+            {
+                "Category":"Entrants(tapas)",
+                "Products":[
+                    {"Name":"Caldo de mariscos","Price": 1200},
+                    {"Name":"Eperlan","Price": 1500},
+                    {"Name":"Frituras de malanga","Price": 350},
+                    {"Name":"Crujientes de pollo","Price": 800},
+                    {"Name":"Coctel de camarón","Price": 1150},
+                    {"Name":"Ceviche de pescado","Price": 1150},
+                    {"Name":"Coctel de langosta","Price": 1050},
+                    {"Name":"Huevo hervido","Price": 300},
+                    {"Name":"Huevos fritos","Price": 380},
+                    {"Name":"Revoltillo natural","Price": 380}
+                ]
+            },
+            {
+                "Category":"Chef's Recommendation",
+                "Products":[null]
+            },
+            {
+                "Category":"Main courses",
+                "Products":[
+                    {
+                        " Meat, Poultry and Game ": [
+                            {"Name":"Costilla Frita","Price": 2600},
+                            {"Name":"Fricase de Cerdo","Price": 2250},
+                            {"Name":"Costilla en salsa BBQ","Price": 2680},
+                            {"Name":"Bistec gratinado","Price": 2150},
+                            {"Name":"Bistec de cerdo","Price": 1850},
+                            {"Name":"Chuleta de cerdo","Price": 1950},
+                            {"Name":"Masa frita","Price": 2150},
+                            {"Name":"Chuletón de cerdo","Price": 2500},
+                            {"Name":"Super Chuletón Entabla2","Price": 3200},
+                            {"Name":"Lonja de cerdo","Price": 2150}
+                        ]
+                    },
+                    {
+                        "Fish and Seafood":[
+                            {"Name":"Langosta grille","Price": 1950},
+                            {"Name":"Langosta al ajillo","Price": 1950},
+                            {"Name":"Langosta enchilada","Price": 2250},
+                            {"Name":"Camarón enchilado","Price": 2300},
+                            {"Name":"Camarón grille","Price": 2150},
+                            {"Name":"Camarón al ajillo","Price": 2150},
+                            {"Name":"Filete de pescado al Vino","Price": 2000},
+                            {"Name":"Filete de pescado Mediterráneo","Price": 2050},
+                            {"Name":"Filete don Pedro","Price": 2900}
+                        ]
+                    },
+                    {
+                        "Tacos":[
+                            {"Name":"Tacos de cerdo","Price": 1150},
+                            {"Name":"Tacos de langosta","Price": 950}
+                        ]
+                    }
+                ]
+            },
+            {
+                "Category":"For Your Diet",
+                "Products":[null]
+            },
+            {
+                "Category":"Pasta ",
+                "Products":[null]
+            },
+            {
+                "Category":"Pizzas ",
+                "Products":[null]
+            },
+            {
+                "Category":"Sandwich",
+                "Products":[
+                    {"Name":"Pan con lechón","Price": 1100}
+                ]
+            },
+            {
+                "Category":"Additions",
+                "Products":[null]
+            },
+            {
+                "Category":"Fittings(guarniciones)",
+                "Products":[
+                    {"Name":"Vianda hervida con mojo","Price": 200},
+                    {"Name":"Arroz moro","Price": 250},
+                    {"Name":"Ensalada de vegetales","Price": 200},
+                    {"Name":"Arroz blanco","Price": 200}
+                ]
+            },
+            {
+                "Category":"Soups and Creams",
+                "Products":[null]
+            },
+            {
+                "Category":"Desserts",
+                "Products":[
+                    {"Name":"Copa de Helado","Price": 500}
+                ]
+            },
+            {
+                "Category":"Coffees & Infusions",
+                "Products":[
+                    {"Name":"Café Expreso","Price": 150},
+                    {"Name":"Café Cortadito","Price": 250},
+                    {"Name":"Café Bombón","Price": 550},
+                    {"Name":"Capuchino","Price": 400},
+                    {"Name":"Café con leche","Price": 400}
+                ]
+            },
+            {
+                "Category":"Alcoholic Beverages",
+                "Products":[
+                    {"Name":"Ron Havana Club Ajeño 3 Años","Price": 300},
+                    {"Name":"Ron Havana Club Ajeño Especial","Price": 300},
+                    {"Name":"Ginebra Gin MG","Price": 140},
+                    {"Name":"Ginebra Beefeater","Price": 240},
+                    {"Name":"Ginebra Le Tribute","Price": 490},
+                    {"Name":"Licor Sambuca Extra Molinari","Price": 200},
+                    {"Name":"Aguardiente Black Tears","Price": 150},
+                    {"Name":"Copa de Vino Blanco","Price": 450},
+                    {"Name":"Copa de Vino Tinto","Price": 450},
+                    {"Name":"Caipirisima","Price": 650},
+                    {"Name":"Cuba Libre","Price": 460},
+                    {"Name":"Sangria","Price": 650},
+                    {"Name":"Cubata","Price": 480},
+                    {"Name":"Caipirinha","Price": 550},
+                    {"Name":"Canchanchara","Price": 450},
+                    {"Name":"Caipiroska","Price": 550},
+                    {"Name":"Tinto Verano","Price": 600},
+                    {"Name":"Chelada","Price": 120},
+                    {"Name":"Cerveza Cristal","Price": 600},
+                    {"Name":"Cerveza Blue","Price": 450}
+                ]
+            },
+            {
+                "Category":"Non-Alcoholic Beverages",
+                "Products":[
+                    {"Name":"Jugos Naturales","Price": 350},
+                    {"Name":"Suero de Helado","Price": 850},
+                    {"Name":"Limonada Frape","Price": 500},
+                    {"Name":"Batido de frutas naturales","Price": 450},
+                    {"Name":"Agua 600ml Niágara","Price": 250},
+                    {"Name":"Refresco Mirinda","Price": 430},
+                    {"Name":"Malteada","Price": 430},
+                    {"Name":"Malteada","Price": 780},
+                    {"Name":"Jugo importado Fruta Fresca","Price": 300},
+                    {"Name":"Refresco Pepsi","Price": 430},
+                    {"Name":"Refresco 7up","Price": 430},
+                    {"Name":"Malta Turbo","Price": 450}
+                ]
+            }
+        ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": null,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %":false,
+        "Dress Code": false,
+        "Takeaway Food": true,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": true,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": true,
+        "Room Reservation": null
+    },
+    "State or Private": "Private",
+    "Phone": ["51744817"],
+    "Payment Options":{
+        "Online payments":false,
+        "Credit Card":false,
+        "Cash":{
+        "CUP":true,
+        "EUR":false,
+        "USD":false
+    }} , 
+    "Social Media":{
+        "Facebook": "https://www.facebook.com/profile.php?id=61558469293972",
+        "Instagram":"https://www.instagram.com/entablados.habana/"
+    }
+}

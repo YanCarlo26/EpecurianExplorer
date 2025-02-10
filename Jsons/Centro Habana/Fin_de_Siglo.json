@@ -1,0 +1,197 @@
+{
+    "Name": "Fin de Siglo",
+    "Zone": "Centro Habana",
+    "Location": "Aguila # 465, Havana",
+    "Place Type": "bar - restaurante",
+    "Food Type": "Internacional",
+    "Schedule":[
+        {"day": "monday", "open": "1000", "close": "2200"},
+        {"day": "tuesday", "open": "1000", "close": "2200"},
+        {"day": "wednesday", "open": "1000", "close": "2200"},
+        {"day": "thursday", "open": "1000", "close": "2200"},
+        {"day": "friday", "open": "1000", "close": "0300"},
+        {"day": "saturday", "open": "1000", "close": "0300"},
+        {"day": "sunday", "open": "1000", "close": "0300"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"croquetas de la casa", "Price": 700},
+                {"Name":"pollo salteado con vegetales", "Price": 800},
+                {"Name":"tabla de jamon y queso", "Price": 1200},
+                {"Name":"picadera Fin de siglo", "Price": 2500}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    "Meat, Poultry and Game":[
+                        null
+                    ]
+                },{
+                    "Fish and Seafood":[
+                        null
+                    ]
+                },{
+                    "Tacos":[
+                        null
+                    ]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Pasta",
+            "Products":[
+                {"Name":"spaghetti de queso blanco", "Price": 900},
+                {"Name":"spaghetti de queso blanco con jamon", "Price": 1000},
+                {"Name":"spaghetti de queso blanco con chorizo", "Price": 1000},
+                {"Name":"spaghetti de queso blanco con pollo", "Price": 850},
+                {"Name":"spaghetti de queso gouda", "Price": 1200},
+                {"Name":"spaghetti de queso gouda con jamon", "Price": 1400},
+                {"Name":"spaghetti de queso gouda con chorizo", "Price": 1400}
+            ]
+        },{
+            "Category":"Pizzas",
+            "Products":[
+                {"Name":"pizza de queso blanco", "Price": 800},
+                {"Name":"pizza de queso blanco con jamon", "Price": 950},
+                {"Name":"pizza de queso blanco con chorizo", "Price": 950},
+                {"Name":"pizza de queso blanco hawaiana", "Price": 1500},
+                {"Name":"pizza de queso gouda", "Price": 1200},
+                {"Name":"pizza de queso gouda con jamon", "Price": 1400},
+                {"Name":"pizza de queso gouda con chorizo", "Price": 1400},
+                {"Name":"pizza de queso gouda hawaiana", "Price": 1800}
+            ]
+        },{
+            "Category":"Sandwich",
+            "Products":[
+                null
+            ]
+        },{
+            "Category":"Additions",
+            "Products":[
+                {"Name":"queso blanco", "Price": 500},
+                {"Name":"queso gouda", "Price": 700},
+                {"Name":"jamon", "Price": 450},
+                {"Name":"pollo", "Price": 350},
+                {"Name":"piña", "Price": 550},
+                {"Name":"chorizo", "Price": 450}
+            ]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"cerveza dispensada", "Price": 400},
+                {"Name":"caipirinha", "Price": 550},
+                {"Name":"caipiríssima", "Price": 550},
+                {"Name":"caipiroska", "Price": 660},
+                {"Name":"daiquirí", "Price": 550},
+                {"Name":"daiquirí Rebelde", "Price": 550},
+                {"Name":"margarita", "Price": 990},
+                {"Name":"cubata", "Price": 550},
+                {"Name":"cuba Libre", "Price": 550},
+                {"Name":"3 Años", "Price": 385},
+                {"Name":"carta Blanca", "Price": 330},
+                {"Name":"especial", "Price": 440},
+                {"Name":"pacto Navío", "Price": 20000},
+                {"Name":"cuban spiced", "Price": 550},
+                {"Name":"ron santiago", "Price": 880},
+                {"Name":"jameson", "Price": 1100},
+                {"Name":"clan sampbell", "Price": 990},
+                {"Name":"vat 69", "Price": 990},
+                {"Name":"ballantines", "Price": 13500},
+                {"Name":"old partner", "Price": 35000},
+                {"Name":"red label", "Price": 1100},
+                {"Name":"beeffatter", "Price": 440},
+                {"Name":"jagger", "Price": 990},
+                {"Name":"tequila silver", "Price": 880},
+                {"Name":"tequila reposado", "Price": 990},
+                {"Name":"tequila chocolate", "Price": 1100},
+                {"Name":"rua vieja", "Price": 880},
+                {"Name":"amaretto", "Price": 880},
+                {"Name":"chelada", "Price": 770},
+                {"Name":"michelada", "Price": 880}
+            ]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"refresco", "Price": 300}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": true,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": true,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space":true,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": true,
+        "Room Reservation": false
+    },
+    "State or Private": false,
+    "Phone": ["59529982"],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+        "CUP": true,
+        "EUR": false,
+        "USD": true
+    }} , 
+    "Social Media":{
+        "Facebook": "Fin de Siglo",
+        "Instagram": "https://www.instagram.com/bar_restaurant_fin_de_siglo/"
+    }
+}

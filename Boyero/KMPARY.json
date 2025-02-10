@@ -1,0 +1,235 @@
+{
+    "Name": "KMPARY",
+    "Zone": "Boyeros",
+    "Location": "Calle 184, #28511, e/ 285 A y 289, Baluarte, Boyeros",
+    "Place Type": "Bar-Restaurante",
+    "Food Type": " internacional",
+    "Schedule":[
+        {"day": "monday", "open": "22:00", "close": "05:00"},
+        {"day": "tuesday", "open": "22:00", "close": "05:00"},
+        {"day": "wednesday", "open": "22:00", "close": "05:00"},
+        {"day": "thursday", "open": "22:00", "close": "05:00"},
+        {"day": "friday", "open": "22:00", "close": "05:00"},
+        {"day": "saturday", "open": "22:00", "close": "05:00"},
+        {"day": "sunday", "open": "22:00", "close": "05:00"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"Croquetas","Price": 700},
+                {"Name":"Frituras d´Malanga","Price": 500},
+                {"Name":"Fajitas d´Pollo","Price": 1020},
+                {"Name":"Fajitas d´Cerdo","Price": 1400},
+                {"Name":"Eperlan d´Pescado","Price": 1150},
+                {"Name":"Brusquetas","Price": 450},
+                {"Name":"Brusquetas d´Atún","Price": 800},
+                {"Name":"Ensalada Fria d´Jamón","Price": 690},
+                {"Name":"Ensalada Fria d´Atún","Price": 780},
+                {"Name":"Aros de Cebolla Rebosado","Price": 550},
+                {"Name":"Coctel de Camarones","Price": 1600},
+                {"Name":"Camarón Rebosado","Price": 2050},
+                {"Name":"Papas Fritas","Price": 700},
+                {"Name":"Picadera KM","Price": 2800},
+                {"Name":"Bolitas d´Queso","Price": 850},
+                {"Name":"Entremes Surtido","Price": 1150},
+                {"Name":"Maripositas Chinas","Price": 470},
+                {"Name":"Tostones Natural","Price": 550},
+                {"Name":"Tostones R/ Jamón","Price": 670},
+                {"Name":"Tostones R/ Res","Price": 780},
+                {"Name":"Tostones R/ Atún","Price": 920},
+                {"Name":"Ceviche de Peruano","Price": 1200},
+                {"Name":"Ceviche KM (Camarón y Pescado)","Price": 1700},
+                {"Name":"Finos cortes de Jamón Serrano","Price": 1700},
+                {"Name":"Carpacio de Pulpo","Price": 3000}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"Tamal De Res KM","Price": 1800},
+                        {"Name":"Bruschetta de Cerdo","Price": 2500},
+                        {"Name":"Solomillo de Cerdo","Price": 2300},
+                        {"Name":"Lonjas de Cerdo Asada","Price": 2000},
+                        {"Name":"Corte Wagyu con Queso azul","Price": 3050},
+                        {"Name":"Corte Wagyu a la Pimienta","Price": 2800},
+                        {"Name":"Corte Wagyu al Grill","Price": 2800},
+                        {"Name":"Corte Wagyu al Vino","Price": 2800},
+                        {"Name":"Entrecot","Price": 3900},
+                        {"Name":"Churrasco de Res","Price": 3850},
+                        {"Name":"ChatteuBriano","Price": 3500},
+                        {"Name":"Sirloin","Price": 3000},
+                        {"Name":"Garbanzo Frito","Price": 1550},
+                        {"Name":"Tamal en Casuela","Price": 1150},
+                        {"Name":"Tamal con Carne","Price": 1500},
+                        {"Name":"Bistec de Cerdo Encebollado","Price": 1800},
+                        {"Name":"Gordon Blue","Price": 2200},
+                        {"Name":"Uruguayo","Price": 2300},
+                        {"Name":"Bistec de Filete de Cerdo","Price": 2300},
+                        {"Name":"Solomillo de Cerdo","Price": 2300},
+                        {"Name":"Fricasé de Cerdo","Price": 1850},
+                        {"Name":"Chuleta de Cerdo","Price": 2500},
+                        {"Name":"Rollo de Filete de cerdo relleno","Price": 2800},
+                        {"Name":"Vaca Frita de Res","Price": 1950},
+                        {"Name":"Masa de Cerdo Frita","Price": 1980},
+                        {"Name":"Ropa Vieja de Res","Price": 1700},
+                        {"Name":"Bistec de Riñonada Encebollado","Price": 1800},
+                        {"Name":"Pechuga Grille Encebollada","Price": 1400},
+                        {"Name":"Pechuga al Curri","Price": 1260},
+                        {"Name":"Pechuga a la Crema c/ Chocolate","Price": 1280},
+                        {"Name":"Filete de Cerdo Salteado","Price": 1600},
+                        {"Name":"Filete de Cerdo a la Doch","Price": 1800},
+                        {"Name":"Rollo de Pechuga rellena","Price": 1850},
+                        {"Name":"Filete Jonville","Price": 2300},
+                        {"Name":"Lomo de Cerdo Ahumado","Price": 1800}
+                    ]
+                },
+                {
+                    "Fish and Seafood":[
+                        {"Name":"Cazuela de Marisco","Price": 4000},
+                        {"Name":"Mar y Tierra","Price": 5700},
+                        {"Name":"Camarón Enchilado","Price": 2300},
+                        {"Name":"Camarón al Ajillo","Price": 2300},
+                        {"Name":"Filete d´ Pescado Canciller","Price": 2200},
+                        {"Name":"Papilot de Pescado","Price": 1820},
+                        {"Name":"Filete de Pescado Grille","Price": 1390},
+                        {"Name":"Filete de Pescado","Price": 1390},
+                        {"Name":"Filete de Pescado Napado","Price": 1700},
+                        {"Name":"Rueda Pescado - Plancha","Price": 1760},
+                        {"Name":"Rueda Pescado - Ajillo","Price": 1870},
+                        {"Name":"Rueda Pescado - en salsa Criolla","Price": 1870},
+                        {"Name":"Langosta Batabano","Price": 2800},
+                        {"Name":"Langosta Grille","Price": 2300},
+                        {"Name":"Langosta Termidor","Price": 2800},
+                        {"Name":"Langosta Jonville","Price": 3400},
+                        {"Name":"Langosta Enchilada","Price": 2400}
+                    ]
+                },
+                {
+                    "Tacos":[
+                        {"Name":"Tacos de Cerdo","Price": 1300},
+                        {"Name":"Tacos de Res","Price": 1400},
+                        {"Name":"Tacos de Camarones","Price": 1800}
+                    ]
+                }
+            ]
+        },{
+        "Category":"For Your Diet",
+        "Products":[null]
+    },
+    {
+        "Category":"Pasta ",
+        "Products":[null]
+    },
+    {
+        "Category":"Pizzas ",
+        "Products":[null]
+    },
+    {
+        "Category":"Sandwich",
+        "Products":[null]
+    },
+    {
+        "Category":"Additions",
+        "Products":[null]
+    },
+    {
+        "Category":"Fittings(guarniciones)",
+        "Products":[
+            {"Name":"Arroz Blanco","Price": 170},
+            {"Name":"Arroz Moro","Price": 340},
+            {"Name":"Arroz Pilaf","Price": 380}
+        ]
+    },
+    {
+        "Category":"Soups and Creams",
+        "Products":[null]
+    },
+    {
+        "Category":"Desserts",
+        "Products":[null]
+    },
+    {
+        "Category":"Coffees & Infusions",
+        "Products":[
+            {"Name":"Café Expreso","Price": 100},
+            {"Name":"Café Cortado","Price": 130},
+            {"Name":"Café con Leche","Price": 280}
+        ]
+    },
+    {
+        "Category":"Alcoholic Beverages",
+        "Products":[
+            {"Name":"Cerveza Cristal","Price": 420},
+            {"Name":"Cerveza Blue","Price": 300},
+            {"Name":"Cerveza Sol","Price": 700},
+            {"Name":"Cerveza Corona","Price": 700},
+            {"Name":"Red Bull","Price": 700}
+        ]
+    },
+    {
+        "Category":"Non-Alcoholic Beverages",
+        "Products":[
+            {"Name":"Refresco Nacional","Price": 305},
+            {"Name":"Refresco Importado","Price": 370},
+            {"Name":"Agua Natural","Price": 250},
+            {"Name":"Agua Tonica","Price": 230},
+            {"Name":"Malta Bucanero","Price": 370},
+            {"Name":"Malta Importada","Price": 370},
+            {"Name":"Malteada","Price": 280},
+            {"Name":"Kermato","Price": 560},
+            {"Name":"Limonada","Price": 560},
+            {"Name":"Jugo de frutas","Price": 155},
+            {"Name":"Batido de Helado","Price": 830},
+            {"Name":"Jugo de caja","Price": 280},
+            {"Name":"Leche Condensada Malteada","Price": 255},
+            {"Name":"Pote de Helado 400 ml","Price": 560},
+            {"Name":"Pote de Helado 1L","Price": 930}
+        ]
+    }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": null,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": true,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": true,
+        "Dress Code":false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space":true,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private":"Private",
+    "Phone": ["52766526"],
+    "Payment Options":{
+        "Online payments":false,
+        "Credit Card":false,
+        "Cash":{
+        "CUP":true,
+        "EUR":false,
+        "USD":true
+    }} , 
+    "Social Media":{
+        "Facebook": "https://www.facebook.com/profile.php?id=100039889495120",
+        "Instagram":"@kmpary_bar_restaurant"
+    }
+}

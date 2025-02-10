@@ -1,0 +1,251 @@
+{
+    "Name": "Perla Negra",
+    "Zone": "Santos Suárez, Diez de Octubre",
+    "Location": "Milagros 114 e/ Heredia y Poey, Santos Suárez., Diez de Octubre",
+    "Place Type": "Restaurante",
+    "Food Type": "Cubana, Italiana",
+    "Schedule":[
+        {"day": "monday", "open": "1200", "close": "0300"},
+        {"day": "tuesday", "open": "1200", "close": "0300"},
+        {"day": "wednesday", "open": "1200", "close": "0300"},
+        {"day": "thursday", "open": "1200", "close": "0300"},
+        {"day": "friday", "open": "1200", "close": "0300"},
+        {"day": "saturday", "open": "1200", "close": "0300"},
+        {"day": "sunday", "open": "1200", "close": "0300"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name": "Maripositas chinas", "Price": 550},
+                {"Name": "Frituras de malanga", "Price": 650},
+                {"Name": "Toston Salazar", "Price": 750},
+                {"Name": "Croquetas de la casa", "Price": 800},
+                {"Name": "Coctel de langosta", "Price": 1850},
+                {"Name": "Coctel de camaron", "Price": 1950},
+                {"Name": "Eperlan", "Price": 1950},
+                {"Name": "Picadera Perla Negra", "Price": 2950}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    "Meat, Poultry and Game": [
+                    {"Name": "Bistec de cerdo grille", "Price": 2350},
+                    {"Name": "Uruguayo de cerdo", "Price": 2975},
+                    {"Name": "Chuletazo", "Price": 3150},
+                    {"Name": "Vaca frita", "Price": 2100},
+                    {"Name": "Ropa vieja", "Price": 2350},
+                    {"Name": "Pechuga Isla Tortuga", "Price": 2750},
+                    {"Name": "Filete de res", "Price": 5300},
+                    {"Name": "Punta de filete de res", "Price": 5300},
+                    {"Name": "Filete Mignon", "Price": 5850}
+                    ]
+                },{
+                    "Fish and Seafood":[
+                    {"Name": "Filete de escado grille", "Price": 2550},
+                    {"Name": "Kalipsus", "Price": 3100},
+                    {"Name": "Filete Canciller", "Price": 2750},
+                    {"Name": "Camaron al gusto", "Price": 2900},
+                    {"Name": "Pescado Elizabeth", "Price": 2800},
+                    {"Name": "Langosta al gusto", "Price": 3100},
+                    {"Name": "Tesoro Pirata", "Price": 4850},
+                    {"Name": "Jack Sparrow", "Price": 5950},
+                    {"Name": "Venganza de la Reina", "Price": 7150}
+                    ]
+                },{
+                    "Tacos":[
+                    {"Name": "Taco de ropa vieja", "Price": 1650},
+                    {"Name": "Taco Pastor", "Price": 1850}
+                    ]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta",
+            "Products":[
+                {"Name": "Espaghettis napolitanos", "Price": 1100}
+            ]
+        },
+        {
+            "Category":"Pizzas",
+            "Products":[
+                {"Name": "Pizza napolitana", "Price": 1550},
+                {"Name": "Pizza Kraken", "Price": 2550}
+            ]
+        },
+        {
+            "Category":"Sandwich",
+            "Products":[
+                {"Name": "Hamburguesa de cerdo", "Price": 650}
+            ]
+        },
+        {
+            "Category":"Additions",
+            "Products":[
+                {"Name": "Piña", "Price": 150},
+                {"Name": "Cebolla", "Price": 200},
+                {"Name": "Pimiento", "Price": 250},
+                {"Name": "Aceituna", "Price": 300},
+                {"Name": "Jamón", "Price": 300},
+                {"Name": "Chorizo", "Price": 300},
+                {"Name": "Champiñón", "Price": 500},
+                {"Name": "Queso Gouda", "Price": 600},
+                {"Name": "Atún", "Price": 675},
+                {"Name": "Camarón", "Price": 750},
+                {"Name": "Langosta", "Price": 950},
+                {"Name": "Huevo frito", "Price": 200}
+            ]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                {"Name": "Arroz blanco", "Price": 200},
+                {"Name": "Arroz moro", "Price": 250},
+                {"Name": "Frijol negro", "Price": 500},
+                {"Name": "Ensalada de vegetales del dia", "Price": 575},
+                {"Name": "Vianda frita", "Price": 500},
+                {"Name": "Papas fritas", "Price": 650},
+                {"Name": "Pure de malanga con tropezones de bacon", "Price": 675}
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name": "Flan de la casa", "Price": 450},
+                {"Name": "Tres Gracias", "Price": 950},
+                {"Name": "Copa Lolita", "Price": 1050},
+                {"Name": "Crepes Tortuga", "Price": 700},
+                {"Name": "Waffles Eroticos", "Price": 750}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+                {"Name": "Cafe Expresso", "Price": 150},
+                {"Name": "Cafe Cortado", "Price": 180},
+                {"Name": "Cappuccino", "Price": 250},
+                {"Name": "Cafe Bombon", "Price": 450},
+                {"Name": "Frappuccino", "Price": 550}
+            ]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name": "Refresco", "Price": 350},
+                {"Name": "Malta importada", "Price": 375},
+                {"Name": "Malta Perla Negra", "Price": 400},
+                {"Name": "Agua", "Price": 225},
+                {"Name": "Agua gaseada", "Price": 225},
+                {"Name": "Cerveza importada", "Price": 375},
+                {"Name": "Cerveza Cristal", "Price": 500},
+                {"Name": "Agua tonica", "Price": 600},
+                {"Name": "Red Bull", "Price": 650},
+                {"Name": "Kermato", "Price": 650},
+                {"Name": "Limonada Frappe", "Price": 450},
+                {"Name": "Limonada Frescura", "Price": 600},
+                {"Name": "Jugo natural", "Price": 450},
+                {"Name": "Batido de frutas", "Price": 550},
+                {"Name": "Batido de helado", "Price": 850},
+                {"Name": "Chelada", "Price": 175},
+                {"Name": "Michelada", "Price": 275},
+                {"Name": "Label 5", "Price": 750},
+                {"Name": "J&B", "Price": 875},
+                {"Name": "Jameson", "Price": 875},
+                {"Name": "Chivas Regal 12 anos", "Price": 1100},
+                {"Name": "JW Red Label", "Price": 1100},
+                {"Name": "Jaggermeister", "Price": 750},
+                {"Name": "Vodka Absolut", "Price": 650},
+                {"Name": "Vino tinto", "Price": 500},
+                {"Name": "Vino blanco", "Price": 500},
+                {"Name": "Tequila Monte de la Rosa", "Price": 550},
+                {"Name": "Tequila Olmeca Reposado", "Price": 750},
+                {"Name": "Cremas de sabores", "Price": 350},
+                {"Name": "Patty'Os", "Price": 400},
+                {"Name": "Reytor (crema)", "Price": 500},
+                {"Name": "Ruavieja (crema)", "Price": 525},
+                {"Name": "Baileys (crema)", "Price": 750},
+                {"Name": "Havana Club Profundo", "Price": 350},
+                {"Name": "Havana Club 3 anos", "Price": 375},
+                {"Name": "Ron Ritual", "Price": 425},
+                {"Name": "Havana Club Spiced", "Price": 450},
+                {"Name": "Havana Club Smoky", "Price": 475},
+                {"Name": "Havana Club 7 anos", "Price": 550},
+                {"Name": "Santiago 11 anos", "Price": 650},
+                {"Name": "Santiago 12 anos", "Price": 750},
+                {"Name": "Pacto Navio", "Price": 700},
+                {"Name": "Seleccion de Maestro", "Price": 750},
+                {"Name": "Boltran Reserva", "Price": 700},
+                {"Name": "Appleton State", "Price": 800},
+                {"Name": "Coctel Perla Negra", "Price": 1550},
+                {"Name": "Coctel Perla Rosa", "Price": 650},
+                {"Name": "Coctel Perla Blue", "Price": 650},
+                {"Name": "Mojito Perla", "Price": 850},
+                {"Name": "Pina Colada", "Price": 950},
+                {"Name": "Margarita Pirata", "Price": 800},
+                {"Name": "Margarita Reposado", "Price": 950},
+                {"Name": "Gin tonic", "Price": 1275},
+                {"Name": "Gin Collins", "Price": 700},
+                {"Name": "Ron Collins", "Price": 490},
+                {"Name": "Vodka Tonic", "Price": 750},
+                {"Name": "Daiquiri", "Price": 575},
+                {"Name": "Caipirinha", "Price": 675},
+                {"Name": "Caipiroska Absolut", "Price": 900},
+                {"Name": "Canchanchara", "Price": 950},
+                {"Name": "Sangria", "Price": 950},
+                {"Name": "Sangria Asturiana", "Price": 900}
+            ]
+        }
+    ],
+    "House Specialty": "",
+    "Head Chef": "",
+    "Price Range": "",
+    "Place Options": {
+        "Accessible": true,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": 10,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space": true,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": true
+    },
+    "State or Private": "Private",
+    "Phone": ["76494575", "59333495"],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+            "CUP": true,
+            "EUR": false,
+            "USD": true
+        }
+    },
+    "Social Media":{
+        "Facebook": false,
+        "Instagram": "@rs_perlanegra"
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "Name": "Hamburgo",
+    "Zone": "Centro Habana",
+    "Location": "23.131235737365408, -82.37630082066377",
+    "Place Type": "Restaurante",
+    "Food Type": "americana",
+    "Schedule":[
+        {"day": "monday", "open": "0900", "close": "1900"},
+        {"day": "tuesday", "open": "0900", "close": "1900"},
+        {"day": "wednesday", "open": "0900", "close": "1900"},
+        {"day": "thursday", "open": "0900", "close": "1900"},
+        {"day": "friday", "open": "0900", "close": "1900"},
+        {"day": "saturday", "open": "0900", "close": "1900"},
+        {"day": "sunday", "open": "0900", "close": "1900"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"hamburguesa de cerdo (220g)", "Price": 275},
+                        {"Name":"hamburguesa de res (220g)", "Price": 275},
+                        {"Name":"hamburguesa vegetal con aderezos (235g)", "Price": 300},
+                        {"Name":"super hamburguesa (435g)", "Price": 550}
+                    ]
+                },{
+                    "Fish and Seafood":[
+                        null
+                    ]
+                },{
+                    "Tacos":[
+                        null
+                    ]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Pasta",
+            "Products":[
+                null
+            ]
+        },{
+            "Category":"Pizzas",
+            "Products":[
+                null
+            ]
+        },{
+            "Category":"Sandwich",
+            "Products":[
+                null
+            ]
+        },{
+            "Category":"Additions",
+            "Products":[
+                {"Name":"queso gouda (50g)", "Price": 150},
+                {"Name":"jamon bravo (50g)", "Price": 120},
+                {"Name":"jamon serrano (50g)", "Price": 250},
+                {"Name":"aceitunas (50g)", "Price": 120},
+                {"Name":"vegetales encurtidos (50g)", "Price": 80},
+                {"Name":"papas fritas (50g)", "Price": 75},
+                {"Name":"papas fritas (100g)", "Price": 150}
+            ]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                null
+            ]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                null
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": true,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": false,
+    "Phone": [null],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+        "CUP": true,
+        "EUR": false,
+        "USD": true
+    }} , 
+    "Social Media":{
+        "Facebook": false,
+        "Instagram": false
+    }
+}

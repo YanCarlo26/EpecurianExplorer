@@ -1,0 +1,242 @@
+{
+    "Name": "El Lechoncito",
+    "Zone": "La Habana del Este",
+    "Location": "5VC8+58G, La Habana",
+    "Place Type": "Bar-Restaurant",
+    "Food Type": "Criolla y Italiana",
+    "Schedule":[
+        {"day": "monday", "open": "0000", "close": "2400"},
+        {"day": "tuesday", "open": "0000", "close": "2400"},
+        {"day": "wednesday", "open": "0000", "close": "2400"},
+        {"day": "thursday", "open": "0000", "close": "2400"},
+        {"day": "friday", "open": "0000", "close": "2400"},
+        {"day": "saturday", "open": "0000", "close": "2400"},
+        {"day": "sunday", "open": "0000", "close": "2400"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"Tostones Rellenos con Jamon y Queso", "Price": 950},
+                {"Name":"Tostones Rellenos con Langosta", "Price": 1300},
+                {"Name":"Tostones Rellenos con Camaron", "Price": 1300},
+                {"Name":"Frituras de Malanga", "Price": 900},
+                {"Name":"Entremes de Jamon, Queso", "Price": 900},
+                {"Name":"Croquetas Melosas", "Price": 900},
+                {"Name":"Ceviche de Pescado", "Price": 1500},
+                {"Name":"Tabla de jamon Serrano", "Price": 2700},
+                {"Name":"Picadera Lechoncito", "Price": 3000},
+                {"Name":"Coctel de Camaron", "Price": 2000},
+                {"Name":"Hamburguesa de Res", "Price": 1200}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[
+                {"Name":"Parrillada Lechoncito", "Price": 3000},
+                {"Name":"Mariscada Lechoncito", "Price": 3950},
+                {"Name":"Fajitas de Cerdo Salteada", "Price": 1700},
+                {"Name":"Filete de Res", "Price": 3900}
+            ]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [
+                        {"Name":"Lonjas de Cerdo Asado al Carbon", "Price": 1900},
+                        {"Name":"Costillas de Cerdo Criolla", "Price": 3000},
+                        {"Name":"Costillas de Cerdo BBQ", "Price": 3500},
+                        {"Name":"Bistec de Cerdo a la Criolla", "Price": 1700},
+                        {"Name":"Bistec de Cerdo Princesa", "Price": 2100},
+                        {"Name":"Lomo Ahumado", "Price": 1700}
+                    ]
+                },{
+                    "Fish and Seafood":[
+                        {"Name":"Filete de Pescado a la Maire Hotel", "Price": 1800},
+                        {"Name":"Pescado Napado con Queso", "Price": 1900},
+                        {"Name":"Pescado Entero", "Price": 2500},
+                        {"Name":"Camaron Grille", "Price": 2000},
+                        {"Name":"Camaron Enchilado", "Price": 2200},
+                        {"Name":"Langosta Enchilada o Grille", "Price": 2500}
+                    ]
+                },{
+                    "Tacos":[
+                        {"Name":"Tacos de Jamon y Queso", "Price": 1200},
+                        {"Name":"Taco de Cerdo Asado", "Price": 1900},
+                        {"Name":"Taco de Fajita de Cerdo", "Price": 1700},
+                        {"Name":"Tacos de Fajita de Pollo", "Price": 1500},
+                        {"Name":"Taco de Camaron", "Price": 1900},
+                        {"Name":"Taco de Langosta", "Price": 2000}
+                    ]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta",
+            "Products":[
+                {"Name":"Napoles", "Price": 1250},
+                {"Name":"Con Jamon", "Price": 1450},
+                {"Name":"Con Atun", "Price": 1750},
+                {"Name":"Con Camaron", "Price": 1800},
+                {"Name":"Con Langosta", "Price": 1900}
+            ]
+        },{
+            "Category":"Pizzas",
+            "Products":[
+                {"Name":"Napoles", "Price": 1250},
+                {"Name":"con Jamon", "Price": 1500},
+                {"Name":"con Atun", "Price": 1750},
+                {"Name":"con Cebolla", "Price": 1400},
+                {"Name":"con Chorizo", "Price": 1650},
+                {"Name":"Hawaiana", "Price": 1600},
+                {"Name":"Lechoncito", "Price": 1900},
+                {"Name":"Aceituna", "Price": 1500},
+                {"Name":"Diavola", "Price": 1650},
+                {"Name":"Camaron", "Price": 1950},
+                {"Name":"Langosta", "Price": 1950}
+            ]
+        },{
+            "Category":"Sandwich",
+            "Products":[
+                {"Name":"Pan con Bistec", "Price": 900},
+                {"Name":"Pan con Lechon", "Price": 900}]
+        },{
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                {"Name":"Platanito Maduro Frito", "Price": 800},
+                {"Name":"Tostones Naturales", "Price": 800},
+                {"Name":"Mariquitas de Platano", "Price": 800},
+                {"Name":"Papas Fritas", "Price": 900},
+                {"Name":"Ensalada de Vegetales", "Price": 500},
+                {"Name":"Arroz Blanco", "Price": 200},
+                {"Name":"Arroz Moro", "Price": 300}
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                {"Name":"Batidos de Helado", "Price": 950},
+                {"Name":"Copa Lolita", "Price": 800},
+                {"Name":"Copa de Helado", "Price": 600},
+                {"Name":"Malteada", "Price": 950},
+                {"Name":"Flan", "Price": 700}
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[null]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"Agua de 500 Mlts", "Price": 200},
+                {"Name":"Agua de 1500 Mlts", "Price": 350},
+                {"Name":"Jugo de cajita", "Price": 300},
+                {"Name":"Limonada Frappe", "Price": 700},
+                {"Name":"Malta Importada", "Price": 400},
+                {"Name":"Energizantes", "Price": 400},
+                {"Name":"Guarapo", "Price": 250},
+                {"Name":"Refresco Pepsi Cola", "Price": 400}
+            ]
+        },{
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"Mojito", "Price": 800},
+                {"Name":"Mojito de Fruta", "Price": 1000},
+                {"Name":"Ginc Tonic", "Price": 1500},
+                {"Name":"Cuba Libre", "Price": 900},
+                {"Name":"Cubata", "Price": 1000},
+                {"Name":"Daiquiri", "Price": 850},
+                {"Name":"Daiquiri de frutas", "Price": 1000},
+                {"Name":"Daiquiri Rebelde", "Price": 950},
+                {"Name":"Piña Colada", "Price": 850},
+                {"Name":"Piña Colada con Ron", "Price": 950},
+                {"Name":"Sangria", "Price": 950},
+                {"Name":"Caipiroshka", "Price": 1000},
+                {"Name":"Caipiroshka de frutas", "Price": 1200},
+                {"Name":"Canchanchara", "Price": 800},
+                {"Name":"Canchanchara 7 años", "Price": 1000},
+                {"Name":"Margarita", "Price": 950},
+                {"Name":"Tekila 3 Sombreros", "Price": 950},
+                {"Name":"Baileys", "Price": 950},
+                {"Name":"Margarita Blue", "Price": 1000},
+                {"Name":"Coctel Martini", "Price": 950},
+                {"Name":"Aperol Fizz", "Price": 1000},
+                {"Name":"Pantera Rosa", "Price": 950},
+                {"Name":"Agrego de Michelada", "Price": 600},
+                {"Name":"Agrego de Chelada", "Price": 500},
+                {"Name":"Havana Club Añejo Especial", "Price": 480},
+                {"Name":"Havana Club 3 años", "Price": 370},
+                {"Name":"Añejo Reserva", "Price": 500},
+                {"Name":"Havana Club 7 años", "Price": 500},
+                {"Name":"Johnnie Walker Red", "Price": 800},
+                {"Name":"Label 5", "Price": 600},
+                {"Name":"Tequila Blanco", "Price": 800},
+                {"Name":"Tequila Reposado", "Price": 900},
+                {"Name":"Copa de Vino Tinto", "Price": 700},
+                {"Name":"Copa de Vino Blanco", "Price": 700},
+                {"Name":"Old Partner", "Price": 500},
+                {"Name":"Ballantine", "Price": 800},
+                {"Name":"Cerveza Colonia", "Price": 400},
+                {"Name":"Cerveza Corona", "Price": 550},
+                {"Name":"Cerveza Cristal de Lata", "Price": 500},
+                {"Name":"Cerveza Cristal de Botella", "Price": 500},
+                {"Name":"Cerveza Puerto Santo", "Price": 400},
+                {"Name":"Cerveza dispensada (Jarra 500 ml)", "Price": 450},
+                {"Name":"Vermouth Martini & Rossi", "Price": 500},
+                {"Name":"Vermouth Cinzano", "Price": 500},
+                {"Name":"Jagermeifter", "Price": 500},
+                {"Name":"Licor Aperol/Apricot/Amerato", "Price": 700}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": true,
+        "Executive Lunch": false,
+        "Smoking Area": true,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": [null],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+        "CUP": true,
+        "EUR": true,
+        "USD": true
+    }},
+    "Social Media":{
+        "Facebook": false,
+        "Instagram": false
+    }
+}

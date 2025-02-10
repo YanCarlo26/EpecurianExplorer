@@ -1,0 +1,129 @@
+{
+    "Name": "Allegro",
+    "Zone": "Habana del Este",
+    "Location": "Paseo de la Villa, Villa Panamericana",
+    "Place Type": "Restaurant",
+    "Food Type": "Italiana",
+    "Schedule":[
+        {"day": "monday", "open": "1200", "close": "2100"},
+        {"day": "tuesday", "open": "1200", "close": "2100"},
+        {"day": "wednesday", "open": "1200", "close": "2100"},
+        {"day": "thursday", "open": "1200", "close": "2100"},
+        {"day": "friday", "open": "1200", "close": "2100"},
+        {"day": "saturday", "open": "1200", "close": "2100"},
+        {"day": "sunday", "open": "1200", "close": "2100"}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[null
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    " Meat, Poultry and Game ": [null]
+                },{
+                    "Fish and Seafood":[null]
+                },{
+                    "Tacos":[null]
+                }
+            ]
+        },{
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta",
+            "Products":[
+                {"Name":"Spaghettis napolitanos", "Price": 410},
+                {"Name":"Spaghettis de jamon", "Price": 570},
+                {"Name":"Lazagna de jamon", "Price": 550}
+            ]
+        },{
+            "Category":"Pizzas",
+            "Products":[
+                {"Name":"Pizza napolitana", "Price": 390},
+                {"Name":"Pizza de jamon", "Price": 540},
+                {"Name":"Pizza de chorizo", "Price": 588},
+                {"Name":"Pizza de bacon", "Price": 735}
+            ]
+        },{
+            "Category":"Sandwich",
+            "Products":[null]
+        },{
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[null]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[
+                {"Name":"Crema de queso", "Price": 313},
+                {"Name":"Crema Aurora", "Price": 315},
+                {"Name":"Crema Virginia", "Price": 329}
+            ]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[null]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[null]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[null]
+        },{
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[null]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": true,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "Estatal",
+    "Phone": ["7661010"],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": true,
+        "Cash":{
+        "CUP": true,
+        "EUR": false,
+        "USD": false
+    }},
+    "Social Media":{
+        "Facebook": false,
+        "Instagram": false
+    }
+}

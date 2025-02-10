@@ -1,0 +1,224 @@
+{
+    "Name": "Lacret 559",
+    "Zone": "10 de octubre",
+    "Location": "Calle Lacret #559 entre Goicuria y Mayía Rodríguez",
+    "Place Type": "Bar-Restaurante",
+    "Food Type": "Cocina creativa e Internacional",
+    "Schedule": [
+        {"day": "monday", "open": "12:00", "close": "23:00"},
+        {"day": "tuesday", "open": "12:00", "close": "23:00"},
+        {"day": "wednesday", "open": "12:00", "close": "23:00"},
+        {"day": "thursday", "open": "12:00", "close": "23:00"},
+        {"day": "friday", "open": "12:00", "close": "23:00"},
+        {"day": "saturday", "open": "12:00", "close": "23:00"},
+        {"day": "sunday", "open": "12:00", "close": "23:00"}
+    ],
+    "Menu": [
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[
+                {"Name":"Frituras de Malanga", "Price": 425},
+                {"Name":"Croquetas 559", "Price": 650},
+                {"Name":"Croquetón de Res", "Price": 1000},
+                {"Name":"Eperlán de Pescado", "Price": 700},
+                {"Name":"Carpaccio de Res", "Price": 1550},
+                {"Name":"Carpaccio de Langosta", "Price": 1500},
+                {"Name":"Carpaccio de Pulpo", "Price": 1600},
+                {"Name":"Ceviche", "Price": 950},
+                {"Name":"Piquillos rellenos del mar", "Price": 1050},
+                {"Name":"Piquillos rellenos de ropa vieja", "Price": 1550},
+                {"Name":"Papas bravas", "Price": 700},
+                {"Name":"Fajitas de pollo", "Price": 700},
+                {"Name":"Brusquetas a la parmesana", "Price": 600},
+                {"Name":"Totopitos al ajo", "Price": 400},
+                {"Name":"Totopitos picantes", "Price": 400},
+                {"Name":"Papas Fritas", "Price": 700}
+            ]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    "Meat, Poultry and Game": [
+                        {"Name":"Ropa Vieja de Res", "Price": 2025},
+                        {"Name":"Pechuga de pollo Grillé", "Price": 1975},
+                        {"Name":"Pechuga de pollo a la Gordon Blue", "Price": 2175},
+                        {"Name":"Lomo ahumado", "Price": 2175},
+                        {"Name":"Lomo importado", "Price": 2500},
+                        {"Name":"Chuleta de cerdo", "Price": 2100}
+                    ]
+                },{
+                    "Fish and Seafood":[
+                        {"Name":"Pescado Grillé", "Price": 1975},
+                        {"Name":"Pescado Enchilado", "Price": 1975},
+                        {"Name":"Pescado Canciller", "Price": 2175},
+                        {"Name":"Langosta al Gusto", "Price": 2600},
+                        {"Name":"Camarones al gusto", "Price": 2400},
+                        {"Name":"Enchilado de Cangrejo", "Price": 2400}
+                    ]
+                }
+            ]
+        },
+        {
+            "Category":"Tacos",
+            "Products":[
+                {"Name":"Tacos de Res", "Price": 1550},
+                {"Name":"Tacos de Mar", "Price": 1550},
+                {"Name":"Tacos de Cerdo", "Price": 1200},
+                {"Name":"Tacos de Pollo", "Price": 1000}
+            ]
+        },
+        {
+            "Category":"For Your Diet",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Pasta",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Pizzas",
+            "Products":[
+                {"Name":"Pizza Queso Azul", "Price": 2000},
+                {"Name":"Pizza Napolitana", "Price": 1360},
+                {"Name":"Pizza Margarita", "Price": 1400},
+                {"Name":"Pizza Parmesana", "Price": 1800},
+                {"Name":"Pizza Carbonara", "Price": 1950},
+                {"Name":"Pizza Hawaina", "Price": 1800},
+                {"Name":"Pizza Cantábrica", "Price": 1800},
+                {"Name":"Pizza Marina", "Price": 2400},
+                {"Name":"Pizza Mediterránea", "Price": 1800},
+                {"Name":"Pizza Mixta Lacret", "Price": 2700},
+                {"Name":"Pizza de Jamón", "Price": 1500},
+                {"Name":"Pizza de Chorizo", "Price": 1450},
+                {"Name":"Pizza Con Bacon", "Price": 1850},
+                {"Name":"Pizza de Cebolla", "Price": 1400},
+                {"Name":"Pizza de Pimiento", "Price": 1500},
+                {"Name":"Pizza con Vegetales", "Price": 1700},
+                {"Name":"Pizza de Champiñón", "Price": 1700},
+                {"Name":"Pizza de Atún", "Price": 2300},
+                {"Name":"Pizza de Aceituna", "Price": 1400},
+                {"Name":"Pizza con Jamón Serrano", "Price": 3000},
+                {"Name":"Pizza con Jamón Ibérico", "Price": 3400},
+                {"Name":"Pizza con Pepperoni", "Price": 2000},
+                {"Name":"Pizza Ranchera", "Price": 2500}
+            ]
+        },
+        {
+            "Category":"Sandwich",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Additions",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+                null
+            ]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"Sangría", "Price": 660},
+                {"Name":"Tinto de Verano", "Price": 660},
+                {"Name":"Calimocho", "Price": 560},
+                {"Name":"Screwdriver", "Price": 470},
+                {"Name":"Caipiroska", "Price": 570},
+                {"Name":"Caipirissima", "Price": 570},
+                {"Name":"Caipirinha", "Price": 600},
+                {"Name":"Cubata", "Price": 470},
+                {"Name":"Cuba Libre", "Price": 470},
+                {"Name":"Cubanito", "Price": 480},
+                {"Name":"Mojito", "Price": 580},
+                {"Name":"Barbados Surprise", "Price": 580},
+                {"Name":"Whiscola", "Price": 460},
+                {"Name":"Old Fashioned", "Price": 650},
+                {"Name":"Long Island", "Price": 850},
+                {"Name":"Gin Tonic", "Price": 610},
+                {"Name":"Canchánchara", "Price": 580}
+            ]
+        },
+        {
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"Limonada", "Price": 500},
+                {"Name":"Energizante", "Price": 430},
+                {"Name":"Refresco", "Price": 350},
+                {"Name":"Malta", "Price": 430},
+                {"Name":"Jugos Naturales", "Price": 300}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": 10,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space": false,
+        "Karaoke": false, 
+        "Recorded Music": false,
+        "Playground": false, 
+        "Parking": false, 
+        "Live Performances": false, 
+        "Room Reservation": true }, 
+    "State or Private": "privado",
+    "Phone": ["52906422"], 
+    "Payment Options": { 
+        "Online payments": "digital_transfer_national, usd_transfer", 
+        "Credit Card": false, 
+        "Cash": { 
+            "CUP": true,
+            "EUR": false, 
+            "USD": true 
+            } }, 
+    "Social Media": 
+    {
+        "Facebook": "https://www.facebook.com/cateringlacrett559", 
+        "Instagram": "@bar_lacret559" 
+    } 
+    }

@@ -1,0 +1,252 @@
+{
+    "Name": "Tonyzz Bar",
+    "Zone": "Centro Habana",
+    "Location": "23.13799192742151, -82.36028647833432",
+    "Place Type": "bar - restaurante",
+    "Food Type": "italiana",
+    "Schedule":[
+        {"day": "monday", "open": "1200", "close": "2400"},
+        {"day": "tuesday", "open": "1200", "close": "2400"},
+        {"day": "wednesday", "open": "1200", "close": "2400"},
+        {"day": "thursday", "open": "1200", "close": "2400"},
+        {"day": "friday", "open": "1200", "close": "2400"},
+        {"day": "saturday", "open": "1200", "close": "2400"},
+        {"day": "sunday", "open": "1200", "close": "2400"}
+    ],
+    "Menu": [
+        {
+            "Category": "Entrants(tapas)",
+            "Products": [
+                {"Name":"croquetas", "Price": 490},
+                {"Name":"fajitas de pollo", "Price": 1090},
+                {"Name":"entremés de jamón y queso", "Price": 990},
+                {"Name":"empanadas españolas (atún/pollo/queso)", "Price": 640},
+                {"Name":"papas bravas españolas", "Price": 690},
+                {"Name":"papas fritas", "Price": 690},
+                {"Name":"picadera familiar", "Price": 2690}
+            ]
+        },
+        {
+            "Category": "Chef's Recommendation",
+            "Products": [null]
+        },
+        {
+            "Category": "Main courses",
+            "Products": [
+                {
+                    "Meat, Poultry and Game": [
+                        {"Name":"escalope de cerdo", "Price": 1790},
+                        {"Name":"pollo asado", "Price": 1790},
+                        {"Name":"fricasé de pollo", "Price": 1790},
+                        {"Name":"bistec de cerdo", "Price": 1690},
+                        {"Name":"bistec uruguayo", "Price": 1990},
+                        {"Name":"pollo frito", "Price": 1690},
+                        {"Name":"ropa vieja", "Price": 1990},
+                        {"Name":"veg samosa (2 pcs)", "Price": 690},
+                        {"Name":"lankan meat roll (2 pcs)", "Price": 990},
+                        {"Name":"chicken tikka", "Price": 1290},
+                        {"Name":"traditional chicken curry", "Price": 1890},
+                        {"Name":"chicken tikka masala", "Price": 1990},
+                        {"Name":"chicken madras", "Price": 1990},
+                        {"Name":"butter chicken", "Price": 1490},
+                        {"Name":"authentic srilankan lamb curry", "Price": 1990}
+                    ]
+                },
+                {
+                    "Fish and Seafood": [
+                        {"Name":"pescado grille", "Price": 1800},
+                        {"Name":"pescado a la cubana", "Price": 1890},
+                        {"Name":"camarón enchilado", "Price": 1990},
+                        {"Name":"camarón al ajillo", "Price": 1900},
+                        {"Name":"cangrejo enchilado", "Price": 1990},
+                        {"Name":"devilled fish", "Price": 1390},
+                        {"Name":"authentic srilankan fish curry", "Price": 1990},
+                        {"Name":"rawan curry", "Price": 2190},
+                        {"Name":"crab curry", "Price": 2190}
+                    ]
+                },
+                {
+                    "Tacos": [
+                        {"Name":"tacos (pollo o atún)", "Price": 1280}]
+                }
+            ]
+        },
+        {
+            "Category": "For Your Diet",
+            "Products": [
+                {"Name":"yellow masoor dal lentil", "Price": 990},
+                {"Name":"aloo potato", "Price": 990},
+                {"Name":"pumpkin", "Price": 590},
+                {"Name":"sappati rotti", "Price": 450},
+                {"Name":"veggies combo (egg & rice, salad, popodorn)", "Price": 1790}
+            ]
+        },
+        {
+            "Category": "Pasta",
+            "Products": [
+                {"Name":"pasta napolitana", "Price": 850},
+                {"Name":"pasta arrabbiata", "Price": 890},
+                {"Name":"pasta de jamón", "Price": 1290},
+                {"Name":"pasta carbonara", "Price": 1800},
+                {"Name":"pasta al pesto", "Price": 990},
+                {"Name":"pasta de champiñón", "Price": 1290},
+                {"Name":"pasta bolonesa", "Price": 1890},
+                {"Name":"pasta de atún", "Price": 1890},
+                {"Name":"lasaña", "Price": 1990}
+            ]
+        },
+        {
+            "Category": "Pizzas",
+            "Products": [
+                {"Name":"pizza napolitana", "Price": 850},
+                {"Name":"pizza margarita", "Price": 990},
+                {"Name":"pizza de jamón", "Price": 1290},
+                {"Name":"pizza de champiñones", "Price": 1290},
+                {"Name":"pizza hawaiana", "Price": 1390},
+                {"Name":"pizza de atún y cebolla", "Price": 1990},
+                {"Name":"pizza de atún", "Price": 1890},
+                {"Name":"pizza 4 estaciones", "Price": 1590},
+                {"Name":"pizza de jamón y champiñones", "Price": 1490},
+                {"Name":"pizza de chorizo", "Price": 1350}
+            ]
+        },
+        {
+            "Category": "Sandwich",
+            "Products": [
+                {"Name":"sándwich c/ jamón", "Price": 600},
+                {"Name":"sándwich c/ queso", "Price": 600},
+                {"Name":"sándwich c/ jamón y queso", "Price": 890},
+                {"Name":"sándwich c/ huevo (frito o tortilla)", "Price": 600},
+                {"Name":"sándwich c/ atún y mayonesa", "Price": 1300},
+                {"Name":"sándwich tonyzzz", "Price": 1290}
+            ]
+        },
+        {
+            "Category": "Additions",
+            "Products": [null]
+        },
+        {
+            "Category": "Fittings(guarniciones)",
+            "Products": [null]
+        },
+        {
+            "Category": "Soups and Creams",
+            "Products": [null]
+        },
+        {
+            "Category": "Desserts",
+            "Products": [
+                {"Name":"helado (diferentes sabores)", "Price": 130}
+            ]
+        },
+        {
+            "Category": "Coffees & Infusions",
+            "Products": [
+                {"Name":"café expreso", "Price": 290},
+                {"Name":"café cortado", "Price": 300},
+                {"Name":"café con leche", "Price": 490},
+                {"Name":"cappuccino", "Price": 490},
+                {"Name":"café americano", "Price": 350}
+            ]
+        },        
+        {
+            "Category": "Alcoholic Beverages",
+            "Products": [
+                {"Name":"cerveza nacional", "Price": 300},
+                {"Name":"cerveza colonia", "Price": 220},
+                {"Name":"mojito", "Price": 890},
+                {"Name":"cuba libre", "Price": 790},
+                {"Name":"daiquirí", "Price": 790},
+                {"Name":"cubata", "Price": 790},
+                {"Name":"canchánchara", "Price": 1190},
+                {"Name":"caipiriña", "Price": 1190},
+                {"Name":"caipirísima", "Price": 1190},
+                {"Name":"caipiroska", "Price": 1190},
+                {"Name":"chelada", "Price": 490},
+                {"Name":"michelada", "Price": 850},
+                {"Name":"piña colada", "Price": 1190},
+                {"Name":"vodka tonic", "Price": 990},
+                {"Name":"sangría", "Price": 990},
+                {"Name":"gin tonic", "Price": 1190},
+                {"Name":"gin tonic (beefeter o bombay)", "Price": 1390},
+                {"Name":"jack daniel's", "Price": 1400},
+                {"Name":"chivas regal 12 años", "Price": 1200},
+                {"Name":"j.w. double black", "Price": 1800},
+                {"Name":"j.w. black label", "Price": 990}, 
+                {"Name":"j.w. red label", "Price": 990},
+                {"Name":"ballantines", "Price": 990},
+                {"Name":"clamb campbell", "Price": 890},
+                {"Name":"jameson", "Price": 790},
+                {"Name":"old partner", "Price": 350},
+                {"Name":"copa de vino tinto", "Price": 700},
+                {"Name":"copa de vino blanco", "Price": 650},
+                {"Name":"paco navio", "Price": 900},
+                {"Name":"santiago de cuba 12 años", "Price": 1200},
+                {"Name":"santiago de cuba 8 años", "Price": 790},
+                {"Name":"black tears", "Price": 400},
+                {"Name":"ritual", "Price": 600},
+                {"Name":"habana club 7 años", "Price": 790},
+                {"Name":"habana club añejo reserva", "Price": 590},
+                {"Name":"habana club especial", "Price": 500},
+                {"Name":"habana club 3 años", "Price": 490},
+                {"Name":"aguardiente", "Price": 350},
+                {"Name":"olmeca blanco", "Price": 600},
+                {"Name":"olmeca reposado", "Price": 640},
+                {"Name":"jose cuervo", "Price": 740}
+            ]
+        },
+        {
+            "Category": "Non-Alcoholic Beverages",
+            "Products": [
+                {"Name":"agua natural 500ml", "Price": 180},
+                {"Name":"agua natural 1500ml", "Price": 300},
+                {"Name":"malta", "Price": 300},
+                {"Name":"refrescos lata", "Price": 300},
+                {"Name":"refresco pomo", "Price": 300},
+                {"Name":"refresco pomo 1500ml", "Price": 300},
+                {"Name":"tigon", "Price": 300},
+                {"Name":"red bull", "Price": null},
+                {"Name":"jugos naturales", "Price": 250},
+                {"Name":"batido de helado", "Price": 510}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": true,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": true,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": false,
+    "Phone": [""],
+    "Payment Options":{
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash":{
+        "CUP": "true",
+        "EUR": false,
+        "USD": "true"
+    }} , 
+    "Social Media":{
+        "Facebook": "Tonyzz Bar",
+        "Instagram": false
+    }
+}

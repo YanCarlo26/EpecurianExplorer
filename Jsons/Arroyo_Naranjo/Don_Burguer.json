@@ -1,0 +1,181 @@
+{
+    "Name": "Don Burguer",
+    "Zone": "Arroyo Naranjo",
+    "Location": "Calzada de 10 de Octubre, entre Aranguren y Santa Isabel, La Palma, Arroyo Naranjo",
+    "Place Type": "Cafeteria",
+    "Food Type": "comida rapida",
+    "Schedule": [
+        {"day": "monday", "open": "10:00", "close": "23:00"},
+        {"day": "tuesday", "open": "10:00", "close": "23:00"},
+        {"day": "wednesday", "open": "10:00", "close": "23:00"},
+        {"day": "thursday", "open": "10:00", "close": "23:00"},
+        {"day": "friday", "open": "10:00", "close": "23:00"},
+        {"day": "saturday", "open": "10:00", "close": "23:00"},
+        {"day": "sunday", "open": "10:00", "close": "23:00"}
+    ],
+    "Menu": [
+            {
+                "Category": "Entrants(tapas)",
+                "Products": [
+                    {"Name": "ensalada fria", "Price": 580},
+                    {"Name": "aceitunas (racion)", "Price": 420},
+                    {"Name": "bolitas de queso", "Price": 640},
+                    {"Name": "frituras de malanga", "Price": 510},
+                    {"Name": "croquetas", "Price": 640},
+                    {"Name": "papitas", "Price": 640},
+                    {"Name": "fajitas de pollo", "Price": 940},
+                    {"Name": "entremes surtido", "Price": 1720},
+                    {"Name": "brusquetas", "Price": 780},
+                    {"Name": "burritos de jamon y queso", "Price": 1260}
+                ]
+            },
+            {
+                "Category": "Chef's Recommendation",
+                "Products": null
+            },
+            {
+                "Category": "Main courses",
+                "Products": [
+                    {
+                        " Meat, Poultry and Game ": null
+                    },
+                    {
+                        "Fish and Seafood": null
+                    },
+                    {
+                        "Tacos": [
+                            {"Name": "tacos de vegetales", "Price": 620},
+                            {"Name": "tacos de cerdo", "Price": 1120},
+                            {"Name": "tacos de pollo", "Price": 1120},
+                            {"Name": "tacos de res", "Price": 1280}
+                        ]
+                    }
+                ]
+            },
+            {
+                "Category": "For Your Diet",
+                "Products": null
+            },
+            {
+                "Category": "Pasta",
+                "Products": null
+            },
+            {
+                "Category": "Pizzas",
+                "Products": null
+            },
+            {
+                "Category": "Sandwich",
+                "Products": [
+                    {"Name": "hamburguesa (cerdo)", "Price": 740},
+                    {"Name": "hamburguesa (pollo)", "Price": 740},
+                    {"Name": "hamburguesa (res)", "Price": 860},
+                    {"Name": "doble hamb. (cerdo)", "Price": 1040},
+                    {"Name": "doble hamb. (pollo)", "Price": 1040},
+                    {"Name": "doble hamb. (res)", "Price": 1480},
+                    {"Name": "doble hamburguesa de cerdo(bistec de cerdo y 3 agregos / jamon vicking, queso y chorizo)", "Price": 2680},
+                    {"Name": "pan c/ bistec de cerdo", "Price": 840},
+                    {"Name": "pan c/ bistec de pollo", "Price": 810},
+                    {"Name": "pan c/ lechon", "Price": 890},
+                    {"Name": "bocadito de atun", "Price": 840},
+                    {"Name": "sandwich de jamon queso y chorizo", "Price": 890},
+                    {"Name": "sandwich cubano", "Price": 1290}
+                ]
+            },
+            {
+                "Category": "Additions",
+                "Products": [
+                    {"Name": "jamon vicking", "Price": 120},
+                    {"Name": "jamon pierna", "Price": 190},
+                    {"Name": "bacon", "Price": 190},
+                    {"Name": "queso", "Price": 150},
+                    {"Name": "chorizo", "Price": 120},
+                    {"Name": "huevo", "Price": 190},
+                    {"Name": "cebolla", "Price": 60},
+                    {"Name": "tomate", "Price": 60},
+                    {"Name": "lechuga", "Price": 30},
+                    {"Name": "pepinillo encurtido", "Price": 30},
+                    {"Name": "pinna glaseada", "Price": 80}
+                ]
+            },
+            {
+                "Category": "Fittings(guarniciones)",
+                "Products": null
+            },
+            {
+                "Category": "Soups and Creams",
+                "Products": null
+            },
+            {
+                "Category": "Desserts",
+                "Products": [
+                    {"Name": "3 gracias", "Price": 740},
+                    {"Name": "ensalada", "Price": 1080},
+                    {"Name": "suero de helado", "Price": 840},
+                    {"Name": "casquitos de guayaba", "Price": 560},
+                    {"Name": "flan", "Price": 560},
+                    {"Name": "dulce de coco", "Price": 460},
+                    {"Name": "torrejas", "Price": 680},
+                    {"Name": "dulce de fruta bomba", "Price": 460}
+                ]
+            },
+            {
+                "Category": "Coffees & Infusions",
+                "Products": null
+            },
+            {
+                "Category": "Alcoholic Beverages",
+                "Products": null
+            },
+            {
+                "Category": "Non-Alcoholic Beverages",
+                "Products": [
+                    {"Name": "agua", "Price": 150},
+                    {"Name": "refresco", "Price": 240},
+                    {"Name": "batido de frutas", "Price": 390},
+                    {"Name": "limonada frape", "Price": 380},
+                    {"Name": "limonada con hierba buena", "Price": 460},
+                    {"Name": "malta", "Price": 400}
+                ]
+            }
+        ],
+    "House Specialty": "",
+    "Head Chef": "",
+    "Price Range": "",
+    "Place Options": {
+        "Accessible": "",
+        "Executive Lunch": "",
+        "Smoking Area": "",
+        "Bar": "",
+        "Event Buffet": "",
+        "Wine List": "",
+        "Air Conditioning": "",
+        "Service Charge %": false,
+        "Dress Code": "",
+        "Takeaway Food": "",
+        "Breakfast": "",
+        "Home Delivery": false,
+        "Reserved Space": "",
+        "Karaoke": "",
+        "Recorded Music": "",
+        "Playground": "",
+        "Parking": "",
+        "Live Performances": "",
+        "Room Reservation": false
+    },
+    "State or Private": "privado",
+    "Phone": [""],
+    "Payment Options": {
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": false,
+            "USD": false
+        }
+    },
+    "Social Media": {
+        "Facebook": "Don Burguer JJ",
+        "Instagram": "@donburguercuba"
+    }
+}

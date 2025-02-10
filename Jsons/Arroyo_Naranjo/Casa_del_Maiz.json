@@ -1,0 +1,163 @@
+{
+    "Name": "Casa del Maiz",
+    "Zone": "Arroyo Naranjo",
+    "Location": "Avenida 1er anillo % Calzada de Managua y San Agustin, Arroyo Naranjo",
+    "Place Type": "Restaurante",
+    "Food Type": "cubana",
+    "Schedule": [
+        {"day": "monday", "open": "10:00", "close": "20:00"},
+        {"day": "tuesday", "open": "10:00", "close": "20:00"},
+        {"day": "wednesday", "open": "10:00", "close": "20:00"},
+        {"day": "thursday", "open": "10:00", "close": "20:00"},
+        {"day": "friday", "open": "10:00", "close": "20:00"},
+        {"day": "saturday", "open": "10:00", "close": "20:00"},
+        {"day": "sunday", "open": "10:00", "close": "20:00"}
+    ],
+    "Menu": [
+            {
+                "Category": "Entrants(tapas)",
+                "Products": [
+                    {"Name": "Fritura de Malte", "Price": 350},
+                    {"Name": "Fritura de Malanga", "Price": 450},
+                    {"Name": "Toston Relleno", "Price": 450},
+                    {"Name": "Chicharron", "Price": 500},
+                    {"Name": "Garbanzos", "Price": 550},
+                    {"Name": "Cubito de Maiz", "Price": 1070},
+                    {"Name": "Garbanzos Fritos", "Price": 450}
+                ]
+            },
+            {
+                "Category": "Chef's Recommendation",
+                "Products": null
+            },
+            {
+                "Category": "Main courses",
+                "Products": [
+                    {
+                        " Meat, Poultry and Game ": [
+                            {"Name": "Fricase de Cerdo", "Price": 1150},
+                            {"Name": "Bistec de Cerdo", "Price": 1250},
+                            {"Name": "Lomo Ahumado", "Price": 1450},
+                            {"Name": "Costilla Ahumada", "Price": 1450},
+                            {"Name": "Fajitas de Cerdo", "Price": 1150},
+                            {"Name": "Fajita de Pollo", "Price": 1150},
+                            {"Name": "Alitas de Pollo", "Price": 1050},
+                            {"Name": "Pollo en Cazuela", "Price": 1050},
+                            {"Name": "Pechuga de Pollo", "Price": 1650},
+                            {"Name": "ropa vieja", "Price": 1420},
+                            {"Name": "chilindron de carnero", "Price": 1420}
+                        ]
+                    },
+                    {
+                        "Fish and Seafood": [
+                            {"Name": "filete de Pescado", "Price": 1480},
+                            {"Name": "eperlan", "Price": 1280}
+                        ]
+                    },
+                    {
+                        "Tacos": null
+                    }
+                ]
+            },
+            {
+                "Category": "For Your Diet",
+                "Products": null
+            },
+            {
+                "Category": "Pasta",
+                "Products": null
+            },
+            {
+                "Category": "Pizzas",
+                "Products": null
+            },
+            {
+                "Category": "Sandwich",
+                "Products": null
+            },
+            {
+                "Category": "Additions",
+                "Products": null
+            },
+            {
+                "Category": "Fittings(guarniciones)",
+                "Products": [
+                    {"Name": "Arroz Salteado", "Price": 530},
+                    {"Name": "Arroz Moro", "Price": 250},
+                    {"Name": "Arroz Blanco", "Price": 180},
+                    {"Name": "Tamal Especial", "Price": 90},
+                    {"Name": "Toston Criollo", "Price": 450},
+                    {"Name": "Ensalada Mixta", "Price": 450},
+                    {"Name": "Aji Relleno", "Price": 650},
+                    {"Name": "Malanga Hervida", "Price": 425},
+                    {"Name": "Pure de Boniato", "Price": 250},
+                    {"Name": "Platano Maduro Frito", "Price": 400},
+                    {"Name": "Yuca con Mojo", "Price": 250},
+                    {"Name": "Fufu de Platano", "Price": 300}
+                ]
+            },
+            {
+                "Category": "Soups and Creams",
+                "Products": null
+            },
+            {
+                "Category": "Desserts",
+                "Products": [
+                    {"Name": "Helado Pote de 1lt", "Price": 850},
+                    {"Name": "Helado Pote Pequenno", "Price": 490},
+                    {"Name": "Arroz con Leche", "Price": 200}
+                ]
+            },
+            {
+                "Category": "Coffees & Infusions",
+                "Products": null
+            },
+            {
+                "Category": "Alcoholic Beverages",
+                "Products": null
+            },
+            {
+                "Category": "Non-Alcoholic Beverages",
+                "Products": null
+            }
+        ],
+    "House Specialty": "",
+    "Head Chef": "",
+    "Price Range": "",
+    "Place Options": {
+        "Accessible": "",
+        "Executive Lunch": "",
+        "Smoking Area": "",
+        "Bar": "",
+        "Event Buffet": "",
+        "Wine List": "",
+        "Air Conditioning": "",
+        "Service Charge %": true,
+        "Dress Code": "",
+        "Takeaway Food": "",
+        "Breakfast": "",
+        "Home Delivery": false,
+        "Reserved Space": "",
+        "Karaoke": "",
+        "Recorded Music": "",
+        "Playground": "",
+        "Parking": "",
+        "Live Performances": "",
+        "Room Reservation": false
+    },
+    "State or Private": "Private",
+    "Phone": [""],
+    "Payment Options": {
+        "Online payments": false,
+        "Credit Card": false,
+        "Cash": {
+            "CUP": "Yes",
+            "EUR": false,
+            "USD": false
+        }
+    },
+    "Social Media": {
+        "Facebook": "https://m.facebook.com/lacasadelmaizcuba/",
+        "Instagram": null
+    }
+}

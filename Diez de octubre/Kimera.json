@@ -1,0 +1,208 @@
+{
+    "Name": "Kimera",
+    "Zone": "Diez de Octubre",
+    "Location": "#311, Calle Lacret entre Juan Bruno Zallas y Cortina, Santos Suarez",
+    "Place Type": "Bar-Cafeteria",
+    "Food Type": "Internacional",
+    "Schedule": [
+        {"day": "monday", "open": "12:00", "close": "01:00"},
+        {"day": "tuesday", "open": "12:00", "close": "01:00"},
+        {"day": "wednesday", "open": "12:00", "close": "01:00"},
+        {"day": "thursday", "open": "12:00", "close": "01:00"},
+        {"day": "friday", "open": "12:00", "close": "01:00"},
+        {"day": "saturday", "open": "12:00", "close": "01:00"},
+        {"day": "sunday", "open": "12:00", "close": "01:00"}
+    ],
+    "Menu": [
+        {
+            "Category": "Entrants(tapas)",
+            "Products": [
+                {"Name": "Ensalada de vegetales", "Price": 450},
+                {"Name": "Croquetas", "Price": 500},
+                {"Name": "Frituras", "Price": 500},
+                {"Name": "Ceviche", "Price": 800},
+                {"Name": "Ensalada fría", "Price": 900},
+                {"Name": "Eperlan", "Price": 1000},
+                {"Name": "Baston de pollo", "Price": 1000},
+                {"Name": "Picadera de pollo o cerdo", "Price": 1200},
+                {"Name": "Combo Kimera", "Price": 4000},
+                {"Name": "Lasagna", "Price": 1400}
+            ]
+        },
+        {
+            "Category": "Chef's Recommendation",
+            "Products": [null]
+        },
+        {
+            "Category": "Main courses",
+            "Products": [
+                {
+                    "Meat, Poultry and Game": [
+                        {"Name": "Fajitas de pollo", "Price": 1500},
+                        {"Name": "Lonjas de cerdo", "Price": 1800},
+                        {"Name": "Estofado de cerdo", "Price": 1800},
+                        {"Name": "Ropa vieja", "Price": 2000},
+                        {"Name": "Gordon Blue", "Price": 2000},
+                        {"Name": "Uruguayo de cerdo", "Price": 2300},
+                        {"Name": "Plato Kimera", "Price": 4500}
+                    ]
+                },
+                {
+                    "Fish and Seafood": [
+                        {"Name": "Fajitas de pescado", "Price": 1500},
+                        {"Name": "Pescado entero frito", "Price": 1600},
+                        {"Name": "Rueda de pescado", "Price": 1600},
+                        {"Name": "Filete de pescado", "Price": 1800},
+                        {"Name": "Pescado Kimera", "Price": 2000},
+                        {"Name": "Canciller", "Price": 2100}
+                    ]
+                },
+                {
+                    "Tacos": [null]
+                }
+            ]
+        },
+        {
+            "Category": "For Your Diet",
+            "Products": [null]
+        },
+        {
+            "Category": "Pasta",
+            "Products": [
+                {"Name": "Espaghettis napolitano", "Price": 800},
+                {"Name": "Espaghettis de jamon", "Price": 1300},
+                {"Name": "Espaghettis Doble Queso", "Price": 1400},
+                {"Name": "Espaghettis Carbonara", "Price": 1600},
+                {"Name": "Espaghettis del mar Kimera", "Price": 2500}
+            ]
+        },
+        {
+            "Category": "Pizzas",
+            "Products": [
+                {"Name": "Pizza napolitana", "Price": 900},
+                {"Name": "Pizza de aji o cebolla", "Price": 1200},
+                {"Name": "Pizza de jamon", "Price": 1400},
+                {"Name": "Pizza Hawaiana", "Price": 1500},
+                {"Name": "Pizza de aceitunas", "Price": 1500},
+                {"Name": "Pizza de pollo", "Price": 1500},
+                {"Name": "Pizza Doble Queso", "Price": 1700},
+                {"Name": "Pizza de atun", "Price": 1800},
+                {"Name": "Pizza de cerdo", "Price": 1900},
+                {"Name": "Pizza de Ropa Vieja", "Price": 2000},
+                {"Name": "Pizza del mar Kimera", "Price": 2500}
+            ]
+        },
+        {
+            "Category": "Sandwich",
+            "Products": [null]
+        },
+        {
+            "Category": "Additions",
+            "Products": [null]
+        },
+        {
+            "Category": "Fittings(guarniciones)",
+            "Products": [null]
+        },
+        {
+            "Category": "Soups and Creams",
+            "Products": [
+                {"Name": "Crema Aurora", "Price": 500},
+                {"Name": "Crema de queso", "Price": 600},
+                {"Name": "Crema Virginia", "Price": 600},
+                {"Name": "Crema Reina", "Price": 650}
+            ]
+        },
+        {
+            "Category": "Desserts",
+            "Products": [
+                {"Name": "Helado", "Price": 320},
+                {"Name": "Flan", "Price": 350},
+                {"Name": "Tartaleta", "Price": 250}
+            ]
+        },
+        {
+            "Category": "Coffees & Infusions",
+            "Products": [
+                {"Name": "Café Expresso", "Price": 150},
+                {"Name": "Café Cortadito", "Price": 200},
+                {"Name": "Café Cappuccino", "Price": 220},
+                {"Name": "Café Bombón", "Price": 300},
+                {"Name": "Café Frappuccino", "Price": 350}
+            ]
+        },{
+            "Category": "Alcoholic Beverages",
+            "Products": [
+                {"Name": "Michelada", "Price": 300},
+                {"Name": "Cuba Libre", "Price": 500},
+                {"Name": "Mojito", "Price": 550},
+                {"Name": "Cubanito", "Price": 500},
+                {"Name": "Cubata", "Price": 550},
+                {"Name": "Destornillador", "Price": 550},
+                {"Name": "Daiquiri", "Price": 600},
+                {"Name": "Caipiroska", "Price": 600},
+                {"Name": "Caipirinha", "Price": 600},
+                {"Name": "Caipirissima", "Price": 600},
+                {"Name": "Canchanchara", "Price": 600},
+                {"Name": "Vodka Tonic", "Price": 600},
+                {"Name": "Whisky Tonic", "Price": 600},
+                {"Name": "Gin Tonic", "Price": 700},
+                {"Name": "Piña Colada", "Price": 700},
+                {"Name": "Sangría", "Price": 800},
+                {"Name": "Margarita", "Price": 900}
+            ]
+        },{
+            "Category": "Non-Alcoholic Beverages",
+            "Products": [
+                {"Name": "Agua", "Price": 250},
+                {"Name": "Refresco", "Price": 300},
+                {"Name": "Cerveza", "Price": 320},
+                {"Name": "Energizante", "Price": 400},
+                {"Name": "Malta", "Price": 400},
+                {"Name": "Malteada", "Price": 600},
+                {"Name": "Batido de frutas", "Price": 400},
+                {"Name": "Batido de helado", "Price": 500},
+                {"Name": "Jugos", "Price": 250}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": false,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": 0,
+        "Dress Code": false,
+        "Takeaway Food": false,
+        "Breakfast": false,
+        "Home Delivery": false,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": false,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation": false
+    },
+    "State or Private": "privado",
+    "Phone": ["76419083", "52667701"],
+    "Payment Options": {
+        "Online payments": "digital_transfer_national, usd_transfer",
+        "Credit Card": false,
+        "Cash": {
+            "CUP": true,
+            "EUR": false,
+            "USD": true
+        }
+    },
+    "Social Media": {
+        "Facebook": false,
+        "Instagram": "@kimera.bar.cafeteria"
+    }
+}

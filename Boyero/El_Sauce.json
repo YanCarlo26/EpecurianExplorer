@@ -1,0 +1,155 @@
+{
+    "Name": "El Sauce",
+    "Zone": "Santiago de las Vegas, Boyeros",
+    "Location": "Calle 403 % 180 & 184",
+    "Place Type": "Cafeteria",
+    "Food Type": "Pizzas",
+    "Schedule":[
+        {"day": "monday", "open": "", "close": ""},
+        {"day": "tuesday", "open": "", "close": ""},
+        {"day": "wednesday", "open": "", "close": ""},
+        {"day": "thursday", "open": "", "close": ""},
+        {"day": "friday", "open": "", "close": ""},
+        {"day": "saturday", "open": "", "close": ""},
+        {"day": "sunday", "open": "", "close": ""}
+    ],
+    "Menu":[
+        {
+            "Category":"Entrants(tapas)",
+            "Products":[null]
+        },
+        {
+            "Category":"Chef's Recommendation",
+            "Products":[null]
+        },
+        {
+            "Category":"Main courses",
+            "Products":[
+                {
+                    "Meat, Poultry and Game": [null]
+                },
+                {
+                    "Fish and Seafood":[null]
+                },
+                {
+                    "Tacos":[null]
+                }
+            ]
+        },
+        {
+            "Category":"For Your Diet",
+            "Products":[null]
+        },
+        {
+            "Category":"Pasta",
+            "Products":[
+                {"Name":"Lasagna de Jamon","Price": 900},
+                {"Name":"Canelon","Price": 700}
+            ]
+        },
+        {
+            "Category":"Pizzas",
+            "Products":[
+                {"Name":"Pizza Napole","Price": 500},
+                {"Name":"Pizza de Jamon","Price": 700},
+                {"Name":"Pizza de Chorizo","Price": 700},
+                {"Name":"Pizza de Cebolla","Price": 600},
+                {"Name":"Pizza de Pimiento","Price": 600},
+                {"Name":"Pizza Hawaiana","Price": 750},
+                {"Name":"Pizza de Bacon","Price": 750},
+                {"Name":"Pizza de Atun","Price": 800},
+                {"Name":"Pizza de Aceitunas","Price": 700},
+                {"Name":"Pizza Sauce","Price": 900}
+            ]
+        },
+        {
+            "Category":"Sandwich",
+            "Products":[
+                {"Name":"Hamburguesa Simple","Price": 400},
+                {"Name":"Hamburguesa con Jamon","Price": 500},
+                {"Name":"Hamburguesa con Queso","Price": 550},
+                {"Name":"Hamburguesa con Bacon","Price": 550},
+                {"Name":"Hamburguesa con Jamon y Queso","Price": 600},
+                {"Name":"Hamburguesa Sauce","Price": 850},
+                {"Name":"Bocadito de Jamon","Price": 200},
+                {"Name":"Bocadito de Queso","Price": 250},
+                {"Name":"Bocadito de Jamon y Queso","Price": 300}
+            ]
+        },
+        {
+            "Category":"Additions",
+            "Products":[null]
+        },
+        {
+            "Category":"Fittings(guarniciones)",
+            "Products":[null]
+        },
+        {
+            "Category":"Soups and Creams",
+            "Products":[null]
+        },
+        {
+            "Category":"Desserts",
+            "Products":[null]
+        },
+        {
+            "Category":"Coffees & Infusions",
+            "Products":[
+                {"Name":"Café Expreso","Price": 100},
+                {"Name":"Cortadito","Price": 150}
+            ]
+        },
+        {
+            "Category":"Alcoholic Beverages",
+            "Products":[
+                {"Name":"Cerveza","Price": 280}
+            ]
+        },
+        {
+            "Category":"Non-Alcoholic Beverages",
+            "Products":[
+                {"Name":"Refresco","Price": 220},
+                {"Name":"Malta","Price": 250},
+                {"Name":"Suero de Helado","Price": 550}
+            ]
+        }
+    ],
+    "House Specialty": false,
+    "Head Chef": false,
+    "Price Range": null,
+    "Place Options": {
+        "Accessible": false,
+        "Executive Lunch": false,
+        "Smoking Area": false,
+        "Bar": false,
+        "Event Buffet": false,
+        "Wine List": false,
+        "Air Conditioning": false,
+        "Service Charge %": false,
+        "Dress Code": false,
+        "Takeaway Food": true,
+        "Breakfast": false,
+        "Home Delivery": true,
+        "Reserved Space": false,
+        "Karaoke": false,
+        "Recorded Music": true,
+        "Playground": false,
+        "Parking": false,
+        "Live Performances": false,
+        "Room Reservation":false
+    },
+    "State or Private":"Private",
+    "Phone": ["76833543"],
+    "Payment Options":{
+        "Online payments":false,
+        "Credit Card":false,
+        "Cash":{
+        "CUP":true,
+        "EUR":false,
+        "USD":false
+    }} , 
+    "Social Media":{
+        "Facebook": false,
+        "Instagram":false
+    }
+}
